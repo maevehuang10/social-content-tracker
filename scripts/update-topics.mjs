@@ -3,8 +3,7 @@ import { readFile, writeFile } from "node:fs/promises";
 const SOURCES = [
   { name: "CNX Software", url: "https://www.cnx-software.com/feed/" },
   { name: "IoT Now", url: "https://iot-now.com/feed/" },
-  { name: "IoT Tech News", url: "https://iottechnews.com/feed/" },
-  { name: "Semtech", url: "https://www.semtech.com/rss" }
+  { name: "IoT Tech News", url: "https://iottechnews.com/feed/" }
 ];
 
 const MAX_TOPICS = 24;
