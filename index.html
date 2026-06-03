@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Social Content Tracker</title>
+  <style>
+    :root {
+      --bg: #080b10;
+      --panel: #101620;
+      --panel-soft: #141d2a;
+      --line: #263241;
+      --text: #eef3f8;
+      --muted: #8f9aaa;
+      --weak: #5f6b79;
+      --green: #10d6b0;
+      --blue: #60a5fa;
+      --amber: #f2b84b;
+      --danger: #fb7185;
+      --radius: 8px;
+      --shadow: 0 18px 50px rgba(0, 0, 0, 0.35);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        linear-gradient(180deg, rgba(16, 214, 176, 0.06), transparent 320px),
+        radial-gradient(circle at top right, rgba(96, 165, 250, 0.12), transparent 360px),
+        var(--bg);
+      color: var(--text);
+      font-family: "PingFang SC", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    button,
+    input,
+    select,
+    textarea {
+      font: inherit;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .app {
+      width: min(1180px, 100%);
+      margin: 0 auto;
+      padding: 18px;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      margin: -18px -18px 18px;
+      padding: 12px 18px;
+      background: rgba(8, 11, 16, 0.86);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+      backdrop-filter: blur(18px);
+    }
+
+    .topbar-inner {
+      width: min(1180px, 100%);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .brand-mark {
+      width: 11px;
+      height: 11px;
+      border-radius: 999px;
+      background: var(--green);
+      box-shadow: 0 0 22px rgba(16, 214, 176, 0.85);
+      flex: 0 0 auto;
+    }
+
+    .brand-title {
+      margin: 0;
+      font-size: 16px;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+    }
+
+    .brand-subtitle {
+      margin: 2px 0 0;
+      color: var(--weak);
+      font-size: 12px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .top-actions {
+      display: flex;
+      gap: 8px;
+      flex: 0 0 auto;
+    }
+
+    .btn {
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text);
+      border-radius: 6px;
+      min-height: 36px;
+      padding: 8px 12px;
+      transition: border-color 0.18s, background 0.18s, color 0.18s;
+    }
+
+    .btn:hover {
+      border-color: rgba(16, 214, 176, 0.45);
+      color: var(--green);
+      background: rgba(16, 214, 176, 0.08);
+    }
+
+    .btn-primary {
+      border-color: rgba(16, 214, 176, 0.42);
+      background: rgba(16, 214, 176, 0.13);
+      color: var(--green);
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 18px;
+      align-items: start;
+    }
+
+    .panel {
+      background: rgba(16, 22, 32, 0.88);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .filters {
+      position: sticky;
+      top: 76px;
+      padding: 16px;
+    }
+
+    .section-title {
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .field {
+      margin-bottom: 14px;
+    }
+
+    .field label {
+      display: block;
+      margin-bottom: 7px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .input,
+    .select {
+      width: 100%;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 6px;
+      background: rgba(8, 11, 16, 0.64);
+      color: var(--text);
+      min-height: 40px;
+      padding: 9px 11px;
+      outline: none;
+    }
+
+    .input:focus,
+    .select:focus {
+      border-color: rgba(16, 214, 176, 0.55);
+      box-shadow: 0 0 0 3px rgba(16, 214, 176, 0.12);
+    }
+
+    .chip-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+    }
+
+    .chip {
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.035);
+      color: var(--muted);
+      padding: 7px 10px;
+      font-size: 12px;
+    }
+
+    .chip.active {
+      border-color: rgba(16, 214, 176, 0.52);
+      background: rgba(16, 214, 176, 0.11);
+      color: var(--green);
+    }
+
+    .main {
+      min-width: 0;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+
+    .stat {
+      padding: 14px;
+    }
+
+    .stat strong {
+      display: block;
+      color: var(--green);
+      font-size: 25px;
+      line-height: 1;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 6px;
+      color: var(--weak);
+      font-size: 12px;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 14px;
+      padding: 12px 14px;
+    }
+
+    .result-title {
+      margin: 0;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .cards {
+      display: grid;
+      gap: 12px;
+    }
+
+    .card {
+      padding: 16px;
+      overflow: hidden;
+    }
+
+    .card-head {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .source {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+      color: var(--weak);
+      font-size: 12px;
+    }
+
+    .dot {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 10px rgba(16, 214, 176, 0.7);
+    }
+
+    .score {
+      flex: 0 0 auto;
+      min-width: 44px;
+      border: 1px solid rgba(242, 184, 75, 0.3);
+      border-radius: 6px;
+      color: var(--amber);
+      background: rgba(242, 184, 75, 0.08);
+      text-align: center;
+      padding: 7px 8px;
+      font-weight: 700;
+    }
+
+    .card h2 {
+      margin: 0;
+      font-size: 17px;
+      line-height: 1.45;
+    }
+
+    .value {
+      margin: 10px 0 12px;
+      color: #b8c0ca;
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    .meta-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .tag-list,
+    .platform-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .tag,
+    .platform {
+      border-radius: 999px;
+      padding: 4px 8px;
+      font-size: 11px;
+    }
+
+    .tag {
+      border: 1px solid rgba(96, 165, 250, 0.24);
+      color: #9cc8ff;
+      background: rgba(96, 165, 250, 0.08);
+    }
+
+    .platform {
+      border: 1px solid rgba(16, 214, 176, 0.22);
+      color: var(--green);
+      background: rgba(16, 214, 176, 0.07);
+    }
+
+    .card-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .small-btn {
+      min-height: 31px;
+      padding: 6px 9px;
+      font-size: 12px;
+    }
+
+    .draft {
+      display: none;
+      margin-top: 14px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      padding-top: 14px;
+    }
+
+    .card.open .draft {
+      display: block;
+    }
+
+    .draft-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .draft-box {
+      background: rgba(8, 11, 16, 0.58);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 6px;
+      padding: 12px;
+    }
+
+    .draft-box h3 {
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 12px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .draft-box p {
+      margin: 0;
+      color: #d8dee7;
+      font-size: 13px;
+      line-height: 1.75;
+      white-space: pre-line;
+    }
+
+    .empty {
+      display: none;
+      padding: 40px 18px;
+      text-align: center;
+      color: var(--muted);
+    }
+
+    .empty.show {
+      display: block;
+    }
+
+    .toast {
+      position: fixed;
+      left: 50%;
+      bottom: 18px;
+      transform: translateX(-50%) translateY(20px);
+      opacity: 0;
+      pointer-events: none;
+      border: 1px solid rgba(16, 214, 176, 0.35);
+      border-radius: 999px;
+      background: rgba(8, 11, 16, 0.92);
+      color: var(--green);
+      padding: 10px 14px;
+      box-shadow: var(--shadow);
+      transition: opacity 0.2s, transform 0.2s;
+      font-size: 13px;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    @media (max-width: 860px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .filters {
+        position: static;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .app {
+        padding: 12px;
+      }
+
+      .topbar {
+        margin: -12px -12px 12px;
+        padding: 10px 12px;
+      }
+
+      .brand-title {
+        font-size: 14px;
+      }
+
+      .brand-subtitle {
+        max-width: 190px;
+      }
+
+      .top-actions .btn {
+        padding: 7px 9px;
+        font-size: 12px;
+      }
+
+      .summary {
+        grid-template-columns: 1fr;
+      }
+
+      .toolbar {
+        align-items: stretch;
+        flex-direction: column;
+      }
+
+      .card-head {
+        align-items: stretch;
+        flex-direction: column;
+      }
+
+      .score {
+        width: max-content;
+      }
+
+      .draft-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark"></span>
+        <div>
+          <h1 class="brand-title">SOCIAL CONTENT TRACKER</h1>
+          <p class="brand-subtitle">Ai-Thinker overseas social content tracker</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <button class="btn" id="resetBtn" type="button">重置</button>
+        <button class="btn btn-primary" id="exportBtn" type="button">导出</button>
+      </div>
+    </div>
+  </div>
+
+  <main class="app">
+    <div class="layout">
+      <aside class="panel filters">
+        <p class="section-title">Filters</p>
+
+        <div class="field">
+          <label for="searchInput">搜索标题、产品、场景</label>
+          <input class="input" id="searchInput" type="search" placeholder="ESP32, LoRa, smart home...">
+        </div>
+
+        <div class="field">
+          <label for="productSelect">产品线</label>
+          <select class="select" id="productSelect">
+            <option value="all">全部产品线</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="sortSelect">排序</label>
+          <select class="select" id="sortSelect">
+            <option value="score">推荐分数优先</option>
+            <option value="date">最新优先</option>
+            <option value="platforms">平台数量优先</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>发布平台</label>
+          <div class="chip-group" id="platformFilters"></div>
+        </div>
+
+        <div class="field">
+          <label>内容形式</label>
+          <div class="chip-group" id="formatFilters"></div>
+        </div>
+      </aside>
+
+      <section class="main">
+        <div class="summary">
+          <div class="panel stat">
+            <strong id="totalCount">0</strong>
+            <span>当前选题</span>
+          </div>
+          <div class="panel stat">
+            <strong id="topScore">0</strong>
+            <span>最高推荐分</span>
+          </div>
+          <div class="panel stat">
+            <strong id="productCount">0</strong>
+            <span>覆盖产品线</span>
+          </div>
+        </div>
+
+        <div class="panel toolbar">
+          <p class="result-title" id="resultTitle">正在加载选题</p>
+          <button class="btn small-btn" id="addExampleBtn" type="button">添加示例选题</button>
+        </div>
+
+        <div class="cards" id="cards"></div>
+        <div class="panel empty" id="emptyState">没有匹配的选题，换一个关键词或筛选条件试试。</div>
+      </section>
+    </div>
+  </main>
+
+  <div class="toast" id="toast">已复制</div>
+
+  <script>
+    const topics = [
+      {
+        title: "Wi-Fi HaLow modules are becoming practical for long-range IoT",
+        source: "CNX Software",
+        date: "2026-06-03",
+        product: "WiFi Module",
+        score: 92,
+        formats: ["LinkedIn Post", "Short Video", "Sales Material"],
+        platforms: ["LinkedIn", "Facebook", "YouTube"],
+        tags: ["WiFi", "Long-range IoT", "Smart Agriculture"],
+        value: "Suitable for explaining how low-power, long-range Wi-Fi can support farms, warehouses, meters, and industrial sensors.",
+        hook: "Long-range IoT does not always need cellular.",
+        post: "Wi-Fi HaLow is gaining attention for IoT devices that need longer range and lower power than traditional Wi-Fi.\n\nFor applications such as smart agriculture, industrial monitoring, and remote sensors, module selection is not only about speed. Range, power consumption, deployment cost, and ecosystem support matter just as much.\n\nAi-Thinker teams can use this topic to discuss practical wireless choices for real IoT projects."
+      },
+      {
+        title: "Matter adoption gives smart home brands a clearer module story",
+        source: "CSA / Matter",
+        date: "2026-06-02",
+        product: "ESP32 / WiFi Module",
+        score: 88,
+        formats: ["LinkedIn Post", "Carousel", "Sales Material"],
+        platforms: ["LinkedIn", "Facebook"],
+        tags: ["Matter", "Smart Home", "Interoperability"],
+        value: "Good for B2B smart home customers who care about compatibility, ecosystem readiness, and faster product development.",
+        hook: "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+        post: "Matter continues to shape the smart home market by making interoperability easier for brands and end users.\n\nFor device makers, the module conversation is becoming more strategic: stable connectivity, certification readiness, development support, and ecosystem compatibility all influence product timelines.\n\nThis is a useful topic for explaining how wireless modules help smart home brands reduce integration risk."
+      },
+      {
+        title: "LoRaWAN roadmap highlights long-term opportunities for low-power networks",
+        source: "LoRa Alliance",
+        date: "2026-06-01",
+        product: "LoRa Module",
+        score: 95,
+        formats: ["LinkedIn Post", "Short Video", "Industry Brief"],
+        platforms: ["LinkedIn", "YouTube", "TikTok"],
+        tags: ["LoRa", "LPWAN", "Smart City"],
+        value: "Useful for positioning LoRa modules in smart city, utility metering, asset tracking, and industrial monitoring scenarios.",
+        hook: "Some IoT projects need years of battery life, not more bandwidth.",
+        post: "LoRaWAN remains important for IoT projects where long range, low power, and deployment cost are the main priorities.\n\nFor smart cities, utilities, logistics, and industrial sites, LPWAN technology can support large-scale sensor networks without relying on high-bandwidth infrastructure.\n\nThis topic is strong for content that explains why different IoT applications need different wireless technologies."
+      },
+      {
+        title: "Bluetooth channel sounding brings more accurate distance awareness",
+        source: "Bluetooth SIG",
+        date: "2026-06-01",
+        product: "BLE Module",
+        score: 90,
+        formats: ["Carousel", "LinkedIn Post", "Short Video"],
+        platforms: ["LinkedIn", "Facebook", "TikTok"],
+        tags: ["BLE", "Positioning", "Bluetooth 6.0"],
+        value: "Can be turned into educational content about indoor positioning, access control, asset tracking, and proximity detection.",
+        hook: "Bluetooth is moving beyond simple proximity.",
+        post: "Bluetooth channel sounding is making distance awareness more accurate for connected devices.\n\nThis matters for applications such as indoor positioning, asset tracking, secure access, and proximity-based automation.\n\nFor IoT teams, it is a reminder that BLE modules are not only about basic wireless communication. They can also support smarter interaction between devices and their environment."
+      },
+      {
+        title: "Radar sensing enables privacy-friendly elderly care and presence detection",
+        source: "Ai-Thinker",
+        date: "2026-06-01",
+        product: "Radar Sensor",
+        score: 96,
+        formats: ["Short Video", "Carousel", "Product Page"],
+        platforms: ["LinkedIn", "Facebook", "TikTok", "YouTube"],
+        tags: ["Radar", "Elderly Care", "Presence Detection"],
+        value: "Very suitable for Ai-Thinker product storytelling because it connects hardware capability with a concrete human-centered scenario.",
+        hook: "Not every safety solution needs a camera.",
+        post: "Millimeter-wave radar sensing can help detect human presence and movement without using a camera.\n\nFor elderly care, smart bathrooms, bedrooms, and security systems, this creates a privacy-friendly way to support automation and safety alerts.\n\nThis is a strong product story because the value is easy to understand: reliable sensing, less privacy concern, and practical deployment in real spaces."
+      },
+      {
+        title: "UWB modules support precise positioning for logistics and smart factories",
+        source: "Industry News",
+        date: "2026-05-30",
+        product: "UWB Module",
+        score: 84,
+        formats: ["LinkedIn Post", "Sales Material"],
+        platforms: ["LinkedIn", "Facebook"],
+        tags: ["UWB", "RTLS", "Factory"],
+        value: "Useful for B2B content aimed at factories, warehouses, asset tracking providers, and system integrators.",
+        hook: "When meter-level location is not enough, UWB becomes interesting.",
+        post: "UWB technology is valuable in IoT systems that need precise positioning, especially in warehouses, factories, and high-value asset tracking.\n\nCompared with general proximity detection, UWB can support more accurate real-time location use cases.\n\nFor module buyers, the key question is not only accuracy, but also integration effort, antenna design, cost, and deployment environment."
+      }
+    ];
+
+    const state = {
+      platform: "all",
+      format: "all"
+    };
+
+    const cardsEl = document.getElementById("cards");
+    const searchInput = document.getElementById("searchInput");
+    const productSelect = document.getElementById("productSelect");
+    const sortSelect = document.getElementById("sortSelect");
+    const resultTitle = document.getElementById("resultTitle");
+    const totalCount = document.getElementById("totalCount");
+    const topScore = document.getElementById("topScore");
+    const productCount = document.getElementById("productCount");
+    const emptyState = document.getElementById("emptyState");
+    const toast = document.getElementById("toast");
+
+    function uniqueValues(key) {
+      const values = topics.flatMap(item => Array.isArray(item[key]) ? item[key] : [item[key]]);
+      return [...new Set(values)].sort();
+    }
+
+    function fillSelect() {
+      productSelect.innerHTML = '<option value="all">全部产品线</option>';
+      uniqueValues("product").forEach(product => {
+        const option = document.createElement("option");
+        option.value = product;
+        option.textContent = product;
+        productSelect.appendChild(option);
+      });
+    }
+
+    function makeChips(containerId, values, stateKey) {
+      const container = document.getElementById(containerId);
+      container.innerHTML = "";
+      ["all", ...values].forEach(value => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "chip" + (state[stateKey] === value ? " active" : "");
+        button.textContent = value === "all" ? "全部" : value;
+        button.addEventListener("click", () => {
+          state[stateKey] = value;
+          renderChips();
+          renderCards();
+        });
+        container.appendChild(button);
+      });
+    }
+
+    function renderChips() {
+      makeChips("platformFilters", uniqueValues("platforms"), "platform");
+      makeChips("formatFilters", uniqueValues("formats"), "format");
+    }
+
+    function matchesTopic(topic) {
+      const keyword = searchInput.value.trim().toLowerCase();
+      const text = [
+        topic.title,
+        topic.source,
+        topic.product,
+        topic.value,
+        topic.hook,
+        topic.tags.join(" ")
+      ].join(" ").toLowerCase();
+
+      if (keyword && !text.includes(keyword)) return false;
+      if (productSelect.value !== "all" && topic.product !== productSelect.value) return false;
+      if (state.platform !== "all" && !topic.platforms.includes(state.platform)) return false;
+      if (state.format !== "all" && !topic.formats.includes(state.format)) return false;
+      return true;
+    }
+
+    function sortTopics(list) {
+      const mode = sortSelect.value;
+      return [...list].sort((a, b) => {
+        if (mode === "date") return new Date(b.date) - new Date(a.date);
+        if (mode === "platforms") return b.platforms.length - a.platforms.length;
+        return b.score - a.score;
+      });
+    }
+
+    function escapeHtml(text) {
+      return text
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function topicToText(topic) {
+      return `${topic.title}\n\nHook: ${topic.hook}\n\n${topic.post}\n\nProduct: ${topic.product}\nTags: ${topic.tags.join(", ")}\nPlatforms: ${topic.platforms.join(", ")}`;
+    }
+
+    async function copyTopic(index) {
+      const topic = topics[index];
+      await navigator.clipboard.writeText(topicToText(topic));
+      showToast("已复制英文草稿");
+    }
+
+    function showToast(text) {
+      toast.textContent = text;
+      toast.classList.add("show");
+      window.setTimeout(() => toast.classList.remove("show"), 1600);
+    }
+
+    function renderCards() {
+      const filtered = sortTopics(topics.filter(matchesTopic));
+      cardsEl.innerHTML = "";
+      emptyState.classList.toggle("show", filtered.length === 0);
+
+      totalCount.textContent = filtered.length;
+      topScore.textContent = filtered.length ? Math.max(...filtered.map(item => item.score)) : 0;
+      productCount.textContent = new Set(filtered.map(item => item.product)).size;
+      resultTitle.textContent = `找到 ${filtered.length} 个可用选题`;
+
+      filtered.forEach(topic => {
+        const index = topics.indexOf(topic);
+        const card = document.createElement("article");
+        card.className = "panel card";
+        card.innerHTML = `
+          <div class="card-head">
+            <div>
+              <div class="source">
+                <span class="dot"></span>
+                <span>${escapeHtml(topic.source)}</span>
+                <span>${escapeHtml(topic.date)}</span>
+                <span>${escapeHtml(topic.product)}</span>
+              </div>
+              <h2>${escapeHtml(topic.title)}</h2>
+            </div>
+            <div class="score">${topic.score}</div>
+          </div>
+          <p class="value">${escapeHtml(topic.value)}</p>
+          <div class="meta-row">
+            <div>
+              <div class="tag-list">${topic.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>
+              <div class="platform-list" style="margin-top:8px">${topic.platforms.map(platform => `<span class="platform">${escapeHtml(platform)}</span>`).join("")}</div>
+            </div>
+            <div class="card-actions">
+              <button class="btn small-btn" type="button" data-action="toggle">草稿</button>
+              <button class="btn small-btn btn-primary" type="button" data-action="copy">复制</button>
+            </div>
+          </div>
+          <div class="draft">
+            <div class="draft-grid">
+              <div class="draft-box">
+                <h3>Hook</h3>
+                <p>${escapeHtml(topic.hook)}</p>
+              </div>
+              <div class="draft-box">
+                <h3>English Post Draft</h3>
+                <p>${escapeHtml(topic.post)}</p>
+              </div>
+            </div>
+          </div>
+        `;
+
+        card.querySelector('[data-action="toggle"]').addEventListener("click", () => {
+          card.classList.toggle("open");
+        });
+        card.querySelector('[data-action="copy"]').addEventListener("click", () => copyTopic(index));
+        cardsEl.appendChild(card);
+      });
+    }
+
+    function exportTopics() {
+      const text = topics.map(topicToText).join("\n\n---\n\n");
+      const blob = new Blob([text], { type: "text/plain;charset=utf-8" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "maeve-content-radar.txt";
+      link.click();
+      URL.revokeObjectURL(link.href);
+    }
+
+    function resetFilters() {
+      searchInput.value = "";
+      productSelect.value = "all";
+      sortSelect.value = "score";
+      state.platform = "all";
+      state.format = "all";
+      renderChips();
+      renderCards();
+    }
+
+    function addExampleTopic() {
+      topics.unshift({
+        title: "New ESP32 module idea for smart control panels",
+        source: "Manual Input",
+        date: new Date().toISOString().slice(0, 10),
+        product: "ESP32 Module",
+        score: 80,
+        formats: ["LinkedIn Post", "Carousel"],
+        platforms: ["LinkedIn", "Facebook"],
+        tags: ["ESP32", "Control Panel", "Smart Device"],
+        value: "A placeholder topic Maeve can edit into a real product story after collecting source material.",
+        hook: "A good control panel is not only a screen. It is the interface between users and connected devices.",
+        post: "ESP32-based modules can help developers build compact, connected control panels for smart devices.\n\nFor brands working on home automation, industrial control, or connected appliances, the right wireless module can simplify development and improve product reliability.\n\nThis draft can be adapted once product details and target customers are confirmed."
+      });
+      fillSelect();
+      resetFilters();
+      showToast("已添加示例选题");
+    }
+
+    searchInput.addEventListener("input", renderCards);
+    productSelect.addEventListener("change", renderCards);
+    sortSelect.addEventListener("change", renderCards);
+    document.getElementById("resetBtn").addEventListener("click", resetFilters);
+    document.getElementById("exportBtn").addEventListener("click", exportTopics);
+    document.getElementById("addExampleBtn").addEventListener("click", addExampleTopic);
+
+    fillSelect();
+    renderChips();
+    renderCards();
+  </script>
+</body>
+</html>
