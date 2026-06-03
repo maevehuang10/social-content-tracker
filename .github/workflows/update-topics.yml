@@ -1,0 +1,31 @@
+name: Update topics
+
+on:
+  schedule:
+    - cron: "10 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-topics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate topics
+        run: node scripts/update-topics.mjs
+
+      - name: Commit updated topics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update social content topics"
+          file_pattern: topics.json

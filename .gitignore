@@ -1,3 +1,8 @@
 *
 !index.html
 !.gitignore
+!topics.json
+!scripts/
+!scripts/**
+!.github/
+!.github/**
