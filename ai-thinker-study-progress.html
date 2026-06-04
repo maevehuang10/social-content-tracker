@@ -526,7 +526,7 @@
       </div>
       <div class="top-actions">
         <a class="btn" href="index.html">Back to Tracker</a>
-        <a class="btn btn-primary" id="sourceLink" href="#" target="_blank" rel="noopener">Open Latest Doc</a>
+        <a class="btn btn-primary" id="sourceLink" href="https://docs.ai-thinker.com/" target="_blank" rel="noopener">Open Docs Home</a>
       </div>
     </header>
 
@@ -581,21 +581,21 @@
     </section>
 
     <p class="footer-note">
-      这个页面读取同目录下的 <code>ai-thinker-study-data.js</code>。如需用最新自动化记忆刷新页面，运行
+      这个页面读取同目录下的 <code>ai-thinker-study-data.json</code>。如需用最新自动化记忆刷新页面，运行
       <code>node scripts/update-study-progress.mjs</code>。
     </p>
   </main>
 
-  <script src="ai-thinker-study-data.js"></script>
   <script>
     const fallbackDocsUrl = "https://docs.ai-thinker.com/";
-    const data = window.aiThinkerStudyData || {
+    const emptyData = {
       updatedAt: "",
       totalEntries: 0,
       entries: [],
       preferences: [],
       categories: []
     };
+    let data = emptyData;
 
     const entryList = document.getElementById("entryList");
     const searchInput = document.getElementById("searchInput");
@@ -633,10 +633,6 @@
         .replaceAll("'", "&#039;");
     }
 
-    function latestEntry() {
-      return data.entries[0] || null;
-    }
-
     function hasBrokenSource(entry) {
       return /404/i.test(entry.notes || "");
     }
@@ -646,7 +642,7 @@
       document.getElementById("activeDays").textContent = data.entries.length;
       document.getElementById("updatedAt").textContent = formatUpdatedAt(data.updatedAt);
 
-      const latest = latestEntry();
+      const latest = data.entries[0] || null;
       document.getElementById("heroSummary").textContent = latest
         ? `最近一次学习是 ${latest.product}，类别为 ${latest.category}。页面会持续累积每天的产品学习记录与约束规则。`
         : "当前还没有学习记录。";
@@ -657,18 +653,10 @@
         : "当前没有额外排除规则，默认优先学习无线、LoRa、UWB、雷达等产品。";
 
       const sourceLink = document.getElementById("sourceLink");
+      sourceLink.href = fallbackDocsUrl;
+      sourceLink.removeAttribute("aria-disabled");
       sourceLink.classList.remove("btn-disabled");
-
-      if (latest && latest.source && !hasBrokenSource(latest)) {
-        sourceLink.href = latest.source;
-        sourceLink.removeAttribute("aria-disabled");
-        sourceLink.textContent = "Open Latest Doc";
-      } else {
-        sourceLink.href = fallbackDocsUrl;
-        sourceLink.removeAttribute("aria-disabled");
-        sourceLink.classList.remove("btn-disabled");
-        sourceLink.textContent = "Open Docs Home";
-      }
+      sourceLink.textContent = "Open Docs Home";
     }
 
     function renderRules() {
@@ -738,7 +726,7 @@
 
           ${entry.sellingPoint ? `
             <div class="selling-point">
-              <strong>Selling Point</strong>
+              <strong>产品卖点</strong>
               <p>${escapeHtml(entry.sellingPoint)}</p>
             </div>
           ` : ""}
@@ -756,10 +744,23 @@
 
     searchInput.addEventListener("input", renderEntries);
 
-    updateHero();
-    renderRules();
-    renderCategories();
-    renderEntries();
+    async function loadStudyData() {
+      try {
+        const response = await fetch(`ai-thinker-study-data.json?ts=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error("study data not found");
+        data = await response.json();
+      } catch (error) {
+        console.warn("Using empty study data:", error.message);
+        data = emptyData;
+      }
+
+      updateHero();
+      renderRules();
+      renderCategories();
+      renderEntries();
+    }
+
+    loadStudyData();
   </script>
 </body>
 </html>
