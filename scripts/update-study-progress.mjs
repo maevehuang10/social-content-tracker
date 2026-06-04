@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const MEMORY_PATH = "C:/Users/Ai/.codex/automations/ai-thinker/memory.md";
-const OUTPUT_PATH = "ai-thinker-study-data.js";
+const OUTPUT_PATH = "ai-thinker-study-data.json";
 
 function readSections(markdown) {
   const lines = markdown.split(/\r?\n/);
@@ -105,7 +105,7 @@ function parseMemory(markdown) {
 async function main() {
   const memory = await readFile(MEMORY_PATH, "utf8");
   const data = parseMemory(memory);
-  const output = `window.aiThinkerStudyData = ${JSON.stringify(data, null, 2)};\n`;
+  const output = `${JSON.stringify(data, null, 2)}\n`;
   await writeFile(OUTPUT_PATH, output, "utf8");
   console.log(`Updated ${OUTPUT_PATH} with ${data.totalEntries} study entries.`);
 }
