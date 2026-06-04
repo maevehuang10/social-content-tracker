@@ -320,6 +320,29 @@
       line-height: 1.7;
     }
 
+    .source-summary {
+      margin: 0 0 12px;
+      padding: 11px 12px;
+      border-left: 3px solid rgba(255, 111, 177, 0.62);
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.035);
+    }
+
+    .source-summary strong {
+      display: block;
+      margin-bottom: 5px;
+      color: var(--green);
+      font-size: 12px;
+      letter-spacing: 0.04em;
+    }
+
+    .source-summary p {
+      margin: 0;
+      color: #d4dbe6;
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
     .meta-row {
       display: flex;
       align-items: center;
@@ -742,6 +765,7 @@
         topic.source,
         topic.product,
         topic.value,
+        topic.summary,
         topic.hook,
         topic.tags.join(" ")
       ].join(" ").toLowerCase();
@@ -772,7 +796,7 @@
     }
 
     function topicToText(topic) {
-      return `${topic.title}\n\nHook: ${topic.hook}\n\n${topic.post}\n\nProduct: ${topic.product}\nTags: ${topic.tags.join(", ")}\nPlatforms: ${topic.platforms.join(", ")}`;
+      return `${topic.title}\n\nSummary: ${topic.summary || ""}\n\nHook: ${topic.hook}\n\n${topic.post}\n\nProduct: ${topic.product}\nTags: ${topic.tags.join(", ")}\nPlatforms: ${topic.platforms.join(", ")}`;
     }
 
     async function copyTopic(index) {
@@ -811,6 +835,7 @@
       topic.title = askValue("标题", topic.title);
       topic.product = askValue("产品线", topic.product);
       topic.value = askValue("推荐理由", topic.value);
+      topic.summary = askValue("摘要", topic.summary || topic.value);
       topic.hook = askValue("Hook", topic.hook);
       topic.post = askValue("英文草稿", topic.post);
       topic.tags = askValue("标签，用英文逗号分隔", topic.tags.join(", "))
@@ -880,6 +905,12 @@
             <div class="score">${topic.score}</div>
           </div>
           <p class="value">${escapeHtml(topic.value)}</p>
+          ${topic.summary ? `
+            <div class="source-summary">
+              <strong>摘要</strong>
+              <p>${escapeHtml(topic.summary)}</p>
+            </div>
+          ` : ""}
           <div class="meta-row">
             <div>
               <div class="tag-list">${topic.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>
@@ -949,6 +980,7 @@
         platforms: ["LinkedIn", "Facebook"],
         tags: ["ESP32", "Control Panel", "Smart Device"],
         value: "A placeholder topic Maeve can edit into a real product story after collecting source material.",
+        summary: "A manual idea for turning ESP32-based control panel positioning into social content after product details are confirmed.",
         hook: "A good control panel is not only a screen. It is the interface between users and connected devices.",
         post: "ESP32-based modules can help developers build compact, connected control panels for smart devices.\n\nFor brands working on home automation, industrial control, or connected appliances, the right wireless module can simplify development and improve product reliability.\n\nThis draft can be adapted once product details and target customers are confirmed."
       });

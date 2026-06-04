@@ -65,6 +65,12 @@ function stripHtml(text) {
   return decodeHtml(text.replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
 }
 
+function truncateText(text, maxLength = 260) {
+  const clean = (text || "").replace(/\s+/g, " ").trim();
+  if (clean.length <= maxLength) return clean;
+  return clean.slice(0, maxLength).replace(/\s+\S*$/, "").trim() + "...";
+}
+
 function readTag(block, tag) {
   const match = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"));
   return match ? stripHtml(match[1]) : "";
@@ -185,6 +191,10 @@ function postFor(rule, item) {
   return `${item.title}\n\nThis is a useful signal for IoT brands and product teams watching ${rule.product} opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: ${item.source}`;
 }
 
+function summaryFor(item) {
+  return truncateText(item.description || item.title);
+}
+
 function toTopic(item) {
   const rule = classify(item);
   const formats = formatsFor(rule, item);
@@ -199,9 +209,19 @@ function toTopic(item) {
     platforms: platformsFor(formats),
     tags: rule.tags,
     value: valueFor(rule, item),
+    summary: summaryFor(item),
     hook: hookFor(rule, item),
     post: postFor(rule, item),
     url: item.url
+  };
+}
+
+function withSummary(topic) {
+  if (topic.summary) return topic;
+  const fallback = topic.post || topic.value || topic.title || "";
+  return {
+    ...topic,
+    summary: truncateText(fallback.split(/\n{2,}/)[0] || fallback)
   };
 }
 
@@ -245,7 +265,7 @@ async function main() {
     })
     .slice(0, MAX_TOPICS);
 
-  const finalTopics = topics.length > 0 ? topics : await readExistingTopics();
+  const finalTopics = (topics.length > 0 ? topics : await readExistingTopics()).map(withSummary);
 
   if (finalTopics.length === 0) {
     throw new Error("No topics fetched and no existing topics.json fallback found.");
