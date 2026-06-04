@@ -581,11 +581,12 @@
     </section>
 
     <p class="footer-note">
-      这个页面读取同目录下的 <code>ai-thinker-study-data.json</code>。如需用最新自动化记忆刷新页面，运行
+      这个页面读取同目录下的 <code>ai-thinker-study-data.js</code> 和 <code>ai-thinker-study-data.json</code>。如需用最新自动化记忆刷新页面，运行
       <code>node scripts/update-study-progress.mjs</code>。
     </p>
   </main>
 
+  <script src="ai-thinker-study-data.js"></script>
   <script>
     const fallbackDocsUrl = "https://docs.ai-thinker.com/";
     const emptyData = {
@@ -745,13 +746,16 @@
     searchInput.addEventListener("input", renderEntries);
 
     async function loadStudyData() {
-      try {
-        const response = await fetch(`ai-thinker-study-data.json?ts=${Date.now()}`, { cache: "no-store" });
-        if (!response.ok) throw new Error("study data not found");
-        data = await response.json();
-      } catch (error) {
-        console.warn("Using empty study data:", error.message);
-        data = emptyData;
+      data = window.aiThinkerStudyData || emptyData;
+
+      if (window.location.protocol !== "file:") {
+        try {
+          const response = await fetch(`ai-thinker-study-data.json?ts=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) throw new Error("study data not found");
+          data = await response.json();
+        } catch (error) {
+          console.warn("Using embedded study data:", error.message);
+        }
       }
 
       updateHero();

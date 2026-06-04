@@ -1,4 +1,4 @@
-window.aiThinkerStudyData = {
+{
   "updatedAt": "2026-06-04T08:56:07.791Z",
   "memoryPath": "C:/Users/Ai/.codex/automations/ai-thinker/memory.md",
   "totalEntries": 2,
@@ -35,4 +35,4 @@ window.aiThinkerStudyData = {
       "runTime": "2026-06-04 09:14:07 +08:00"
     }
   ]
-};
+}
