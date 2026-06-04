@@ -1,5 +1,8 @@
 *
 !index.html
+!ai-thinker-study-progress.html
+!ai-thinker-study-data.js
+!video-prompt-builder.html
 !.gitignore
 !topics.json
 !scripts/

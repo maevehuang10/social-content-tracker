@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ai-Thinker Study Progress</title>
+  <style>
+    :root {
+      --bg: #070b11;
+      --panel: rgba(14, 20, 30, 0.9);
+      --panel-soft: rgba(18, 27, 40, 0.84);
+      --line: rgba(255, 255, 255, 0.1);
+      --text: #eef4fb;
+      --muted: #90a0b4;
+      --weak: #5d6978;
+      --accent: #63e6be;
+      --accent-soft: rgba(99, 230, 190, 0.14);
+      --accent-blue: #7dd3fc;
+      --shadow: 0 24px 64px rgba(0, 0, 0, 0.38);
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at top left, rgba(125, 211, 252, 0.12), transparent 360px),
+        radial-gradient(circle at top right, rgba(99, 230, 190, 0.11), transparent 320px),
+        linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 280px),
+        var(--bg);
+      color: var(--text);
+      font-family: "PingFang SC", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button,
+    input {
+      font: inherit;
+    }
+
+    .page {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 28px 0 40px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .brand-mark {
+      width: 12px;
+      height: 12px;
+      border-radius: 999px;
+      background: var(--accent);
+      box-shadow: 0 0 22px rgba(99, 230, 190, 0.75);
+      flex: 0 0 auto;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: clamp(18px, 2.8vw, 24px);
+      letter-spacing: 0.04em;
+    }
+
+    .brand p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .top-actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 40px;
+      padding: 0 14px;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text);
+      transition: 0.18s ease;
+    }
+
+    .btn:hover {
+      border-color: rgba(125, 211, 252, 0.42);
+      color: var(--accent-blue);
+      background: rgba(125, 211, 252, 0.08);
+    }
+
+    .btn-primary {
+      border-color: rgba(99, 230, 190, 0.38);
+      background: rgba(99, 230, 190, 0.12);
+      color: var(--accent);
+    }
+
+    .hero,
+    .panel,
+    .entry-card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      padding: 26px;
+      background:
+        linear-gradient(135deg, rgba(99, 230, 190, 0.13), transparent 42%),
+        linear-gradient(135deg, rgba(125, 211, 252, 0.13), transparent 70%),
+        var(--panel);
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto -80px -80px auto;
+      width: 220px;
+      height: 220px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(99, 230, 190, 0.18), transparent 68%);
+      pointer-events: none;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+      color: var(--accent);
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 26px;
+      height: 1px;
+      background: currentColor;
+    }
+
+    .hero h2 {
+      margin: 0;
+      max-width: 720px;
+      font-size: clamp(28px, 5vw, 44px);
+      line-height: 1.06;
+      letter-spacing: -0.04em;
+    }
+
+    .hero p {
+      margin: 14px 0 0;
+      max-width: 640px;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 0.9fr;
+      gap: 20px;
+      align-items: end;
+      margin-top: 20px;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .stat {
+      padding: 16px;
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: clamp(24px, 4vw, 34px);
+      line-height: 1;
+      letter-spacing: -0.04em;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .focus-box {
+      padding: 18px;
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.045);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .focus-box h3,
+    .panel h3 {
+      margin: 0 0 10px;
+      font-size: 15px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .focus-box p {
+      margin: 0;
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 14px;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.6fr) 320px;
+      gap: 18px;
+      margin-top: 18px;
+      align-items: start;
+    }
+
+    .panel {
+      background: var(--panel-soft);
+    }
+
+    .timeline-panel {
+      padding: 18px;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+
+    .toolbar p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .search {
+      width: min(280px, 100%);
+      min-height: 40px;
+      padding: 0 13px;
+      border-radius: 999px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      background: rgba(5, 10, 16, 0.76);
+      color: var(--text);
+      outline: none;
+    }
+
+    .search:focus {
+      border-color: rgba(99, 230, 190, 0.44);
+      box-shadow: 0 0 0 4px rgba(99, 230, 190, 0.08);
+    }
+
+    .entry-list {
+      display: grid;
+      gap: 14px;
+    }
+
+    .entry-card {
+      position: relative;
+      overflow: hidden;
+      padding: 18px;
+      background: rgba(8, 12, 18, 0.86);
+    }
+
+    .entry-card::before {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 4px;
+      background: linear-gradient(180deg, var(--accent), var(--accent-blue));
+    }
+
+    .entry-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: start;
+    }
+
+    .entry-date {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--accent);
+      font-size: 12px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .entry-date::before {
+      content: "";
+      width: 7px;
+      height: 7px;
+      border-radius: 999px;
+      background: currentColor;
+      box-shadow: 0 0 12px rgba(99, 230, 190, 0.6);
+    }
+
+    .entry-card h4 {
+      margin: 10px 0 6px;
+      font-size: 22px;
+      letter-spacing: -0.03em;
+    }
+
+    .entry-category {
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .badge {
+      padding: 8px 10px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .entry-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .entry-notes {
+      margin: 14px 0 0;
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 14px;
+    }
+
+    .entry-links {
+      display: flex;
+      gap: 10px;
+      margin-top: 16px;
+      flex-wrap: wrap;
+    }
+
+    .side-stack {
+      display: grid;
+      gap: 18px;
+    }
+
+    .side-panel {
+      padding: 18px;
+    }
+
+    .rule-list,
+    .category-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .rule-item,
+    .category-item {
+      padding: 14px;
+      border-radius: 14px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+
+    .rule-item strong,
+    .category-item strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+
+    .rule-item p,
+    .category-item p,
+    .empty-state p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.6;
+      font-size: 13px;
+    }
+
+    .empty-state {
+      padding: 26px;
+      text-align: center;
+      border-radius: 16px;
+      border: 1px dashed rgba(255, 255, 255, 0.14);
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .empty-state strong {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .footer-note {
+      margin-top: 18px;
+      color: var(--weak);
+      font-size: 12px;
+      line-height: 1.7;
+    }
+
+    @media (max-width: 980px) {
+      .hero-grid,
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .stats {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .page {
+        width: min(100% - 24px, 1180px);
+        padding-top: 18px;
+      }
+
+      .topbar,
+      .toolbar,
+      .entry-head,
+      .top-actions {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .search {
+        width: 100%;
+      }
+
+      .hero,
+      .timeline-panel,
+      .side-panel,
+      .entry-card {
+        padding: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark"></span>
+        <div>
+          <h1>AI-THINKER STUDY PROGRESS</h1>
+          <p>每日规格书学习进度与技术支持摘要</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <a class="btn" href="index.html">Back to Tracker</a>
+        <a class="btn btn-primary" id="sourceLink" href="#" target="_blank" rel="noopener">Open Latest Doc</a>
+      </div>
+    </header>
+
+    <section class="hero">
+      <span class="eyebrow">Daily Spec Study</span>
+      <h2>把每天学过的 Ai-Thinker 模块文档，整理成可持续追踪的本地进度页。</h2>
+      <p id="heroSummary">正在载入学习记录。</p>
+
+      <div class="hero-grid">
+        <div class="stats">
+          <article class="stat">
+            <strong id="totalEntries">0</strong>
+            <span>累计学习产品</span>
+          </article>
+          <article class="stat">
+            <strong id="activeDays">0</strong>
+            <span>累计学习天数</span>
+          </article>
+          <article class="stat">
+            <strong id="updatedAt">-</strong>
+            <span>最近同步时间</span>
+          </article>
+        </div>
+
+        <div class="focus-box">
+          <h3>Current Focus</h3>
+          <p id="focusText">正在读取当前学习规则。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="layout">
+      <div class="panel timeline-panel">
+        <div class="toolbar">
+          <p id="resultText">学习记录</p>
+          <input class="search" id="searchInput" type="search" placeholder="搜索产品、类别或备注">
+        </div>
+        <div class="entry-list" id="entryList"></div>
+      </div>
+
+      <aside class="side-stack">
+        <section class="panel side-panel">
+          <h3>Study Rules</h3>
+          <div class="rule-list" id="ruleList"></div>
+        </section>
+
+        <section class="panel side-panel">
+          <h3>Covered Categories</h3>
+          <div class="category-list" id="categoryList"></div>
+        </section>
+      </aside>
+    </section>
+
+    <p class="footer-note">
+      这个页面读取同目录下的 <code>ai-thinker-study-data.js</code>。如需用最新自动化记忆刷新页面，运行
+      <code>node scripts/update-study-progress.mjs</code>。
+    </p>
+  </main>
+
+  <script src="ai-thinker-study-data.js"></script>
+  <script>
+    const data = window.aiThinkerStudyData || {
+      updatedAt: "",
+      totalEntries: 0,
+      entries: [],
+      preferences: [],
+      categories: []
+    };
+
+    const entryList = document.getElementById("entryList");
+    const searchInput = document.getElementById("searchInput");
+    const resultText = document.getElementById("resultText");
+
+    function formatDate(value) {
+      if (!value) return "-";
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return value;
+      return new Intl.DateTimeFormat("zh-CN", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+      }).format(date);
+    }
+
+    function formatUpdatedAt(value) {
+      if (!value) return "-";
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return value;
+      return new Intl.DateTimeFormat("zh-CN", {
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit"
+      }).format(date);
+    }
+
+    function escapeHtml(text) {
+      return String(text || "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function latestEntry() {
+      return data.entries[0] || null;
+    }
+
+    function updateHero() {
+      document.getElementById("totalEntries").textContent = data.totalEntries || 0;
+      document.getElementById("activeDays").textContent = data.entries.length;
+      document.getElementById("updatedAt").textContent = formatUpdatedAt(data.updatedAt);
+
+      const latest = latestEntry();
+      document.getElementById("heroSummary").textContent = latest
+        ? `最近一次学习是 ${latest.product}，类别为 ${latest.category}。页面会持续累积每天的产品学习记录与约束规则。`
+        : "当前还没有学习记录。";
+
+      const latestRule = data.preferences[0];
+      document.getElementById("focusText").textContent = latestRule
+        ? latestRule.action
+        : "当前没有额外排除规则，默认优先学习无线、LoRa、UWB、雷达等产品。";
+
+      const sourceLink = document.getElementById("sourceLink");
+      if (latest && latest.source) {
+        sourceLink.href = latest.source;
+      } else {
+        sourceLink.removeAttribute("href");
+        sourceLink.setAttribute("aria-disabled", "true");
+      }
+    }
+
+    function renderRules() {
+      const ruleList = document.getElementById("ruleList");
+      if (!data.preferences.length) {
+        ruleList.innerHTML = '<div class="empty-state"><strong>暂无规则</strong><p>后续新增的排除项或选型方向会显示在这里。</p></div>';
+        return;
+      }
+
+      ruleList.innerHTML = data.preferences.map(rule => `
+        <article class="rule-item">
+          <strong>${escapeHtml(rule.exclude || "Preference")}</strong>
+          <p>${escapeHtml(rule.action || rule.reason || "")}</p>
+          <p style="margin-top:8px">${escapeHtml(formatDate(rule.date))}</p>
+        </article>
+      `).join("");
+    }
+
+    function renderCategories() {
+      const categoryList = document.getElementById("categoryList");
+      if (!data.categories.length) {
+        categoryList.innerHTML = '<div class="empty-state"><strong>暂无分类</strong><p>学习记录生成后会自动汇总已覆盖类别。</p></div>';
+        return;
+      }
+
+      categoryList.innerHTML = data.categories.map(category => `
+        <article class="category-item">
+          <strong>${escapeHtml(category)}</strong>
+          <p>已纳入当前学习进度追踪。</p>
+        </article>
+      `).join("");
+    }
+
+    function matchesEntry(entry, keyword) {
+      if (!keyword) return true;
+      const text = [entry.product, entry.category, entry.notes, entry.date].join(" ").toLowerCase();
+      return text.includes(keyword);
+    }
+
+    function renderEntries() {
+      const keyword = searchInput.value.trim().toLowerCase();
+      const filtered = data.entries.filter(entry => matchesEntry(entry, keyword));
+      resultText.textContent = `共 ${filtered.length} 条学习记录`;
+
+      if (!filtered.length) {
+        entryList.innerHTML = '<div class="empty-state"><strong>没有匹配结果</strong><p>换一个产品名、类别或备注关键词再试。</p></div>';
+        return;
+      }
+
+      entryList.innerHTML = filtered.map(entry => `
+        <article class="entry-card">
+          <div class="entry-head">
+            <div>
+              <span class="entry-date">${escapeHtml(formatDate(entry.date))}</span>
+              <h4>${escapeHtml(entry.product || "Untitled")}</h4>
+              <div class="entry-category">${escapeHtml(entry.category || "Uncategorized")}</div>
+            </div>
+            <span class="badge">Day Note</span>
+          </div>
+
+          <div class="entry-meta">
+            <span class="meta-chip">Run: ${escapeHtml(entry.runTime || "-")}</span>
+            <span class="meta-chip">Type: ${escapeHtml(entry.category || "-")}</span>
+          </div>
+
+          <p class="entry-notes">${escapeHtml(entry.notes || "暂无备注。")}</p>
+
+          <div class="entry-links">
+            ${entry.source ? `<a class="btn btn-primary" href="${escapeHtml(entry.source)}" target="_blank" rel="noopener">Open Source</a>` : ""}
+          </div>
+        </article>
+      `).join("");
+    }
+
+    searchInput.addEventListener("input", renderEntries);
+
+    updateHero();
+    renderRules();
+    renderCategories();
+    renderEntries();
+  </script>
+</body>
+</html>
