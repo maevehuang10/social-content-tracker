@@ -120,6 +120,14 @@
       color: var(--accent);
     }
 
+    .btn-disabled {
+      border-color: rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.03);
+      color: var(--weak);
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+
     .hero,
     .panel,
     .entry-card {
@@ -556,6 +564,7 @@
 
   <script src="ai-thinker-study-data.js"></script>
   <script>
+    const fallbackDocsUrl = "https://docs.ai-thinker.com/";
     const data = window.aiThinkerStudyData || {
       updatedAt: "",
       totalEntries: 0,
@@ -604,6 +613,10 @@
       return data.entries[0] || null;
     }
 
+    function hasBrokenSource(entry) {
+      return /404/i.test(entry.notes || "");
+    }
+
     function updateHero() {
       document.getElementById("totalEntries").textContent = data.totalEntries || 0;
       document.getElementById("activeDays").textContent = data.entries.length;
@@ -620,11 +633,17 @@
         : "当前没有额外排除规则，默认优先学习无线、LoRa、UWB、雷达等产品。";
 
       const sourceLink = document.getElementById("sourceLink");
-      if (latest && latest.source) {
+      sourceLink.classList.remove("btn-disabled");
+
+      if (latest && latest.source && !hasBrokenSource(latest)) {
         sourceLink.href = latest.source;
+        sourceLink.removeAttribute("aria-disabled");
+        sourceLink.textContent = "Open Latest Doc";
       } else {
-        sourceLink.removeAttribute("href");
-        sourceLink.setAttribute("aria-disabled", "true");
+        sourceLink.href = fallbackDocsUrl;
+        sourceLink.removeAttribute("aria-disabled");
+        sourceLink.classList.remove("btn-disabled");
+        sourceLink.textContent = "Open Docs Home";
       }
     }
 
@@ -694,7 +713,11 @@
           <p class="entry-notes">${escapeHtml(entry.notes || "暂无备注。")}</p>
 
           <div class="entry-links">
-            ${entry.source ? `<a class="btn btn-primary" href="${escapeHtml(entry.source)}" target="_blank" rel="noopener">Open Source</a>` : ""}
+            ${entry.source
+              ? hasBrokenSource(entry)
+                ? `<a class="btn" href="${fallbackDocsUrl}" target="_blank" rel="noopener" title="Official PDF link returns 404, open docs home instead">Open Docs Home</a>`
+                : `<a class="btn btn-primary" href="${escapeHtml(entry.source)}" target="_blank" rel="noopener">Open Source</a>`
+              : ""}
           </div>
         </article>
       `).join("");
