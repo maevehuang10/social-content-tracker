@@ -370,6 +370,18 @@
       text-decoration: none;
     }
 
+    .danger-btn {
+      border-color: rgba(251, 113, 133, 0.28);
+      color: #fb7185;
+      background: rgba(251, 113, 133, 0.08);
+    }
+
+    .danger-btn:hover {
+      border-color: rgba(251, 113, 133, 0.5);
+      color: #ff9aae;
+      background: rgba(251, 113, 133, 0.12);
+    }
+
     .draft {
       display: none;
       margin-top: 14px;
@@ -765,6 +777,71 @@
       showToast("已复制英文草稿");
     }
 
+    function isManualTopic(topic) {
+      return topic.manual === true || topic.source === "Manual Input";
+    }
+
+    function loadManualTopics() {
+      try {
+        const saved = JSON.parse(localStorage.getItem("social-content-tracker-manual-topics") || "[]");
+        return Array.isArray(saved) ? saved : [];
+      } catch {
+        return [];
+      }
+    }
+
+    function saveManualTopics() {
+      const manualTopics = topics.filter(isManualTopic);
+      localStorage.setItem("social-content-tracker-manual-topics", JSON.stringify(manualTopics));
+    }
+
+    function askValue(label, value) {
+      const next = prompt(label, value || "");
+      return next === null ? value : next.trim();
+    }
+
+    function editTopic(index) {
+      const topic = topics[index];
+      if (!topic || !isManualTopic(topic)) return;
+
+      topic.title = askValue("标题", topic.title);
+      topic.product = askValue("产品线", topic.product);
+      topic.value = askValue("推荐理由", topic.value);
+      topic.hook = askValue("Hook", topic.hook);
+      topic.post = askValue("英文草稿", topic.post);
+      topic.tags = askValue("标签，用英文逗号分隔", topic.tags.join(", "))
+        .split(",")
+        .map(item => item.trim())
+        .filter(Boolean);
+      topic.platforms = askValue("平台，用英文逗号分隔", topic.platforms.join(", "))
+        .split(",")
+        .map(item => item.trim())
+        .filter(Boolean);
+      topic.formats = askValue("内容形式，用英文逗号分隔", topic.formats.join(", "))
+        .split(",")
+        .map(item => item.trim())
+        .filter(Boolean);
+
+      saveManualTopics();
+      fillSelect();
+      renderChips();
+      renderCards();
+      showToast("已保存修改");
+    }
+
+    function deleteTopic(index) {
+      const topic = topics[index];
+      if (!topic || !isManualTopic(topic)) return;
+      if (!confirm(`删除这个手动选题？\n\n${topic.title}`)) return;
+
+      topics.splice(index, 1);
+      saveManualTopics();
+      fillSelect();
+      renderChips();
+      renderCards();
+      showToast("已删除选题");
+    }
+
     function showToast(text) {
       toast.textContent = text;
       toast.classList.add("show");
@@ -806,6 +883,7 @@
             </div>
             <div class="card-actions">
               ${topic.url ? `<a class="btn small-btn source-link" href="${escapeHtml(topic.url)}" target="_blank" rel="noopener">来源</a>` : ""}
+              ${isManualTopic(topic) ? `<button class="btn small-btn" type="button" data-action="edit">编辑</button><button class="btn small-btn danger-btn" type="button" data-action="delete">删除</button>` : ""}
               <button class="btn small-btn" type="button" data-action="toggle">草稿</button>
               <button class="btn small-btn btn-primary" type="button" data-action="copy">复制</button>
             </div>
@@ -828,6 +906,8 @@
           card.classList.toggle("open");
         });
         card.querySelector('[data-action="copy"]').addEventListener("click", () => copyTopic(index));
+        card.querySelector('[data-action="edit"]')?.addEventListener("click", () => editTopic(index));
+        card.querySelector('[data-action="delete"]')?.addEventListener("click", () => deleteTopic(index));
         cardsEl.appendChild(card);
       });
     }
@@ -854,6 +934,8 @@
 
     function addExampleTopic() {
       topics.unshift({
+        id: `manual-${Date.now()}`,
+        manual: true,
         title: "New ESP32 module idea for smart control panels",
         source: "Manual Input",
         date: new Date().toISOString().slice(0, 10),
@@ -866,6 +948,7 @@
         hook: "A good control panel is not only a screen. It is the interface between users and connected devices.",
         post: "ESP32-based modules can help developers build compact, connected control panels for smart devices.\n\nFor brands working on home automation, industrial control, or connected appliances, the right wireless module can simplify development and improve product reliability.\n\nThis draft can be adapted once product details and target customers are confirmed."
       });
+      saveManualTopics();
       fillSelect();
       resetFilters();
       showToast("已添加示例选题");
@@ -889,6 +972,8 @@
       } catch (error) {
         console.warn("Using embedded sample topics:", error.message);
       }
+
+      topics = [...loadManualTopics(), ...topics];
 
       fillSelect();
       renderChips();
