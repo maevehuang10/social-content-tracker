@@ -1,0 +1,126 @@
+[
+  {
+    "id": "capture-20260605-home-assistant-rf-update",
+    "platform": "LinkedIn",
+    "account": "Home Assistant",
+    "title": "Home Assistant 2026.5! Radio frequency joins the smart home as a first-class citizen",
+    "url": "https://www.linkedin.com/posts/home-assistant_homeassistant-activity-7457818346865111040-HqNu",
+    "metrics": [
+      "19,637 followers",
+      "Page shows 7h",
+      "Post metrics unavailable/publicly hidden",
+      "Public comment exposure visible in search snippet"
+    ],
+    "heat": "5",
+    "tags": ["Official", "Product", "Industry"],
+    "reason": "把版本更新拆成 RF、维护面板、ESPHome 串口代理、自动化触发等开发者马上能理解的收益点，适合 Home Assistant 核心受众传播。",
+    "learn": "Ai-Thinker 可把模块升级内容改成“新增能力 + 立即可落地场景”的表达，不只列参数或版本号。",
+    "createdAt": "2026-06-05T09:35:00+08:00"
+  },
+  {
+    "id": "capture-20260605-espressif-esp32-e22",
+    "platform": "LinkedIn",
+    "account": "Espressif Systems",
+    "title": "Espressif Announces ESP32-E22 — New Wi-Fi 6E Connectivity Co-Processor",
+    "url": "https://www.linkedin.com/posts/espressif-systems_espressif-esp32-wifi6e-activity-7419021012631146496-jltB",
+    "metrics": [
+      "98,506 followers",
+      "Page shows 4mo",
+      "19 comments visible in search result",
+      "Like 1 Reaction visible in comment snippet"
+    ],
+    "heat": "5",
+    "tags": ["Official", "Product", "B2B"],
+    "reason": "把 Wi-Fi 6E、Bluetooth、PCIe、SDIO 讲成智能网关、工业自动化和高吞吐终端的连接能力升级，利于开发者和采购共同理解。",
+    "learn": "Ai-Thinker 发新品时可强调“给现有主控补上什么连接能力、减少多少改板成本”，而不是只讲器件规格。",
+    "createdAt": "2026-06-05T09:36:00+08:00"
+  },
+  {
+    "id": "capture-20260605-semtech-ces-edge-ai-lora",
+    "platform": "LinkedIn",
+    "account": "Semtech",
+    "title": "CES 2026: Semtech Showcases Next-Generation IoT Innovation with LoRa and Edge AI Solutions",
+    "url": "https://www.linkedin.com/posts/semtech_ces-2026-semtech-showcases-next-generation-activity-7422715191152521217-T503",
+    "metrics": [
+      "59,863 followers",
+      "Page shows 2mo Edited",
+      "Post metrics unavailable/publicly hidden"
+    ],
+    "heat": "5",
+    "tags": ["Official", "Product", "Industry", "B2B"],
+    "reason": "同一条内容里同时给出 LoRa 视频流、Edge AI 传感器、多协议连接和 125 million LoRaWAN devices 规模信号，方案感很强。",
+    "learn": "Ai-Thinker 可把 LoRa 模块、网关、边缘感知和生态规模合并成一条“方案级内容”，提升海外 B2B 信任感。",
+    "createdAt": "2026-06-05T09:37:00+08:00"
+  },
+  {
+    "id": "capture-20260605-rakwireless-semtech-partnership",
+    "platform": "LinkedIn",
+    "account": "RAKwireless",
+    "title": "Strong discussion with Semtech at CES 2026",
+    "url": "https://www.linkedin.com/posts/rakwireless_strong-discussion-with-semtech-at-ces-2026-activity-7415058848316764161-fbUM",
+    "metrics": [
+      "10,950 followers",
+      "Page shows 1w Edited",
+      "Post metrics unavailable/publicly hidden"
+    ],
+    "heat": "4",
+    "tags": ["Official", "Industry", "B2B"],
+    "reason": "强调全球规模部署、可靠性、联盟协作与真实商业合作，比单个产品宣传更容易打动方案商和渠道伙伴。",
+    "learn": "Ai-Thinker 可增加“生态合作/认证/联合验证”类内容，用合作关系证明商业可信度。",
+    "createdAt": "2026-06-05T09:38:00+08:00"
+  },
+  {
+    "id": "capture-20260605-rtls-alliance-uwb-roi",
+    "platform": "LinkedIn",
+    "account": "RTLS Alliance Ecosystem",
+    "title": "UWB RTLS hospital case with asset search time cut 87 percent",
+    "url": "https://www.linkedin.com/posts/rtls-alliance_rtls-assettracking-healthcare-activity-7445809832168734721-VYrg",
+    "metrics": [
+      "7,948 followers",
+      "Page shows 1mo",
+      "87% reduction in asset search time",
+      "84% drop in equipment rental costs",
+      "$1.2M annual savings",
+      "ROI in 9 months"
+    ],
+    "heat": "5",
+    "tags": ["Industry", "Product", "B2B"],
+    "reason": "直接给出时间、成本和 ROI 指标，极适合采购、集成商和行业客户内部转发，也更容易形成决策讨论。",
+    "learn": "Ai-Thinker 做 UWB/定位内容时，应优先输出“部署规模 + 指标对比 + 回本周期”的结构。",
+    "createdAt": "2026-06-05T09:39:00+08:00"
+  },
+  {
+    "id": "capture-20260605-socionext-human-presence-radar",
+    "platform": "LinkedIn",
+    "account": "Socionext Europe",
+    "title": "Human Presence Detection. Perfected.",
+    "url": "https://www.linkedin.com/posts/socionexteurope_embeddedworld2026-edgeai-neuromorphiccomputing-activity-7431623915296174080-2q5M",
+    "metrics": [
+      "3,052 followers",
+      "Page shows 2mo",
+      "Post metrics unavailable/publicly hidden"
+    ],
+    "heat": "4",
+    "tags": ["Product", "Industry", "B2B"],
+    "reason": "把 60GHz FMCW 雷达、神经形态 Edge AI、低功耗、隐私友好、续航提升串成完整场景叙事，适合楼宇和感知类受众。",
+    "learn": "Ai-Thinker 做雷达内容时优先讲误报控制、续航、隐私与部署收益，再补技术细节。",
+    "createdAt": "2026-06-05T09:40:00+08:00"
+  },
+  {
+    "id": "capture-20260605-seeed-x-esp32-ai-assistant",
+    "platform": "X",
+    "account": "Seeed Studio",
+    "title": "The smallest AI assistant you can solder yourself? zclaw runs on ESP32-C3",
+    "url": "https://x.com/seeedstudio/status/2026628247467995334",
+    "metrics": [
+      "25.2K views",
+      "Published 2026-02-25",
+      "Additional engagement counters visible in snippet but field labels not reliably exposed"
+    ],
+    "heat": "5",
+    "tags": ["Tutorial", "Product", "Official"],
+    "reason": "小体积、可焊接、ESP32-C3、FreeRTOS、Telegram 控制、硬件联动这些元素叠加，天然适合开发者转发和复现。",
+    "learn": "Ai-Thinker 很适合做“一个模块 + 一个可复用项目 + 一个控制入口”的微型项目帖，增强实际可玩性。",
+    "createdAt": "2026-06-05T09:41:00+08:00"
+  }
+]
