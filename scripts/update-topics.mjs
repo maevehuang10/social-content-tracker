@@ -9,6 +9,65 @@ const SOURCES = [
 const MAX_TOPICS = 24;
 const MAX_SOURCE_ITEMS = 12;
 
+const fallbackSources = [
+  {
+    title: "LoRaWAN solution content worth tracking",
+    source: "RAKwireless",
+    product: "LoRa Module",
+    score: 95,
+    formats: ["LinkedIn Post", "Carousel", "Sales Material"],
+    platforms: ["LinkedIn", "Facebook"],
+    tags: ["LoRa", "LoRaWAN", "Gateway"],
+    value: "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+    summary: "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+    hook: "Some IoT projects need years of battery life, not more bandwidth.",
+    post: "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+    url: "https://www.linkedin.com/company/rakwireless/"
+  },
+  {
+    title: "ESP32 developer ecosystem angle",
+    source: "Espressif Systems",
+    product: "ESP32 Module",
+    score: 96,
+    formats: ["LinkedIn Post", "Carousel", "Short Video"],
+    platforms: ["LinkedIn", "Facebook", "YouTube"],
+    tags: ["ESP32", "Embedded Development", "Smart Device"],
+    value: "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+    summary: "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+    hook: "A small module can shape the whole connected product experience.",
+    post: "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+    url: "https://www.linkedin.com/company/espressif-systems"
+  },
+  {
+    title: "Matter and smart-home compatibility story",
+    source: "Home Assistant",
+    product: "WiFi Module",
+    score: 94,
+    formats: ["LinkedIn Post", "Carousel", "Sales Material"],
+    platforms: ["LinkedIn", "Facebook"],
+    tags: ["Matter", "Smart Home", "Interoperability"],
+    value: "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+    summary: "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+    hook: "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+    post: "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+    url: "https://www.home-assistant.io/"
+  },
+  {
+    title: "Radar sensing for privacy-friendly presence detection",
+    source: "Industry Sensing",
+    product: "Radar Sensor",
+    score: 92,
+    formats: ["Short Video", "LinkedIn Post", "Carousel"],
+    platforms: ["LinkedIn", "Facebook", "TikTok", "YouTube"],
+    tags: ["Radar", "Presence Detection", "Smart Sensing"],
+    value: "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+    summary: "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+    hook: "Not every sensing solution needs a camera.",
+    post: "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+    url: ""
+  }
+];
+
 const productRules = [
   {
     product: "Radar Sensor",
@@ -235,6 +294,22 @@ function dedupe(items) {
   });
 }
 
+function todayString() {
+  const now = new Date(Date.now() + 8 * 60 * 60 * 1000);
+  return now.toISOString().slice(0, 10);
+}
+
+function fallbackTopicsForToday(existingTopics) {
+  const today = todayString();
+  if (existingTopics.some(topic => topic.date === today)) return [];
+
+  const seed = Number(today.replaceAll("-", "").slice(-2)) % fallbackSources.length;
+  return [0, 1, 2, 3].map(index => ({
+    ...fallbackSources[(seed + index) % fallbackSources.length],
+    date: today
+  }));
+}
+
 async function readExistingTopics() {
   try {
     const existing = JSON.parse(await readFile("topics.json", "utf8"));
@@ -265,7 +340,8 @@ async function main() {
     })
     .slice(0, MAX_TOPICS);
 
-  const finalTopics = (topics.length > 0 ? topics : await readExistingTopics()).map(withSummary);
+  const baseTopics = (topics.length > 0 ? topics : await readExistingTopics()).map(withSummary);
+  const finalTopics = dedupe([...fallbackTopicsForToday(baseTopics), ...baseTopics]).slice(0, MAX_TOPICS);
 
   if (finalTopics.length === 0) {
     throw new Error("No topics fetched and no existing topics.json fallback found.");
