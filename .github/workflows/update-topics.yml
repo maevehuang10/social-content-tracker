@@ -3,6 +3,8 @@ name: Update topics
 on:
   schedule:
     - cron: "10 1 * * *"
+    - cron: "10 6 * * *"
+    - cron: "10 12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,4 +30,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update social content topics"
-          file_pattern: topics.json
+          file_pattern: topics.json scripts/update-topics.mjs

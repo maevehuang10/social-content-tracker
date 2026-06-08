@@ -6,8 +6,9 @@ const SOURCES = [
   { name: "IoT Tech News", url: "https://iottechnews.com/feed/" }
 ];
 
-const MAX_TOPICS = 24;
+const MAX_TOPICS = 36;
 const MAX_SOURCE_ITEMS = 12;
+const MIN_TODAY_TOPICS = 8;
 
 const fallbackSources = [
   {
@@ -64,6 +65,104 @@ const fallbackSources = [
     summary: "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
     hook: "Not every sensing solution needs a camera.",
     post: "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+    url: ""
+  },
+  {
+    title: "Wi-Fi and Bluetooth module selection checklist",
+    source: "Ai-Thinker Content Desk",
+    product: "WiFi Module",
+    score: 91,
+    formats: ["LinkedIn Post", "Carousel", "Sales Material"],
+    platforms: ["LinkedIn", "Facebook"],
+    tags: ["WiFi", "Bluetooth", "Module Selection"],
+    value: "Useful for turning technical selection criteria into customer-facing module education.",
+    summary: "A practical checklist helps overseas buyers compare wireless modules by scenario, certification, interface, power, and development effort.",
+    hook: "Module selection is easier when the customer starts from the device scenario.",
+    post: "A useful module-selection post can compare application scenarios first, then explain range, power, interface, certification, and development support.",
+    url: "https://docs.ai-thinker.com/"
+  },
+  {
+    title: "Industrial IoT gateway content angle",
+    source: "Ai-Thinker Content Desk",
+    product: "LoRa Module",
+    score: 90,
+    formats: ["LinkedIn Post", "Carousel"],
+    platforms: ["LinkedIn", "Facebook"],
+    tags: ["Industrial IoT", "Gateway", "LoRaWAN"],
+    value: "Useful for explaining gateway-to-cloud deployment value for factories, meters, agriculture, and asset monitoring.",
+    summary: "Gateway stories work well when they connect sensor data, network coverage, cloud access, and maintenance cost.",
+    hook: "A gateway is more than a box. It is the bridge between field data and business decisions.",
+    post: "For B2B audiences, start from field deployment pain points: device density, coverage, maintenance, and cloud integration.",
+    url: "https://www.thethingsnetwork.org/"
+  },
+  {
+    title: "UWB positioning application story",
+    source: "Ai-Thinker Content Desk",
+    product: "UWB Module",
+    score: 89,
+    formats: ["LinkedIn Post", "Short Video", "Carousel"],
+    platforms: ["LinkedIn", "Facebook", "TikTok", "YouTube"],
+    tags: ["UWB", "RTLS", "Positioning"],
+    value: "Useful for explaining precise positioning use cases in warehouses, factories, hospitals, and logistics.",
+    summary: "UWB content is strongest when it shows why meter-level accuracy is not enough for some indoor workflows.",
+    hook: "When every meter matters, positioning content needs to show the workflow.",
+    post: "A strong UWB post can show a before-and-after workflow: manual search, real-time location, alerts, and operational visibility.",
+    url: "https://www.firaconsortium.org/"
+  },
+  {
+    title: "Matter-ready smart home product narrative",
+    source: "Ai-Thinker Content Desk",
+    product: "ESP32 Module",
+    score: 93,
+    formats: ["LinkedIn Post", "Carousel", "Sales Material"],
+    platforms: ["LinkedIn", "Facebook"],
+    tags: ["Matter", "Smart Home", "ESP32"],
+    value: "Useful for explaining how wireless modules help brands reduce smart-home integration risk.",
+    summary: "Smart-home customers care about interoperability, ecosystem trust, certification readiness, and developer support.",
+    hook: "Compatibility is becoming a product feature, not a technical footnote.",
+    post: "For smart-home audiences, explain how module choice affects app integration, ecosystem compatibility, and time to market.",
+    url: "https://csa-iot.org/all-solutions/matter/"
+  },
+  {
+    title: "Radar sensor short-video demonstration idea",
+    source: "Ai-Thinker Content Desk",
+    product: "Radar Sensor",
+    score: 94,
+    formats: ["Short Video", "LinkedIn Post"],
+    platforms: ["TikTok", "YouTube", "LinkedIn", "Facebook"],
+    tags: ["Radar", "Presence Detection", "Demo"],
+    value: "Useful for turning radar sensing into visible, scenario-led short videos.",
+    summary: "Radar posts need clear scenes: bathroom, bedroom, corridor, office, or care facility. Show the detection result before explaining the sensor.",
+    hook: "Show the result first, then explain the sensor.",
+    post: "Use a short demo flow: empty room, person enters, status changes, automation triggers, then explain camera-free privacy value.",
+    url: ""
+  },
+  {
+    title: "BLE beacon and channel sounding topic",
+    source: "Ai-Thinker Content Desk",
+    product: "BLE Module",
+    score: 88,
+    formats: ["LinkedIn Post", "Carousel"],
+    platforms: ["LinkedIn", "Facebook"],
+    tags: ["BLE", "Beacon", "Positioning"],
+    value: "Useful for explaining BLE beyond basic connectivity, especially proximity and positioning scenarios.",
+    summary: "BLE content can connect beacons, access control, asset visibility, indoor positioning, and low-power connected products.",
+    hook: "Bluetooth is becoming a location and proximity story.",
+    post: "A practical BLE post can compare simple connectivity, beacon broadcasting, and more advanced distance-aware applications.",
+    url: "https://www.bluetooth.com/"
+  },
+  {
+    title: "Low-power connected device design angle",
+    source: "Ai-Thinker Content Desk",
+    product: "IoT Industry",
+    score: 87,
+    formats: ["LinkedIn Post", "Sales Material"],
+    platforms: ["LinkedIn", "Facebook"],
+    tags: ["Low Power", "Battery Life", "IoT Design"],
+    value: "Useful for B2B education around battery life, sleep current, communication interval, and deployment cost.",
+    summary: "Low-power content is valuable when it links technical design choices to maintenance cost and field reliability.",
+    hook: "Battery life is not a spec. It is a deployment cost question.",
+    post: "Explain low-power design through a field example: reporting interval, sleep mode, network choice, battery replacement cycle, and service cost.",
     url: ""
   }
 ];
@@ -187,6 +286,26 @@ function classify(item) {
   };
 }
 
+function isRelevantItem(item) {
+  const text = `${item.title} ${item.description}`.toLowerCase();
+  const positiveKeywords = [
+    "iot", "module", "wireless", "sensor", "gateway", "embedded", "mcu", "microcontroller",
+    "esp32", "lora", "lorawan", "lpwan", "uwb", "bluetooth", "ble", "wifi", "wi-fi",
+    "matter", "radar", "mmwave", "presence", "positioning", "rtls", "smart home",
+    "industrial", "meter", "asset tracking", "edge ai", "development board", "soc"
+  ];
+  const weakConsumerKeywords = [
+    "mini pc", "laptop", "desktop", "gaming", "sponsored", "discount", "coupon", "off by"
+  ];
+
+  const hasPositive = positiveKeywords.some(keyword => text.includes(keyword));
+  const isPromo = /sponsored|discount|coupon|off by|limited time/.test(text);
+  const looksConsumerOnly = weakConsumerKeywords.some(keyword => text.includes(keyword))
+    && !/(iot|embedded|development board|module|sensor|gateway|industrial|soc)/.test(text);
+
+  return hasPositive && !looksConsumerOnly && !isPromo;
+}
+
 function scoreTopic(item, rule) {
   let score = 70;
   const text = `${item.title} ${item.description}`.toLowerCase();
@@ -301,10 +420,12 @@ function todayString() {
 
 function fallbackTopicsForToday(existingTopics) {
   const today = todayString();
-  if (existingTopics.some(topic => topic.date === today)) return [];
+  const todayCount = existingTopics.filter(topic => topic.date === today).length;
+  const needed = Math.max(0, MIN_TODAY_TOPICS - todayCount);
+  if (needed === 0) return [];
 
   const seed = Number(today.replaceAll("-", "").slice(-2)) % fallbackSources.length;
-  return [0, 1, 2, 3].map(index => ({
+  return Array.from({ length: needed }, (_, index) => ({
     ...fallbackSources[(seed + index) % fallbackSources.length],
     date: today
   }));
@@ -333,6 +454,7 @@ async function main() {
   }
 
   const topics = dedupe(fetched)
+    .filter(isRelevantItem)
     .map(toTopic)
     .sort((a, b) => {
       const dateDiff = new Date(b.date) - new Date(a.date);
