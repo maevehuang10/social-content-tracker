@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T05:46:52.394Z",
+  "generatedAt": "2026-06-10T10:20:53.267Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,35 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "OpenCV 5 release – New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/"
+    },
+    {
+      "title": "Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity",
+      "source": "CNX Software",
+      "date": "2026-06-10",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Synaptics has introduced the Astra SRW1500 Series of AI-native Edge AI MCUs designed for smart IoT edge devices. The family features an Arm Cortex-M52 core, an optional Arm Ethos-U55 Neural Processing Unit (NPU), and tri-band Wi-Fi 7 or Wi-Fi 6, Bluetooth 6.0...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Synaptics Astra SRW1500 Cortex-M52 Edge AI MCU features Ethos-U55 NPU, Wi-Fi 6/7, Bluetooth 6.0, 802.15.4 connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/10/synaptics-astra-srw1500-cortex-m52-edge-ai-mcu-features-ethos-u55-npu-wi-fi-6-7-bluetooth-6-0-802-15-4-connectivity/"
     },
     {
       "title": "NanoPi M6V2 RK3588S SBC gains support for dual analog microphone input",
@@ -414,31 +443,6 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/05/thundercomm-turbox-c7790-android-and-linux-development-kit-features-qualcomm-dragonwing-q-7790-edge-ai-soc/"
-    },
-    {
-      "title": "$54 ThinkNode G4 Wi-Fi HaLow gateway extends the range of Ethernet or 2.4 GHz WiFi 4 devices",
-      "source": "CNX Software",
-      "date": "2026-06-05",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Elecrow’s ThinkNode G4 is a Wi-Fi HaLow gateway with Ethernet and 2.4 GHz WiFi that allows you to connect compatible devices or extend the range of existing devices when used with two gateways or in an 802.11s Mesh configuration with multiple gateways. It’s...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$54 ThinkNode G4 Wi-Fi HaLow gateway extends the range of Ethernet or 2.4 GHz WiFi 4 devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/05/54-thinknode-g4-wi-fi-halow-gateway-extends-the-range-of-ethernet-or-2-4-ghz-wifi-4-devices/"
     },
     {
       "title": "Why visibility matters more than hype across IT, IoT and OT",
