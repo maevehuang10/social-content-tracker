@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:24:45.520Z",
+  "generatedAt": "2026-06-10T05:46:52.394Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,60 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "OpenCV 5 release – New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations",
+      "source": "CNX Software",
+      "date": "2026-06-10",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "OpenCV 5 open-source computer vision library has recently been released with a brand-new DNN (Deep Neural Network) engine that provides better ONNX coverage and enables LLM/VLM support. The fifth version of the popular CV library also adds support for Intel,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "OpenCV 5 release – New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/"
+    },
+    {
+      "title": "NanoPi M6V2 RK3588S SBC gains support for dual analog microphone input",
+      "source": "CNX Software",
+      "date": "2026-06-10",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "FriendlyELEC’s NanoPi M6V2 is an update to the NanoPi M6 Rockchip RK3588S SBC, whose main change is a 4-pin connector for dual analog microphone input. The RAM is also now fixed to 8GB (no more 4GB, 16GB, or 32GB options), some buttons have changed, and the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NanoPi M6V2 RK3588S SBC gains support for dual analog microphone input\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/10/nanopi-m6v2-rk3588s-sbc-gains-support-for-dual-analog-microphone-input/"
+    },
     {
       "title": "Altera Agilex 9 Direct RF-Series AGRW039 SoC FPGA targets high-performance RF systems",
       "source": "CNX Software",
@@ -337,34 +391,6 @@
       "url": "https://www.cnx-software.com/2026/06/06/docker-for-microcontrollers-akiraos-combines-zephyr-rtos-with-webassembly-wasm-applications/"
     },
     {
-      "title": "EKOS – An ESP32-S3 ePaper dashboard housed in an oak-aluminum enclosure (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-06-05",
-      "product": "BLE Module",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Designed by StillFixing in Normandy (France), the EKOS is a local-first, low-power ePaper dashboard built around an ESP32-S3 SoC. It operates without any cloud dependency, subscriptions, or external accounts, offering full privacy, faster response times, and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "EKOS – An ESP32-S3 ePaper dashboard housed in an oak-aluminum enclosure (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/05/ekos-esp32-s3-epaper-dashboard-housed-in-an-oak-aluminum-enclosure/"
-    },
-    {
       "title": "Thundercomm TurboX C7790 Android and Linux development kit features Qualcomm Dragonwing Q-7790 Edge AI SoC",
       "source": "CNX Software",
       "date": "2026-06-05",
@@ -413,35 +439,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "$54 ThinkNode G4 Wi-Fi HaLow gateway extends the range of Ethernet or 2.4 GHz WiFi 4 devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/05/54-thinknode-g4-wi-fi-halow-gateway-extends-the-range-of-ethernet-or-2-4-ghz-wifi-4-devices/"
-    },
-    {
-      "title": "Erqos EQSP32CE – An industrial IoT ESP32-S3 PLC with Ethernet, RS232, RS485, CAN Bus, DIN Rail support",
-      "source": "CNX Software",
-      "date": "2026-06-05",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Erqos EQSP32CE is a DIN rail-mountable industrial IoT PLC based on an ESP32-S3 WiFi and Bluetooth SoC and offering Ethernet, RS-485, RS-232, and CAN bus industrial communication interfaces. The IIoT logic controller also features several protected digital...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Erqos EQSP32CE – An industrial IoT ESP32-S3 PLC with Ethernet, RS232, RS485, CAN Bus, DIN Rail support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/05/erqos-eqsp32ce-an-industrial-iot-esp32-s3-plc-with-ethernet-rs232-rs485-can-bus-din-rail-support/"
     },
     {
       "title": "Why visibility matters more than hype across IT, IoT and OT",
