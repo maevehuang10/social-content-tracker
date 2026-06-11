@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T10:57:15.810Z",
+  "generatedAt": "2026-06-11T16:18:49.304Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-06-12"
+    },
     {
       "title": "piBrick PocketCM5 – An open-source handheld Linux computer kit for Raspberry Pi CM5",
       "source": "CNX Software",
@@ -31,6 +138,60 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "piBrick PocketCM5 – An open-source handheld Linux computer kit for Raspberry Pi CM5\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/"
+    },
+    {
+      "title": "Telefónica and Halotech drive smart industrial safety in the United States with IoT and AI",
+      "source": "IoT Now",
+      "date": "2026-06-11",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Telefónica, through its digital business unit Telefónica Tech, and Halotech has announced a partnership to digitally transform worker safety and industrial operations in the United States. Both companies are evolving … Continued The post Telefónica and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Telefónica and Halotech drive smart industrial safety in the United States with IoT and AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/11/156980-telefonica-and-halotech-drive-smart-industrial-safety-in-the-united-states-with-iot-and-ai/"
+    },
+    {
+      "title": "SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring",
+      "source": "CNX Software",
+      "date": "2026-06-11",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SONOFF “Basic DIN Rail”, codenamed BASIC-1GSP, is a Matter Over WiFi smart switch designed to be installed in electrical distribution boxes with a DIN rail, and it also supports real-time energy monitoring to track voltage, current, power, and energy...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/11/sonoff-basic-1gsp-matter-over-wifi-smart-switch-supports-din-rail-mounting-real-time-energy-monitoring/"
     },
     {
       "title": "Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations",
@@ -270,31 +431,6 @@
       "url": "https://iot-now.com/2026/06/09/156968-epiroc-and-ericsson-partner-to-accelerate-industrial-transformation-in-mining-with-lte-and-5g-connectivity/"
     },
     {
-      "title": "Private 5G goes underground in Ericsson and Epiroc mining deal",
-      "source": "IoT Tech News",
-      "date": "2026-06-09",
-      "product": "Cellular IoT Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Ericsson and Epiroc are stepping up their joint efforts to push private 5G into the mining world. Getting a steady stream of data down into these subterranean spaces is tough. The conditions are brutal on both the human crews working there and the tech they...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Private 5G goes underground in Ericsson and Epiroc mining deal\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/private-5g-underground-in-ericsson-and-epiroc-mining-deal/"
-    },
-    {
       "title": "Qualcomm Dragonwing Mobile Broadband Multimedia (MBM) MBM715 and MBM 415 SoCs combine 5G, Wi-Fi, multimedia, and Edge AI",
       "source": "CNX Software",
       "date": "2026-06-08",
@@ -318,31 +454,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "Qualcomm Dragonwing Mobile Broadband Multimedia (MBM) MBM715 and MBM 415 SoCs combine 5G, Wi-Fi, multimedia, and Edge AI\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/08/qualcomm-dragonwing-mobile-broadband-multimedia-mbm-mbm715-and-mbm-415-socs-combine-5g-wi-fi-multimedia-and-edge-ai/"
-    },
-    {
-      "title": "Podcast: Why Reactive IoT Operations Are Failing",
-      "source": "IoT Now",
-      "date": "2026-06-08",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "A failed OTA update can now stop production lines, disrupt fleets, or brick connected devices. And as IoT becomes central to critical business operations, the risks are growing fast. Most … Continued The post Podcast: Why Reactive IoT Operations Are Failing...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Podcast: Why Reactive IoT Operations Are Failing\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/08/156760-podcast-why-reactive-iot-operations-are-failing/"
     },
     {
       "title": "Armbian Imager 2.0 release supports over 300 boards from 64 SBC vendors, custom user profiles",
@@ -420,31 +531,6 @@
       "url": "https://www.cnx-software.com/2026/06/08/mudi-7-gl-e5800-5g-nr-wi-fi-7-travel-router-supports-up-to-4-67-gbps-link-rate/"
     },
     {
-      "title": "GEEKOM A6 AMD Ryzen 7 6800H Mini PC is now off by 20% for a limited time (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-06-08",
-      "product": "ESP32 Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "The GEEKOM A6 mini PC, pairing an AMD Ryzen 7 6800H octa-core CPU with up to 16GB DDR5 and a 1TB SSD, is now offered at a 20% discount, dropping the price to $479 from $599 MSRP. This promotional price is expected to be lower than the A6’s pricing during the...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "GEEKOM A6 AMD Ryzen 7 6800H Mini PC is now off by 20% for a limited time (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/08/geekom-a6-amd-ryzen-7-6800h-mini-pc-is-now-off-by-20-for-a-limited-time/"
-    },
-    {
       "title": "IoT Now Contract Win List – May 2026",
       "source": "IoT Now",
       "date": "2026-06-08",
@@ -468,57 +554,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT Now Contract Win List – May 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/08/156857-iot-now-contract-win-list-may-2026/"
-    },
-    {
-      "title": "Why visibility matters more than hype across IT, IoT and OT",
-      "source": "IoT Tech News",
-      "date": "2026-06-05",
-      "product": "WiFi Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "From cloud to AI, strong security fundamentals – from identity and access control to segmentation and visibility – matter far more than chasing whatever technology is dominating the headlines. Max Borovkov, CEO at MBCTG, focuses on helping organisations...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "Why visibility matters more than hype across IT, IoT and OT\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/why-visibility-matters-more-than-hype-across-it-iot-and-ot/"
-    },
-    {
-      "title": "Shell expands predictive maintenance programme with C3 AI",
-      "source": "IoT Tech News",
-      "date": "2026-06-05",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Shell Information Technology International B.V. is extending its collaboration with C3 AI under a new multi-year agreement covering Shell’s global operations. Under the new agreement, Shell will extend its use of C3 AI Reliability beyond equipment anomaly...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Shell expands predictive maintenance programme with C3 AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/shell-predictive-maintenance-c3-ai/"
     },
     {
       "title": "From robotaxis to regulation: The future of mobility starts at MOVE 2026",
@@ -569,31 +604,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Siemens and HighByte partner on industrial data operations to scale Industrial AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/04/156890-siemens-and-highbyte-partner-on-industrial-data-operations-to-scale-industrial-ai/"
-    },
-    {
-      "title": "NVIDIA NemoClaw AI agents automate industrial engineering",
-      "source": "IoT Tech News",
-      "date": "2026-06-04",
-      "product": "IoT Industry",
-      "score": 83,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "NVIDIA NemoClaw AI agents are automating industrial engineering workflows across major enterprise software applications. Hardware acceleration reduced simulation compute times from weeks to hours, but the engineering constraint now lies in manual preparation...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA NemoClaw AI agents automate industrial engineering\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-nemoclaw-ai-agents-automate-industrial-engineering/"
     },
     {
       "title": "GSMA MWC26 Shanghai announces Formula E showcase and global speaker line-up",
