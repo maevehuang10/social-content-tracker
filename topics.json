@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T06:04:29.668Z",
+  "generatedAt": "2026-06-11T10:57:15.810Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,56 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "piBrick PocketCM5 – An open-source handheld Linux computer kit for Raspberry Pi CM5",
+      "source": "CNX Software",
+      "date": "2026-06-11",
+      "product": "ESP32 Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Designed by Indonesian maker Ahmad Amarullah (amarullz), the piBrick PocketCM5 is an open-source hardware handheld Linux computer kit built around the Raspberry Pi CM5; it’s basically a smartphone-sized Linux machine with a physical keyboard and touchscreen....",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "piBrick PocketCM5 – An open-source handheld Linux computer kit for Raspberry Pi CM5\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/"
+    },
+    {
+      "title": "Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations",
+      "source": "CNX Software",
+      "date": "2026-06-11",
+      "product": "Cellular IoT Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "NB-IoT",
+        "Cat.1",
+        "Cellular IoT"
+      ],
+      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
+      "summary": "Ivan Svarkovsky’s S3-MSX-PC open-source project implements a bare-metal MSX2+ emulator running on an ESP32-S3 microcontroller and outputting 64-color VGA via a simple R-2R resistor ladder. It’s a fork of the Retro-Go emulator for ODROID-GO and other ESP32...",
+      "hook": "Wide-area IoT starts with the right connectivity choice.",
+      "post": "Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/11/bare-metal-msx2-emulator-for-esp32-s3-offers-custom-lcd_cam-vga-implementation-z80-optimizations/"
+    },
     {
       "title": "PZSDR P047 RF-ADC and RF-DAC high-end SDR board is based on AMD Zynq UltraScale+ ZU47DR RFSoC (Crowdfunding)",
       "source": "CNX Software",
@@ -418,56 +468,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT Now Contract Win List – May 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/08/156857-iot-now-contract-win-list-may-2026/"
-    },
-    {
-      "title": "AweSun Cloud KVM Q1 Review – An ultra-compact, low-cost KVM over IP solution tested with Windows 11 and Android clients",
-      "source": "CNX Software",
-      "date": "2026-06-07",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "AweSun has sent me a sample of their “Cloud KVM Q1” 4K KVM over IP solution for review. It’s a compact device with the minimum number of ports for a connected KVM: USB-C for keyboard and mouse emulation, HDMI input for video, and Ethernet for connectivity to...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "AweSun Cloud KVM Q1 Review – An ultra-compact, low-cost KVM over IP solution tested with Windows 11 and Android clients\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/07/awesun-cloud-kvm-q1-review-an-ultra-compact-low-cost-kvm-over-ip-solution/"
-    },
-    {
-      "title": "Docker for Microcontrollers? AkiraOS combines Zephyr RTOS with WebAssembly (WASM) applications",
-      "source": "CNX Software",
-      "date": "2026-06-06",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "AkiraOS is a Zephyr-based embedded OS that runs sandboxed WebAssembly applications on microcontrollers and lets users deploy and update firmware OTA without reflashing. In other words, it’s similar to Docker containers, but for microcontrollers. The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Docker for Microcontrollers? AkiraOS combines Zephyr RTOS with WebAssembly (WASM) applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/06/docker-for-microcontrollers-akiraos-combines-zephyr-rtos-with-webassembly-wasm-applications/"
     },
     {
       "title": "Why visibility matters more than hype across IT, IoT and OT",
