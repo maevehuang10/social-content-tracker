@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T10:39:10.427Z",
+  "generatedAt": "2026-06-12T15:35:07.783Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -117,6 +117,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Global tech leaders converge in Berlin to set new AI directions for Europe’s €1.5 trillion tech economy\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/12/156989-global-tech-leaders-converge-in-berlin-to-set-new-ai-directions-for-europes-e1-5-trillion-tech-economy/"
+    },
+    {
+      "title": "Ricoh deploys Thread AI facility management platform",
+      "source": "IoT Tech News",
+      "date": "2026-06-12",
+      "product": "IoT Industry",
+      "score": 70,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Ricoh and Thread AI have deployed an automated facility management platform uniting multimodal AI with digital twin infrastructure. The initiative targets the advancement and automation of facility-management operations within Japan and addresses a known...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Ricoh deploys Thread AI facility management platform\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/ricoh-deploys-thread-ai-facility-management-platform/"
     },
     {
       "title": "piBrick PocketCM5 – An open-source handheld Linux computer kit for Raspberry Pi CM5",
@@ -609,31 +634,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Siemens and HighByte partner on industrial data operations to scale Industrial AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/04/156890-siemens-and-highbyte-partner-on-industrial-data-operations-to-scale-industrial-ai/"
-    },
-    {
-      "title": "NVIDIA NemoClaw AI agents automate industrial engineering",
-      "source": "IoT Tech News",
-      "date": "2026-06-04",
-      "product": "IoT Industry",
-      "score": 83,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "NVIDIA NemoClaw AI agents are automating industrial engineering workflows across major enterprise software applications. Hardware acceleration reduced simulation compute times from weeks to hours, but the engineering constraint now lies in manual preparation...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA NemoClaw AI agents automate industrial engineering\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-nemoclaw-ai-agents-automate-industrial-engineering/"
     }
   ]
 }
