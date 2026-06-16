@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T06:42:43.422Z",
+  "generatedAt": "2026-06-16T11:32:32.268Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,60 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "How to Choose the Best AI Platform for Smart Home Security",
+      "source": "IoT Tech News",
+      "date": "2026-06-16",
+      "product": "BLE Module",
+      "score": 97,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "What if a security system could respond to threats, not just deter them? Artificial intelligence (AI) makes that possible. AI-native processing for Internet of Things (IoT) devices elevates smart home security. However, not all platforms deliver the same...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "How to Choose the Best AI Platform for Smart Home Security\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/how-to-choose-the-best-ai-platform-for-smart-home-security/"
+    },
+    {
+      "title": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU",
+      "source": "CNX Software",
+      "date": "2026-06-16",
+      "product": "Cellular IoT Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "NB-IoT",
+        "Cat.1",
+        "Cellular IoT"
+      ],
+      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
+      "summary": "ADLINK COM-HPC-mPTL is a COM-HPC R1.3 Mini computer-on-module powered by the Intel Core Ultra Processor Series 3 “Panther Lake” family, up to the 180 TOPS 16-core Core Ultra X7 358H processor. The module supports up to 64GB LPDDR5x and optional NVMe SSD BGA...",
+      "hook": "Wide-area IoT starts with the right connectivity choice.",
+      "post": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu/"
+    },
     {
       "title": "OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your “spare” bandwidth",
       "source": "CNX Software",
@@ -31,6 +85,56 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your “spare” bandwidth\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/"
+    },
+    {
+      "title": "Reliance and Meta to develop AI-enabled data centre in Jamnagar, Gujarat",
+      "source": "IoT Now",
+      "date": "2026-06-16",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Reliance Industries Limited (RIL) has announced a partnership with Meta Platforms (Meta) for a data centre project in Jamnagar, Gujarat. RIL will develop a data centre with 168 MW capacity … Continued The post Reliance and Meta to develop AI-enabled data...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Reliance and Meta to develop AI-enabled data centre in Jamnagar, Gujarat\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/16/157006-reliance-and-meta-to-develop-ai-enabled-data-centre-in-jamnagar-gujarat/"
+    },
+    {
+      "title": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor",
+      "source": "CNX Software",
+      "date": "2026-06-16",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Last month, AMD introduced the Ryzen AI Halo Developer Platform based on the Ryzen AI Max+ 395 processor, delivering up to 126 TOPS, and pre-orders are now available for $3,999.99 at MicroCenter (US only, in-store pickup). The computer ships with 128GB...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/"
     },
     {
       "title": "Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules",
@@ -348,31 +452,6 @@
       "url": "https://iottechnews.com/news/ricoh-deploys-thread-ai-facility-management-platform/"
     },
     {
-      "title": "piBrick PocketCM5 – An open-source handheld Linux computer kit for Raspberry Pi CM5",
-      "source": "CNX Software",
-      "date": "2026-06-11",
-      "product": "ESP32 Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Designed by Indonesian maker Ahmad Amarullah (amarullz), the piBrick PocketCM5 is an open-source hardware handheld Linux computer kit built around the Raspberry Pi CM5; it’s basically a smartphone-sized Linux machine with a physical keyboard and touchscreen....",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "piBrick PocketCM5 – An open-source handheld Linux computer kit for Raspberry Pi CM5\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/"
-    },
-    {
       "title": "Telefónica and Halotech drive smart industrial safety in the United States with IoT and AI",
       "source": "IoT Now",
       "date": "2026-06-11",
@@ -425,31 +504,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "SONOFF BASIC-1GSP Matter over WiFi smart switch supports DIN rail mounting, real-time energy monitoring\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/11/sonoff-basic-1gsp-matter-over-wifi-smart-switch-supports-din-rail-mounting-real-time-energy-monitoring/"
-    },
-    {
-      "title": "Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations",
-      "source": "CNX Software",
-      "date": "2026-06-11",
-      "product": "Cellular IoT Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Ivan Svarkovsky’s S3-MSX-PC open-source project implements a bare-metal MSX2+ emulator running on an ESP32-S3 microcontroller and outputting 64-color VGA via a simple R-2R resistor ladder. It’s a fork of the Retro-Go emulator for ODROID-GO and other ESP32...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Bare-metal MSX2+ Emulator for ESP32-S3 offers custom LCD_CAM VGA implementation & Z80 optimizations\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/11/bare-metal-msx2-emulator-for-esp32-s3-offers-custom-lcd_cam-vga-implementation-z80-optimizations/"
     },
     {
       "title": "OQ Technology and Telefónica Germany launch direct-to-device satellite demo",
@@ -575,57 +629,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT Now Contract Win List – May 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/08/156857-iot-now-contract-win-list-may-2026/"
-    },
-    {
-      "title": "Why visibility matters more than hype across IT, IoT and OT",
-      "source": "IoT Tech News",
-      "date": "2026-06-05",
-      "product": "WiFi Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "From cloud to AI, strong security fundamentals – from identity and access control to segmentation and visibility – matter far more than chasing whatever technology is dominating the headlines. Max Borovkov, CEO at MBCTG, focuses on helping organisations...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "Why visibility matters more than hype across IT, IoT and OT\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/why-visibility-matters-more-than-hype-across-it-iot-and-ot/"
-    },
-    {
-      "title": "Shell expands predictive maintenance programme with C3 AI",
-      "source": "IoT Tech News",
-      "date": "2026-06-05",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Shell Information Technology International B.V. is extending its collaboration with C3 AI under a new multi-year agreement covering Shell’s global operations. Under the new agreement, Shell will extend its use of C3 AI Reliability beyond equipment anomaly...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Shell expands predictive maintenance programme with C3 AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/shell-predictive-maintenance-c3-ai/"
     }
   ]
 }
