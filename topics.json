@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T06:26:20.650Z",
+  "generatedAt": "2026-06-17T11:16:15.520Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,82 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board",
+      "source": "CNX Software",
+      "date": "2026-06-17",
+      "product": "ESP32 Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Last year, we noted three upcoming high-performance RISC-V SoCs to watch out for: Zhihe A210, SpacemiT K3, and UltraRISC UR-DP1000. The K3 has already been launched, and I’ll work on the K3-Pico-ITX SBC/mini PC review this coming weekend, while the UR-DP1000...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Zhihe A210 octa-core RISC-V SoC with 12 TOPS NPU powers SoM-based development board\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/17/zhihe-a210-octa-core-risc-v-soc-with-12-tops-npu-powers-som-based-development-board/"
+    },
+    {
+      "title": "Silicon Labs validates 200-node Matter-over-Thread IoT network",
+      "source": "IoT Tech News",
+      "date": "2026-06-17",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
+      ],
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Silicon Labs has executed a 200-node Matter-over-Thread validation network deployment to prove scalability in commercial IoT hardware. The semiconductor manufacturer announced the physical deployment at the Connectivity Standards Alliance (CSA) inaugural...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "Silicon Labs validates 200-node Matter-over-Thread IoT network\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/silicon-labs-200-node-matter-over-thread-iot-network/"
+    },
+    {
+      "title": "Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support",
+      "source": "CNX Software",
+      "date": "2026-06-17",
+      "product": "ESP32 Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Amlogic has introduced the A311Y3 Edge AI SoC, which seems to be an upgrade over earlier designs such as the A311D and A311D2 used in boards like the Khadas VIM3 and Khadas VIM4. Although not listed on the official Amlogic website, documentation from vendors...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/"
+    },
     {
       "title": "SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding)",
       "source": "CNX Software",
@@ -31,6 +107,81 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/17/scintix-p4-esp32-p4-compute-module-raspberry-pi-cm4-cm5-carrier-boards/"
+    },
+    {
+      "title": "Is Your IoT Operation Built for Scale?",
+      "source": "IoT Now",
+      "date": "2026-06-17",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "By 2030, there will be more than 29 billion connected IoT devices operating globally. But most organisations still manage them reactively. Problems are discovered after failure. Troubleshooting is manual. Downtime … Continued The post Is Your IoT Operation...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is Your IoT Operation Built for Scale?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/17/156682-is-your-iot-operation-built-for-scale/"
+    },
+    {
+      "title": "What Happens When Airlines Finally Gain Full IoT Visibility?",
+      "source": "IoT Now",
+      "date": "2026-06-17",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Managing thousands of connected devices across a global operation is difficult enough. Doing it without visibility? Almost impossible. That was the challenge facing Swiss International Airlines — until Aeris IoT … Continued The post What Happens When Airlines...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "What Happens When Airlines Finally Gain Full IoT Visibility?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/17/156676-what-happens-when-airlines-finally-gain-full-iot-visibility/"
+    },
+    {
+      "title": "NTT DOCOMO BUSINESS and TRANSATEL launch “Cellular SASE for IoT”",
+      "source": "IoT Now",
+      "date": "2026-06-17",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "NTT DOCOMO BUSINESS and TRANSATEL, an NTT company and global pioneer in cellular IoT connectivity, in collaboration with Zscaler, are launching “Cellular SASE for IoT,” a new solution for the … Continued The post NTT DOCOMO BUSINESS and TRANSATEL launch...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NTT DOCOMO BUSINESS and TRANSATEL launch “Cellular SASE for IoT”\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/17/157054-ntt-docomo-business-and-transatel-launch-cellular-sase-for-iot/"
     },
     {
       "title": "How to Choose the Best AI Platform for Smart Home Security",
@@ -366,63 +517,6 @@
       "url": "https://www.cnx-software.com/2026/06/13/espressif-esp32-e22-wifi-6e-module-gets-wi-fi-certified-certificate-an-open-source-wifi-and-bluetooth-linux-drivers/"
     },
     {
-      "title": "Fortior FU75xx dual-core motor control MCU family combines 32-bit RISC-V core with 2nd-gen Motor Engine (ME2) core",
-      "source": "CNX Software",
-      "date": "2026-06-12",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Motor driver IC specialist Fortior Technology has recently introduced the FU75xx dual-core motor control MCU family, pairing a 32-bit RISC-V core and the company’s proprietary 2nd-generation Motor Engine (ME2) core. The RISC-V core is used for parameter...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Fortior FU75xx dual-core motor control MCU family combines 32-bit RISC-V core with 2nd-gen Motor Engine (ME2) core\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/12/fortior-fu75xx-dual-core-motor-control-mcu-family-combines-32-bit-risc-v-core-with-2nd-generation-motor-engine-me2-core/"
-    },
-    {
-      "title": "$7.99 Seeed Studio Wio-S3 WiFi, Bluetooth LE, and LoRa IoT module combines ESP32-S3 and SX1262 RF transceiver",
-      "source": "CNX Software",
-      "date": "2026-06-12",
-      "product": "LoRa Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "Seeed Studio Wio-S3 is a compact (21.6 x 16.5 x 3.3 mm) wireless module that combines an ESP32-S3R8 dual-core WiFi 4 and Bluetooth LE MCU and a Semtech SX1262 LoRa transceiver. The module includes 16MB Flash and 8MB PSRAM, and supports LoRa (EU868/US915) with...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "$7.99 Seeed Studio Wio-S3 WiFi, Bluetooth LE, and LoRa IoT module combines ESP32-S3 and SX1262 RF transceiver\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/12/7-99-seeed-studio-wio-s3-wifi-bluetooth-le-and-lora-iot-module-combines-esp32-s3-and-sx1262-rf-transceiver/"
-    },
-    {
       "title": "M5Stack Capsule Kit v1.1- A Battery-powered ESP32-S3 IoT controller with IMU sensor, MEMS microphone, and IR transmitter",
       "source": "CNX Software",
       "date": "2026-06-12",
@@ -525,106 +619,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Telefónica and Halotech drive smart industrial safety in the United States with IoT and AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/11/156980-telefonica-and-halotech-drive-smart-industrial-safety-in-the-united-states-with-iot-and-ai/"
-    },
-    {
-      "title": "OQ Technology and Telefónica Germany launch direct-to-device satellite demo",
-      "source": "IoT Now",
-      "date": "2026-06-10",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "OQ Technology, one of Europe’s direct-to-device (D2D) satellite operator, and Telefónica Germany are joining forces to conduct the first live demonstration of two-way satellite communications by a European satellite operator … Continued The post OQ Technology...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "OQ Technology and Telefónica Germany launch direct-to-device satellite demo\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/10/156975-oq-technology-and-telefonica-germany-launch-direct-to-device-satellite-demo/"
-    },
-    {
-      "title": "Epiroc and Ericsson partner to accelerate industrial transformation in mining with LTE and 5G connectivity",
-      "source": "IoT Now",
-      "date": "2026-06-09",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Epiroc and Ericsson are joining forces through a global agreement to scale LTE and 5G connectivity for the mining industry. Under the agreement, Epiroc will offer Ericsson’s technology through its … Continued The post Epiroc and Ericsson partner to accelerate...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Epiroc and Ericsson partner to accelerate industrial transformation in mining with LTE and 5G connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/09/156968-epiroc-and-ericsson-partner-to-accelerate-industrial-transformation-in-mining-with-lte-and-5g-connectivity/"
-    },
-    {
-      "title": "Private 5G goes underground in Ericsson and Epiroc mining deal",
-      "source": "IoT Tech News",
-      "date": "2026-06-09",
-      "product": "Cellular IoT Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Ericsson and Epiroc are stepping up their joint efforts to push private 5G into the mining world. Getting a steady stream of data down into these subterranean spaces is tough. The conditions are brutal on both the human crews working there and the tech they...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Private 5G goes underground in Ericsson and Epiroc mining deal\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/private-5g-underground-in-ericsson-and-epiroc-mining-deal/"
-    },
-    {
-      "title": "Origin Energy and Landis+Gyr bring large-scale smart gas technology to Australian homes and businesses",
-      "source": "IoT Now",
-      "date": "2026-06-08",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Gas customers across Australia could soon see fewer estimated bills, fewer manual meter readings, and a more modern energy service experience as the country’s gas networks begin a large-scale digital … Continued The post Origin Energy and Landis+Gyr bring...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Origin Energy and Landis+Gyr bring large-scale smart gas technology to Australian homes and businesses\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/08/156954-origin-energy-and-landisgyr-bring-large-scale-smart-gas-technology-to-australian-homes-and-businesses/"
     }
   ]
 }
