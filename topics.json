@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T10:45:57.959Z",
+  "generatedAt": "2026-06-18T15:49:32.987Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -60,6 +60,35 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Rockchip RK3539 quad-core Cortex-A55 SoC shows up in low-cost Android 14 4K TV stick with AV1 codec support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/18/rockchip-rk3539-quad-core-cortex-a55-soc-low-cost-android-14-4k-tv-stick/"
+    },
+    {
+      "title": "UP WCL – A credit card-sized Wildcat Lake SBC with up to 24GB LPDDR5, 256GB UFS",
+      "source": "CNX Software",
+      "date": "2026-06-18",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "AAEON’s UP WCL is an upcoming credit card-sized single board computer (SBC) powered by an Intel Wildcat Lake processor up to the Core 7 350 hexa-core CPU paired with up to 24GB LPDDR5 and 256GB UFS storage. The board also features an HDMI 2.1 video output, a...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "UP WCL – A credit card-sized Wildcat Lake SBC with up to 24GB LPDDR5, 256GB UFS\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/18/up-wcl-a-credit-card-sized-wildcat-lake-sbc-with-up-to-24gb-lpddr5-256gb-ufs/"
     },
     {
       "title": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge",
@@ -591,31 +620,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Singtel Digital InfraCo’s RE:AI and WEKA partner to deliver sovereign AI infrastructure across ASEAN\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/15/157003-singtel-digital-infracos-reai-and-weka-partner-to-deliver-sovereign-ai-infrastructure-across-asean/"
-    },
-    {
-      "title": "Creality Sermoon S1 review – Part 3: 3D scanning with Khadas Mind 2 and NVIDIA GeForce RTX 5060 Ti 16GB dock",
-      "source": "CNX Software",
-      "date": "2026-06-14",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "At the end of last year, I received a Creality Sermoon S1 high-end 3D scanner for review. After checking the specifications and going through an unboxing in the first part of the review, I used the 3D scanner with an Intel Core i5-13500H laptop with 16GB of...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Creality Sermoon S1 review – Part 3: 3D scanning with Khadas Mind 2 and NVIDIA GeForce RTX 5060 Ti 16GB dock\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/14/creality-sermoon-s1-review-part-3-3d-scanning-with-khadas-mind-2-and-nvidia-geforce-rtx-5060-ti-16gb-dock/"
     }
   ]
 }
