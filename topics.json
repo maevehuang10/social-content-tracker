@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T06:30:00.512Z",
+  "generatedAt": "2026-06-19T10:55:38.716Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,58 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements",
+      "source": "CNX Software",
+      "date": "2026-06-19",
+      "product": "WiFi Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
+      ],
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Connectivity Standards Alliance (CSA) has recently released the Matter 1.6 specification with new features such as NFC-based commissioning, Thermostat Suggestions for smarter climate control, and a range of core enhancements designed to improve device...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/19/matter-1-6-specification-adds-nfc-based-commissioning-thermostat-suggestions-various-core-enhancements/"
+    },
+    {
+      "title": "Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-06-19",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "While mouse sensors have improved a lot over time, the scroll wheel has mostly stayed the same. Normal scrolling requires you to keep flicking your finger up and down, which can get uncomfortable during long sessions like coding or video editing. To change...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Rotary Mouse puts a rotary wheel into a standard desktop mouse (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/19/rotary-mouse-puts-a-rotary-wheel-into-a-standard-desktop-mouse/"
+    },
     {
       "title": "Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms",
       "source": "CNX Software",
@@ -520,56 +572,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/"
-    },
-    {
-      "title": "Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules",
-      "source": "CNX Software",
-      "date": "2026-06-15",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Last March, Gateworks introduced the Catalina SBC family, starting with the GW9200 board, based on NXP i.MX 95 SoC for industrial Edge AI applications, and featuring Flexible Socket Adapter (FSA) sockets to accommodate either mini PCIe or M.2 module adapters,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Gateworks Catalina GW9200 NXP i.MX 95 SBC features Flexible Socket Adapter sockets for M.2 or mPCIe modules\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/15/gateworks-catalina-gw9200-nxp-i-mx-95-sbc-features-flexible-socket-adapter-sockets-for-m-2-or-mpcie-modules/"
-    },
-    {
-      "title": "Linux 7.1 Release – Main changes, Arm, RISC-V, and MIPS architectures",
-      "source": "CNX Software",
-      "date": "2026-06-15",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Linus Torvalds has just released Linux 7.1 on LKML: So it’s only Sunday morning back home, but it’s Sunday afternoon where I am right now, so I’m doing the 7.1 release at the regular time – just not in the regular timezone. This obviously means that the merge...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Linux 7.1 Release – Main changes, Arm, RISC-V, and MIPS architectures\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/15/linux-7-1-release-main-changes-arm-risc-v-and-mips-architectures/"
     },
     {
       "title": "Industrial automation drives private 5G past 2,000 deployments",
