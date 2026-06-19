@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T15:49:32.987Z",
+  "generatedAt": "2026-06-19T06:30:00.512Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms",
+      "source": "CNX Software",
+      "date": "2026-06-19",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Linux on Qualcomm SoCs has been a roller coaster, with hope often followed by disappointment, at least for the Snapdragon family. The company aims to change that with Qualcomm Linux 2.0 for Dragonwing IoT platforms, as announced on LinkedIn: With Qualcomm...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Qualcomm promises a major reset with upstream-first, Qualcomm Linux 2.0 for Dragonwing IoT platforms\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/19/qualcomm-promises-a-major-reset-with-upstream-first-qualcomm-linux-2-0-for-dragonwing-iot-platforms/"
+    },
     {
       "title": "Broadcom unveils fully-integrated quad-core Wi-Fi 8 access point SoCs, 5G FWA router reference platform",
       "source": "CNX Software",
@@ -570,31 +595,6 @@
       "hook": "Wide-area IoT starts with the right connectivity choice.",
       "post": "Industrial automation drives private 5G past 2,000 deployments\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/industrial-automation-private-5g-past-2000-deployments/"
-    },
-    {
-      "title": "Lower Than Prime Day Pricing: 20% off on GEEKOM A8 AMD Ryzen 7 8745HS mini PC (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-06-15",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The GEEKOM A8, an AMD Ryzen 7 874HS octa-core mini PC equipped with 16GB DDR5 and a 1TB NVMe SSD, is now offered at a 20% discount, dropping the price to $519/￡503 from $649/ ￡629 MSRP. This promotional price is expected to be lower than the A8’s pricing...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Lower Than Prime Day Pricing: 20% off on GEEKOM A8 AMD Ryzen 7 8745HS mini PC (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/15/lower-than-prime-day-pricing-20-off-on-geekom-a8-amd-ryzen-7-8745hs-mini-pc/"
     },
     {
       "title": "Singtel Digital InfraCo’s RE:AI and WEKA partner to deliver sovereign AI infrastructure across ASEAN",
