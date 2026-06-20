@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:38:25.480Z",
+  "generatedAt": "2026-06-20T05:42:20.035Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU",
+      "source": "CNX Software",
+      "date": "2026-06-20",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "After over two years in the making, Pine64 has now launched the PineVoice (previously PineVox) smart speaker based on the Bouffalo Lab BL606P RISC-V wireless microcontroller with WiFi, Bluetooth, and Zigbee radio interfaces. The device also features two...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/20/pine64-pinevoice-a-50-risc-v-smart-speaker-for-home-assistant-based-on-bouffalo-lab-bl606p-mcu/"
+    },
     {
       "title": "Matter 1.6 specification adds NFC-based commissioning, thermostat suggestions, various core enhancements",
       "source": "CNX Software",
@@ -500,31 +529,6 @@
       "hook": "Wide-area IoT starts with the right connectivity choice.",
       "post": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu/"
-    },
-    {
-      "title": "OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your “spare” bandwidth",
-      "source": "CNX Software",
-      "date": "2026-06-16",
-      "product": "ESP32 Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "While writing about the recent Linux 7.1 release, I came across the “OneThing Edge Cube” (OEC) based on the Rockchip RK3566 SoC. I assume it may have been some type of NAS, but instead it’s a box for the OpenThingCloud decentralized bandwidth sharing...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "OneThingCloud decentralized bandwidth sharing/distributed CDN solution pays you for your “spare” bandwidth\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/16/onethingcloud-decentralized-bandwidth-sharing-distributed-cdn-solution-pays-you-for-your-spare-bandwidth/"
     },
     {
       "title": "Master the IoT ecosystem at scale with a Single Pane of Glass",
