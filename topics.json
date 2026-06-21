@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T10:03:42.610Z",
+  "generatedAt": "2026-06-21T14:30:33.945Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,40 +8,13 @@
   ],
   "topics": [
     {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-06-21"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
+      "title": "SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0",
+      "source": "CNX Software",
+      "date": "2026-06-21",
       "product": "WiFi Module",
-      "score": 94,
+      "score": 80,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -49,70 +22,15 @@
         "Facebook"
       ],
       "tags": [
-        "Matter",
+        "WiFi",
         "Smart Home",
-        "Interoperability"
+        "Wireless Module"
       ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-06-21"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-06-21"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-06-21"
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Last month, I received the SpacemiT K3 Pico-ITX Chassis Kit based on the company’s K3 16-core RISC-V SoC, and started the review with an unboxing, a teardown, and a first boot to Bianbu OS 4.0. Since the system features a 10Gbps Ethernet SFP+ cage, I also had...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/21/spacemit-k3-pico-itx-risc-v-chassis-kit-review-part-2-what-works-what-doesnt-in-bianbu-os-4-0/"
     },
     {
       "title": "Pine64 Pinevoice – A $50 RISC-V Smart Speaker for Home Assistant based on Bouffalo Lab BL606P MCU",
@@ -612,15 +530,89 @@
       "url": "https://iottechnews.com/news/how-to-choose-the-best-ai-platform-for-smart-home-security/"
     },
     {
-      "title": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU",
-      "source": "CNX Software",
+      "title": "Master the IoT ecosystem at scale with a Single Pane of Glass",
+      "source": "IoT Now",
       "date": "2026-06-16",
-      "product": "Cellular IoT Module",
-      "score": 94,
+      "product": "BLE Module",
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IoT eSIM adoption is accelerating — but for many enterprises, managing device productivity and connectivity at scale is still fragmented, manual and largely out of their control. Join Thales and Simetric for a practical … Continued The post Master the IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Master the IoT ecosystem at scale with a Single Pane of Glass\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/16/157034-master-the-iot-ecosystem-at-scale-with-a-single-pane-of-glass/"
+    },
+    {
+      "title": "Reliance and Meta to develop AI-enabled data centre in Jamnagar, Gujarat",
+      "source": "IoT Now",
+      "date": "2026-06-16",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Reliance Industries Limited (RIL) has announced a partnership with Meta Platforms (Meta) for a data centre project in Jamnagar, Gujarat. RIL will develop a data centre with 168 MW capacity … Continued The post Reliance and Meta to develop AI-enabled data...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Reliance and Meta to develop AI-enabled data centre in Jamnagar, Gujarat\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/16/157006-reliance-and-meta-to-develop-ai-enabled-data-centre-in-jamnagar-gujarat/"
+    },
+    {
+      "title": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor",
+      "source": "CNX Software",
+      "date": "2026-06-16",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Last month, AMD introduced the Ryzen AI Halo Developer Platform based on the Ryzen AI Max+ 395 processor, delivering up to 126 TOPS, and pre-orders are now available for $3,999.99 at MicroCenter (US only, in-store pickup). The computer ships with 128GB...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/"
+    },
+    {
+      "title": "Industrial automation drives private 5G past 2,000 deployments",
+      "source": "IoT Tech News",
+      "date": "2026-06-15",
+      "product": "Cellular IoT Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
@@ -632,10 +624,10 @@
         "Cellular IoT"
       ],
       "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "ADLINK COM-HPC-mPTL is a COM-HPC R1.3 Mini computer-on-module powered by the Intel Core Ultra Processor Series 3 “Panther Lake” family, up to the 180 TOPS 16-core Core Ultra X7 358H processor. The module supports up to 64GB LPDDR5x and optional NVMe SSD BGA...",
+      "summary": "Private 5G mobile networks passed 2,000 enterprise deployments in the first quarter, driven heavily by complex industrial automation demands. The Global mobile Suppliers Association (GSA) tracked 2,003 organisations running private cellular infrastructure...",
       "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu/"
+      "post": "Industrial automation drives private 5G past 2,000 deployments\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/industrial-automation-private-5g-past-2000-deployments/"
     }
   ]
 }
