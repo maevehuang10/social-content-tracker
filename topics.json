@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T14:30:33.945Z",
+  "generatedAt": "2026-06-22T06:40:22.240Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "UTFS is a lightweight, zero-allocation file system for embedded devices",
+      "source": "CNX Software",
+      "date": "2026-06-22",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "CLI Systems has introduced UTFS (μTFS), a simple, lightweight embedded storage system designed for small MCUs. Unlike traditional file systems like FAT32 or EXT4, or even lighter options like LittleFS and SPIFFS used on boards like the ESP32, UTFS is much...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "UTFS is a lightweight, zero-allocation file system for embedded devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/"
+    },
     {
       "title": "SpacemiT K3 Pico-ITX RISC-V Chassis Kit Review – Part 2: What works, what doesn’t in Bianbu OS 4.0",
       "source": "CNX Software",
@@ -578,31 +603,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Reliance and Meta to develop AI-enabled data centre in Jamnagar, Gujarat\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/16/157006-reliance-and-meta-to-develop-ai-enabled-data-centre-in-jamnagar-gujarat/"
-    },
-    {
-      "title": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor",
-      "source": "CNX Software",
-      "date": "2026-06-16",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Last month, AMD introduced the Ryzen AI Halo Developer Platform based on the Ryzen AI Max+ 395 processor, delivering up to 126 TOPS, and pre-orders are now available for $3,999.99 at MicroCenter (US only, in-store pickup). The computer ships with 128GB...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/"
     },
     {
       "title": "Industrial automation drives private 5G past 2,000 deployments",
