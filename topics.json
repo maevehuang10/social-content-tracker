@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T06:40:22.240Z",
+  "generatedAt": "2026-06-22T12:24:01.118Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,56 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution",
+      "source": "CNX Software",
+      "date": "2026-06-22",
+      "product": "ESP32 Module",
+      "score": 97,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "STMicroelectronics VL53L9CX, or VL53L9 for short, is the company’s first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module. It offers a sensing range of 5 centimeters to 9 meters, a wide 72º field of view, a resolution of 2.3K zones, and up to 100 Hz...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/"
+    },
+    {
+      "title": "GEEKOM A7 2026 Edition Review – Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro",
+      "source": "CNX Software",
+      "date": "2026-06-22",
+      "product": "WiFi Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
+      ],
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "We have already checked out the GEEKOM A7 2026 Edition mini PC’s hardware with an unboxing and a teardown in the first part of the review, before quickly trying the pre-installed Windows 11 Pro. We’ve now had time to test the AMD Ryzen 5 7545U mini PC more...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "GEEKOM A7 2026 Edition Review – Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/"
+    },
     {
       "title": "UTFS is a lightweight, zero-allocation file system for embedded devices",
       "source": "CNX Software",
@@ -400,56 +450,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "Silicon Labs validates 200-node Matter-over-Thread IoT network\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/silicon-labs-200-node-matter-over-thread-iot-network/"
-    },
-    {
-      "title": "Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support",
-      "source": "CNX Software",
-      "date": "2026-06-17",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Amlogic has introduced the A311Y3 Edge AI SoC, which seems to be an upgrade over earlier designs such as the A311D and A311D2 used in boards like the Khadas VIM3 and Khadas VIM4. Although not listed on the official Amlogic website, documentation from vendors...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Amlogic A311Y3 octa-core Edge AI SoC features Cortex-A78/A55 cores, 8 TOPS NPU, LPDDR5 support\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/17/amlogic-a311y3-octa-core-edge-ai-soc-features-cortex-a78-a55-cores-8-tops-npu-lpddr5-support/"
-    },
-    {
-      "title": "SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-06-17",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "SCINTIX P4 is an ESP32-P4 RISC-V Compute Module with an ESP32-C6 for wireless connectivity that’s compatible with Raspberry Pi CM4/CM5 carrier boards, at least partially. It should be the first MCU-based system-on-module in Raspberry Pi CM4/CM5 form factor,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "SCINTIX P4 ESP32-P4 Compute Module works with (some) Raspberry Pi CM4/CM5 carrier boards (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/17/scintix-p4-esp32-p4-compute-module-raspberry-pi-cm4-cm5-carrier-boards/"
     },
     {
       "title": "Is Your IoT Operation Built for Scale?",
