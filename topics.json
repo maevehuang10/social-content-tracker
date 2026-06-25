@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T05:14:43.309Z",
+  "generatedAt": "2026-06-25T09:41:21.774Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,63 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
+      "source": "CNX Software",
+      "date": "2026-06-25",
+      "product": "BLE Module",
+      "score": 97,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Quectel FCM365X is a short-range IoT module based on NXP RW612 wireless MCU with support for dual-band Wi-Fi 6, Bluetooth Low Energy (BLE) 5.4, and 802.15.4 (Zigbee and Thread) connectivity. The compact 25.5 x 18.0mm RW612 module features 8MB flash and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/"
+    },
+    {
+      "title": "Iridium NTN Direct begins live testing with Mlink",
+      "source": "IoT Now",
+      "date": "2026-06-25",
+      "product": "BLE Module",
+      "score": 90,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Iridium Communications, a provider of global voice, data and positioning, navigation and timing (PNT) satellite services, has announced that Mlink Technology (Mlink), a fabless semiconductor company specialising in IoT and satellite … Continued The post...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Iridium NTN Direct begins live testing with Mlink\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/25/157200-iridium-ntn-direct-begins-live-testing-with-mlink/"
+    },
     {
       "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
       "source": "CNX Software",
@@ -423,31 +480,6 @@
       "url": "https://iot-now.com/2026/06/23/157119-mwc26-shanghai-explore-the-technologies-shaping-everyday-life/"
     },
     {
-      "title": "ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution",
-      "source": "CNX Software",
-      "date": "2026-06-22",
-      "product": "ESP32 Module",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "STMicroelectronics VL53L9CX, or VL53L9 for short, is the company’s first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module. It offers a sensing range of 5 centimeters to 9 meters, a wide 72º field of view, a resolution of 2.3K zones, and up to 100 Hz...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ST VL53L9CX direct Time-of-Flight 3D LiDAR supports 5cm to 9m range, 2.3K zones resolution\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/22/st-vl53l9cx-direct-time-of-flight-3d-lidar-supports-5cm-to-9m-range-2-3k-zones-resolution/"
-    },
-    {
       "title": "Optocam Zero – A Raspberry Pi Zero 2 W-based DIY digital camera",
       "source": "CNX Software",
       "date": "2026-06-22",
@@ -600,32 +632,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "Matter 1.6 standardises ‘Joint Fabric’ network administration\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/matter-1-6-standardises-joint-fabric-network-administration/"
-    },
-    {
-      "title": "Silicon Labs validates 200-node Matter-over-Thread IoT network",
-      "source": "IoT Tech News",
-      "date": "2026-06-17",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "Silicon Labs has executed a 200-node Matter-over-Thread validation network deployment to prove scalability in commercial IoT hardware. The semiconductor manufacturer announced the physical deployment at the Connectivity Standards Alliance (CSA) inaugural...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "Silicon Labs validates 200-node Matter-over-Thread IoT network\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/silicon-labs-200-node-matter-over-thread-iot-network/"
     }
   ]
 }
