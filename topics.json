@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T14:50:38.718Z",
+  "generatedAt": "2026-06-25T05:14:43.309Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
+      "source": "CNX Software",
+      "date": "2026-06-25",
+      "product": "ESP32 Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/"
+    },
     {
       "title": "Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB",
       "source": "CNX Software",
@@ -63,6 +88,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Qualinx’s QLX3Gx Series Chip integration with Galileo OSNMA brings authenticated GNSS positioning to ultra-low-power devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/24/157157-qualinxs-qlx3gx-series-chip-integration-with-galileo-osnma-brings-authenticated-gnss-positioning-to-ultra-low-power-devices/"
+    },
+    {
+      "title": "NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC",
+      "source": "CNX Software",
+      "date": "2026-06-24",
+      "product": "ESP32 Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Camthink NeoEyes NE503 is a 4K Edge AI camera platform powered by the Hailo-15H quad-core Cortex-A53 SoC with a 20 TOPS AI accelerator, and paired with 8GB of LPDDR4 memory and a 64GB eMMC flash. The camera also features a Sony IMX678 4K sensor and an 8–32mm...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "NeoEyes NE503 – A $1199 Edge AI Camera based on Hailo-15H 20 TOPS SoC\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/25/neoeyes-ne503-a-1199-edge-ai-camera-based-on-hailo-15h-20-tops-soc/"
     },
     {
       "title": "Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module",
@@ -421,56 +471,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Optocam Zero – A Raspberry Pi Zero 2 W-based DIY digital camera\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/22/optocam-zero-a-raspberry-pi-zero-2-w-based-diy-digital-camera/"
-    },
-    {
-      "title": "GEEKOM A7 2026 Edition Review – Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro",
-      "source": "CNX Software",
-      "date": "2026-06-22",
-      "product": "WiFi Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "We have already checked out the GEEKOM A7 2026 Edition mini PC’s hardware with an unboxing and a teardown in the first part of the review, before quickly trying the pre-installed Windows 11 Pro. We’ve now had time to test the AMD Ryzen 5 7545U mini PC more...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "GEEKOM A7 2026 Edition Review – Part 2: AMD Ryzen 5 7545U Mini PC tested with Windows 11 Pro\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/22/geekom-a7-2026-edition-review-part-2-amd-ryzen-5-7545u-mini-pc-tested-with-windows-11-pro/"
-    },
-    {
-      "title": "UTFS is a lightweight, zero-allocation file system for embedded devices",
-      "source": "CNX Software",
-      "date": "2026-06-22",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "CLI Systems has introduced UTFS (μTFS), a simple, lightweight embedded storage system designed for small MCUs. Unlike traditional file systems like FAT32 or EXT4, or even lighter options like LittleFS and SPIFFS used on boards like the ESP32, UTFS is much...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "UTFS is a lightweight, zero-allocation file system for embedded devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/22/utfs-is-a-lightweight-zero-allocation-file-system-for-embedded-devices/"
     },
     {
       "title": "KeySIM powers engineer M8 tracking guardian with resilient IoT SIM cards",
