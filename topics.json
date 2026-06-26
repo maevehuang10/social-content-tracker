@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T14:53:52.602Z",
+  "generatedAt": "2026-06-26T05:20:32.994Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,60 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os",
+      "source": "CNX Software",
+      "date": "2026-06-26",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The AIBOX-9075 is an industrial Edge AI box built around the Qualcomm IQ-9075 SoC, designed for running AI workloads directly on the device without relying on the cloud. With up to 200 TOPS of AI performance, it is designed for edge computing, private LLM...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/"
+    },
+    {
+      "title": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor",
+      "source": "CNX Software",
+      "date": "2026-06-26",
+      "product": "ESP32 Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "CHUWI has just opened pre-orders for the $449 UniBook Laptop powered by an Intel Core 3 304 penta-core “Wildcat Lake” SoC, and equipped with 8GB LPDDR5 RAM, a 256GB NVMe SSD, and a 14-inch 1920×1200 IPS display. It looks like the Wildcat Lake era has finally...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/"
+    },
     {
       "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
       "source": "CNX Software",
@@ -375,64 +429,6 @@
       "hook": "Good IoT content starts with useful market context.",
       "post": "Supermicro expands edge AI systems for industrial IoT workloads\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/supermicro-edge-ai-systems-industrial-iot/"
-    },
-    {
-      "title": "Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI",
-      "source": "CNX Software",
-      "date": "2026-06-23",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Nordic Semiconductor has launched the nRF54L15 Tag, a tiny coin-cell-powered prototyping platform designed to accelerate the development of ultra-low-power wireless IoT devices, including asset trackers compatible with the Apple Find My and Google Find Hub...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Coin-cell powered Nordic nRF54L15 Tag prototyping platform supports Bluetooth Channel Sounding, Matter, Edge AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/23/nordic-nrf54l15-tag-prototyping-platform-supports-bluetooth-channel-sounding-matter-edge-ai/"
-    },
-    {
-      "title": "MYiR MAC-B5760 fanless Edge AI industrial PC features Rockchip RK3576 SoC, optional RK1828 LLM/VLM module",
-      "source": "CNX Software",
-      "date": "2026-06-23",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MYiR MAC-B5760 is a fanless Edge AI industrial box PC powered by a Rockchip RK3576 SoC with a built-in 6 TOPs NPU, and equipped with 8GB LPDDR5 and 64GB flash by default. The embedded system offers two Gigabit Ethernet ports, four USB 3.0 ports, HDMI and mini...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "MYiR MAC-B5760 fanless Edge AI industrial PC features Rockchip RK3576 SoC, optional RK1828 LLM/VLM module\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/23/myir-mac-b5760-fanless-edge-ai-industrial-pc-offers-rockchip-rk3576-soc-optional-rk1828-llm-vlm-module/"
     },
     {
       "title": "NVIDIA Halos OS upgrades the safety of physical AI workloads",
