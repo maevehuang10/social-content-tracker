@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T05:20:32.994Z",
+  "generatedAt": "2026-06-26T09:49:37.697Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -60,6 +60,81 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/"
+    },
+    {
+      "title": "Make UK and Make UK Defence to launch first joint pavilion at Advanced Engineering 2026",
+      "source": "IoT Now",
+      "date": "2026-06-26",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Make UK and Make UK Defence will, for the first time, host a joint pavilion at Advanced Engineering 2026, bringing together two of the UK’s most influential industrial advocates in … Continued The post Make UK and Make UK Defence to launch first joint...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Make UK and Make UK Defence to launch first joint pavilion at Advanced Engineering 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/26/157211-make-uk-and-make-uk-defence-to-launch-first-joint-pavilion-at-advanced-engineering-2026/"
+    },
+    {
+      "title": "Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera",
+      "source": "CNX Software",
+      "date": "2026-06-26",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Makerfabs MaTouch ESP32-P4 TFTTouch 10.1 MIPI with 4G LTE is an ESP32-P4 + ESP32-C6-based display development platform for HMI edge AI, and connected embedded applications. The development board features a 10.1-inch IPS LCD, very similar to those of Seeed...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/"
+    },
+    {
+      "title": "Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online",
+      "source": "CNX Software",
+      "date": "2026-06-26",
+      "product": "ESP32 Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Cytron is currently selling a Raspberry Pi 4 Model B “Special Value Board” with 4GB or 8GB of RAM, whose unique feature is to be clocked at 1.25 GHz instead of 1.8 GHz. The Raspberry Pi 4 initially launched with a 1.5 GHz BCM2711 SoC in 2019, but all recent...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/"
     },
     {
       "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
@@ -222,35 +297,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Easier IoT management through commercial SGP.32 solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/25/157203-easier-iot-management-through-commercial-sgp-32-solutions/"
-    },
-    {
-      "title": "Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB",
-      "source": "CNX Software",
-      "date": "2026-06-24",
-      "product": "UWB Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "UWB",
-        "RTLS",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about precise indoor positioning, factory tracking, logistics, and RTLS projects.",
-      "summary": "Managed by the Connectivity Standards Alliance, Aliro is a smart lock/access control standard that works over NFC, Bluetooth LE, or UWB and is designed to be vendor-agnostic. While Matter is designed for Smart Home applications, Aliro specifically targets...",
-      "hook": "When meter-level location is not enough, UWB becomes interesting.",
-      "post": "Aliro is a vendor-agnostic standard for digital access control working over NFC, Bluetooth LE, or UWB\n\nThis is a useful signal for IoT brands and product teams watching UWB Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/24/aliro-is-a-vendor-agnostic-standard-for-digital-access-control-working-over-nfc-bluetooth-le-or-uwb/"
     },
     {
       "title": "Qualinx’s QLX3Gx Series Chip integration with Galileo OSNMA brings authenticated GNSS positioning to ultra-low-power devices",
@@ -481,31 +527,6 @@
       "url": "https://iot-now.com/2026/06/23/157100-nordic-powered-livestock-monitoring-collar-tag-tracks-health-of-grazing/"
     },
     {
-      "title": "TerraMaster F4-425 Pro 4+3 Hybrid NAS gets Intel Core 3 N350 or Core i3-N305 octa-core CPU",
-      "source": "CNX Software",
-      "date": "2026-06-23",
-      "product": "Cellular IoT Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "TerraMaster F4-425 Pro 4+3 Hybrid NAS is an update of the F4-425 Plus Intel N150 NAS with a more powerful Intel Core 3 N350 “Twin Lake” octa-core processor or Core i3-N305 octa-core “Alder Lake-N” processor. Apart from the new processors, the new Pro model...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "TerraMaster F4-425 Pro 4+3 Hybrid NAS gets Intel Core 3 N350 or Core i3-N305 octa-core CPU\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/23/terramaster-f4-425-pro-43-hybrid-nas-gets-intel-core-3-n350-or-core-i3-n305-octa-core-cpu/"
-    },
-    {
       "title": "MWC26 Shanghai: Explore the technologies shaping everyday life",
       "source": "IoT Now",
       "date": "2026-06-23",
@@ -607,31 +628,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/18/157060-watch-the-mwc-shanghai-humanoid-robot-football-penalties-challenge/"
-    },
-    {
-      "title": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming",
-      "source": "IoT Now",
-      "date": "2026-06-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The first commercial demonstration of connectivity on a Non-Terrestrial Network (NTN) has been completed for the first time in Brazil, as a result of the partnership between European telecommunications company … Continued The post Solution developed by...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/18/157057-solution-developed-by-sateliot-and-cpqd-aims-to-eliminate-connectivity-gaps-across-brazil-starting-with-livestock-farming/"
     }
   ]
 }
