@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T08:48:51.264Z",
+  "generatedAt": "2026-06-27T14:03:12.045Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -60,6 +60,34 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/"
+    },
+    {
+      "title": "Berg Insight: Pricing volatility hits cellular IoT module shipments",
+      "source": "IoT Tech News",
+      "date": "2026-06-26",
+      "product": "Cellular IoT Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "NB-IoT",
+        "Cat.1",
+        "Cellular IoT"
+      ],
+      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
+      "summary": "Cellular IoT module shipments reached 612 million units in 2025 as industrial deployments advanced against pricing volatility, according to Berg Insight. Annual sales grew 19 percent to $5.6 billion, excluding automotive network access devices. Industrial...",
+      "hook": "Wide-area IoT starts with the right connectivity choice.",
+      "post": "Berg Insight: Pricing volatility hits cellular IoT module shipments\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/berg-insight-pricing-volatility-cellular-iot-module-shipments/"
     },
     {
       "title": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor",
@@ -452,6 +480,56 @@
       "url": "https://iot-now.com/2026/06/24/157172-gsma-mwc26-shanghai-opens-doors-as-ai-robotics-and-drones-lead-packed-agenda/"
     },
     {
+      "title": "Supermicro expands edge AI systems for industrial IoT workloads",
+      "source": "IoT Tech News",
+      "date": "2026-06-24",
+      "product": "IoT Industry",
+      "score": 75,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Supermicro has expanded its edge AI systems portfolio with Intel-powered platforms designed for low-latency inference, industrial automation, and local processing in distributed environments. The expanded range includes systems using Intel Core Ultra Series 3...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Supermicro expands edge AI systems for industrial IoT workloads\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/supermicro-edge-ai-systems-industrial-iot/"
+    },
+    {
+      "title": "NVIDIA Halos OS upgrades the safety of physical AI workloads",
+      "source": "IoT Tech News",
+      "date": "2026-06-23",
+      "product": "ESP32 Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "NVIDIA Halos OS brings embedded hardware safety directly to physical AI workloads across industrial deployments. Traditional hazard protocols designed around fixed cages fail when autonomous machines operate alongside human personnel. Agility Robotics...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "NVIDIA Halos OS upgrades the safety of physical AI workloads\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-halos-os-upgrades-the-safety-of-physical-ai-workloads/"
+    },
+    {
       "title": "Nordic-powered livestock monitoring collar tag tracks health of grazing",
       "source": "IoT Now",
       "date": "2026-06-23",
@@ -527,104 +605,32 @@
       "url": "https://iot-now.com/2026/06/22/157089-keysim-powers-engineer-m8-tracking-guardian-with-resilient-iot-sim-cards/"
     },
     {
-      "title": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge",
-      "source": "IoT Now",
-      "date": "2026-06-18",
-      "product": "BLE Module",
-      "score": 80,
+      "title": "When operational IoT meets software strategy",
+      "source": "IoT Tech News",
+      "date": "2026-06-19",
+      "product": "IoT Industry",
+      "score": 83,
       "formats": [
         "LinkedIn Post",
-        "Sales Material"
+        "Sales Material",
+        "Short Video"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook"
+        "Facebook",
+        "TikTok",
+        "YouTube"
       ],
       "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
       ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The Humanoid Robot Football Penalty Challenge makes its debut at MWC Shanghai 2026, showcasing the latest advances in robotics, artificial intelligence and connectivity. Teams from around the world will compete … Continued The post Watch the MWC Shanghai...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/18/157060-watch-the-mwc-shanghai-humanoid-robot-football-penalties-challenge/"
-    },
-    {
-      "title": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming",
-      "source": "IoT Now",
-      "date": "2026-06-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The first commercial demonstration of connectivity on a Non-Terrestrial Network (NTN) has been completed for the first time in Brazil, as a result of the partnership between European telecommunications company … Continued The post Solution developed by...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/18/157057-solution-developed-by-sateliot-and-cpqd-aims-to-eliminate-connectivity-gaps-across-brazil-starting-with-livestock-farming/"
-    },
-    {
-      "title": "Is Your IoT Operation Built for Scale?",
-      "source": "IoT Now",
-      "date": "2026-06-17",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "By 2030, there will be more than 29 billion connected IoT devices operating globally. But most organisations still manage them reactively. Problems are discovered after failure. Troubleshooting is manual. Downtime … Continued The post Is Your IoT Operation...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Is Your IoT Operation Built for Scale?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/17/156682-is-your-iot-operation-built-for-scale/"
-    },
-    {
-      "title": "What Happens When Airlines Finally Gain Full IoT Visibility?",
-      "source": "IoT Now",
-      "date": "2026-06-17",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Managing thousands of connected devices across a global operation is difficult enough. Doing it without visibility? Almost impossible. That was the challenge facing Swiss International Airlines — until Aeris IoT … Continued The post What Happens When Airlines...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "What Happens When Airlines Finally Gain Full IoT Visibility?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/17/156676-what-happens-when-airlines-finally-gain-full-iot-visibility/"
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "AI investment now reaches into power, cooling, packaging, logistics, and automation, because compute capacity relies on systems that keep hardware operating. The constraints affecting data centre build-outs therefore also affect distributed infrastructure,...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "When operational IoT meets software strategy\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/when-operational-iot-meets-software-strategy/"
     }
   ]
 }
