@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T05:02:47.199Z",
+  "generatedAt": "2026-06-27T08:48:51.264Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,94 +8,13 @@
   ],
   "topics": [
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
+      "title": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC",
+      "source": "CNX Software",
+      "date": "2026-06-27",
       "product": "WiFi Module",
-      "score": 94,
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -103,16 +22,15 @@
         "Facebook"
       ],
       "tags": [
-        "Matter",
+        "WiFi",
         "Smart Home",
-        "Interoperability"
+        "Wireless Module"
       ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-06-27"
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "We’ve just reviewed the GEEKOM A7 2026 Edition mini PC on Windows 11 after having checked out the hardware with an unboxing and a teardown in the first part of the review. We’ve now had time to review the AMD Ryzen 5 7545U mini PC on Linux using Ubuntu 26.04...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/"
     },
     {
       "title": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os",
@@ -142,34 +60,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/"
-    },
-    {
-      "title": "Berg Insight: Pricing volatility hits cellular IoT module shipments",
-      "source": "IoT Tech News",
-      "date": "2026-06-26",
-      "product": "Cellular IoT Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Cellular IoT module shipments reached 612 million units in 2025 as industrial deployments advanced against pricing volatility, according to Berg Insight. Annual sales grew 19 percent to $5.6 billion, excluding automotive network access devices. Industrial...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Berg Insight: Pricing volatility hits cellular IoT module shipments\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/berg-insight-pricing-volatility-cellular-iot-module-shipments/"
     },
     {
       "title": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor",
@@ -537,31 +427,6 @@
       "url": "https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/"
     },
     {
-      "title": "Visualize radio signals with Raspberry Pi 5-based QuadRF 4×4 MIMO software-defined radio tile (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-06-24",
-      "product": "WiFi Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "QuadRF is a 4×4 MIMO software-defined radio (SDR) tile powered by a Raspberry Pi 5 SBC that functions as a real-time RF camera, allowing users to visualize radio signals in their environment using a phone or computer running an augmented reality app. QuadRF...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "Visualize radio signals with Raspberry Pi 5-based QuadRF 4×4 MIMO software-defined radio tile (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/24/visualize-radio-signals-with-raspberry-pi-5-based-quadrf-4x4-mimo-software-defined-radio-tile/"
-    },
-    {
       "title": "GSMA MWC26 Shanghai opens doors as AI, robotics and drones lead packed agenda",
       "source": "IoT Now",
       "date": "2026-06-24",
@@ -587,11 +452,11 @@
       "url": "https://iot-now.com/2026/06/24/157172-gsma-mwc26-shanghai-opens-doors-as-ai-robotics-and-drones-lead-packed-agenda/"
     },
     {
-      "title": "Supermicro expands edge AI systems for industrial IoT workloads",
-      "source": "IoT Tech News",
-      "date": "2026-06-24",
-      "product": "IoT Industry",
-      "score": 75,
+      "title": "Nordic-powered livestock monitoring collar tag tracks health of grazing",
+      "source": "IoT Now",
+      "date": "2026-06-23",
+      "product": "BLE Module",
+      "score": 92,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -601,22 +466,22 @@
         "Facebook"
       ],
       "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Supermicro has expanded its edge AI systems portfolio with Intel-powered platforms designed for low-latency inference, industrial automation, and local processing in distributed environments. The expanded range includes systems using Intel Core Ultra Series 3...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Supermicro expands edge AI systems for industrial IoT workloads\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/supermicro-edge-ai-systems-industrial-iot/"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "French electronics engineering company, Nemeus, has developed an ultra-low power collar sensor for livestock monitoring, employing Nordic Semiconductor’s nRF52840 multiprotocol SoC. Attached around the neck of grazing animals, the collar tag performs …...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Nordic-powered livestock monitoring collar tag tracks health of grazing\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/23/157100-nordic-powered-livestock-monitoring-collar-tag-tracks-health-of-grazing/"
     },
     {
-      "title": "NVIDIA Halos OS upgrades the safety of physical AI workloads",
-      "source": "IoT Tech News",
+      "title": "MWC26 Shanghai: Explore the technologies shaping everyday life",
+      "source": "IoT Now",
       "date": "2026-06-23",
-      "product": "ESP32 Module",
-      "score": 93,
+      "product": "BLE Module",
+      "score": 80,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -626,15 +491,140 @@
         "Facebook"
       ],
       "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "NVIDIA Halos OS brings embedded hardware safety directly to physical AI workloads across industrial deployments. Traditional hazard protocols designed around fixed cages fail when autonomous machines operate alongside human personnel. Agility Robotics...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "NVIDIA Halos OS upgrades the safety of physical AI workloads\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-halos-os-upgrades-the-safety-of-physical-ai-workloads/"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Organised by the GSMA, MWC26 Shanghai takes place from 24–26 June 2026 at the Shanghai New International Expo Centre. This year’s event will spotlight some of the world’s most exciting … Continued The post MWC26 Shanghai: Explore the technologies shaping...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "MWC26 Shanghai: Explore the technologies shaping everyday life\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/23/157119-mwc26-shanghai-explore-the-technologies-shaping-everyday-life/"
+    },
+    {
+      "title": "KeySIM powers engineer M8 tracking guardian with resilient IoT SIM cards",
+      "source": "IoT Now",
+      "date": "2026-06-22",
+      "product": "BLE Module",
+      "score": 84,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Engineer M8, a provider of software solutions for fire, security, compliance and fleet management businesses, has selected KeySIM’s multi-network IoT SIM platform to provide connectivity for its growing GPS tracking … Continued The post KeySIM powers engineer...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "KeySIM powers engineer M8 tracking guardian with resilient IoT SIM cards\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/22/157089-keysim-powers-engineer-m8-tracking-guardian-with-resilient-iot-sim-cards/"
+    },
+    {
+      "title": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge",
+      "source": "IoT Now",
+      "date": "2026-06-18",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The Humanoid Robot Football Penalty Challenge makes its debut at MWC Shanghai 2026, showcasing the latest advances in robotics, artificial intelligence and connectivity. Teams from around the world will compete … Continued The post Watch the MWC Shanghai...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/18/157060-watch-the-mwc-shanghai-humanoid-robot-football-penalties-challenge/"
+    },
+    {
+      "title": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming",
+      "source": "IoT Now",
+      "date": "2026-06-18",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The first commercial demonstration of connectivity on a Non-Terrestrial Network (NTN) has been completed for the first time in Brazil, as a result of the partnership between European telecommunications company … Continued The post Solution developed by...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/18/157057-solution-developed-by-sateliot-and-cpqd-aims-to-eliminate-connectivity-gaps-across-brazil-starting-with-livestock-farming/"
+    },
+    {
+      "title": "Is Your IoT Operation Built for Scale?",
+      "source": "IoT Now",
+      "date": "2026-06-17",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "By 2030, there will be more than 29 billion connected IoT devices operating globally. But most organisations still manage them reactively. Problems are discovered after failure. Troubleshooting is manual. Downtime … Continued The post Is Your IoT Operation...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is Your IoT Operation Built for Scale?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/17/156682-is-your-iot-operation-built-for-scale/"
+    },
+    {
+      "title": "What Happens When Airlines Finally Gain Full IoT Visibility?",
+      "source": "IoT Now",
+      "date": "2026-06-17",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Managing thousands of connected devices across a global operation is difficult enough. Doing it without visibility? Almost impossible. That was the challenge facing Swiss International Airlines — until Aeris IoT … Continued The post What Happens When Airlines...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "What Happens When Airlines Finally Gain Full IoT Visibility?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/17/156676-what-happens-when-airlines-finally-gain-full-iot-visibility/"
     }
   ]
 }
