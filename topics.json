@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T14:03:12.045Z",
+  "generatedAt": "2026-06-28T05:43:31.026Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range",
+      "source": "CNX Software",
+      "date": "2026-06-28",
+      "product": "ESP32 Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Arduino has just introduced three new Modulino modules: the Modulino Hub to support up to eight I2C devices (64 devices with 8 Hubs), the Modulino Extender to extend the I2C range to up to 30 meters, and the Modulino Motors to control two DC motors or a...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/"
+    },
     {
       "title": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC",
       "source": "CNX Software",
@@ -428,31 +453,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Graperain GR1126MB development board features solder-on 3 TOPS Rockchip RV1126B AI Vision module\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/24/graperain-gr1126mb-development-board-features-solder-on-3-tops-rockchip-rv1126b-ai-vision-module/"
-    },
-    {
-      "title": "RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot",
-      "source": "CNX Software",
-      "date": "2026-06-24",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "While searching Tindie for a new project, I found a new Raspberry Pi RP2350B-based development board called “Bells&Whistles,” which is interesting because it also features an onboard RP2040-based debugger running Picoprobe firmware, removing the need for a...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot/"
     },
     {
       "title": "GSMA MWC26 Shanghai opens doors as AI, robotics and drones lead packed agenda",
