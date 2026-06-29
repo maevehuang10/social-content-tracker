@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T06:04:11.830Z",
+  "generatedAt": "2026-06-29T11:22:19.717Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity",
+      "source": "CNX Software",
+      "date": "2026-06-29",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Simplia CONNECT RW612 is a 6-in-1 M.2 2230 wireless module that offers dual-band WiFi 6, Bluetooth 5.4 LE, an 802.15.4 radio for Zigbee or Thread, LTE Cat-M, NB-IoT, and GNSS connectivity. It’s the first module I’ve seen that implements so many wireless...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/"
+    },
     {
       "title": "DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART",
       "source": "CNX Software",
@@ -64,6 +93,35 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/"
+    },
+    {
+      "title": "Waveshare ESP32-C6-Zero-B – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage",
+      "source": "CNX Software",
+      "date": "2026-06-29",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Waveshare ESP32-C6-Zero-B is a variant of the company’s ESP32-C6-Zero USB-C board that adds 5V-36V wide supply voltage support for industrial applications It’s based on the ESP32-C6FH8 wireless RISC-V SoC with 8MB flash, 2.4 GHz WiFi 6, Bluetooth 5.x LE, and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Waveshare ESP32-C6-Zero-B – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/"
     },
     {
       "title": "Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range",
@@ -273,35 +331,6 @@
       "url": "https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/"
     },
     {
-      "title": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM",
-      "source": "CNX Software",
-      "date": "2026-06-25",
-      "product": "BLE Module",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Quectel FCM365X is a short-range IoT module based on NXP RW612 wireless MCU with support for dual-band Wi-Fi 6, Bluetooth Low Energy (BLE) 5.4, and 802.15.4 (Zigbee and Thread) connectivity. The compact 25.5 x 18.0mm RW612 module features 8MB flash and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Quectel FCM365X dual-band WiFi 6, BLE 5.4, 802.15.4 IoT module features NXP RW612 MCU, optional PSRAM\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/25/quectel-fcm365x-dual-band-wifi-6-ble-5-4-802-15-4-iot-module-nxp-rw612-psram/"
-    },
-    {
       "title": "Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for SqueezeLite, Snapclient, or ESPHome support",
       "source": "CNX Software",
       "date": "2026-06-25",
@@ -382,31 +411,6 @@
       "hook": "Wide-area IoT starts with the right connectivity choice.",
       "post": "Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/"
-    },
-    {
-      "title": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support",
-      "source": "CNX Software",
-      "date": "2026-06-25",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "OpenC6 BIOS is an open-source project by Rompass that takes a different approach to MCU development. It adds a BIOS-like system to the ESP32-C6, so the system part and application code can run separately rather than being combined into a single firmware...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "OpenC6 BIOS project brings PC-like firmware to ESP32-C6 MCU with network boot and OTA update support\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/25/openc6-bios-project-brings-pc-like-firmware-to-esp32-c6-mcu-with-network-boot-and-ota-support/"
     },
     {
       "title": "Easier IoT management through commercial SGP.32 solutions",
