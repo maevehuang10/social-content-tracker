@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T05:16:16.460Z",
+  "generatedAt": "2026-06-30T09:58:36.884Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -60,6 +60,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/"
+    },
+    {
+      "title": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world",
+      "source": "IoT Now",
+      "date": "2026-06-30",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "MWC26 Shanghai has concluded with 37,300 attendees for three days of conference and exhibition focused on the AI economy, 6G innovation and more. International attendance at MWC Shanghai increased 33% year … Continued The post GSMA MWC26 Shanghai wraps up as...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/30/157231-gsma-mwc26-shanghai-wraps-up-as-the-ai-economy-and-6g-innovation-delight-attendees-from-around-the-world/"
     },
     {
       "title": "Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity",
@@ -612,31 +637,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/18/157057-solution-developed-by-sateliot-and-cpqd-aims-to-eliminate-connectivity-gaps-across-brazil-starting-with-livestock-farming/"
-    },
-    {
-      "title": "Is Your IoT Operation Built for Scale?",
-      "source": "IoT Now",
-      "date": "2026-06-17",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "By 2030, there will be more than 29 billion connected IoT devices operating globally. But most organisations still manage them reactively. Problems are discovered after failure. Troubleshooting is manual. Downtime … Continued The post Is Your IoT Operation...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Is Your IoT Operation Built for Scale?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/17/156682-is-your-iot-operation-built-for-scale/"
     }
   ]
 }
