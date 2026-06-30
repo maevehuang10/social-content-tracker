@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T09:58:36.884Z",
+  "generatedAt": "2026-06-30T14:39:21.847Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -60,6 +60,86 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/"
+    },
+    {
+      "title": "Telit Cinterion powers FleetSafe.ai AI video telematics for safer, data-driven fleet operations at scale",
+      "source": "IoT Now",
+      "date": "2026-06-30",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Telit Cinterion, an end-to-end Internet of Things (IoT) solutions enabler, has announced that its NExT IoT eSIM solutions are powering FleetSafe.ai’s AI video telematics deployment in the 2026 British Truck Racing … Continued The post Telit Cinterion powers...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Telit Cinterion powers FleetSafe.ai AI video telematics for safer, data-driven fleet operations at scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/30/157238-telit-cinterion-powers-fleetsafe-ai-ai-video-telematics-for-safer-data-driven-fleet-operations-at-scale/"
+    },
+    {
+      "title": "WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs",
+      "source": "CNX Software",
+      "date": "2026-06-30",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "WeAct N006 is a carrier board for NVIDIA Jetson Orin NX 8GB/16GB, specifically designed for robots and UAVs with a compact (90x60mm) form factor that’s barely larger than a credit card. The board features an HDMI video output, a Gigabit Ethernet port, two M.2...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/"
+    },
+    {
+      "title": "POS Connectivity in an Autonomous IoT World",
+      "source": "IoT Now",
+      "date": "2026-06-30",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Every second of POS downtime matters. Even brief latency or connectivity degradation can slow checkout, create queues, and lead customers to abandon purchases. At the same time, operating in offline or … Continued The post POS Connectivity in an Autonomous...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "POS Connectivity in an Autonomous IoT World\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/30/157043-pos-connectivity-in-an-autonomous-iot-world/"
     },
     {
       "title": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world",
@@ -276,35 +356,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/"
-    },
-    {
-      "title": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os",
-      "source": "CNX Software",
-      "date": "2026-06-26",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The AIBOX-9075 is an industrial Edge AI box built around the Qualcomm IQ-9075 SoC, designed for running AI workloads directly on the device without relying on the cloud. With up to 200 TOPS of AI performance, it is designed for edge computing, private LLM...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/"
     },
     {
       "title": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor",
@@ -587,56 +638,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "KeySIM powers engineer M8 tracking guardian with resilient IoT SIM cards\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/22/157089-keysim-powers-engineer-m8-tracking-guardian-with-resilient-iot-sim-cards/"
-    },
-    {
-      "title": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge",
-      "source": "IoT Now",
-      "date": "2026-06-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The Humanoid Robot Football Penalty Challenge makes its debut at MWC Shanghai 2026, showcasing the latest advances in robotics, artificial intelligence and connectivity. Teams from around the world will compete … Continued The post Watch the MWC Shanghai...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Watch the MWC Shanghai Humanoid Robot Football Penalties Challenge\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/18/157060-watch-the-mwc-shanghai-humanoid-robot-football-penalties-challenge/"
-    },
-    {
-      "title": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming",
-      "source": "IoT Now",
-      "date": "2026-06-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The first commercial demonstration of connectivity on a Non-Terrestrial Network (NTN) has been completed for the first time in Brazil, as a result of the partnership between European telecommunications company … Continued The post Solution developed by...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Solution developed by Sateliot and CPQD aims to eliminate connectivity gaps across Brazil, starting with livestock farming\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/18/157057-solution-developed-by-sateliot-and-cpqd-aims-to-eliminate-connectivity-gaps-across-brazil-starting-with-livestock-farming/"
     }
   ]
 }
