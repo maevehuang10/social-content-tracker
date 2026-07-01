@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T10:09:40.508Z",
+  "generatedAt": "2026-07-01T14:54:18.506Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -32,6 +32,110 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/"
+    },
+    {
+      "title": "Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces",
+      "source": "CNX Software",
+      "date": "2026-07-01",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "EDATEC ED-IPC1200 is an industrial data acquisition gateway powered by the Raspberry Pi Compute Module Zero (CM0), designed for industrial automation and edge applications with various I/O interfaces, a fanless design, and a wide range (9–28V) DC power input....",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Raspberry Pi CM0-based industrial data acquisition gateway features RS-485, RS-232, DI, and DO interfaces\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/01/raspberry-pi-cm0-based-industrial-data-acquisition-gateway-offer-rs485-rs232-di-do-interfaces/"
+    },
+    {
+      "title": "Sipeed NanoKVM-Go – An 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-07-01",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Sipeed NanoKVM-Go is a 4K USB-C KVM designed to control any USB-C device from anywhere with one cable. It also supports “full screen memory”, a function similar to the controversial Microsoft Recall feature, which enables an AI agent to search through your...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Sipeed NanoKVM-Go – An 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/"
+    },
+    {
+      "title": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond",
+      "source": "IoT Now",
+      "date": "2026-07-01",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Tele2 IoT and Lenovo Connect have formed a partnership to help global businesses deploy and manage connected devices at scale, with a particular focus on the growing automotive sector and … Continued The post Tele2 IoT and Lenovo Connect partner to power...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/01/157266-tele2-iot-and-lenovo-connect-partner-to-power-global-iot-for-automotive-and-beyond/"
+    },
+    {
+      "title": "Automotive IoT – Connected intelligence for the road ahead",
+      "source": "IoT Now",
+      "date": "2026-07-01",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Automotive IoT depends on vehicle connections to ensure vehicles run optimally, can communicate with OEMs and road infrastructure and can support applications from infotainment to safety. The next wave will … Continued The post Automotive IoT – Connected...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Automotive IoT – Connected intelligence for the road ahead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/01/157227-automotive-iot-connected-intelligence-for-the-road-ahead/"
     },
     {
       "title": "Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU",
@@ -409,56 +513,6 @@
       "url": "https://iot-now.com/2026/06/26/157211-make-uk-and-make-uk-defence-to-launch-first-joint-pavilion-at-advanced-engineering-2026/"
     },
     {
-      "title": "Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera",
-      "source": "CNX Software",
-      "date": "2026-06-26",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Makerfabs MaTouch ESP32-P4 TFTTouch 10.1 MIPI with 4G LTE is an ESP32-P4 + ESP32-C6-based display development platform for HMI edge AI, and connected embedded applications. The development board features a 10.1-inch IPS LCD, very similar to those of Seeed...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Makerfabs MaTouch ESP32-P4 10.1-inch HMI display features 4G LTE and Ethernet connectivity, a 2MP camera\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/26/makerfabs-matouch-esp32-p4-10-1-inch-hmi-display-features-4g-lte-and-ethernet-connectivity-a-2mp-camera/"
-    },
-    {
-      "title": "Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online",
-      "source": "CNX Software",
-      "date": "2026-06-26",
-      "product": "ESP32 Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Cytron is currently selling a Raspberry Pi 4 Model B “Special Value Board” with 4GB or 8GB of RAM, whose unique feature is to be clocked at 1.25 GHz instead of 1.8 GHz. The Raspberry Pi 4 initially launched with a 1.5 GHz BCM2711 SoC in 2019, but all recent...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Discounted 1.25 GHz Raspberry Pi 4 Model B shows up online\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/"
-    },
-    {
       "title": "Iridium NTN Direct begins live testing with Mlink",
       "source": "IoT Now",
       "date": "2026-06-25",
@@ -566,31 +620,6 @@
       "url": "https://iot-now.com/2026/06/24/157172-gsma-mwc26-shanghai-opens-doors-as-ai-robotics-and-drones-lead-packed-agenda/"
     },
     {
-      "title": "Nordic-powered livestock monitoring collar tag tracks health of grazing",
-      "source": "IoT Now",
-      "date": "2026-06-23",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "French electronics engineering company, Nemeus, has developed an ultra-low power collar sensor for livestock monitoring, employing Nordic Semiconductor’s nRF52840 multiprotocol SoC. Attached around the neck of grazing animals, the collar tag performs …...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Nordic-powered livestock monitoring collar tag tracks health of grazing\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/23/157100-nordic-powered-livestock-monitoring-collar-tag-tracks-health-of-grazing/"
-    },
-    {
       "title": "MWC26 Shanghai: Explore the technologies shaping everyday life",
       "source": "IoT Now",
       "date": "2026-06-23",
@@ -614,31 +643,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "MWC26 Shanghai: Explore the technologies shaping everyday life\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/23/157119-mwc26-shanghai-explore-the-technologies-shaping-everyday-life/"
-    },
-    {
-      "title": "KeySIM powers engineer M8 tracking guardian with resilient IoT SIM cards",
-      "source": "IoT Now",
-      "date": "2026-06-22",
-      "product": "BLE Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Engineer M8, a provider of software solutions for fire, security, compliance and fleet management businesses, has selected KeySIM’s multi-network IoT SIM platform to provide connectivity for its growing GPS tracking … Continued The post KeySIM powers engineer...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "KeySIM powers engineer M8 tracking guardian with resilient IoT SIM cards\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/22/157089-keysim-powers-engineer-m8-tracking-guardian-with-resilient-iot-sim-cards/"
     }
   ]
 }
