@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T14:39:21.847Z",
+  "generatedAt": "2026-07-01T05:52:33.552Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,32 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity",
+      "source": "CNX Software",
+      "date": "2026-07-01",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Flipper has taken a short break from launching wireless hacking tools by introducing the BUSY Bar open-source productivity multitool designed to help people eliminate distractions and be more focused at work. The device features a customizable LED pixel...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Flipper BUSY Bar open-source productivity multitool features LED pixel display, supports Matter connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/01/flipper-busy-bar-open-source-productivity-multitool-features-led-pixel-display-supports-matter-connectivity/"
+    },
     {
       "title": "Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU",
       "source": "CNX Software",
@@ -356,31 +382,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "GEEKOM A7 2026 Edition Review – Part 3: Ubuntu 26.04 on an AMD Ryzen 5 7545U mini PC\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/27/geekom-a7-2026-edition-review-part-3-ubuntu-26-04-on-an-amd-ryzen-5-7545u-mini-pc/"
-    },
-    {
-      "title": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor",
-      "source": "CNX Software",
-      "date": "2026-06-26",
-      "product": "ESP32 Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "CHUWI has just opened pre-orders for the $449 UniBook Laptop powered by an Intel Core 3 304 penta-core “Wildcat Lake” SoC, and equipped with 8GB LPDDR5 RAM, a 256GB NVMe SSD, and a 14-inch 1920×1200 IPS display. It looks like the Wildcat Lake era has finally...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "$449 CHUWI UniBook 14-inch laptop is powered by an Intel Core 3 304 Wildcat Lake processor\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/26/449-chuwi-unibook-14-inch-laptop-is-powered-by-an-intel-core-3-304-wildcat-lake-processor/"
     },
     {
       "title": "Make UK and Make UK Defence to launch first joint pavilion at Advanced Engineering 2026",
