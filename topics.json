@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T05:08:35.643Z",
+  "generatedAt": "2026-07-02T09:30:14.991Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "TXOne launches virtual OT inspection tool for industry",
+      "source": "IoT Tech News",
+      "date": "2026-07-02",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "TXOne Networks has introduced Virtual Portable Inspector, a software-based OT inspection tool designed for industrial environments where physical inspection is difficult to scale. The product extends TXOne’s Element inspection portfolio into connected and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "TXOne launches virtual OT inspection tool for industry\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/txone-virtual-ot-inspection-tool/"
+    },
     {
       "title": "PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit",
       "source": "CNX Software",
@@ -618,34 +643,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Easier IoT management through commercial SGP.32 solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/25/157203-easier-iot-management-through-commercial-sgp-32-solutions/"
-    },
-    {
-      "title": "Qualinx’s QLX3Gx Series Chip integration with Galileo OSNMA brings authenticated GNSS positioning to ultra-low-power devices",
-      "source": "IoT Now",
-      "date": "2026-06-24",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Qualinx, the European semiconductor company redefining ultra-low-power connectivity at the connected edge, has announced the completion of full Galileo OSNMA (Open Service Navigation Message Authentication) support on its QLX3Gx Series ultra-low-power GNSS...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Qualinx’s QLX3Gx Series Chip integration with Galileo OSNMA brings authenticated GNSS positioning to ultra-low-power devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/24/157157-qualinxs-qlx3gx-series-chip-integration-with-galileo-osnma-brings-authenticated-gnss-positioning-to-ultra-low-power-devices/"
     }
   ]
 }
