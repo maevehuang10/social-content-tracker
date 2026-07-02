@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T09:30:14.991Z",
+  "generatedAt": "2026-07-02T14:25:40.819Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,85 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant",
+      "source": "CNX Software",
+      "date": "2026-07-02",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SONOFF sent us a sample of the NSPanel Pro Gen2 Smart Home control panel for review. It’s a standard 86-type controller powered by a Rockchip RK3326-S SoC, equipped with 2GB RAM and 32GB eMMC flash storage, a 3.95-inch touchscreen display, and a 2-channel...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/"
+    },
+    {
+      "title": "Nordic expands nRF Cloud with firmware vulnerability scanning",
+      "source": "IoT Now",
+      "date": "2026-07-02",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Nordic Semiconductor, a global contributor in low-power wireless connectivity solutions, has announced that firmware vulnerability scanning is coming to nRF Cloud, further bolstering its capabilities for empowering device makers to … Continued The post Nordic...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Nordic expands nRF Cloud with firmware vulnerability scanning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/02/157277-nordic-expands-nrf-cloud-with-firmware-vulnerability-scanning/"
+    },
+    {
+      "title": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development",
+      "source": "CNX Software",
+      "date": "2026-07-02",
+      "product": "ESP32 Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "The Titan Mini is a smaller and somewhat cheaper version of the RA8P1 Titan board introduced in 2025 for AIoT applications and RT-Thread RTOS development. It still features a Renesas R7KA8P1 Cortex-M85/M33 microcontroller with an Arm Ethos-U55 NPU, but comes...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/"
+    },
     {
       "title": "TXOne launches virtual OT inspection tool for industry",
       "source": "IoT Tech News",
@@ -296,32 +375,6 @@
       "url": "https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/"
     },
     {
-      "title": "POS Connectivity in an Autonomous IoT World",
-      "source": "IoT Now",
-      "date": "2026-06-30",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Every second of POS downtime matters. Even brief latency or connectivity degradation can slow checkout, create queues, and lead customers to abandon purchases. At the same time, operating in offline or … Continued The post POS Connectivity in an Autonomous...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "POS Connectivity in an Autonomous IoT World\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/30/157043-pos-connectivity-in-an-autonomous-iot-world/"
-    },
-    {
       "title": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world",
       "source": "IoT Now",
       "date": "2026-06-30",
@@ -405,35 +458,6 @@
       "url": "https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/"
     },
     {
-      "title": "DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-06-29",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "DESLOC V150 Plus is a smart lock with an integrated perovskite solar panel, which can generate power under low-light conditions, eliminating or at least reducing the need for manual battery charging. The V150 Plus is a two-part system consisting of exterior...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "DESLOC V150 Plus smart lock integrates a perovskite solar panel, supports 3D face recognition (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/29/desloc-v150-plus-smart-lock-integrates-a-solar-panel-supports-3d-face-recognition/"
-    },
-    {
       "title": "Quectel expands combo antenna portfolio with rugged multi-network solutions for demanding IoT deployments",
       "source": "IoT Now",
       "date": "2026-06-29",
@@ -511,31 +535,6 @@
       "hook": "Good IoT content starts with useful market context.",
       "post": "Capgemini upgrades smart manufacturing at Bentley Motors\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/capgemini-upgrades-smart-manufacturing-bentley-motors/"
-    },
-    {
-      "title": "Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range",
-      "source": "CNX Software",
-      "date": "2026-06-28",
-      "product": "ESP32 Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Arduino has just introduced three new Modulino modules: the Modulino Hub to support up to eight I2C devices (64 devices with 8 Hubs), the Modulino Extender to extend the I2C range to up to 30 meters, and the Modulino Motors to control two DC motors or a...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Arduino launches Modulino Hub and Extender modules to support up to 64 I2C devices, 30-meter range\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/28/arduino-modulino-hub-extender-modules-64-i2c-devices-30-meter-range/"
     },
     {
       "title": "Berg Insight: Pricing volatility hits cellular IoT module shipments",
