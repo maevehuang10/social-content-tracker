@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T14:25:40.819Z",
+  "generatedAt": "2026-07-03T04:54:17.786Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications",
+      "source": "CNX Software",
+      "date": "2026-07-03",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Better known for its unique Rockchip industrial PC designs, Mekotronics has now launched an “AI Box” based on the NVIDIA Jetson Orin Nano 4GB/8GB or Jetson Orin NX 8GB/16GB for humanoid robots, smart transportation (V2X) applications, Smart Cities, Smart...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/"
+    },
     {
       "title": "SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant",
       "source": "CNX Software",
@@ -62,6 +91,31 @@
       "url": "https://iot-now.com/2026/07/02/157277-nordic-expands-nrf-cloud-with-firmware-vulnerability-scanning/"
     },
     {
+      "title": "Is manufacturing ready for the next phase of IIoT?",
+      "source": "IoT Now",
+      "date": "2026-07-02",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Manufacturing is moving into a more connected, intelligent era. As industrial organisations adopt sensor-based IoT, cellular connectivity and analytics, they can gain better visibility across equipment, assets, logistics, field service … Continued The post Is...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is manufacturing ready for the next phase of IIoT?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/02/157245-is-manufacturing-ready-for-the-next-phase-of-iiot/"
+    },
+    {
       "title": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development",
       "source": "CNX Software",
       "date": "2026-07-02",
@@ -85,31 +139,6 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/"
-    },
-    {
-      "title": "TXOne launches virtual OT inspection tool for industry",
-      "source": "IoT Tech News",
-      "date": "2026-07-02",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "TXOne Networks has introduced Virtual Portable Inspector, a software-based OT inspection tool designed for industrial environments where physical inspection is difficult to scale. The product extends TXOne’s Element inspection portfolio into connected and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "TXOne launches virtual OT inspection tool for industry\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/txone-virtual-ot-inspection-tool/"
     },
     {
       "title": "PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit",
@@ -429,35 +458,6 @@
       "url": "https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/"
     },
     {
-      "title": "DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART",
-      "source": "CNX Software",
-      "date": "2026-06-29",
-      "product": "BLE Module",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Polyhex Technology has introduced the DEBIX T62P-01, a compact industrial SBC built around Texas Instruments Sitara AM62P quad Cortex-A53/dual Cortex-R5F SoC designed for industrial IoT (IIoT), robotics, Edge computing, and smart terminal/HMI applications....",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/"
-    },
-    {
       "title": "Quectel expands combo antenna portfolio with rugged multi-network solutions for demanding IoT deployments",
       "source": "IoT Now",
       "date": "2026-06-29",
@@ -510,59 +510,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Waveshare ESP32-C6-Zero-B – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/"
-    },
-    {
-      "title": "Capgemini upgrades smart manufacturing at Bentley Motors",
-      "source": "IoT Tech News",
-      "date": "2026-06-29",
-      "product": "IoT Industry",
-      "score": 70,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Capgemini is deploying AI and data infrastructure at Bentley Motors to upgrade smart manufacturing technology systems. Bentley Motors appointed Capgemini as its digital operations lead to support the delivery of its Beyond100+ vision. Operating as the digital...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Capgemini upgrades smart manufacturing at Bentley Motors\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/capgemini-upgrades-smart-manufacturing-bentley-motors/"
-    },
-    {
-      "title": "Berg Insight: Pricing volatility hits cellular IoT module shipments",
-      "source": "IoT Tech News",
-      "date": "2026-06-26",
-      "product": "Cellular IoT Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Cellular IoT module shipments reached 612 million units in 2025 as industrial deployments advanced against pricing volatility, according to Berg Insight. Annual sales grew 19 percent to $5.6 billion, excluding automotive network access devices. Industrial...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Berg Insight: Pricing volatility hits cellular IoT module shipments\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/berg-insight-pricing-volatility-cellular-iot-module-shipments/"
     },
     {
       "title": "Make UK and Make UK Defence to launch first joint pavilion at Advanced Engineering 2026",
@@ -642,6 +589,59 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Easier IoT management through commercial SGP.32 solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/25/157203-easier-iot-management-through-commercial-sgp-32-solutions/"
+    },
+    {
+      "title": "Qualinx’s QLX3Gx Series Chip integration with Galileo OSNMA brings authenticated GNSS positioning to ultra-low-power devices",
+      "source": "IoT Now",
+      "date": "2026-06-24",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Qualinx, the European semiconductor company redefining ultra-low-power connectivity at the connected edge, has announced the completion of full Galileo OSNMA (Open Service Navigation Message Authentication) support on its QLX3Gx Series ultra-low-power GNSS...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Qualinx’s QLX3Gx Series Chip integration with Galileo OSNMA brings authenticated GNSS positioning to ultra-low-power devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/24/157157-qualinxs-qlx3gx-series-chip-integration-with-galileo-osnma-brings-authenticated-gnss-positioning-to-ultra-low-power-devices/"
+    },
+    {
+      "title": "GSMA MWC26 Shanghai opens doors as AI, robotics and drones lead packed agenda",
+      "source": "IoT Now",
+      "date": "2026-06-24",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "MWC26 Shanghai, one of Asia’s largest and most influential connectivity event, officially opened at the Shanghai New International Expo Centre (SNIEC), as the global mobile ecosystem convenes in China for … Continued The post GSMA MWC26 Shanghai opens doors...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GSMA MWC26 Shanghai opens doors as AI, robotics and drones lead packed agenda\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/24/157172-gsma-mwc26-shanghai-opens-doors-as-ai-robotics-and-drones-lead-packed-agenda/"
     }
   ]
 }
