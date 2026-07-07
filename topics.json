@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:58:45.290Z",
+  "generatedAt": "2026-07-07T15:09:38.665Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,60 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/07/mercedes-benz-hosts-open-source-hardware-automotive-rapid-development-platform-ardep/"
+    },
+    {
+      "title": "Nordic Semiconductor’s new Fuel Gauge v2.0 now available, offering premium battery intelligence for IoT devices",
+      "source": "IoT Now",
+      "date": "2026-07-07",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Nordic Semiconductor, a global contributor in low-power wireless connectivity solutions, has announced the general availability of Nordic Fuel Gauge v2.0 for the nPM1300 and nPM1304 Power Management ICs, accessible now through nRF Connect SDK … Continued The...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Nordic Semiconductor’s new Fuel Gauge v2.0 now available, offering premium battery intelligence for IoT devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/07/157312-nordic-semiconductors-new-fuel-gauge-v2-0-now-available-offering-premium-battery-intelligence-for-iot-devices/"
+    },
+    {
+      "title": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support",
+      "source": "CNX Software",
+      "date": "2026-07-07",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Last week, I wrote about the ESP32-C5-LCD-1.47 as one of the first ESP32-C5 devkits with a built-in display enabling dual-band WiFi 6 connectivity for IoT and HMI projects. However, one reader lamented the lack of touch-capable screens, at which point kwchow...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/"
     },
     {
       "title": "PocketMage – An ESP32-S3-based Personal Digital Assistant (Crowdfunding)",
@@ -405,31 +459,6 @@
       "url": "https://iot-now.com/2026/07/02/157245-is-manufacturing-ready-for-the-next-phase-of-iiot/"
     },
     {
-      "title": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development",
-      "source": "CNX Software",
-      "date": "2026-07-02",
-      "product": "ESP32 Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "The Titan Mini is a smaller and somewhat cheaper version of the RA8P1 Titan board introduced in 2025 for AIoT applications and RT-Thread RTOS development. It still features a Renesas R7KA8P1 Cortex-M85/M33 microcontroller with an Arm Ethos-U55 NPU, but comes...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/"
-    },
-    {
       "title": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond",
       "source": "IoT Now",
       "date": "2026-07-01",
@@ -578,34 +607,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Make UK and Make UK Defence to launch first joint pavilion at Advanced Engineering 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/26/157211-make-uk-and-make-uk-defence-to-launch-first-joint-pavilion-at-advanced-engineering-2026/"
-    },
-    {
-      "title": "Iridium NTN Direct begins live testing with Mlink",
-      "source": "IoT Now",
-      "date": "2026-06-25",
-      "product": "BLE Module",
-      "score": 90,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Iridium Communications, a provider of global voice, data and positioning, navigation and timing (PNT) satellite services, has announced that Mlink Technology (Mlink), a fabless semiconductor company specialising in IoT and satellite … Continued The post...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Iridium NTN Direct begins live testing with Mlink\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/25/157200-iridium-ntn-direct-begins-live-testing-with-mlink/"
     },
     {
       "title": "Easier IoT management through commercial SGP.32 solutions",
