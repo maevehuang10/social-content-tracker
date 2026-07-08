@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T04:27:43.799Z",
+  "generatedAt": "2026-07-08T08:42:21.811Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC",
+      "source": "CNX Software",
+      "date": "2026-07-08",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Rikomagic DS04 is a new 4K digital signage player running Android 14 on a Rockchip RK3576 octa-core Cortex-A72/A53 processor paired with 4GB of RAM and 32GB of storage. It looks to be a cost-down version of the Rockchip RK3588-powered Rikomagic DS08 8K...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/"
+    },
     {
       "title": "KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers",
       "source": "CNX Software",
@@ -169,31 +198,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "PocketMage – An ESP32-S3-based Personal Digital Assistant (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/"
-    },
-    {
-      "title": "Schneider Electric Cognite deal targets IT/OT convergence",
-      "source": "IoT Tech News",
-      "date": "2026-07-07",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Schneider Electric has agreed to acquire Cognite Holding B.V. in an all-cash transaction valued at US$3.1 billion, adding industrial data and AI software capabilities to its automation and energy management business. The deal adds Cognite’s industrial data...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Schneider Electric Cognite deal targets IT/OT convergence\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/schneider-electric-cognite-deal-it-ot-convergence-industrial-ai/"
     },
     {
       "title": "Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers",
@@ -406,31 +410,6 @@
       "url": "https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/"
     },
     {
-      "title": "HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display",
-      "source": "CNX Software",
-      "date": "2026-07-03",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Designed by Innoelement in Guangzhou, China, the HALO TOUCH V2 is a multifunctional desktop USB hub with a round touchscreen and a rotary encoder designed as an interactive desk companion. It integrates system monitoring, media playback, and productivity...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/"
-    },
-    {
       "title": "Nordic expands nRF Cloud with firmware vulnerability scanning",
       "source": "IoT Now",
       "date": "2026-07-02",
@@ -479,31 +458,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Is manufacturing ready for the next phase of IIoT?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/02/157245-is-manufacturing-ready-for-the-next-phase-of-iiot/"
-    },
-    {
-      "title": "TXOne launches virtual OT inspection tool for industry",
-      "source": "IoT Tech News",
-      "date": "2026-07-02",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "TXOne Networks has introduced Virtual Portable Inspector, a software-based OT inspection tool designed for industrial environments where physical inspection is difficult to scale. The product extends TXOne’s Element inspection portfolio into connected and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "TXOne launches virtual OT inspection tool for industry\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/txone-virtual-ot-inspection-tool/"
     },
     {
       "title": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond",
@@ -629,6 +583,57 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Quectel expands combo antenna portfolio with rugged multi-network solutions for demanding IoT deployments\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/06/29/157223-quectel-expands-combo-antenna-portfolio-with-rugged-multi-network-solutions-for-demanding-iot-deployments/"
+    },
+    {
+      "title": "Make UK and Make UK Defence to launch first joint pavilion at Advanced Engineering 2026",
+      "source": "IoT Now",
+      "date": "2026-06-26",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Make UK and Make UK Defence will, for the first time, host a joint pavilion at Advanced Engineering 2026, bringing together two of the UK’s most influential industrial advocates in … Continued The post Make UK and Make UK Defence to launch first joint...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Make UK and Make UK Defence to launch first joint pavilion at Advanced Engineering 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/26/157211-make-uk-and-make-uk-defence-to-launch-first-joint-pavilion-at-advanced-engineering-2026/"
+    },
+    {
+      "title": "Easier IoT management through commercial SGP.32 solutions",
+      "source": "IoT Now",
+      "date": "2026-06-25",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Market developments around new standards are now making it easier for industries to deploy and manage their IoT systems, reports Antony Savvas. At the recent MWC26 in Barcelona, Tele2 IoT, … Continued The post Easier IoT management through commercial SGP.32...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Easier IoT management through commercial SGP.32 solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/06/25/157203-easier-iot-management-through-commercial-sgp-32-solutions/"
     }
   ]
 }
