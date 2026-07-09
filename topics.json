@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:35:30.354Z",
+  "generatedAt": "2026-07-09T05:03:36.602Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,32 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments",
+      "source": "CNX Software",
+      "date": "2026-07-09",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Norik Systems has developed a compact USB dongle based on Nordic Semiconductor’s nRF9151 SiP, mostly designed to work as a DECT NR+ child node or a USB-powered gateway. As a reminder, DECT NR+ is a non-cellular 5G standard for long-range low-power...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/"
+    },
     {
       "title": "From remote pastures to satellite-connected fields: Why LoRaWAN is essential for smart agriculture",
       "source": "IoT Now",
@@ -119,6 +145,60 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/08/acemagic-discounts-its-amd-ryzen-7-mini-pcs-by-up-to-32/"
+    },
+    {
+      "title": "IoT Now, Pelion and Transforma Insights host successful ON TREND private evening at Soho House",
+      "source": "IoT Now",
+      "date": "2026-07-08",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IoT Now has hosted a successful ON TREND private evening at Soho House, London, in collaboration with Pelion and Transforma Insights. The gathering brought together a select group of IoT … Continued The post IoT Now, Pelion and Transforma Insights host...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now, Pelion and Transforma Insights host successful ON TREND private evening at Soho House\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/08/157335-iot-now-pelion-and-transforma-insights-host-successful-on-trend-private-evening-at-soho-house/"
+    },
+    {
+      "title": "NVIDIA deploys AI agent for factory alarm triage",
+      "source": "IoT Tech News",
+      "date": "2026-07-08",
+      "product": "IoT Industry",
+      "score": 75,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "NVIDIA has engineered a GPU-accelerated AI agent designed to automate industrial alarm triage and reduce factory floor downtime. Industrial machinery generates a volume of system alerts that easily exceeds the triage capacity of on-site technicians. In an...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "NVIDIA deploys AI agent for factory alarm triage\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-deploys-ai-agent-for-factory-alarm-triage/"
     },
     {
       "title": "Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP)",
@@ -436,34 +516,6 @@
       "url": "https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/"
     },
     {
-      "title": "BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers",
-      "source": "CNX Software",
-      "date": "2026-07-04",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "BIGTREETECH (BIQU) has introduced the BIQU Panda Sense Pro, an 8-in-1 smart air quality monitor designed for 3D printing environments such as home workshops, maker spaces, and print farms. It continuously measures airborne particles, gases, temperature, and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/"
-    },
-    {
       "title": "Nordic expands nRF Cloud with firmware vulnerability scanning",
       "source": "IoT Now",
       "date": "2026-07-02",
@@ -587,56 +639,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Automotive IoT – Connected intelligence for the road ahead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/01/157227-automotive-iot-connected-intelligence-for-the-road-ahead/"
-    },
-    {
-      "title": "Telit Cinterion powers FleetSafe.ai AI video telematics for safer, data-driven fleet operations at scale",
-      "source": "IoT Now",
-      "date": "2026-06-30",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Telit Cinterion, an end-to-end Internet of Things (IoT) solutions enabler, has announced that its NExT IoT eSIM solutions are powering FleetSafe.ai’s AI video telematics deployment in the 2026 British Truck Racing … Continued The post Telit Cinterion powers...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Telit Cinterion powers FleetSafe.ai AI video telematics for safer, data-driven fleet operations at scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/30/157238-telit-cinterion-powers-fleetsafe-ai-ai-video-telematics-for-safer-data-driven-fleet-operations-at-scale/"
-    },
-    {
-      "title": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world",
-      "source": "IoT Now",
-      "date": "2026-06-30",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MWC26 Shanghai has concluded with 37,300 attendees for three days of conference and exhibition focused on the AI economy, 6G innovation and more. International attendance at MWC Shanghai increased 33% year … Continued The post GSMA MWC26 Shanghai wraps up as...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/30/157231-gsma-mwc26-shanghai-wraps-up-as-the-ai-economy-and-6g-innovation-delight-attendees-from-around-the-world/"
     }
   ]
 }
