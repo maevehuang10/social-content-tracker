@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T13:49:47.807Z",
+  "generatedAt": "2026-07-13T04:40:17.900Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,32 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board",
+      "source": "CNX Software",
+      "date": "2026-07-13",
+      "product": "ESP32 Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Germany-based Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi platforms: the BE-IIS-HPP-T1S and the BE-IIS-HPP-T1L. Designed for technology evaluation, industrial network prototyping, and educational...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/"
+    },
     {
       "title": "Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro",
       "source": "CNX Software",
@@ -196,6 +222,31 @@
       "url": "https://iot-now.com/2026/07/09/157362-soracom-announces-commercial-release-of-sgp-32-compatible-iot-esims/"
     },
     {
+      "title": "How IoT Devices Improve Real-Time Market Data Analysis",
+      "source": "IoT Tech News",
+      "date": "2026-07-09",
+      "product": "IoT Industry",
+      "score": 78,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "IoT Technology To Empower Real-Time Market Data Analysis IoT technology is quietly reshaping how forex traders access and act on market information. Traders can now monitor news feeds, financial indicators and social media sentiment by linking smart devices...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "How IoT Devices Improve Real-Time Market Data Analysis\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/how-iot-devices-improve-real-time-market-data-analysis/"
+    },
+    {
       "title": "From remote pastures to satellite-connected fields: Why LoRaWAN is essential for smart agriculture",
       "source": "IoT Now",
       "date": "2026-07-08",
@@ -335,6 +386,34 @@
       "url": "https://iot-now.com/2026/07/08/157335-iot-now-pelion-and-transforma-insights-host-successful-on-trend-private-evening-at-soho-house/"
     },
     {
+      "title": "NVIDIA deploys AI agent for factory alarm triage",
+      "source": "IoT Tech News",
+      "date": "2026-07-08",
+      "product": "IoT Industry",
+      "score": 75,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "NVIDIA has engineered a GPU-accelerated AI agent designed to automate industrial alarm triage and reduce factory floor downtime. Industrial machinery generates a volume of system alerts that easily exceeds the triage capacity of on-site technicians. In an...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "NVIDIA deploys AI agent for factory alarm triage\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-deploys-ai-agent-for-factory-alarm-triage/"
+    },
+    {
       "title": "Mercedes-Benz hosts open-source hardware Automotive Rapid DEvelopment Platform (ARDEP)",
       "source": "CNX Software",
       "date": "2026-07-07",
@@ -414,33 +493,29 @@
       "url": "https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/"
     },
     {
-      "title": "PocketMage – An ESP32-S3-based Personal Digital Assistant (Crowdfunding)",
-      "source": "CNX Software",
+      "title": "Schneider Electric Cognite deal targets IT/OT convergence",
+      "source": "IoT Tech News",
       "date": "2026-07-07",
-      "product": "BLE Module",
-      "score": 88,
+      "product": "IoT Industry",
+      "score": 75,
       "formats": [
         "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
+        "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
+        "Facebook"
       ],
       "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
       ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "PocketMage is an open-source hardware, ESP32-S3 personal digital assistant (PDA) with a primary, sun-readable 3.1-inch E Ink display, a secondary 1.8-inch OLED for high-refresh rate feedback, a full tactile QWERTY keyboard, and a capacitive scroll bar. The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "PocketMage – An ESP32-S3-based Personal Digital Assistant (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/07/pocketmage-esp32-s3-personal-digital-assistant/"
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Schneider Electric has agreed to acquire Cognite Holding B.V. in an all-cash transaction valued at US$3.1 billion, adding industrial data and AI software capabilities to its automation and energy management business. The deal adds Cognite’s industrial data...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Schneider Electric Cognite deal targets IT/OT convergence\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/schneider-electric-cognite-deal-it-ot-convergence-industrial-ai/"
     },
     {
       "title": "Maersk deploys next‑generation connectivity technology for its reefers",
@@ -543,11 +618,11 @@
       "url": "https://iot-now.com/2026/07/02/157245-is-manufacturing-ready-for-the-next-phase-of-iiot/"
     },
     {
-      "title": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond",
-      "source": "IoT Now",
-      "date": "2026-07-01",
+      "title": "TXOne launches virtual OT inspection tool for industry",
+      "source": "IoT Tech News",
+      "date": "2026-07-02",
       "product": "BLE Module",
-      "score": 88,
+      "score": 91,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -562,85 +637,10 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Tele2 IoT and Lenovo Connect have formed a partnership to help global businesses deploy and manage connected devices at scale, with a particular focus on the growing automotive sector and … Continued The post Tele2 IoT and Lenovo Connect partner to power...",
+      "summary": "TXOne Networks has introduced Virtual Portable Inspector, a software-based OT inspection tool designed for industrial environments where physical inspection is difficult to scale. The product extends TXOne’s Element inspection portfolio into connected and...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/01/157266-tele2-iot-and-lenovo-connect-partner-to-power-global-iot-for-automotive-and-beyond/"
-    },
-    {
-      "title": "Automotive IoT – Connected intelligence for the road ahead",
-      "source": "IoT Now",
-      "date": "2026-07-01",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Automotive IoT depends on vehicle connections to ensure vehicles run optimally, can communicate with OEMs and road infrastructure and can support applications from infotainment to safety. The next wave will … Continued The post Automotive IoT – Connected...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Automotive IoT – Connected intelligence for the road ahead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/01/157227-automotive-iot-connected-intelligence-for-the-road-ahead/"
-    },
-    {
-      "title": "Telit Cinterion powers FleetSafe.ai AI video telematics for safer, data-driven fleet operations at scale",
-      "source": "IoT Now",
-      "date": "2026-06-30",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Telit Cinterion, an end-to-end Internet of Things (IoT) solutions enabler, has announced that its NExT IoT eSIM solutions are powering FleetSafe.ai’s AI video telematics deployment in the 2026 British Truck Racing … Continued The post Telit Cinterion powers...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Telit Cinterion powers FleetSafe.ai AI video telematics for safer, data-driven fleet operations at scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/30/157238-telit-cinterion-powers-fleetsafe-ai-ai-video-telematics-for-safer-data-driven-fleet-operations-at-scale/"
-    },
-    {
-      "title": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world",
-      "source": "IoT Now",
-      "date": "2026-06-30",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MWC26 Shanghai has concluded with 37,300 attendees for three days of conference and exhibition focused on the AI economy, 6G innovation and more. International attendance at MWC Shanghai increased 33% year … Continued The post GSMA MWC26 Shanghai wraps up as...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "GSMA MWC26 Shanghai wraps up as the AI economy and 6G innovation delight attendees from around the world\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/06/30/157231-gsma-mwc26-shanghai-wraps-up-as-the-ai-economy-and-6g-innovation-delight-attendees-from-around-the-world/"
+      "post": "TXOne launches virtual OT inspection tool for industry\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/txone-virtual-ot-inspection-tool/"
     }
   ]
 }
