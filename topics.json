@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T09:45:43.624Z",
+  "generatedAt": "2026-07-13T15:07:18.671Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -61,6 +61,82 @@
       "hook": "Some IoT projects need years of battery life, not more bandwidth.",
       "post": "WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/"
+    },
+    {
+      "title": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery",
+      "source": "CNX Software",
+      "date": "2026-07-13",
+      "product": "BLE Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Ambient Scientific GPX10 Pro is a processor/microcontroller for always-on embedded AI applications on power-constrained edge devices. With a consumption of under <100μW, it can deliver years of always-on AI on one coin-cell battery. The SoC features ten...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/"
+    },
+    {
+      "title": "Telefónica and Thales simplify IoT connectivity in global environments",
+      "source": "IoT Now",
+      "date": "2026-07-13",
+      "product": "BLE Module",
+      "score": 90,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Telefónica, through its business unit Telefónica Tech, is launching, in collaboration with Thales, a global contributor in cybersecurity and digital identity, an eSIM solution based on the GSMA SGP.32 standard … Continued The post Telefónica and Thales...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Telefónica and Thales simplify IoT connectivity in global environments\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/13/157392-telefonica-and-thales-simplify-iot-connectivity-in-global-environments/"
+    },
+    {
+      "title": "‘Physical AI’ holds a lot of promise for IoT, but there are significant challenges",
+      "source": "IoT Now",
+      "date": "2026-07-13",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Within the IoT world there has been an increasing buzz around the concept of ‘Physical AI’, the idea that IoT deployments will act as the eyes and ears of Artificial … Continued The post ‘Physical AI’ holds a lot of promise for IoT, but there are significant...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "‘Physical AI’ holds a lot of promise for IoT, but there are significant challenges\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/13/157389-physical-ai-holds-a-lot-of-promise-for-iot-but-there-are-significant-challenges/"
     },
     {
       "title": "Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro",
@@ -468,35 +544,6 @@
       "url": "https://iot-now.com/2026/07/07/157312-nordic-semiconductors-new-fuel-gauge-v2-0-now-available-offering-premium-battery-intelligence-for-iot-devices/"
     },
     {
-      "title": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support",
-      "source": "CNX Software",
-      "date": "2026-07-07",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Last week, I wrote about the ESP32-C5-LCD-1.47 as one of the first ESP32-C5 devkits with a built-in display enabling dual-band WiFi 6 connectivity for IoT and HMI projects. However, one reader lamented the lack of touch-capable screens, at which point kwchow...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "ESP32-C5 devkit offers 2.8-inch capacitive touch display, dual-band Wi-Fi 6, Bluetooth 5 LE, LiPo battery support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/07/esp32-c5-devkit-offers-2-8-inch-capacitive-touch-display-dual-band-wi-fi-6-bluetooth-5-le-lipo-battery-support/"
-    },
-    {
       "title": "Schneider Electric Cognite deal targets IT/OT convergence",
       "source": "IoT Tech News",
       "date": "2026-07-07",
@@ -595,56 +642,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Nordic expands nRF Cloud with firmware vulnerability scanning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/02/157277-nordic-expands-nrf-cloud-with-firmware-vulnerability-scanning/"
-    },
-    {
-      "title": "Is manufacturing ready for the next phase of IIoT?",
-      "source": "IoT Now",
-      "date": "2026-07-02",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Manufacturing is moving into a more connected, intelligent era. As industrial organisations adopt sensor-based IoT, cellular connectivity and analytics, they can gain better visibility across equipment, assets, logistics, field service … Continued The post Is...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Is manufacturing ready for the next phase of IIoT?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/02/157245-is-manufacturing-ready-for-the-next-phase-of-iiot/"
-    },
-    {
-      "title": "TXOne launches virtual OT inspection tool for industry",
-      "source": "IoT Tech News",
-      "date": "2026-07-02",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "TXOne Networks has introduced Virtual Portable Inspector, a software-based OT inspection tool designed for industrial environments where physical inspection is difficult to scale. The product extends TXOne’s Element inspection portfolio into connected and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "TXOne launches virtual OT inspection tool for industry\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/txone-virtual-ot-inspection-tool/"
     }
   ]
 }
