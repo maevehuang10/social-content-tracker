@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:07:18.671Z",
+  "generatedAt": "2026-07-14T04:13:44.513Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant",
+      "source": "CNX Software",
+      "date": "2026-07-14",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IoTLabs wM-Bus Gateway is an ESP32 device supporting the Wireless M-Bus (wM-Bus) standard for receiving data from compatible meters and sensors, designed for full integration with Home Assistant. Wireless M-Bus (Wireless Meter Bus) is a wireless protocol...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/"
+    },
     {
       "title": "Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board",
       "source": "CNX Software",
@@ -327,31 +356,6 @@
       "url": "https://iot-now.com/2026/07/09/157362-soracom-announces-commercial-release-of-sgp-32-compatible-iot-esims/"
     },
     {
-      "title": "How IoT Devices Improve Real-Time Market Data Analysis",
-      "source": "IoT Tech News",
-      "date": "2026-07-09",
-      "product": "IoT Industry",
-      "score": 78,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "IoT Technology To Empower Real-Time Market Data Analysis IoT technology is quietly reshaping how forex traders access and act on market information. Traders can now monitor news feeds, financial indicators and social media sentiment by linking smart devices...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "How IoT Devices Improve Real-Time Market Data Analysis\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/how-iot-devices-improve-real-time-market-data-analysis/"
-    },
-    {
       "title": "From remote pastures to satellite-connected fields: Why LoRaWAN is essential for smart agriculture",
       "source": "IoT Now",
       "date": "2026-07-08",
@@ -436,35 +440,6 @@
       "url": "https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/"
     },
     {
-      "title": "ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-07-08",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "ACEMAGIC has launched a promotion for two of its AMD Ryzen 7 mini PCs. The Matrix Mini K1 mini PC, powered by a Ryzen 7 7730U paired with 16GB LPDDR4X and a 512GB NVMe SSD, benefits from a 23% discount down to $386, and the company offers an even deeper 32%...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/08/acemagic-discounts-its-amd-ryzen-7-mini-pcs-by-up-to-32/"
-    },
-    {
       "title": "IoT Now, Pelion and Transforma Insights host successful ON TREND private evening at Soho House",
       "source": "IoT Now",
       "date": "2026-07-08",
@@ -491,34 +466,6 @@
       "url": "https://iot-now.com/2026/07/08/157335-iot-now-pelion-and-transforma-insights-host-successful-on-trend-private-evening-at-soho-house/"
     },
     {
-      "title": "NVIDIA deploys AI agent for factory alarm triage",
-      "source": "IoT Tech News",
-      "date": "2026-07-08",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "NVIDIA has engineered a GPU-accelerated AI agent designed to automate industrial alarm triage and reduce factory floor downtime. Industrial machinery generates a volume of system alerts that easily exceeds the triage capacity of on-site technicians. In an...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA deploys AI agent for factory alarm triage\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-deploys-ai-agent-for-factory-alarm-triage/"
-    },
-    {
       "title": "Nordic Semiconductor’s new Fuel Gauge v2.0 now available, offering premium battery intelligence for IoT devices",
       "source": "IoT Now",
       "date": "2026-07-07",
@@ -542,31 +489,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Nordic Semiconductor’s new Fuel Gauge v2.0 now available, offering premium battery intelligence for IoT devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/07/157312-nordic-semiconductors-new-fuel-gauge-v2-0-now-available-offering-premium-battery-intelligence-for-iot-devices/"
-    },
-    {
-      "title": "Schneider Electric Cognite deal targets IT/OT convergence",
-      "source": "IoT Tech News",
-      "date": "2026-07-07",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Schneider Electric has agreed to acquire Cognite Holding B.V. in an all-cash transaction valued at US$3.1 billion, adding industrial data and AI software capabilities to its automation and energy management business. The deal adds Cognite’s industrial data...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Schneider Electric Cognite deal targets IT/OT convergence\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/schneider-electric-cognite-deal-it-ot-convergence-industrial-ai/"
     },
     {
       "title": "Maersk deploys next‑generation connectivity technology for its reefers",
@@ -642,6 +564,81 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Nordic expands nRF Cloud with firmware vulnerability scanning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/02/157277-nordic-expands-nrf-cloud-with-firmware-vulnerability-scanning/"
+    },
+    {
+      "title": "Is manufacturing ready for the next phase of IIoT?",
+      "source": "IoT Now",
+      "date": "2026-07-02",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Manufacturing is moving into a more connected, intelligent era. As industrial organisations adopt sensor-based IoT, cellular connectivity and analytics, they can gain better visibility across equipment, assets, logistics, field service … Continued The post Is...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is manufacturing ready for the next phase of IIoT?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/02/157245-is-manufacturing-ready-for-the-next-phase-of-iiot/"
+    },
+    {
+      "title": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond",
+      "source": "IoT Now",
+      "date": "2026-07-01",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Tele2 IoT and Lenovo Connect have formed a partnership to help global businesses deploy and manage connected devices at scale, with a particular focus on the growing automotive sector and … Continued The post Tele2 IoT and Lenovo Connect partner to power...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Tele2 IoT and Lenovo Connect partner to power global IoT for automotive and beyond\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/01/157266-tele2-iot-and-lenovo-connect-partner-to-power-global-iot-for-automotive-and-beyond/"
+    },
+    {
+      "title": "Automotive IoT – Connected intelligence for the road ahead",
+      "source": "IoT Now",
+      "date": "2026-07-01",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Automotive IoT depends on vehicle connections to ensure vehicles run optimally, can communicate with OEMs and road infrastructure and can support applications from infotainment to safety. The next wave will … Continued The post Automotive IoT – Connected...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Automotive IoT – Connected intelligence for the road ahead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/01/157227-automotive-iot-connected-intelligence-for-the-road-ahead/"
     }
   ]
 }
