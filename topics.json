@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T08:25:58.683Z",
+  "generatedAt": "2026-07-14T14:07:51.417Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -37,6 +37,56 @@
       "url": "https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/"
     },
     {
+      "title": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations",
+      "source": "IoT Now",
+      "date": "2026-07-14",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "As Markem-Imaje introduces the latest version of its CoLOS Software system, the company’s marketing communication and business enablement director, Viktor Hermansson, discusses innovative developments in industrial coding with IoT Now. … Continued The post...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/14/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
+    },
+    {
+      "title": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor",
+      "source": "CNX Software",
+      "date": "2026-07-14",
+      "product": "ESP32 Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Adiuvo Engineering’s Forgix is a development board pairing a Raspberry Pi RP2354 microcontroller with 2MB flash and an Efinix Trion T8 FPGA in the Teensy 4.0 form factor. The board also features a 16 Mbit PSRAM chip, a USB-C port, a push-button, an RGB LED,...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/"
+    },
+    {
       "title": "Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition)",
       "source": "CNX Software",
       "date": "2026-07-14",
@@ -60,6 +110,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/"
+    },
+    {
+      "title": "CSL Group acquires IoTM Solutions to power global eSIM orchestration",
+      "source": "IoT Now",
+      "date": "2026-07-14",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "CSL Group, a global provider of Critical Connectivity, has acquired IoTM Solutions, creating a global platform for resilient, multi-carrier IoT connectivity management and eSIM orchestration, designed for the next-generation of global IoT … Continued The post...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "CSL Group acquires IoTM Solutions to power global eSIM orchestration\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/14/157399-csl-group-acquires-iotm-solutions-to-power-global-esim-orchestration/"
     },
     {
       "title": "Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board",
@@ -460,35 +535,6 @@
       "url": "https://iot-now.com/2026/07/08/157331-from-remote-pastures-to-satellite-connected-fields-why-lorawan-is-essential-for-smart-agriculture/"
     },
     {
-      "title": "Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC",
-      "source": "CNX Software",
-      "date": "2026-07-08",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Rikomagic DS04 is a new 4K digital signage player running Android 14 on a Rockchip RK3576 octa-core Cortex-A72/A53 processor paired with 4GB of RAM and 32GB of storage. It looks to be a cost-down version of the Rockchip RK3588-powered Rikomagic DS08 8K...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/"
-    },
-    {
       "title": "IoT Now, Pelion and Transforma Insights host successful ON TREND private evening at Soho House",
       "source": "IoT Now",
       "date": "2026-07-08",
@@ -591,56 +637,6 @@
       "hook": "Good IoT content starts with useful market context.",
       "post": "Schneider Electric Cognite deal targets IT/OT convergence\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/schneider-electric-cognite-deal-it-ot-convergence-industrial-ai/"
-    },
-    {
-      "title": "Maersk deploys next‑generation connectivity technology for its reefers",
-      "source": "IoT Now",
-      "date": "2026-07-06",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Maersk has begun the roll-out of its next generation IoT connectivity devices for its fleet of refrigerated containers (reefers). The aim is to install the new devices on all reefers … Continued The post Maersk deploys next‑generation connectivity technology...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Maersk deploys next‑generation connectivity technology for its reefers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/06/157303-maersk-deploys-next-generation-connectivity-technology-for-its-reefers/"
-    },
-    {
-      "title": "IoT Now Contract Win List – June 2026",
-      "source": "IoT Now",
-      "date": "2026-07-06",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The IoT Now Contract Win List for June 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – June 2026 appeared first on IoT...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT Now Contract Win List – June 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/06/157306-iot-now-contract-win-list-june-2026/"
     }
   ]
 }
