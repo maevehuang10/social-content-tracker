@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T08:32:58.710Z",
+  "generatedAt": "2026-07-15T14:04:05.379Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,34 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-07-15",
+      "product": "Cellular IoT Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "NB-IoT",
+        "Cat.1",
+        "Cellular IoT"
+      ],
+      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
+      "summary": "Bigme has launched the Hibreak Dual 2, an Android 16 smartphone with a 6.13-inch 80fps E-Ink display on the front and a 5-inch LCD on the rear. Built around the MediaTek Dimensity 8300 processor and supports dual 5G connectivity, positioning it as an E-Ink...",
+      "hook": "Wide-area IoT starts with the right connectivity choice.",
+      "post": "Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/"
+    },
     {
       "title": "Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored)",
       "source": "CNX Software",
@@ -60,6 +88,31 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/"
+    },
+    {
+      "title": "Thales, Singtel Group and Bridge Alliance enable world’s first multi-operator IoT eSIM network in Asia Pacific",
+      "source": "IoT Now",
+      "date": "2026-07-15",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Thales, Singtel, Optus, AIS and Globe Telecom has announced the successful deployment of the world’s first multi-operator enterprise eSIM connectivity network for the Internet of Things (IoT). This breakthrough enables … Continued The post Thales, Singtel...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Thales, Singtel Group and Bridge Alliance enable world’s first multi-operator IoT eSIM network in Asia Pacific\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/15/157414-thales-singtel-group-and-bridge-alliance-enable-worlds-first-multi-operator-iot-esim-network-in-asia-pacific/"
     },
     {
       "title": "IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant",
@@ -164,6 +217,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/"
+    },
+    {
+      "title": "IoT Now launches Orange Business Insight Library with Orange Business and Aeris",
+      "source": "IoT Now",
+      "date": "2026-07-14",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IoT Now has launched the Orange Business Insight Library, a new free resource exploring how organisations can improve visibility, efficiency and performance across complex IoT environments. The insight library, developed with … Continued The post IoT Now...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now launches Orange Business Insight Library with Orange Business and Aeris\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/14/157234-iot-now-launches-operational-visibility-hub-with-orange-business-and-aeris/"
     },
     {
       "title": "CSL Group acquires IoTM Solutions to power global eSIM orchestration",
@@ -426,35 +504,6 @@
       "url": "https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/"
     },
     {
-      "title": "Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-07-10",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Oddly Specific Objects has launched a crowdfunding campaign for the Open Book Touch, an ESP32-S3-based e-reader with a 4.26-inch e-paper display with 480 x 800 resolution and a capacitive touch screen. The open-source hardware device comes with 16 MB flash,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/"
-    },
-    {
       "title": "Soracom announces commercial release of SGP.32-compatible IoT eSIMs",
       "source": "IoT Now",
       "date": "2026-07-09",
@@ -586,56 +635,6 @@
       "hook": "Good IoT content starts with useful market context.",
       "post": "NVIDIA deploys AI agent for factory alarm triage\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/nvidia-deploys-ai-agent-for-factory-alarm-triage/"
-    },
-    {
-      "title": "Nordic Semiconductor’s new Fuel Gauge v2.0 now available, offering premium battery intelligence for IoT devices",
-      "source": "IoT Now",
-      "date": "2026-07-07",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Nordic Semiconductor, a global contributor in low-power wireless connectivity solutions, has announced the general availability of Nordic Fuel Gauge v2.0 for the nPM1300 and nPM1304 Power Management ICs, accessible now through nRF Connect SDK … Continued The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Nordic Semiconductor’s new Fuel Gauge v2.0 now available, offering premium battery intelligence for IoT devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/07/157312-nordic-semiconductors-new-fuel-gauge-v2-0-now-available-offering-premium-battery-intelligence-for-iot-devices/"
-    },
-    {
-      "title": "Schneider Electric Cognite deal targets IT/OT convergence",
-      "source": "IoT Tech News",
-      "date": "2026-07-07",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Schneider Electric has agreed to acquire Cognite Holding B.V. in an all-cash transaction valued at US$3.1 billion, adding industrial data and AI software capabilities to its automation and energy management business. The deal adds Cognite’s industrial data...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Schneider Electric Cognite deal targets IT/OT convergence\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/schneider-electric-cognite-deal-it-ot-convergence-industrial-ai/"
     }
   ]
 }
