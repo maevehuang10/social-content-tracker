@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T14:07:51.417Z",
+  "generatedAt": "2026-07-15T04:15:31.792Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored)",
+      "source": "CNX Software",
+      "date": "2026-07-15",
+      "product": "ESP32 Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "In today’s fast-paced electronics industry, bringing innovative products from concept to market quickly and cost-effectively is more important than ever. AIVON, a trusted PCB manufacturing expert with over 15 years of experience in high-quality PCBA...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/"
+    },
     {
       "title": "IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant",
       "source": "CNX Software",
@@ -268,31 +297,6 @@
       "url": "https://iot-now.com/2026/07/13/157389-physical-ai-holds-a-lot-of-promise-for-iot-but-there-are-significant-challenges/"
     },
     {
-      "title": "RoboLab expands robot policy evaluation beyond success rates",
-      "source": "IoT Tech News",
-      "date": "2026-07-13",
-      "product": "IoT Industry",
-      "score": 70,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "NVIDIA RoboLab is advancing robot policy benchmarking for generalist robot systems that follow language instructions. Xuning Yang, Senior Research Scientist at NVIDIA’s Seattle Research Lab, set out the platform as a response to evaluation practices that...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "RoboLab expands robot policy evaluation beyond success rates\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/robolab-expands-robot-policy-evaluation-success-rates/"
-    },
-    {
       "title": "Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro",
       "source": "CNX Software",
       "date": "2026-07-12",
@@ -401,32 +405,6 @@
       "url": "https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/"
     },
     {
-      "title": "Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments",
-      "source": "CNX Software",
-      "date": "2026-07-09",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Norik Systems has developed a compact USB dongle based on Nordic Semiconductor’s nRF9151 SiP, mostly designed to work as a DECT NR+ child node or a USB-powered gateway. As a reminder, DECT NR+ is a non-cellular 5G standard for long-range low-power...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/"
-    },
-    {
       "title": "Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure",
       "source": "CNX Software",
       "date": "2026-07-09",
@@ -479,31 +457,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Soracom announces commercial release of SGP.32-compatible IoT eSIMs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/09/157362-soracom-announces-commercial-release-of-sgp-32-compatible-iot-esims/"
-    },
-    {
-      "title": "How IoT Devices Improve Real-Time Market Data Analysis",
-      "source": "IoT Tech News",
-      "date": "2026-07-09",
-      "product": "IoT Industry",
-      "score": 78,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "IoT Technology To Empower Real-Time Market Data Analysis IoT technology is quietly reshaping how forex traders access and act on market information. Traders can now monitor news feeds, financial indicators and social media sentiment by linking smart devices...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "How IoT Devices Improve Real-Time Market Data Analysis\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/how-iot-devices-improve-real-time-market-data-analysis/"
     },
     {
       "title": "From remote pastures to satellite-connected fields: Why LoRaWAN is essential for smart agriculture",
@@ -561,34 +514,6 @@
       "url": "https://iot-now.com/2026/07/08/157335-iot-now-pelion-and-transforma-insights-host-successful-on-trend-private-evening-at-soho-house/"
     },
     {
-      "title": "NVIDIA deploys AI agent for factory alarm triage",
-      "source": "IoT Tech News",
-      "date": "2026-07-08",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "NVIDIA has engineered a GPU-accelerated AI agent designed to automate industrial alarm triage and reduce factory floor downtime. Industrial machinery generates a volume of system alerts that easily exceeds the triage capacity of on-site technicians. In an...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA deploys AI agent for factory alarm triage\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-deploys-ai-agent-for-factory-alarm-triage/"
-    },
-    {
       "title": "Nordic Semiconductor’s new Fuel Gauge v2.0 now available, offering premium battery intelligence for IoT devices",
       "source": "IoT Now",
       "date": "2026-07-07",
@@ -614,11 +539,11 @@
       "url": "https://iot-now.com/2026/07/07/157312-nordic-semiconductors-new-fuel-gauge-v2-0-now-available-offering-premium-battery-intelligence-for-iot-devices/"
     },
     {
-      "title": "Schneider Electric Cognite deal targets IT/OT convergence",
-      "source": "IoT Tech News",
-      "date": "2026-07-07",
-      "product": "IoT Industry",
-      "score": 75,
+      "title": "Maersk deploys next‑generation connectivity technology for its reefers",
+      "source": "IoT Now",
+      "date": "2026-07-06",
+      "product": "BLE Module",
+      "score": 88,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -628,15 +553,90 @@
         "Facebook"
       ],
       "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Schneider Electric has agreed to acquire Cognite Holding B.V. in an all-cash transaction valued at US$3.1 billion, adding industrial data and AI software capabilities to its automation and energy management business. The deal adds Cognite’s industrial data...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Schneider Electric Cognite deal targets IT/OT convergence\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/schneider-electric-cognite-deal-it-ot-convergence-industrial-ai/"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Maersk has begun the roll-out of its next generation IoT connectivity devices for its fleet of refrigerated containers (reefers). The aim is to install the new devices on all reefers … Continued The post Maersk deploys next‑generation connectivity technology...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Maersk deploys next‑generation connectivity technology for its reefers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/06/157303-maersk-deploys-next-generation-connectivity-technology-for-its-reefers/"
+    },
+    {
+      "title": "IoT Now Contract Win List – June 2026",
+      "source": "IoT Now",
+      "date": "2026-07-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The IoT Now Contract Win List for June 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – June 2026 appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now Contract Win List – June 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/06/157306-iot-now-contract-win-list-june-2026/"
+    },
+    {
+      "title": "Nordic expands nRF Cloud with firmware vulnerability scanning",
+      "source": "IoT Now",
+      "date": "2026-07-02",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Nordic Semiconductor, a global contributor in low-power wireless connectivity solutions, has announced that firmware vulnerability scanning is coming to nRF Cloud, further bolstering its capabilities for empowering device makers to … Continued The post Nordic...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Nordic expands nRF Cloud with firmware vulnerability scanning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/02/157277-nordic-expands-nrf-cloud-with-firmware-vulnerability-scanning/"
+    },
+    {
+      "title": "Is manufacturing ready for the next phase of IIoT?",
+      "source": "IoT Now",
+      "date": "2026-07-02",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Manufacturing is moving into a more connected, intelligent era. As industrial organisations adopt sensor-based IoT, cellular connectivity and analytics, they can gain better visibility across equipment, assets, logistics, field service … Continued The post Is...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is manufacturing ready for the next phase of IIoT?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/02/157245-is-manufacturing-ready-for-the-next-phase-of-iiot/"
     }
   ]
 }
