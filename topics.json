@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:21:18.500Z",
+  "generatedAt": "2026-07-16T08:30:16.758Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,35 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/16/nvidia-jetson-t2000-and-t3000-modules-for-edge-ai-and-robotics-applications/"
+    },
+    {
+      "title": "OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-07-16",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "OpenInfrared Point is a universal remote hub built around ESP32-S3 that lets users control compatible devices from a smartphone by scanning a QR code or tapping an NFC tag, eliminating the need for dedicated remote controls. Powered via USB-C, the Point hub...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/"
     },
     {
       "title": "Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)",
@@ -523,31 +552,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/"
-    },
-    {
-      "title": "Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-07-11",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "BrisbaneSilicon ELM11-Feather is a “microcontroller” board based on a Gowin GW1NR FPGA that is natively programmable in Lua, C, SystemVerilog, and VHDL. Compatible with the Adafruit Feather form factor, the board features GPIO headers, a built-in debugger, a...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/"
     },
     {
       "title": "Soracom announces commercial release of SGP.32-compatible IoT eSIMs",
