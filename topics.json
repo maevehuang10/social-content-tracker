@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T08:25:29.979Z",
+  "generatedAt": "2026-07-17T13:58:41.312Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,66 +8,15 @@
   ],
   "topics": [
     {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
+      "title": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs",
+      "source": "CNX Software",
+      "date": "2026-07-17",
+      "product": "UWB Module",
+      "score": 98,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
+        "Sales Material",
         "Short Video",
-        "LinkedIn Post",
         "Carousel"
       ],
       "platforms": [
@@ -77,25 +26,24 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "UWB",
+        "RTLS",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-07-17"
+      "value": "Useful for turning current industry news into content about precise indoor positioning, factory tracking, logistics, and RTLS projects.",
+      "summary": "Espressif Systems has just released the SDK for Aliro, designed for smart Matter door locks and other access control solutions built around ESP32-C (WiFi) or ESP32-H (Thread) microcontroller and third-party NFC chips. We recently wrote about the Aliro...",
+      "hook": "When meter-level location is not enough, UWB becomes interesting.",
+      "post": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs\n\nThis is a useful signal for IoT brands and product teams watching UWB Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/"
     },
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads",
+      "source": "CNX Software",
+      "date": "2026-07-17",
+      "product": "WiFi Module",
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -103,16 +51,15 @@
         "Facebook"
       ],
       "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-07-17"
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Seeed Studio’s reCamera Pro is an AI camera powered by a Rockchip RV1126B quad-core Cortex-A53 SoC with a 3 TOPS NPU for on-device AI vision, but also large language models (LLMs), vision language models (VLMs), as well as speech-to-text (STT) and...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/"
     },
     {
       "title": "NVIDIA launches smaller, mainstream Jetson T2000 and T3000 modules for Edge AI and robotics applications",
@@ -242,6 +189,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/16/157464-keysight-and-sateliot-selected-by-european-space-agency-to-develop-blockchain-enabled-framework-for-5g-ntn/"
+    },
+    {
+      "title": "NVIDIA T3000 and T2000 target robotics cost and power limits",
+      "source": "IoT Tech News",
+      "date": "2026-07-16",
+      "product": "IoT Industry",
+      "score": 78,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "NVIDIA introduced the Thor-based T3000 and T2000 chips today, targeting mass-market robotics and edge AI deployment. For robotics companies weighing custom silicon against off-the-shelf platforms, the calculation now includes a set of Thor-architecture...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "NVIDIA T3000 and T2000 target robotics cost and power limits\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-t3000-and-t2000-target-robotics-cost-and-power-limits/"
     },
     {
       "title": "Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)",
@@ -374,6 +346,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Private 5G market to reach $6.6 billion as physical AI accelerates adoption, reports SNS Telecom & IT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/15/157435-private-5g-market-to-reach-6-6-billion-as-physical-ai-accelerates-adoption-reports-sns-telecom-it/"
+    },
+    {
+      "title": "CSL Group buys IoTM for multi-carrier IoT SIM control",
+      "source": "IoT Tech News",
+      "date": "2026-07-15",
+      "product": "IoT Industry",
+      "score": 70,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "CSL Group is buying IoTM Solutions to consolidate multi-carrier SIM and eSIM management for enterprise IoT estates. IoTM Solutions is a cloud-native connectivity management vendor whose platform unifies SIM lifecycle operations, eSIM profile handling, usage...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "CSL Group buys IoTM for multi-carrier IoT SIM control\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/csl-group-buys-iotm-for-multi-carrier-iot-sim-control/"
     },
     {
       "title": "IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant",
@@ -530,60 +527,6 @@
       "url": "https://iot-now.com/2026/07/14/157399-csl-group-acquires-iotm-solutions-to-power-global-esim-orchestration/"
     },
     {
-      "title": "WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway",
-      "source": "CNX Software",
-      "date": "2026-07-13",
-      "product": "LoRa Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "RAKwireless has sent us a sample of the WisMesh Station, a Meshtastic gateway and base station based on a Raspberry Pi 4 Model B, a WisMesh Pi HAT RAK6421 expansion board, a LoRa module, a GNSS module, all housed in a compact metal enclosure. It comes with...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/"
-    },
-    {
-      "title": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery",
-      "source": "CNX Software",
-      "date": "2026-07-13",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Ambient Scientific GPX10 Pro is a processor/microcontroller for always-on embedded AI applications on power-constrained edge devices. With a consumption of under <100μW, it can deliver years of always-on AI on one coin-cell battery. The SoC features ten...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/"
-    },
-    {
       "title": "Telefónica and Thales simplify IoT connectivity in global environments",
       "source": "IoT Now",
       "date": "2026-07-13",
@@ -633,6 +576,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "‘Physical AI’ holds a lot of promise for IoT, but there are significant challenges\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/13/157389-physical-ai-holds-a-lot-of-promise-for-iot-but-there-are-significant-challenges/"
+    },
+    {
+      "title": "RoboLab expands robot policy evaluation beyond success rates",
+      "source": "IoT Tech News",
+      "date": "2026-07-13",
+      "product": "IoT Industry",
+      "score": 70,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "NVIDIA RoboLab is advancing robot policy benchmarking for generalist robot systems that follow language instructions. Xuning Yang, Senior Research Scientist at NVIDIA’s Seattle Research Lab, set out the platform as a response to evaluation practices that...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "RoboLab expands robot policy evaluation beyond success rates\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/robolab-expands-robot-policy-evaluation-success-rates/"
+    },
+    {
+      "title": "Soracom announces commercial release of SGP.32-compatible IoT eSIMs",
+      "source": "IoT Now",
+      "date": "2026-07-09",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Soracom, a cloud-native IoT platform providing connectivity, cloud integration and AI services for the Internet of Things, has announced the commercial availability of its Connectivity Hypervisor eSIM orchestration capability and SGP.32-compatible IoT …...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Soracom announces commercial release of SGP.32-compatible IoT eSIMs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/09/157362-soracom-announces-commercial-release-of-sgp-32-compatible-iot-esims/"
     }
   ]
 }
