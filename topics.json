@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:58:41.312Z",
+  "generatedAt": "2026-07-18T04:11:25.807Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-07-18"
+    },
     {
       "title": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs",
       "source": "CNX Software",
@@ -525,107 +632,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "CSL Group acquires IoTM Solutions to power global eSIM orchestration\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/14/157399-csl-group-acquires-iotm-solutions-to-power-global-esim-orchestration/"
-    },
-    {
-      "title": "Telefónica and Thales simplify IoT connectivity in global environments",
-      "source": "IoT Now",
-      "date": "2026-07-13",
-      "product": "BLE Module",
-      "score": 90,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Telefónica, through its business unit Telefónica Tech, is launching, in collaboration with Thales, a global contributor in cybersecurity and digital identity, an eSIM solution based on the GSMA SGP.32 standard … Continued The post Telefónica and Thales...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Telefónica and Thales simplify IoT connectivity in global environments\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/13/157392-telefonica-and-thales-simplify-iot-connectivity-in-global-environments/"
-    },
-    {
-      "title": "‘Physical AI’ holds a lot of promise for IoT, but there are significant challenges",
-      "source": "IoT Now",
-      "date": "2026-07-13",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Within the IoT world there has been an increasing buzz around the concept of ‘Physical AI’, the idea that IoT deployments will act as the eyes and ears of Artificial … Continued The post ‘Physical AI’ holds a lot of promise for IoT, but there are significant...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "‘Physical AI’ holds a lot of promise for IoT, but there are significant challenges\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/13/157389-physical-ai-holds-a-lot-of-promise-for-iot-but-there-are-significant-challenges/"
-    },
-    {
-      "title": "RoboLab expands robot policy evaluation beyond success rates",
-      "source": "IoT Tech News",
-      "date": "2026-07-13",
-      "product": "IoT Industry",
-      "score": 70,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "NVIDIA RoboLab is advancing robot policy benchmarking for generalist robot systems that follow language instructions. Xuning Yang, Senior Research Scientist at NVIDIA’s Seattle Research Lab, set out the platform as a response to evaluation practices that...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "RoboLab expands robot policy evaluation beyond success rates\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/robolab-expands-robot-policy-evaluation-success-rates/"
-    },
-    {
-      "title": "Soracom announces commercial release of SGP.32-compatible IoT eSIMs",
-      "source": "IoT Now",
-      "date": "2026-07-09",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Soracom, a cloud-native IoT platform providing connectivity, cloud integration and AI services for the Internet of Things, has announced the commercial availability of its Connectivity Hypervisor eSIM orchestration capability and SGP.32-compatible IoT …...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Soracom announces commercial release of SGP.32-compatible IoT eSIMs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/09/157362-soracom-announces-commercial-release-of-sgp-32-compatible-iot-esims/"
     }
   ]
 }
