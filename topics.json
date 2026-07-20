@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T09:31:52.247Z",
+  "generatedAt": "2026-07-20T14:29:34.014Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,64 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-07-20",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Globalscale Technologies has launched the Case8 series of open-source cyberdeck-style computing platforms based on MediaTek Genio 520 and Genio 720 processors. The platform is offered in hacker (PCBA only), gaming, home automation, and education variants. The...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/"
+    },
+    {
+      "title": "Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3",
+      "source": "CNX Software",
+      "date": "2026-07-20",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Geniatech XPI-3576-CM5 is a Rockchip RK3576 octa-core Arm Cortex-A72/A53 system-on-module based on the Raspberry Pi CM4/CM5 form factor with up to 16GB LPDDR5 and 128GB eMMC flash. The module also features a RealTek RTL8211F Gigabit Ethernet controller, an...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/"
+    },
     {
       "title": "IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards",
       "source": "CNX Software",
@@ -339,59 +397,6 @@
       "hook": "Good IoT content starts with useful market context.",
       "post": "NVIDIA T3000 and T2000 target robotics cost and power limits\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/nvidia-t3000-and-t2000-target-robotics-cost-and-power-limits/"
-    },
-    {
-      "title": "Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-07-15",
-      "product": "Cellular IoT Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Bigme has launched the Hibreak Dual 2, an Android 16 smartphone with a 6.13-inch 80fps E-Ink display on the front and a 5-inch LCD on the rear. Built around the MediaTek Dimensity 8300 processor and supports dual 5G connectivity, positioning it as an E-Ink...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/"
-    },
-    {
-      "title": "Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux",
-      "source": "CNX Software",
-      "date": "2026-07-15",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Back in 2024, we noted that the open-source driver for RK3588’s NPU by Tomeu Vizoso delivered decent performance for object detection. Since then, good progress has been made, and it’s now known as the Rocket driver in mainline Linux. However, the Rockchip...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/"
     },
     {
       "title": "Thales, Singtel Group and Bridge Alliance enable world’s first multi-operator IoT eSIM network in Asia Pacific",
