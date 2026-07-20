@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T13:46:16.606Z",
+  "generatedAt": "2026-07-20T04:48:30.886Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems",
+      "source": "CNX Software",
+      "date": "2026-07-20",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Efinix has introduced the Titanium Edge FPGA family designed for low-power edge AI and machine vision applications. Based on the company’s Titanium FPGA architecture, the new family introduces lower static power consumption, configurable 2.5 Gbps MIPI I/O,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Efinix Titanium Edge FPGA family targets low-power edge AI and vision systems\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/20/efinix-titanium-edge-fpga-family-targets-low-power-edge-ai-and-vision-systems/"
+    },
     {
       "title": "Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC",
       "source": "CNX Software",
@@ -396,31 +421,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/14/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
-    },
-    {
-      "title": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor",
-      "source": "CNX Software",
-      "date": "2026-07-14",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Adiuvo Engineering’s Forgix is a development board pairing a Raspberry Pi RP2354 microcontroller with 2MB flash and an Efinix Trion T8 FPGA in the Teensy 4.0 form factor. The board also features a 16 Mbit PSRAM chip, a USB-C port, a push-button, an RGB LED,...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "$50 Forgix board pairs Raspberry Pi RP2354 MCU with Trion T8 FPGA in Teensy form factor\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/14/50-forgix-board-pairs-raspberry-pi-rp2354-mcu-with-trion-t8-fpga-in-teensy-form-factor/"
     },
     {
       "title": "IoT Now launches Orange Business Insight Library with Orange Business and Aeris",
