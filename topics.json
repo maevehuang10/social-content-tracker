@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:27:26.726Z",
+  "generatedAt": "2026-07-21T08:42:07.132Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -35,6 +35,34 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/"
+    },
+    {
+      "title": "How Fibre Internet Enhances Smart Homes",
+      "source": "IoT Tech News",
+      "date": "2026-07-21",
+      "product": "WiFi Module",
+      "score": 97,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
+      ],
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Modern homes have transformed into interconnected ecosystems where smart devices coordinate to deliver enhanced convenience, security and energy efficiency. As these intelligent environments grow more complex, the demands on home internet connections increase...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "How Fibre Internet Enhances Smart Homes\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/how-fibre-internet-enhances-smart-homes/"
     },
     {
       "title": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
@@ -605,31 +633,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Telefónica and Thales simplify IoT connectivity in global environments\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/13/157392-telefonica-and-thales-simplify-iot-connectivity-in-global-environments/"
-    },
-    {
-      "title": "‘Physical AI’ holds a lot of promise for IoT, but there are significant challenges",
-      "source": "IoT Now",
-      "date": "2026-07-13",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Within the IoT world there has been an increasing buzz around the concept of ‘Physical AI’, the idea that IoT deployments will act as the eyes and ears of Artificial … Continued The post ‘Physical AI’ holds a lot of promise for IoT, but there are significant...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "‘Physical AI’ holds a lot of promise for IoT, but there are significant challenges\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/13/157389-physical-ai-holds-a-lot-of-promise-for-iot-but-there-are-significant-challenges/"
     }
   ]
 }
