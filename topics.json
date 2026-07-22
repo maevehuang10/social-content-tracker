@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T14:16:53.572Z",
+  "generatedAt": "2026-07-22T04:29:26.892Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "NVIDIA increases the price of Jetson modules and devkits by up to 101%",
+      "source": "CNX Software",
+      "date": "2026-07-22",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "A few months ago, NVIDIA phased out several Jetson modules due to high LPDDR4 prices, and now the company has decided to increase the prices on all its Jetson modules and developer kits by up to 101%. There was no specific announcement about the price, but...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NVIDIA increases the price of Jetson modules and devkits by up to 101%\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/"
+    },
     {
       "title": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs",
       "source": "CNX Software",
@@ -507,31 +532,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/"
-    },
-    {
-      "title": "Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family",
-      "source": "CNX Software",
-      "date": "2026-07-16",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Olimex PICO-EVB board for the Raspberry Pi Pico and compatible boards is designed for high-voltage automation with four 3.3-30V DC or 110-220V AC inputs and four 15V DC/220V AC relays. It features two 20-pin headers enabling users to connect their preferred...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Olimex PICO-EVB automation board adds high-voltage terminals to Raspberry Pi Pico family\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/17/olimex-pico-evb-automation-board-adds-high-voltage-terminals-to-raspberry-pi-pico-family/"
     },
     {
       "title": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN",
