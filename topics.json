@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T04:29:26.892Z",
+  "generatedAt": "2026-07-22T08:41:50.171Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "NVIDIA increases the price of Jetson modules and devkits by up to 101%\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/"
+    },
+    {
+      "title": "Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount",
+      "source": "CNX Software",
+      "date": "2026-07-22",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Raspberry Pi has just announced the “Raspberry Pi Touch Display 2 – 10″ Portrait”, and we’ve received an early review sample for testing. The new 10.1-inch Raspberry Pi Touch Display 2 is a multi-touch portrait panel for Raspberry Pi designed for interactive...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/"
     },
     {
       "title": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs",
@@ -507,31 +532,6 @@
       "hook": "When meter-level location is not enough, UWB becomes interesting.",
       "post": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs\n\nThis is a useful signal for IoT brands and product teams watching UWB Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/"
-    },
-    {
-      "title": "reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads",
-      "source": "CNX Software",
-      "date": "2026-07-17",
-      "product": "WiFi Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "Seeed Studio’s reCamera Pro is an AI camera powered by a Rockchip RV1126B quad-core Cortex-A53 SoC with a 3 TOPS NPU for on-device AI vision, but also large language models (LLMs), vision language models (VLMs), as well as speech-to-text (STT) and...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/"
     },
     {
       "title": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN",
