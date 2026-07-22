@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:41:50.171Z",
+  "generatedAt": "2026-07-22T14:18:17.775Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,32 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
+      "source": "CNX Software",
+      "date": "2026-07-22",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Arduino UNO Q Arcade bundle is a kit designed to build a custom retro gaming console. The bundle combines the Arduino UNO Q 4GB SBC with a set of daisy-chainable Modulino I2C modules, allowing users to create a custom game controller without requiring complex...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/"
+    },
     {
       "title": "NVIDIA increases the price of Jetson modules and devkits by up to 101%",
       "source": "CNX Software",
@@ -33,6 +59,31 @@
       "url": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/"
     },
     {
+      "title": "ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD",
+      "source": "CNX Software",
+      "date": "2026-07-22",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Previously offered with AMD Ryzen 5/7/9 CPUs, the ACEMAGICIAN Kron K1 mini PC has now gotten a low-cost version based on the AMD Ryzen R2544 quad-core processor paired with 8GB DDR4 and a 256GB SSD and sold for just $279.99 on Amazon. With everything going up...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/"
+    },
+    {
       "title": "Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount",
       "source": "CNX Software",
       "date": "2026-07-22",
@@ -56,6 +107,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/"
+    },
+    {
+      "title": "Tuya Smart accelerates physical AI commercialisation with investment in Robopoet",
+      "source": "IoT Now",
+      "date": "2026-07-22",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Tuya Smart, a global AI cloud platform service provider, made an investment in Robopoet‘s recently closed RMB 100 million pre-A financing round. The round also drew participation from existing backers … Continued The post Tuya Smart accelerates physical AI...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Tuya Smart accelerates physical AI commercialisation with investment in Robopoet\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/22/157532-tuya-smart-accelerates-physical-ai-commercialisation-with-investment-in-robopoet/"
     },
     {
       "title": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs",
@@ -480,60 +556,6 @@
       "url": "https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/"
     },
     {
-      "title": "M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features",
-      "source": "CNX Software",
-      "date": "2026-07-18",
-      "product": "Cellular IoT Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "IAMLIUBO has written firmware for the M5Stack Core2 IoT controller to reproduce the features of the $230 Codex Micro macro pad for OpenAI’s AI coding agent platform, enabling developers to more easily monitor and control agents. The original is neat with a...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/"
-    },
-    {
-      "title": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs",
-      "source": "CNX Software",
-      "date": "2026-07-17",
-      "product": "UWB Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "UWB",
-        "RTLS",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about precise indoor positioning, factory tracking, logistics, and RTLS projects.",
-      "summary": "Espressif Systems has just released the SDK for Aliro, designed for smart Matter door locks and other access control solutions built around ESP32-C (WiFi) or ESP32-H (Thread) microcontroller and third-party NFC chips. We recently wrote about the Aliro...",
-      "hook": "When meter-level location is not enough, UWB becomes interesting.",
-      "post": "Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs\n\nThis is a useful signal for IoT brands and product teams watching UWB Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/"
-    },
-    {
       "title": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN",
       "source": "IoT Now",
       "date": "2026-07-16",
@@ -607,31 +629,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Thales, Singtel Group and Bridge Alliance enable world’s first multi-operator IoT eSIM network in Asia Pacific\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/15/157414-thales-singtel-group-and-bridge-alliance-enable-worlds-first-multi-operator-iot-esim-network-in-asia-pacific/"
-    },
-    {
-      "title": "Private 5G market to reach $6.6 billion as physical AI accelerates adoption, reports SNS Telecom & IT",
-      "source": "IoT Now",
-      "date": "2026-07-15",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "A new report from SNS Telecom & IT indicates that annual spending on private 5G networks is projected to surpass $6.6 billion by 2029 as industrial giants scale multi-site, multi-national … Continued The post Private 5G market to reach $6.6 billion as...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Private 5G market to reach $6.6 billion as physical AI accelerates adoption, reports SNS Telecom & IT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/15/157435-private-5g-market-to-reach-6-6-billion-as-physical-ai-accelerates-adoption-reports-sns-telecom-it/"
     }
   ]
 }
