@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T14:18:17.775Z",
+  "generatedAt": "2026-07-23T04:28:18.830Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-07-23"
+    },
     {
       "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
       "source": "CNX Software",
@@ -163,34 +270,6 @@
       "url": "https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/"
     },
     {
-      "title": "How Fibre Internet Enhances Smart Homes",
-      "source": "IoT Tech News",
-      "date": "2026-07-21",
-      "product": "WiFi Module",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "Modern homes have transformed into interconnected ecosystems where smart devices coordinate to deliver enhanced convenience, security and energy efficiency. As these intelligent environments grow more complex, the demands on home internet connections increase...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "How Fibre Internet Enhances Smart Homes\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/how-fibre-internet-enhances-smart-homes/"
-    },
-    {
       "title": "Can you bring intelligent edge IoT devices to market faster?",
       "source": "IoT Now",
       "date": "2026-07-21",
@@ -345,31 +424,6 @@
       "url": "https://iot-now.com/2026/07/21/157514-inside-agile-telco-q2-2026-what-do-agile-telcos-need-to-succeed-in-the-ai-supercycle/"
     },
     {
-      "title": "Anthropic and Nozomi bring AI vulnerability research to OT security",
-      "source": "IoT Tech News",
-      "date": "2026-07-21",
-      "product": "IoT Industry",
-      "score": 74,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Nozomi Networks has joined Anthropic’s Project Glasswing, an initiative using artificial intelligence to identify software vulnerabilities in critical infrastructure and connected systems. The company will contribute expertise in operational technology, the...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Anthropic and Nozomi bring AI vulnerability research to OT security\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/anthropic-ai-vulnerability-research-ot-security-nozomi-networks/"
-    },
-    {
       "title": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
       "source": "CNX Software",
       "date": "2026-07-20",
@@ -397,34 +451,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/"
-    },
-    {
-      "title": "Factory floor exposure grows as OT security spending climbs",
-      "source": "IoT Tech News",
-      "date": "2026-07-20",
-      "product": "BLE Module",
-      "score": 89,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Manufacturing cybersecurity spending is climbing fast, and the growth is exposing weak factory floor operational technology (OT). Anyone running production plants are stuck with a decision that doesn’t have a comfortable answer: keep OT isolated and accept...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Factory floor exposure grows as OT security spending climbs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/factory-floor-exposure-grows-as-ot-security-spending-climbs/"
     },
     {
       "title": "Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3",
@@ -579,31 +605,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/16/157464-keysight-and-sateliot-selected-by-european-space-agency-to-develop-blockchain-enabled-framework-for-5g-ntn/"
-    },
-    {
-      "title": "NVIDIA T3000 and T2000 target robotics cost and power limits",
-      "source": "IoT Tech News",
-      "date": "2026-07-16",
-      "product": "IoT Industry",
-      "score": 78,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "NVIDIA introduced the Thor-based T3000 and T2000 chips today, targeting mass-market robotics and edge AI deployment. For robotics companies weighing custom silicon against off-the-shelf platforms, the calculation now includes a set of Thor-architecture...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA T3000 and T2000 target robotics cost and power limits\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-t3000-and-t2000-target-robotics-cost-and-power-limits/"
     },
     {
       "title": "Thales, Singtel Group and Bridge Alliance enable world’s first multi-operator IoT eSIM network in Asia Pacific",
