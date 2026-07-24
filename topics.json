@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T04:27:27.219Z",
+  "generatedAt": "2026-07-24T08:39:30.747Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,13 @@
   ],
   "topics": [
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs",
+      "source": "CNX Software",
+      "date": "2026-07-24",
+      "product": "BLE Module",
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -22,97 +22,40 @@
         "Facebook"
       ],
       "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-07-24"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "CirkitScape Top HAT (also written as TopHAT) is a multi-function expansion board for the Raspberry Pi that adds 16 extra GPIOs through an I2C expander, an RS-485 header, a 3-channel, 12-bit ADC, and four extra USB 2.0 ports through a USB hub. The company told...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/"
     },
     {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
+      "title": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform",
+      "source": "CNX Software",
+      "date": "2026-07-24",
       "product": "ESP32 Module",
-      "score": 96,
+      "score": 86,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Short Video"
+        "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook",
-        "YouTube"
+        "Facebook"
       ],
       "tags": [
         "ESP32",
         "Embedded Development",
         "Smart Device"
       ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "AMD has announced a range of new AI solutions at Advanced AI 2026, including 6th Gen AMD EPYC CPUs, AMD Instinct MI400 Series GPUs, and AMD Helios AI rackscale solutions designed for data centers. In this article, we’ll focus instead on embedded and physical...",
       "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-07-24"
+      "post": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/"
     },
     {
       "title": "AIS-1000 AI Surveillance Station – A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L",
@@ -252,6 +195,31 @@
       "url": "https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/"
     },
     {
+      "title": "AI adoption in OT security outpaces governance controls",
+      "source": "IoT Tech News",
+      "date": "2026-07-23",
+      "product": "IoT Industry",
+      "score": 79,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Industrial organisations are adopting artificial intelligence for threat detection, network monitoring, and security operations, but formal controls governing its use in operational technology environments remain limited, according to a new industry survey....",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "AI adoption in OT security outpaces governance controls\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/ai-ot-security-governance/"
+    },
+    {
       "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
       "source": "CNX Software",
       "date": "2026-07-22",
@@ -328,6 +296,35 @@
       "url": "https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/"
     },
     {
+      "title": "AWS pairs NB-IoT ingestion with Bedrock-powered IoT query tools",
+      "source": "IoT Tech News",
+      "date": "2026-07-22",
+      "product": "LoRa Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "AWS (Amazon Web Services) has detailed a reference architecture combining NB-IoT and LoRaWAN ingestion with dual-path IoT telemetry processing. In a blog post, AWS lays out a pattern for handling telemetry from device fleets that could number in the millions,...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "AWS pairs NB-IoT ingestion with Bedrock-powered IoT query tools\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/aws-pairs-nb-iot-ingestion-with-bedrock-iot-query-tools/"
+    },
+    {
       "title": "Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount",
       "source": "CNX Software",
       "date": "2026-07-22",
@@ -378,16 +375,15 @@
       "url": "https://iot-now.com/2026/07/22/157532-tuya-smart-accelerates-physical-ai-commercialisation-with-investment-in-robopoet/"
     },
     {
-      "title": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs",
-      "source": "CNX Software",
+      "title": "How Fibre Internet Enhances Smart Homes",
+      "source": "IoT Tech News",
       "date": "2026-07-21",
-      "product": "BLE Module",
-      "score": 98,
+      "product": "WiFi Module",
+      "score": 97,
       "formats": [
         "LinkedIn Post",
         "Sales Material",
-        "Short Video",
-        "Carousel"
+        "Short Video"
       ],
       "platforms": [
         "LinkedIn",
@@ -396,15 +392,15 @@
         "YouTube"
       ],
       "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
       ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "nRF54L Arduino Core is an open-source project designed to bring Arduino support for Nordic Semiconductor nRF54L wireless SoCs, starting with Seeed Studio’s XIAO nRF54L15 (Sense) and XIAO nRF54LM20A (Sense) boards, as well as compatible Holyiot nRF54L15...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/"
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Modern homes have transformed into interconnected ecosystems where smart devices coordinate to deliver enhanced convenience, security and energy efficiency. As these intelligent environments grow more complex, the demands on home internet connections increase...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "How Fibre Internet Enhances Smart Homes\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/how-fibre-internet-enhances-smart-homes/"
     },
     {
       "title": "Can you bring intelligent edge IoT devices to market faster?",
@@ -561,16 +557,40 @@
       "url": "https://iot-now.com/2026/07/21/157514-inside-agile-telco-q2-2026-what-do-agile-telcos-need-to-succeed-in-the-ai-supercycle/"
     },
     {
-      "title": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)",
-      "source": "CNX Software",
+      "title": "Anthropic and Nozomi bring AI vulnerability research to OT security",
+      "source": "IoT Tech News",
+      "date": "2026-07-21",
+      "product": "IoT Industry",
+      "score": 74,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Nozomi Networks has joined Anthropic’s Project Glasswing, an initiative using artificial intelligence to identify software vulnerabilities in critical infrastructure and connected systems. The company will contribute expertise in operational technology, the...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Anthropic and Nozomi bring AI vulnerability research to OT security\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/anthropic-ai-vulnerability-research-ot-security-nozomi-networks/"
+    },
+    {
+      "title": "Factory floor exposure grows as OT security spending climbs",
+      "source": "IoT Tech News",
       "date": "2026-07-20",
       "product": "BLE Module",
-      "score": 94,
+      "score": 89,
       "formats": [
         "LinkedIn Post",
         "Sales Material",
-        "Short Video",
-        "Carousel"
+        "Short Video"
       ],
       "platforms": [
         "LinkedIn",
@@ -584,10 +604,10 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Globalscale Technologies has launched the Case8 series of open-source cyberdeck-style computing platforms based on MediaTek Genio 520 and Genio 720 processors. The platform is offered in hacker (PCBA only), gaming, home automation, and education variants. The...",
+      "summary": "Manufacturing cybersecurity spending is climbing fast, and the growth is exposing weak factory floor operational technology (OT). Anyone running production plants are stuck with a decision that doesn’t have a comfortable answer: keep OT isolated and accept...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/"
+      "post": "Factory floor exposure grows as OT security spending climbs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/factory-floor-exposure-grows-as-ot-security-spending-climbs/"
     },
     {
       "title": "Viasat demonstrates first integrated automotive satellite voice call capability with BMW Group",
@@ -613,31 +633,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Viasat demonstrates first integrated automotive satellite voice call capability with BMW Group\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/20/157481-viasat-demonstrates-first-integrated-automotive-satellite-voice-call-capability-with-bmw-group/"
-    },
-    {
-      "title": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN",
-      "source": "IoT Now",
-      "date": "2026-07-16",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Keysight Technologies has been selected by the European Space Agency (ESA) to lead a three‑year development program focused on creating secure, blockchain‑enabled anomaly detection for 5G non‑terrestrial networks (NTN). Keysight … Continued The post Keysight...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/16/157464-keysight-and-sateliot-selected-by-european-space-agency-to-develop-blockchain-enabled-framework-for-5g-ntn/"
     }
   ]
 }
