@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:39:30.747Z",
+  "generatedAt": "2026-07-24T14:05:52.400Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -56,6 +56,35 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/"
+    },
+    {
+      "title": "$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD",
+      "source": "CNX Software",
+      "date": "2026-07-24",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "BOSGAME E6 ECO is another Wildcat Lake mini PC powered by the penta-core Intel Core 3 304 processor, paired with 12GB LPDDR5X and a 512GB NVMe SSD, and an attractive price tag of $379.99 and up. It also features three video outputs via HDMI 2.0, DisplayPort...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/"
     },
     {
       "title": "AIS-1000 AI Surveillance Station – A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L",
@@ -476,35 +505,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Lantronix ends the era of region-locked IoT routers with one globally certified SKU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/21/157523-lantronix-ends-the-era-of-region-locked-iot-routers-with-one-globally-certified-sku/"
-    },
-    {
-      "title": "ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU",
-      "source": "CNX Software",
-      "date": "2026-07-21",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The 600 MHz STM32H7R/S Cortex-M7 microcontroller family with an optional NeoChrom 2.5D GPU and up to 640 KB SRAM and 64 KB flash was introduced in 2024. However, apart from ST’s own development boards such as the NUCLEO-H7S3L8 and STM32H7S78-DK, we hadn’t...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/"
     },
     {
       "title": "It’s time we talk about… AI in IoT",
