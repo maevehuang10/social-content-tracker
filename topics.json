@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T08:37:46.498Z",
+  "generatedAt": "2026-07-26T13:49:56.731Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,13 @@
   ],
   "topics": [
     {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
+      "title": "Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes",
+      "source": "CNX Software",
+      "date": "2026-07-26",
+      "product": "BLE Module",
+      "score": 80,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -22,97 +22,15 @@
         "Facebook"
       ],
       "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-07-26"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Creality has sent us a sample of the Pika portable 3D scanner for review. In some ways, it shares some of the features of the high-end Sermoon S1 3D scanner, like blue laser and NIR structured light scanning modes, but it’s more affordable and compact, works...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/"
     },
     {
       "title": "Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots",
@@ -356,31 +274,6 @@
       "url": "https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/"
     },
     {
-      "title": "AI adoption in OT security outpaces governance controls",
-      "source": "IoT Tech News",
-      "date": "2026-07-23",
-      "product": "IoT Industry",
-      "score": 79,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Industrial organisations are adopting artificial intelligence for threat detection, network monitoring, and security operations, but formal controls governing its use in operational technology environments remain limited, according to a new industry survey....",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "AI adoption in OT security outpaces governance controls\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/ai-ot-security-governance/"
-    },
-    {
       "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
       "source": "CNX Software",
       "date": "2026-07-22",
@@ -407,31 +300,6 @@
       "url": "https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/"
     },
     {
-      "title": "NVIDIA increases the price of Jetson modules and devkits by up to 101%",
-      "source": "CNX Software",
-      "date": "2026-07-22",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "A few months ago, NVIDIA phased out several Jetson modules due to high LPDDR4 prices, and now the company has decided to increase the prices on all its Jetson modules and developer kits by up to 101%. There was no specific announcement about the price, but...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "NVIDIA increases the price of Jetson modules and devkits by up to 101%\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/"
-    },
-    {
       "title": "ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD",
       "source": "CNX Software",
       "date": "2026-07-22",
@@ -455,35 +323,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/"
-    },
-    {
-      "title": "AWS pairs NB-IoT ingestion with Bedrock-powered IoT query tools",
-      "source": "IoT Tech News",
-      "date": "2026-07-22",
-      "product": "LoRa Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "AWS (Amazon Web Services) has detailed a reference architecture combining NB-IoT and LoRaWAN ingestion with dual-path IoT telemetry processing. In a blog post, AWS lays out a pattern for handling telemetry from device fleets that could number in the millions,...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "AWS pairs NB-IoT ingestion with Bedrock-powered IoT query tools\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/aws-pairs-nb-iot-ingestion-with-bedrock-iot-query-tools/"
     },
     {
       "title": "Raspberry Pi Touch Display 2 – 10″ Portrait review, 3D printed VESA mount",
@@ -534,34 +373,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Tuya Smart accelerates physical AI commercialisation with investment in Robopoet\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/22/157532-tuya-smart-accelerates-physical-ai-commercialisation-with-investment-in-robopoet/"
-    },
-    {
-      "title": "How Fibre Internet Enhances Smart Homes",
-      "source": "IoT Tech News",
-      "date": "2026-07-21",
-      "product": "WiFi Module",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "Modern homes have transformed into interconnected ecosystems where smart devices coordinate to deliver enhanced convenience, security and energy efficiency. As these intelligent environments grow more complex, the demands on home internet connections increase...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "How Fibre Internet Enhances Smart Homes\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/how-fibre-internet-enhances-smart-homes/"
     },
     {
       "title": "Can you bring intelligent edge IoT devices to market faster?",
@@ -637,6 +448,181 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "It’s time we talk about… AI in IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/21/157496-its-time-we-talk-about-ai-in-iot/"
+    },
+    {
+      "title": "Inside Agile Telco Q2 2026: What do agile telcos need to succeed in the AI supercycle?",
+      "source": "IoT Now",
+      "date": "2026-07-21",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The next phase of telecoms transformation is being shaped by a new set of priorities as telcos become integral to converged AI infrastructure. OPEN PDF IN BROWSER TAI is moving … Continued The post Inside Agile Telco Q2 2026: What do agile telcos need to...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Inside Agile Telco Q2 2026: What do agile telcos need to succeed in the AI supercycle?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/21/157514-inside-agile-telco-q2-2026-what-do-agile-telcos-need-to-succeed-in-the-ai-supercycle/"
+    },
+    {
+      "title": "Viasat demonstrates first integrated automotive satellite voice call capability with BMW Group",
+      "source": "IoT Now",
+      "date": "2026-07-20",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Viasat, a global contributor in satellite communications, has announced a landmark technology demonstration showcasing the first automotive satellite voice call demonstration fully integrated into a BMW Group vehicle’s platform. It … Continued The post Viasat...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Viasat demonstrates first integrated automotive satellite voice call capability with BMW Group\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/20/157481-viasat-demonstrates-first-integrated-automotive-satellite-voice-call-capability-with-bmw-group/"
+    },
+    {
+      "title": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN",
+      "source": "IoT Now",
+      "date": "2026-07-16",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Keysight Technologies has been selected by the European Space Agency (ESA) to lead a three‑year development program focused on creating secure, blockchain‑enabled anomaly detection for 5G non‑terrestrial networks (NTN). Keysight … Continued The post Keysight...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Keysight and Sateliot selected by European Space Agency to develop blockchain‑enabled framework for 5G NTN\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/16/157464-keysight-and-sateliot-selected-by-european-space-agency-to-develop-blockchain-enabled-framework-for-5g-ntn/"
+    },
+    {
+      "title": "Thales, Singtel Group and Bridge Alliance enable world’s first multi-operator IoT eSIM network in Asia Pacific",
+      "source": "IoT Now",
+      "date": "2026-07-15",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Thales, Singtel, Optus, AIS and Globe Telecom has announced the successful deployment of the world’s first multi-operator enterprise eSIM connectivity network for the Internet of Things (IoT). This breakthrough enables … Continued The post Thales, Singtel...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Thales, Singtel Group and Bridge Alliance enable world’s first multi-operator IoT eSIM network in Asia Pacific\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/15/157414-thales-singtel-group-and-bridge-alliance-enable-worlds-first-multi-operator-iot-esim-network-in-asia-pacific/"
+    },
+    {
+      "title": "Private 5G market to reach $6.6 billion as physical AI accelerates adoption, reports SNS Telecom & IT",
+      "source": "IoT Now",
+      "date": "2026-07-15",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "A new report from SNS Telecom & IT indicates that annual spending on private 5G networks is projected to surpass $6.6 billion by 2029 as industrial giants scale multi-site, multi-national … Continued The post Private 5G market to reach $6.6 billion as...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Private 5G market to reach $6.6 billion as physical AI accelerates adoption, reports SNS Telecom & IT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/15/157435-private-5g-market-to-reach-6-6-billion-as-physical-ai-accelerates-adoption-reports-sns-telecom-it/"
+    },
+    {
+      "title": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations",
+      "source": "IoT Now",
+      "date": "2026-07-14",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "As Markem-Imaje introduces the latest version of its CoLOS Software system, the company’s marketing communication and business enablement director, Viktor Hermansson, discusses innovative developments in industrial coding with IoT Now. … Continued The post...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/14/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
+    },
+    {
+      "title": "IoT Now launches Orange Business Insight Library with Orange Business and Aeris",
+      "source": "IoT Now",
+      "date": "2026-07-14",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IoT Now has launched the Orange Business Insight Library, a new free resource exploring how organisations can improve visibility, efficiency and performance across complex IoT environments. The insight library, developed with … Continued The post IoT Now...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now launches Orange Business Insight Library with Orange Business and Aeris\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/14/157234-iot-now-launches-operational-visibility-hub-with-orange-business-and-aeris/"
     }
   ]
 }
