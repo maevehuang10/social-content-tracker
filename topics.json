@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T10:06:29.276Z",
+  "generatedAt": "2026-07-27T15:08:33.215Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -37,6 +37,35 @@
       "url": "https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/"
     },
     {
+      "title": "Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module",
+      "source": "CNX Software",
+      "date": "2026-07-27",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Jetway has introduced the SMC-ARK1, a new SMARC system-on-module built around the Rockchip RK3588 octa-core processor. Designed for embedded computing and edge AI applications, the board includes up to 16GB of LPDDR4x memory and up to 128GB of eMMC flash,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/"
+    },
+    {
       "title": "Open RC Spotter is an open-source ESP32 telemetry and data logger for RC cars and toys",
       "source": "CNX Software",
       "date": "2026-07-27",
@@ -64,6 +93,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Open RC Spotter is an open-source ESP32 telemetry and data logger for RC cars and toys\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/27/open-rc-spotter-is-an-open-source-esp32-telemetry-and-data-logger-for-rc-cars-and-toys/"
+    },
+    {
+      "title": "Chunghwa Telecom, Fujitsu and 1Finity advance Taiwan’s photonics and quantum future",
+      "source": "IoT Now",
+      "date": "2026-07-27",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Chunghwa Telecom, Fujitsu Limited and 1Finity, a Fujitsu company and provider of global network solutions, has announced a two-year partnership. This collaboration aims to further expand the application of All-Photonics … Continued The post Chunghwa Telecom,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Chunghwa Telecom, Fujitsu and 1Finity advance Taiwan’s photonics and quantum future\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/27/157600-chunghwa-telecom-fujitsu-and-1finity-advance-taiwans-photonics-and-quantum-future/"
     },
     {
       "title": "Redragon K688 Pro – An affordable tri-mode gasket mechanical keyboard with full numpad and media knob (Sponsored)",
@@ -353,35 +407,6 @@
       "url": "https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/"
     },
     {
-      "title": "$99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware",
-      "source": "CNX Software",
-      "date": "2026-07-23",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Xteink X4 Pro is a pocket-sized eReader with a 4.3-inch touchscreen E Ink display, a 16GB microSD card, 2.4 GHz WiFi and Bluetooth wireless connectivity, and a 1100 mAh battery. Previous models like the X3 and X4 e-readers were based on the ESP32-C3 RISC-V...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/"
-    },
-    {
       "title": "AI adoption in OT security outpaces governance controls",
       "source": "IoT Tech News",
       "date": "2026-07-23",
@@ -612,34 +637,6 @@
       "hook": "Good IoT content starts with useful market context.",
       "post": "Anthropic and Nozomi bring AI vulnerability research to OT security\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
       "url": "https://iottechnews.com/news/anthropic-ai-vulnerability-research-ot-security-nozomi-networks/"
-    },
-    {
-      "title": "Factory floor exposure grows as OT security spending climbs",
-      "source": "IoT Tech News",
-      "date": "2026-07-20",
-      "product": "BLE Module",
-      "score": 89,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Manufacturing cybersecurity spending is climbing fast, and the growth is exposing weak factory floor operational technology (OT). Anyone running production plants are stuck with a decision that doesn’t have a comfortable answer: keep OT isolated and accept...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Factory floor exposure grows as OT security spending climbs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/factory-floor-exposure-grows-as-ot-security-spending-climbs/"
     }
   ]
 }
