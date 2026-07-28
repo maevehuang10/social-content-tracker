@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:48:43.569Z",
+  "generatedAt": "2026-07-28T14:30:24.736Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,60 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support",
+      "source": "CNX Software",
+      "date": "2026-07-28",
+      "product": "ESP32 Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "The DFI X6X-ORN is a fanless, IP67-rated Edge AI computer powered by the NVIDIA Jetson Orin NX/Nano. It is designed for extreme outdoor and industrial environments in maritime, agriculture, construction, and intelligent transportation applications. The system...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/"
+    },
+    {
+      "title": "Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more",
+      "source": "CNX Software",
+      "date": "2026-07-28",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "UBPorts has announced the release of Ubuntu Touch 24.04-2.0 based on Ubuntu 24.04. It features an upgraded Morph Browser based on Chromium 134, supports smartphones with notches and rounded corners, a Widevine DRM installer, and more. Ubuntu Touch 24.04-2.0...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Ubuntu Touch 24.04-2.0 updates Morph browser, adds notch and printing support, and more\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/07/28/ubuntu-touch-24-04-2-0-updates-morph-browser-adds-notch-and-printing-support-and-more/"
+    },
     {
       "title": "LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors",
       "source": "CNX Software",
@@ -60,6 +114,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/"
+    },
+    {
+      "title": "SK Group and NVIDIA expand partnership across AI factories and next-generation memory",
+      "source": "IoT Now",
+      "date": "2026-07-28",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SK Group and NVIDIA has announced plans for a $500-billion-plus comprehensive partnership to establish AI infrastructure serving the surging demand for global compute. The two sides signed letters of intent … Continued The post SK Group and NVIDIA expand...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SK Group and NVIDIA expand partnership across AI factories and next-generation memory\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/28/157611-sk-group-and-nvidia-expand-partnership-across-ai-factories-and-next-generation-memory/"
     },
     {
       "title": "Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years",
@@ -274,31 +353,6 @@
       "url": "https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/"
     },
     {
-      "title": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform",
-      "source": "CNX Software",
-      "date": "2026-07-24",
-      "product": "ESP32 Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "AMD has announced a range of new AI solutions at Advanced AI 2026, including 6th Gen AMD EPYC CPUs, AMD Instinct MI400 Series GPUs, and AMD Helios AI rackscale solutions designed for data centers. In this article, we’ll focus instead on embedded and physical...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/"
-    },
-    {
       "title": "$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD",
       "source": "CNX Software",
       "date": "2026-07-24",
@@ -326,35 +380,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/"
-    },
-    {
-      "title": "Augmental MouthPad is a tongue-controlled touchpad/trackpad",
-      "source": "CNX Software",
-      "date": "2026-07-23",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Check your calendar, everyone! It’s definitely not April 1st. Now that we have that out of the way, we can start with the main topic of this article. Ready? Augmental MouthPad is a Bluetooth HID device you put into your mouth and control like a touchpad or...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Augmental MouthPad is a tongue-controlled touchpad/trackpad\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/23/augmental-mouthpad-tongue-controlled-touchpad-trackpad/"
     },
     {
       "title": "Soracom introduces Soracom Agent, an AI Agent for the full IoT project lifecycle",
@@ -605,31 +630,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Private 5G market to reach $6.6 billion as physical AI accelerates adoption, reports SNS Telecom & IT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/15/157435-private-5g-market-to-reach-6-6-billion-as-physical-ai-accelerates-adoption-reports-sns-telecom-it/"
-    },
-    {
-      "title": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations",
-      "source": "IoT Now",
-      "date": "2026-07-14",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "As Markem-Imaje introduces the latest version of its CoLOS Software system, the company’s marketing communication and business enablement director, Viktor Hermansson, discusses innovative developments in industrial coding with IoT Now. … Continued The post...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/14/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
     }
   ]
 }
