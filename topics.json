@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:11:12.085Z",
+  "generatedAt": "2026-08-04T04:26:11.373Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-08-04"
+    },
     {
       "title": "28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s",
       "source": "CNX Software",
@@ -525,109 +632,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/"
-    },
-    {
-      "title": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Iridium Communications, a provider of global voice, data, aircraft surveillance, and positioning, navigation, and timing (PNT) satellite services, has announced a partnership with SKYWAVE, a global contributor in industrial IoT connectivity, … Continued The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157634-iridium-and-skywave-partner-to-advance-global-industrial-iot-for-heavy-equipment-oems/"
-    },
-    {
-      "title": "Podcast: How SGP.32 is powering the shift to device-first IoT operations",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "In this episode of the IoT Now podcast, host George Malim, managing editor at IoT Now, is joined by KORE’s Mandeep Saini, director of product management, to explore how SGP.32, … Continued The post Podcast: How SGP.32 is powering the shift to device-first IoT...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Podcast: How SGP.32 is powering the shift to device-first IoT operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157603-podcast-how-sgp-32-is-powering-the-shift-to-device-first-iot-operations/"
-    },
-    {
-      "title": "It’s time we talk about… security in IoT",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Is your enterprise ready to secure the next generation of IoT? Join Kevin Bandy for the latest episode of our series, “It’s Time We Talk About…” IoT was built on … Continued The post It’s time we talk about… security in IoT appeared first on IoT Now News -...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "It’s time we talk about… security in IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157643-its-time-we-talk-about-security-in-iot/"
-    },
-    {
-      "title": "SK Group and NVIDIA expand partnership across AI factories and next-generation memory",
-      "source": "IoT Now",
-      "date": "2026-07-28",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "SK Group and NVIDIA has announced plans for a $500-billion-plus comprehensive partnership to establish AI infrastructure serving the surging demand for global compute. The two sides signed letters of intent … Continued The post SK Group and NVIDIA expand...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "SK Group and NVIDIA expand partnership across AI factories and next-generation memory\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/28/157611-sk-group-and-nvidia-expand-partnership-across-ai-factories-and-next-generation-memory/"
     }
   ]
 }
