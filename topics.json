@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:24:57.512Z",
+  "generatedAt": "2026-08-05T08:49:29.880Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -35,6 +35,35 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "CtrlVibe AI Console keypad – An OpenAI Codex Micro alternative for AI workflows (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/"
+    },
+    {
+      "title": "ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks",
+      "source": "CNX Software",
+      "date": "2026-08-05",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Designed by ZecTrix Lab in China, the Note 4 is an ESP32-S3-based AI smart note with a 4.2-inch e-paper display and built-in voice input. The device is designed to display reminders, notes, clocks, weather, images, and custom templates, while the Note 4C...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/"
     },
     {
       "title": "BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far",
@@ -447,35 +476,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/"
-    },
-    {
-      "title": "reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)",
-      "source": "CNX Software",
-      "date": "2026-07-31",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Seeed Studio’s reTerminal Sticky is a 3.97-inch “AI-powered” magnetic touch ePaper display powered by an ESP32-S3 microcontroller, which serves as a sticky-note alternative, an e-reader, a live dashboard, or a home automation controller. The 800 x 480...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/"
     },
     {
       "title": "1NCE and Pessl Instruments connect smart farms worldwide",
