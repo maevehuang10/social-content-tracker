@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T08:49:29.880Z",
+  "generatedAt": "2026-08-05T14:28:03.442Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
+      "source": "CNX Software",
+      "date": "2026-08-05",
+      "product": "LoRa Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "LoRaWAN devices typically require users to enter parameters such as the DevEUI, JoinEUI (formerly AppEUI), AppKey, and potentially the DevAddr plus the session keys, depending on the activation mode (ABP vs OTAA). This is manageable for a handful of devices,...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "Large-scale LoRaWAN deployments become easier through QR codes and relays\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/"
+    },
     {
       "title": "CtrlVibe AI Console keypad – An OpenAI Codex Micro alternative for AI workflows (Crowdfunding)",
       "source": "CNX Software",
@@ -37,6 +66,31 @@
       "url": "https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/"
     },
     {
+      "title": "Can your connected operations scale without adding complexity?",
+      "source": "IoT Now",
+      "date": "2026-08-05",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Connected operations are becoming more critical, more distributed and more difficult to manage. As organisations rely on cellular IoT devices, remote assets and always-on services, operational efficiency is no longer … Continued The post Can your connected...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Can your connected operations scale without adding complexity?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/05/157502-can-your-connected-operations-scale-without-adding-complexity/"
+    },
+    {
       "title": "ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks",
       "source": "CNX Software",
       "date": "2026-08-05",
@@ -64,6 +118,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/"
+    },
+    {
+      "title": "NVIDIA opens AV reasoning model to robotaxi developers",
+      "source": "IoT Tech News",
+      "date": "2026-08-05",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "NVIDIA is releasing Alpamayo 2 Super, an open-source AI reasoning model that is licensed for commercial robotaxi and AV development. Most autonomous vehicle failures happen in the edge cases: the unprotected left turn with a cyclist cutting through, the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NVIDIA opens AV reasoning model to robotaxi developers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-opens-av-reasoning-model-robotaxi-developers/"
     },
     {
       "title": "BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far",
@@ -274,6 +353,35 @@
       "url": "https://iot-now.com/2026/08/03/157669-iot-is-entering-a-new-phase-one-defined-by-scale/"
     },
     {
+      "title": "Handling IoT Data at Scale: Why Unlimited Bandwidth VPS Matters for Connected Devices",
+      "source": "IoT Tech News",
+      "date": "2026-08-03",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The Internet of Things (IoT) has transformed the way businesses collect information.Smart sensors monitor factory equipment, wearable devices track health data, and connected vehicles share real-time information with central systems. Plus, smart homes rely...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Handling IoT Data at Scale: Why Unlimited Bandwidth VPS Matters for Connected Devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/handling-iot-data-at-scale-why-unlimited-bandwidth-vps-matters-for-connected-devices/"
+    },
+    {
       "title": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations",
       "source": "IoT Now",
       "date": "2026-08-03",
@@ -449,33 +557,29 @@
       "url": "https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/"
     },
     {
-      "title": "NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port",
-      "source": "CNX Software",
+      "title": "EY widens SymphonyAI alliance into manufacturing AI",
+      "source": "IoT Tech News",
       "date": "2026-07-31",
-      "product": "BLE Module",
-      "score": 94,
+      "product": "IoT Industry",
+      "score": 75,
       "formats": [
         "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
+        "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
+        "Facebook"
       ],
       "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
       ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the second from FriendlyELEC to implement a USB-C console port, often requested by our readers, after the NanoPi R2S Plus launched in 2024. At...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/"
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Ernst & Young (EY) has expanded its alliance with SymphonyAI, pushing the partnership into manufacturing and supply chain intelligence. Manufacturers have already proven AI can cut waste on one production line or flag a failing asset in one plant. Repeating...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "EY widens SymphonyAI alliance into manufacturing AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/ey-widens-symphonyai-alliance-manufacturing-ai/"
     },
     {
       "title": "1NCE and Pessl Instruments connect smart farms worldwide",
@@ -529,109 +633,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/30/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
-    },
-    {
-      "title": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Iridium Communications, a provider of global voice, data, aircraft surveillance, and positioning, navigation, and timing (PNT) satellite services, has announced a partnership with SKYWAVE, a global contributor in industrial IoT connectivity, … Continued The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157634-iridium-and-skywave-partner-to-advance-global-industrial-iot-for-heavy-equipment-oems/"
-    },
-    {
-      "title": "Podcast: How SGP.32 is powering the shift to device-first IoT operations",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "In this episode of the IoT Now podcast, host George Malim, managing editor at IoT Now, is joined by KORE’s Mandeep Saini, director of product management, to explore how SGP.32, … Continued The post Podcast: How SGP.32 is powering the shift to device-first IoT...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Podcast: How SGP.32 is powering the shift to device-first IoT operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157603-podcast-how-sgp-32-is-powering-the-shift-to-device-first-iot-operations/"
-    },
-    {
-      "title": "It’s time we talk about… security in IoT",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Is your enterprise ready to secure the next generation of IoT? Join Kevin Bandy for the latest episode of our series, “It’s Time We Talk About…” IoT was built on … Continued The post It’s time we talk about… security in IoT appeared first on IoT Now News -...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "It’s time we talk about… security in IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157643-its-time-we-talk-about-security-in-iot/"
-    },
-    {
-      "title": "Building the engine behind the shift to SGP.32 IoT eSIMs for scale",
-      "source": "IoT Now",
-      "date": "2026-07-28",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Kigen is opening access to its IoT eSIM Starter Kit for qualified businesses ready to test secure, scalable eSIM activation and remote SIM provisioning in real-world conditions. The Kigen IoT eSIM Starter … Continued The post Building the engine behind the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Building the engine behind the shift to SGP.32 IoT eSIMs for scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/28/157624-building-the-engine-behind-the-shift-to-sgp-32-iot-esims-for-scale/"
     }
   ]
 }
