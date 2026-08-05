@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T14:35:32.421Z",
+  "generatedAt": "2026-08-05T04:24:57.512Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "CtrlVibe AI Console keypad – An OpenAI Codex Micro alternative for AI workflows (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-08-05",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The CtrlVibe AI Console is a programmable desktop keypad designed for AI workflows. The device includes hardware controls for switching between AI tools, launching shortcuts, selecting execution modes, and recording voice input. It comes with nine...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "CtrlVibe AI Console keypad – An OpenAI Codex Micro alternative for AI workflows (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/"
+    },
     {
       "title": "BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far",
       "source": "CNX Software",
@@ -89,6 +118,31 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/"
+    },
+    {
+      "title": "The Backpackster and Monogoto partner to power a globally connected human media network",
+      "source": "IoT Now",
+      "date": "2026-08-04",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The Backpackster, one of the world’s first human powered, out of home media network, has announced its partnership with Monogoto, a provider of cloud based cellular connectivity, to power its … Continued The post The Backpackster and Monogoto partner to power...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "The Backpackster and Monogoto partner to power a globally connected human media network\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/04/157752-the-backpackster-and-monogoto-partner-to-power-a-globally-connected-human-media-network/"
     },
     {
       "title": "The connected vehicle market is growing fast.",
@@ -189,35 +243,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT is entering a new phase. One defined by scale.\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/03/157669-iot-is-entering-a-new-phase-one-defined-by-scale/"
-    },
-    {
-      "title": "Handling IoT Data at Scale: Why Unlimited Bandwidth VPS Matters for Connected Devices",
-      "source": "IoT Tech News",
-      "date": "2026-08-03",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The Internet of Things (IoT) has transformed the way businesses collect information.Smart sensors monitor factory equipment, wearable devices track health data, and connected vehicles share real-time information with central systems. Plus, smart homes rely...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Handling IoT Data at Scale: Why Unlimited Bandwidth VPS Matters for Connected Devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/handling-iot-data-at-scale-why-unlimited-bandwidth-vps-matters-for-connected-devices/"
     },
     {
       "title": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations",
@@ -424,35 +449,6 @@
       "url": "https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/"
     },
     {
-      "title": "Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs",
-      "source": "CNX Software",
-      "date": "2026-07-31",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Maker Go ESP32-C5-EVB is an ESP32-C5 board with four relays, four opto-isolated inputs, RS-485 communication, and support for Wi-Fi 6, Bluetooth Low Energy 5.0, and Thread/Zigbee connectivity. It’s a variant of the Maker Go ESP32-C6-EVB released in 2024 that...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/"
-    },
-    {
       "title": "reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)",
       "source": "CNX Software",
       "date": "2026-07-31",
@@ -480,31 +476,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/"
-    },
-    {
-      "title": "EY widens SymphonyAI alliance into manufacturing AI",
-      "source": "IoT Tech News",
-      "date": "2026-07-31",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Ernst & Young (EY) has expanded its alliance with SymphonyAI, pushing the partnership into manufacturing and supply chain intelligence. Manufacturers have already proven AI can cut waste on one production line or flag a failing asset in one plant. Repeating...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "EY widens SymphonyAI alliance into manufacturing AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/ey-widens-symphonyai-alliance-manufacturing-ai/"
     },
     {
       "title": "1NCE and Pessl Instruments connect smart farms worldwide",
@@ -636,6 +607,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "It’s time we talk about… security in IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/29/157643-its-time-we-talk-about-security-in-iot/"
+    },
+    {
+      "title": "Building the engine behind the shift to SGP.32 IoT eSIMs for scale",
+      "source": "IoT Now",
+      "date": "2026-07-28",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Kigen is opening access to its IoT eSIM Starter Kit for qualified businesses ready to test secure, scalable eSIM activation and remote SIM provisioning in real-world conditions. The Kigen IoT eSIM Starter … Continued The post Building the engine behind the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Building the engine behind the shift to SGP.32 IoT eSIMs for scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/28/157624-building-the-engine-behind-the-shift-to-sgp-32-iot-esims-for-scale/"
     }
   ]
 }
