@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T04:26:25.813Z",
+  "generatedAt": "2026-08-06T08:50:33.888Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,111 +8,54 @@
   ],
   "topics": [
     {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
+      "title": "Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform",
+      "source": "CNX Software",
+      "date": "2026-08-06",
+      "product": "ESP32 Module",
       "score": 94,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
         "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
       ],
       "tags": [
         "ESP32",
         "Embedded Development",
         "Smart Device"
       ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Espressif Systems has just released ESP RainMaker Neo, providing a complete device-to-cloud-to-phone app stack, including the cloud backend, firmware SDK, firmware examples, phone app SDK, and reference phone app. If the name sounds familiar, it’s because...",
       "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-08-06"
+      "post": "Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/"
+    },
+    {
+      "title": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter",
+      "source": "CNX Software",
+      "date": "2026-08-06",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Antmicro has just released an open-source hardware Thunderbolt to (dual) 10GbE adapter that serves as a reference design for a high-speed Ethernet accessory, further customizable for smart terminals, Point of Sale systems, smart cameras, IoT gateways, and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/"
     },
     {
       "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
@@ -585,11 +528,39 @@
       "url": "https://iot-now.com/2026/08/03/157702-how-operational-visibility-drives-the-connected-car-experience/"
     },
     {
-      "title": "Play games with your brain signals using Octopus 16 wireless EEG device",
-      "source": "CNX Software",
-      "date": "2026-08-02",
+      "title": "1NCE and Pessl Instruments connect smart farms worldwide",
+      "source": "IoT Now",
+      "date": "2026-07-30",
       "product": "BLE Module",
-      "score": 88,
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "1NCE, a company offering a plug-and-play platform for creating and managing IoT products, and Pessl Instruments, a global contributor in smart agriculture, has announced the roll-out of the METOS by … Continued The post 1NCE and Pessl Instruments connect...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "1NCE and Pessl Instruments connect smart farms worldwide\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/30/157665-1nce-and-pessl-instruments-connect-smart-farms-worldwide/"
+    },
+    {
+      "title": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations",
+      "source": "IoT Now",
+      "date": "2026-07-30",
+      "product": "BLE Module",
+      "score": 91,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -604,17 +575,45 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG...",
+      "summary": "As Markem-Imaje introduces the latest version of its CoLOS Software system, the company’s marketing communication and business enablement director, Viktor Hermansson, discusses innovative developments in industrial coding with IoT Now. … Continued The post...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Play games with your brain signals using Octopus 16 wireless EEG device\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/"
+      "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/30/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
     },
     {
-      "title": "Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules",
-      "source": "CNX Software",
-      "date": "2026-08-01",
-      "product": "ESP32 Module",
-      "score": 88,
+      "title": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs",
+      "source": "IoT Now",
+      "date": "2026-07-29",
+      "product": "BLE Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Iridium Communications, a provider of global voice, data, aircraft surveillance, and positioning, navigation, and timing (PNT) satellite services, has announced a partnership with SKYWAVE, a global contributor in industrial IoT connectivity, … Continued The...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/29/157634-iridium-and-skywave-partner-to-advance-global-industrial-iot-for-heavy-equipment-oems/"
+    },
+    {
+      "title": "It’s time we talk about… security in IoT",
+      "source": "IoT Now",
+      "date": "2026-07-29",
+      "product": "BLE Module",
+      "score": 84,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -624,15 +623,15 @@
         "Facebook"
       ],
       "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world’s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Is your enterprise ready to secure the next generation of IoT? Join Kevin Bandy for the latest episode of our series, “It’s Time We Talk About…” IoT was built on … Continued The post It’s time we talk about… security in IoT appeared first on IoT Now News -...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "It’s time we talk about… security in IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/29/157643-its-time-we-talk-about-security-in-iot/"
     }
   ]
 }
