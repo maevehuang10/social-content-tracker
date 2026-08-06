@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T08:50:33.888Z",
+  "generatedAt": "2026-08-06T14:31:02.102Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -56,6 +56,85 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/"
+    },
+    {
+      "title": "Silicon Labs unveils BG2B, its lowest-power Bluetooth LE SoC with power efficiency, security and integration",
+      "source": "IoT Now",
+      "date": "2026-08-06",
+      "product": "BLE Module",
+      "score": 90,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Silicon Labs, the innovator in low-power wireless connectivity, has announced the BG2B, its next Series 2 Bluetooth Low Energy (LE) wireless SoC designed to help developers build smaller, more secure, and longer-lasting battery-powered … Continued The post...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Silicon Labs unveils BG2B, its lowest-power Bluetooth LE SoC with power efficiency, security and integration\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/06/157784-silicon-labs-unveils-bg2b-its-lowest-power-bluetooth-le-soc-with-power-efficiency-security-and-integration/"
+    },
+    {
+      "title": "PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC",
+      "source": "CNX Software",
+      "date": "2026-08-06",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "PICOTTY is an open-source project enabling serial-based remote management using a Raspberry Pi Zero 2W as a hub running a web server for the dashboard, and several Raspberry Pi Pico or Pico 2 boards with an Ethernet add-on to control and monitor the targets...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "PICOTTY project enables multi-target serial remote management through Raspberry Pi Pico boards and Pi Zero 2 W SBC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/06/picotty-project-enables-multi-target-serial-remote-management-through-raspberry-pi-pico-boards-and-pi-zero-2-w-sbc/"
+    },
+    {
+      "title": "Vibe Coding Meets IoT: Faster Development, Smarter Innovation?",
+      "source": "IoT Now",
+      "date": "2026-08-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Could Vibe Coding be the biggest game changer for IoT practitioners since the Raspberry Pi? Join Kai Hackbarth for the latest episode of “It’s Time We Talk About…” IoT development … Continued The post Vibe Coding Meets IoT: Faster Development, Smarter...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Vibe Coding Meets IoT: Faster Development, Smarter Innovation?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/06/157650-vibe-coding-meets-iot-faster-development-smarter-innovation/"
     },
     {
       "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
@@ -353,31 +432,6 @@
       "url": "https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/"
     },
     {
-      "title": "Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots",
-      "source": "CNX Software",
-      "date": "2026-08-03",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/"
-    },
-    {
       "title": "IoT is entering a new phase. One defined by scale.",
       "source": "IoT Now",
       "date": "2026-08-03",
@@ -579,59 +633,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/07/30/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
-    },
-    {
-      "title": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Iridium Communications, a provider of global voice, data, aircraft surveillance, and positioning, navigation, and timing (PNT) satellite services, has announced a partnership with SKYWAVE, a global contributor in industrial IoT connectivity, … Continued The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Iridium and SKYWAVE partner to advance global industrial IoT for heavy equipment OEMs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157634-iridium-and-skywave-partner-to-advance-global-industrial-iot-for-heavy-equipment-oems/"
-    },
-    {
-      "title": "It’s time we talk about… security in IoT",
-      "source": "IoT Now",
-      "date": "2026-07-29",
-      "product": "BLE Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Is your enterprise ready to secure the next generation of IoT? Join Kevin Bandy for the latest episode of our series, “It’s Time We Talk About…” IoT was built on … Continued The post It’s time we talk about… security in IoT appeared first on IoT Now News -...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "It’s time we talk about… security in IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/29/157643-its-time-we-talk-about-security-in-iot/"
     }
   ]
 }
