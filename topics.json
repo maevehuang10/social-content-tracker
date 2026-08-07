@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T14:31:02.102Z",
+  "generatedAt": "2026-08-07T04:01:58.935Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Proxmox VE now officially supports 64-bit Arm (Arch64) targets",
+      "source": "CNX Software",
+      "date": "2026-08-07",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64), as the popular virtualization solution was only available for x86-64 (amd64) so far. Proxmox VE 9.2 for arm64 is built...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Proxmox VE now officially supports 64-bit Arm (Arch64) targets\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-arch64-targets/"
+    },
     {
       "title": "Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform",
       "source": "CNX Software",
@@ -135,6 +160,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Vibe Coding Meets IoT: Faster Development, Smarter Innovation?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/06/157650-vibe-coding-meets-iot-faster-development-smarter-innovation/"
+    },
+    {
+      "title": "IT/OT convergence brings OT security into ServiceNow",
+      "source": "IoT Tech News",
+      "date": "2026-08-06",
+      "product": "IoT Industry",
+      "score": 79,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "CoreX and Alchemy Global Networks have formed a partnership focused on industrial security and risk management, combining operational technology visibility with enterprise workflow and identity governance tools. The companies said the offering will use asset...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "IT/OT convergence brings OT security into ServiceNow\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/it-ot-convergence-industrial-security-servicenow/"
     },
     {
       "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
@@ -272,6 +322,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "SABESP partners with Vivo and IDEMIA secure transactions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/05/157777-sabesp-partners-with-vivo-and-idemia-secure-transactions/"
+    },
+    {
+      "title": "NVIDIA opens AV reasoning model to robotaxi developers",
+      "source": "IoT Tech News",
+      "date": "2026-08-05",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "NVIDIA is releasing Alpamayo 2 Super, an open-source AI reasoning model that is licensed for commercial robotaxi and AV development. Most autonomous vehicle failures happen in the edge cases: the unprotected left turn with a cyclist cutting through, the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NVIDIA opens AV reasoning model to robotaxi developers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-opens-av-reasoning-model-robotaxi-developers/"
     },
     {
       "title": "BG2B is the lowest-power Bluetooth LE SoC from Silicon Labs so far",
@@ -457,6 +532,35 @@
       "url": "https://iot-now.com/2026/08/03/157669-iot-is-entering-a-new-phase-one-defined-by-scale/"
     },
     {
+      "title": "Handling IoT Data at Scale: Why Unlimited Bandwidth VPS Matters for Connected Devices",
+      "source": "IoT Tech News",
+      "date": "2026-08-03",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The Internet of Things (IoT) has transformed the way businesses collect information.Smart sensors monitor factory equipment, wearable devices track health data, and connected vehicles share real-time information with central systems. Plus, smart homes rely...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Handling IoT Data at Scale: Why Unlimited Bandwidth VPS Matters for Connected Devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/handling-iot-data-at-scale-why-unlimited-bandwidth-vps-matters-for-connected-devices/"
+    },
+    {
       "title": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations",
       "source": "IoT Now",
       "date": "2026-08-03",
@@ -480,31 +584,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/03/157689-ey-us-expands-its-alliance-with-symphonyai-to-bring-manufacturing-intelligence-to-enterprise-operations/"
-    },
-    {
-      "title": "$299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4",
-      "source": "CNX Software",
-      "date": "2026-08-03",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "ASUS UGen300 USB AI accelerator features a 40 TOPS Hailo-10H AI processor and 8GB of LPDDR4 memory to support large language models (LLMs), vision language models (VLMs), and AI vision workloads while consuming less than 2.5 Watts. In some ways, the hardware...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "$299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/"
     },
     {
       "title": "The one security layer the IT acquisition wave keeps missing",
@@ -555,84 +634,6 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/"
-    },
-    {
-      "title": "How operational visibility drives the connected car experience",
-      "source": "IoT Now",
-      "date": "2026-08-03",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The modern car behaves increasingly like a smartphone on wheels and connected-car features are the norm. Owners expect a reliable app they can use for basic functions such as unlocking … Continued The post How operational visibility drives the connected car...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "How operational visibility drives the connected car experience\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/03/157702-how-operational-visibility-drives-the-connected-car-experience/"
-    },
-    {
-      "title": "1NCE and Pessl Instruments connect smart farms worldwide",
-      "source": "IoT Now",
-      "date": "2026-07-30",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "1NCE, a company offering a plug-and-play platform for creating and managing IoT products, and Pessl Instruments, a global contributor in smart agriculture, has announced the roll-out of the METOS by … Continued The post 1NCE and Pessl Instruments connect...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "1NCE and Pessl Instruments connect smart farms worldwide\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/30/157665-1nce-and-pessl-instruments-connect-smart-farms-worldwide/"
-    },
-    {
-      "title": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations",
-      "source": "IoT Now",
-      "date": "2026-07-30",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "As Markem-Imaje introduces the latest version of its CoLOS Software system, the company’s marketing communication and business enablement director, Viktor Hermansson, discusses innovative developments in industrial coding with IoT Now. … Continued The post...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Markem-Imaje launches CoLOS Version 7 for secure, future-proof industrial coding operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/07/30/157360-markem-imaje-launches-colos-version-7-for-secure-future-proof-industrial-coding-operations/"
     }
   ]
 }
