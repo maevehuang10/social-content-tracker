@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T04:01:58.935Z",
+  "generatedAt": "2026-08-07T07:38:28.859Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,7 +8,7 @@
   ],
   "topics": [
     {
-      "title": "Proxmox VE now officially supports 64-bit Arm (Arch64) targets",
+      "title": "Proxmox VE now officially supports 64-bit Arm (Aarch64) targets",
       "source": "CNX Software",
       "date": "2026-08-07",
       "product": "BLE Module",
@@ -27,10 +27,39 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64), as the popular virtualization solution was only available for x86-64 (amd64) so far. Proxmox VE 9.2 for arm64 is built...",
+      "summary": "Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Proxmox VE now officially supports 64-bit Arm (Arch64) targets\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-arch64-targets/"
+      "post": "Proxmox VE now officially supports 64-bit Arm (Aarch64) targets\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/"
+    },
+    {
+      "title": "Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-08-07",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Fractal Manifold has introduced the Token Monitor, a 4-inch ESP32-S3-based desktop display for monitoring real-time AI coding assistant usage. The device features a 4-inch 480×480 IPS touchscreen with 5-point capacitive touch, Wi-Fi 4 and Bluetooth LE 5...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/"
     },
     {
       "title": "Espressif Systems releases ESP RainMaker Neo open-source device-to-cloud-to-phone IoT platform",
@@ -480,31 +509,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "The connected vehicle market is growing fast.\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/04/157439-the-connected-vehicle-market-is-growing-fast/"
-    },
-    {
-      "title": "28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s",
-      "source": "CNX Software",
-      "date": "2026-08-03",
-      "product": "ESP32 Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Slava S. (slvDev) has optimized a 28.9M-parameter LLM running locally on an ESP32-S3 development board at around 9 tokens/s while generating text, or more exactly, telling short stories. We’ve written about LLMs and ESP32 in the past, but usually the boards...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/"
     },
     {
       "title": "IoT is entering a new phase. One defined by scale.",
