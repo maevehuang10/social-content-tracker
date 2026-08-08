@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T07:11:25.280Z",
+  "generatedAt": "2026-08-08T13:07:42.941Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -274,31 +274,6 @@
       "url": "https://iot-now.com/2026/08/06/157650-vibe-coding-meets-iot-faster-development-smarter-innovation/"
     },
     {
-      "title": "IT/OT convergence brings OT security into ServiceNow",
-      "source": "IoT Tech News",
-      "date": "2026-08-06",
-      "product": "IoT Industry",
-      "score": 79,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "CoreX and Alchemy Global Networks have formed a partnership focused on industrial security and risk management, combining operational technology visibility with enterprise workflow and identity governance tools. The companies said the offering will use asset...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "IT/OT convergence brings OT security into ServiceNow\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/it-ot-convergence-industrial-security-servicenow/"
-    },
-    {
       "title": "Large-scale LoRaWAN deployments become easier through QR codes and relays",
       "source": "CNX Software",
       "date": "2026-08-05",
@@ -434,31 +409,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "SABESP partners with Vivo and IDEMIA secure transactions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/05/157777-sabesp-partners-with-vivo-and-idemia-secure-transactions/"
-    },
-    {
-      "title": "NVIDIA opens AV reasoning model to robotaxi developers",
-      "source": "IoT Tech News",
-      "date": "2026-08-05",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "NVIDIA is releasing Alpamayo 2 Super, an open-source AI reasoning model that is licensed for commercial robotaxi and AV development. Most autonomous vehicle failures happen in the edge cases: the unprotected left turn with a cyclist cutting through, the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "NVIDIA opens AV reasoning model to robotaxi developers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-opens-av-reasoning-model-robotaxi-developers/"
     },
     {
       "title": "Espressif ESP32-C61-MINI-1/1U Wi-Fi 6 and BLE IoT module launched for about $2",
@@ -638,6 +588,59 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "The one security layer the IT acquisition wave keeps missing\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/03/157710-the-one-security-layer-the-it-acquisition-wave-keeps-missing/"
+    },
+    {
+      "title": "How operational visibility drives the connected car experience",
+      "source": "IoT Now",
+      "date": "2026-08-03",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The modern car behaves increasingly like a smartphone on wheels and connected-car features are the norm. Owners expect a reliable app they can use for basic functions such as unlocking … Continued The post How operational visibility drives the connected car...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "How operational visibility drives the connected car experience\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/03/157702-how-operational-visibility-drives-the-connected-car-experience/"
+    },
+    {
+      "title": "1NCE and Pessl Instruments connect smart farms worldwide",
+      "source": "IoT Now",
+      "date": "2026-07-30",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "1NCE, a company offering a plug-and-play platform for creating and managing IoT products, and Pessl Instruments, a global contributor in smart agriculture, has announced the roll-out of the METOS by … Continued The post 1NCE and Pessl Instruments connect...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "1NCE and Pessl Instruments connect smart farms worldwide\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/07/30/157665-1nce-and-pessl-instruments-connect-smart-farms-worldwide/"
     }
   ]
 }
