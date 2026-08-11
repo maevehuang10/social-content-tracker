@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T13:37:01.981Z",
+  "generatedAt": "2026-08-11T03:09:01.844Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display",
+      "source": "CNX Software",
+      "date": "2026-08-11",
+      "product": "LoRa Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "Makerfabs Nomad Terminal handheld development platform is built around an ESP32-S3 MCU and a Semtech LR1121 LoRa transceiver for long-range wireless communication, as well as an ATGM336H GNSS module for positioning. The device can be used for applications...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "Makerfabs Nomad Terminal features ESP32-S3 WiSoC, LR1121 LoRa transceiver, 3.5-inch touchscreen display\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/11/makerfabs-nomad-terminal-features-esp32-s3-wisoc-lr1121-lora-transceiver-3-5-inch-touchscreen-display/"
+    },
     {
       "title": "Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion",
       "source": "CNX Software",
@@ -93,6 +122,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "PyBLE open-source MicroPython IDE works over Bluetooth LE for tablet and iPad users\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/10/pyble-open-source-micropython-ide-works-over-bluetooth-le-for-tablet-and-ipad-users/"
+    },
+    {
+      "title": "SolidRun and Leopard Imaging collaborate to accelerate Edge AI vision development",
+      "source": "IoT Now",
+      "date": "2026-08-10",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SolidRun, a developer of embedded computing and edge AI solutions, and Leopard Imaging, a global contributor in embedded vision and camera technology, has announced a technology collaboration to simplify and … Continued The post SolidRun and Leopard Imaging...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SolidRun and Leopard Imaging collaborate to accelerate Edge AI vision development\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/10/157857-solidrun-and-leopard-imaging-collaborate-to-accelerate-edge-ai-vision-development/"
     },
     {
       "title": "Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port",
@@ -336,31 +390,6 @@
       "url": "https://www.cnx-software.com/2026/08/06/espressif-systems-releases-esp-rainmaker-neo-open-source-device-to-cloud-to-phone-iot-platform/"
     },
     {
-      "title": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter",
-      "source": "CNX Software",
-      "date": "2026-08-06",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Antmicro has just released an open-source hardware Thunderbolt to (dual) 10GbE adapter that serves as a reference design for a high-speed Ethernet accessory, further customizable for smart terminals, Point of Sale systems, smart cameras, IoT gateways, and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Antmicro releases open-source hardware Thunderbolt to dual 10GbE adapter\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/06/antmicro-releases-open-source-hardware-thunderbolt-to-dual-10gbe-adapter/"
-    },
-    {
       "title": "Silicon Labs unveils BG2B, its lowest-power Bluetooth LE SoC with power efficiency, security and integration",
       "source": "IoT Now",
       "date": "2026-08-06",
@@ -440,31 +469,6 @@
       "url": "https://iot-now.com/2026/08/06/157650-vibe-coding-meets-iot-faster-development-smarter-innovation/"
     },
     {
-      "title": "IT/OT convergence brings OT security into ServiceNow",
-      "source": "IoT Tech News",
-      "date": "2026-08-06",
-      "product": "IoT Industry",
-      "score": 79,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "CoreX and Alchemy Global Networks have formed a partnership focused on industrial security and risk management, combining operational technology visibility with enterprise workflow and identity governance tools. The companies said the offering will use asset...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "IT/OT convergence brings OT security into ServiceNow\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/it-ot-convergence-industrial-security-servicenow/"
-    },
-    {
       "title": "Can your connected operations scale without adding complexity?",
       "source": "IoT Now",
       "date": "2026-08-05",
@@ -513,31 +517,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "SABESP partners with Vivo and IDEMIA secure transactions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/05/157777-sabesp-partners-with-vivo-and-idemia-secure-transactions/"
-    },
-    {
-      "title": "NVIDIA opens AV reasoning model to robotaxi developers",
-      "source": "IoT Tech News",
-      "date": "2026-08-05",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "NVIDIA is releasing Alpamayo 2 Super, an open-source AI reasoning model that is licensed for commercial robotaxi and AV development. Most autonomous vehicle failures happen in the edge cases: the unprotected left turn with a cyclist cutting through, the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "NVIDIA opens AV reasoning model to robotaxi developers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-opens-av-reasoning-model-robotaxi-developers/"
     },
     {
       "title": "The Backpackster and Monogoto partner to power a globally connected human media network",
@@ -590,31 +569,6 @@
       "url": "https://iot-now.com/2026/08/04/157439-the-connected-vehicle-market-is-growing-fast/"
     },
     {
-      "title": "IoT is entering a new phase. One defined by scale.",
-      "source": "IoT Now",
-      "date": "2026-08-03",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Enterprises are no longer connecting hundreds or thousands of devices. They are planning for millions across industrial automation, smart infrastructure, wearables, health technology, utilities and global asset tracking. But many … Continued The post IoT is...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT is entering a new phase. One defined by scale.\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/03/157669-iot-is-entering-a-new-phase-one-defined-by-scale/"
-    },
-    {
       "title": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations",
       "source": "IoT Now",
       "date": "2026-08-03",
@@ -638,6 +592,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/03/157689-ey-us-expands-its-alliance-with-symphonyai-to-bring-manufacturing-intelligence-to-enterprise-operations/"
+    },
+    {
+      "title": "The one security layer the IT acquisition wave keeps missing",
+      "source": "IoT Now",
+      "date": "2026-08-03",
+      "product": "BLE Module",
+      "score": 84,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "We live in a world of connections, far more than most individuals and companies take time to appreciate. Historically, the companies with the most durable value in this ecosystem owned … Continued The post The one security layer the IT acquisition wave keeps...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "The one security layer the IT acquisition wave keeps missing\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/03/157710-the-one-security-layer-the-it-acquisition-wave-keeps-missing/"
+    },
+    {
+      "title": "How operational visibility drives the connected car experience",
+      "source": "IoT Now",
+      "date": "2026-08-03",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The modern car behaves increasingly like a smartphone on wheels and connected-car features are the norm. Owners expect a reliable app they can use for basic functions such as unlocking … Continued The post How operational visibility drives the connected car...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "How operational visibility drives the connected car experience\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/03/157702-how-operational-visibility-drives-the-connected-car-experience/"
     }
   ]
 }
