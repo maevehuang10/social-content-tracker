@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T13:34:57.329Z",
+  "generatedAt": "2026-08-12T03:29:02.405Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263",
+      "source": "CNX Software",
+      "date": "2026-08-12",
+      "product": "ESP32 Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "MINISFORUM Elite Mini M2 Air-304 is a barebone mini PC powered by an Intel Core 3 304 Wildcat Lake penta-core processor with a DDR5 SO-DIMM slot and an M.2 PCIe Gen4 x4 socket for NVMe SSD storage. There’s currently a limited number of Wildcat Lake mini PCs...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/"
+    },
     {
       "title": "PewCB One Desktop PCB fabrication system enables rapid prototyping at home",
       "source": "CNX Software",
@@ -88,6 +113,60 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "GEEKOM IT13 Max review – Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026)\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/"
+    },
+    {
+      "title": "NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion",
+      "source": "CNX Software",
+      "date": "2026-08-11",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "NXP has introduced the FRDM-IMX95-PRO, a compact development board based on the i.MX 95 application processor in the larger 19×19 mm package. It features a 10GbE interface, Wi-Fi 6, Bluetooth 5.4, and 802.15.4 tri-radio connectivity, and two M.2 Key-M slots...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NXP FRDM-IMX95-PRO i.MX 95 board features 10GbE, faster 6400 MT/s LPDDR5 memory, dual M.2 expansion\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/11/nxp-frdm-imx95-pro-i-mx-95-board-features-10gbe-faster-6400-mt-s-lpddr5-memory-dual-m-2-expansion/"
+    },
+    {
+      "title": "AIS Business joins hands with Huawei Cloud in MOU to advance global cloud capabilities and intelligent 5G solutions",
+      "source": "IoT Now",
+      "date": "2026-08-11",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "AIS Business and Huawei Cloud have signed a Memorandum of Understanding (MOU) to accelerate Thailand’s industrial sector towards intelligent manufacturing, with data and AI serving as key drivers. The collaboration … Continued The post AIS Business joins...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "AIS Business joins hands with Huawei Cloud in MOU to advance global cloud capabilities and intelligent 5G solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/11/157870-ais-business-joins-hands-with-huawei-cloud-in-mou-to-advance-global-cloud-capabilities-and-intelligent-5g-solutions/"
     },
     {
       "title": "Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion",
@@ -310,60 +389,6 @@
       "url": "https://www.cnx-software.com/2026/08/08/lilygo-t-echo-card-a-weatherproof-solar-powered-nrf52840-based-lora-gps-development-kit/"
     },
     {
-      "title": "Proxmox VE now officially supports 64-bit Arm (Aarch64) targets",
-      "source": "CNX Software",
-      "date": "2026-08-07",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Proxmox VE now officially supports 64-bit Arm (Aarch64) targets\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/"
-    },
-    {
-      "title": "Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-08-07",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Fractal Manifold has introduced the Token Monitor, a 4-inch ESP32-S3-based desktop display for monitoring real-time AI coding assistant usage. The device features a 4-inch 480×480 IPS touchscreen with 5-point capacitive touch, Wi-Fi 4 and Bluetooth LE 5...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/"
-    },
-    {
       "title": "GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot",
       "source": "CNX Software",
       "date": "2026-08-07",
@@ -570,31 +595,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "The connected vehicle market is growing fast.\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/04/157439-the-connected-vehicle-market-is-growing-fast/"
-    },
-    {
-      "title": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations",
-      "source": "IoT Now",
-      "date": "2026-08-03",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Ernst & Young LLP (EY US), has announced an expanded alliance with SymphonyAI, extending the collaboration into manufacturing and supply chain intelligence. The expansion integrates SymphonyAI’s industrial AI platform into … Continued The post EY US expands...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "EY US expands its alliance with SymphonyAI to bring manufacturing intelligence to enterprise operations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/03/157689-ey-us-expands-its-alliance-with-symphonyai-to-bring-manufacturing-intelligence-to-enterprise-operations/"
     },
     {
       "title": "The one security layer the IT acquisition wave keeps missing",
