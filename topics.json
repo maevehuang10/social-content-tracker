@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:38:19.930Z",
+  "generatedAt": "2026-08-13T03:31:29.803Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-08-13"
+    },
     {
       "title": "Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC",
       "source": "CNX Software",
@@ -248,31 +355,6 @@
       "url": "https://iot-now.com/2026/08/11/157870-ais-business-joins-hands-with-huawei-cloud-in-mou-to-advance-global-cloud-capabilities-and-intelligent-5g-solutions/"
     },
     {
-      "title": "Cyber defence initiative launches following US water utilities attack",
-      "source": "IoT Tech News",
-      "date": "2026-08-11",
-      "product": "IoT Industry",
-      "score": 76,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "DEF CON Franklin and the NRWA announced the Water Watch Center, aiming to bring cyber defence services to US water utilities. The programme was announced during the DEF CON conference in Las Vegas and aims to give small utilities direct access to managed...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Cyber defence initiative launches following US water utilities attack\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/cyber-defence-initiative-launches-following-us-water-utilities-attack/"
-    },
-    {
       "title": "Raspberry Pi CM4/CM5-based WisGate Connect Router RAK7392 offers 2.5GbE, mini PCIe, and WisBlock expansion",
       "source": "CNX Software",
       "date": "2026-08-10",
@@ -410,34 +492,6 @@
       "url": "https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/"
     },
     {
-      "title": "Manufacturing cybersecurity needs tested recovery plans",
-      "source": "IoT Tech News",
-      "date": "2026-08-10",
-      "product": "IoT Industry",
-      "score": 79,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Make UK’s cybersecurity in manufacturing report puts recovery at the centre of factory planning. Manufacturers face a decision that reaches beyond the IT function: can the business keep producing, shipping, and meeting customer commitments after a cyber...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Manufacturing cybersecurity needs tested recovery plans\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/manufacturing-cybersecurity-needs-tested-recovery-plans/"
-    },
-    {
       "title": "MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging",
       "source": "CNX Software",
       "date": "2026-08-09",
@@ -571,31 +625,6 @@
       "url": "https://iot-now.com/2026/08/06/157650-vibe-coding-meets-iot-faster-development-smarter-innovation/"
     },
     {
-      "title": "IT/OT convergence brings OT security into ServiceNow",
-      "source": "IoT Tech News",
-      "date": "2026-08-06",
-      "product": "IoT Industry",
-      "score": 79,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "CoreX and Alchemy Global Networks have formed a partnership focused on industrial security and risk management, combining operational technology visibility with enterprise workflow and identity governance tools. The companies said the offering will use asset...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "IT/OT convergence brings OT security into ServiceNow\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/it-ot-convergence-industrial-security-servicenow/"
-    },
-    {
       "title": "Can your connected operations scale without adding complexity?",
       "source": "IoT Now",
       "date": "2026-08-05",
@@ -619,31 +648,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Can your connected operations scale without adding complexity?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/05/157502-can-your-connected-operations-scale-without-adding-complexity/"
-    },
-    {
-      "title": "SABESP partners with Vivo and IDEMIA secure transactions",
-      "source": "IoT Now",
-      "date": "2026-08-05",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "SABESP, the water and sanitation company of the State of São Paulo, Brazil, has announced the deployment of the world’s largest Internet of Things (IoT) connectivity project for smart water … Continued The post SABESP partners with Vivo and IDEMIA secure...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "SABESP partners with Vivo and IDEMIA secure transactions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/05/157777-sabesp-partners-with-vivo-and-idemia-secure-transactions/"
     }
   ]
 }
