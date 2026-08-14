@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T13:38:21.353Z",
+  "generatedAt": "2026-08-14T03:29:05.615Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-08-14"
+    },
     {
       "title": "WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM",
       "source": "CNX Software",
@@ -31,6 +138,32 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/"
+    },
+    {
+      "title": "AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications",
+      "source": "CNX Software",
+      "date": "2026-08-13",
+      "product": "ESP32 Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "AAEON PICO-ADN2 is a low-profile Alder Lake-N Pico-ITX SBC powered by an Intel N97 or Core i3-N305 SoC and designed for space-constrained transportation, digital signage, industrial automation, and smart kiosk applications. Its features are very similar to...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/"
     },
     {
       "title": "Context Labs enters multi-year agreement with Trafigura and acquires Kinertic to power carbon-informed commodities trading",
@@ -459,31 +592,6 @@
       "url": "https://iot-now.com/2026/08/10/157857-solidrun-and-leopard-imaging-collaborate-to-accelerate-edge-ai-vision-development/"
     },
     {
-      "title": "Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port",
-      "source": "CNX Software",
-      "date": "2026-08-10",
-      "product": "ESP32 Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Over the years, we have seen several tiny “omu” USB boards that share this “fits-in-a-USB-port” form factor. It started with the Tomu, based on a Silicon Labs EFM32 Cortex-M0+, followed by the Fomu with a Lattice iCE40 FPGA, Qomu with an EOS S3 Cortex-M4F MCU...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/"
-    },
-    {
       "title": "Manufacturing cybersecurity needs tested recovery plans",
       "source": "IoT Tech News",
       "date": "2026-08-10",
@@ -535,110 +643,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Podcast: The New Reality of Connected Infrastructure: Continuous Connectivity in an Unpredictable World\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/10/157778-podcast-the-new-reality-of-connected-infrastructure-continuous-connectivity-in-an-unpredictable-world/"
-    },
-    {
-      "title": "IoT Now Contract Win List – July 2026",
-      "source": "IoT Now",
-      "date": "2026-08-07",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The IoT Now Contract Win List for July 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – July 2026 appeared first on IoT...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT Now Contract Win List – July 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/07/157806-iot-now-contract-win-list-july-2026/"
-    },
-    {
-      "title": "Silicon Labs unveils BG2B, its lowest-power Bluetooth LE SoC with power efficiency, security and integration",
-      "source": "IoT Now",
-      "date": "2026-08-06",
-      "product": "BLE Module",
-      "score": 90,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Silicon Labs, the innovator in low-power wireless connectivity, has announced the BG2B, its next Series 2 Bluetooth Low Energy (LE) wireless SoC designed to help developers build smaller, more secure, and longer-lasting battery-powered … Continued The post...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Silicon Labs unveils BG2B, its lowest-power Bluetooth LE SoC with power efficiency, security and integration\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/06/157784-silicon-labs-unveils-bg2b-its-lowest-power-bluetooth-le-soc-with-power-efficiency-security-and-integration/"
-    },
-    {
-      "title": "Vibe Coding Meets IoT: Faster Development, Smarter Innovation?",
-      "source": "IoT Now",
-      "date": "2026-08-06",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Could Vibe Coding be the biggest game changer for IoT practitioners since the Raspberry Pi? Join Kai Hackbarth for the latest episode of “It’s Time We Talk About…” IoT development … Continued The post Vibe Coding Meets IoT: Faster Development, Smarter...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Vibe Coding Meets IoT: Faster Development, Smarter Innovation?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/06/157650-vibe-coding-meets-iot-faster-development-smarter-innovation/"
-    },
-    {
-      "title": "IT/OT convergence brings OT security into ServiceNow",
-      "source": "IoT Tech News",
-      "date": "2026-08-06",
-      "product": "IoT Industry",
-      "score": 79,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "CoreX and Alchemy Global Networks have formed a partnership focused on industrial security and risk management, combining operational technology visibility with enterprise workflow and identity governance tools. The companies said the offering will use asset...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "IT/OT convergence brings OT security into ServiceNow\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/it-ot-convergence-industrial-security-servicenow/"
     }
   ]
 }
