@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:20:09.871Z",
+  "generatedAt": "2026-08-18T07:00:50.289Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -222,34 +222,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/"
-    },
-    {
-      "title": "Edge computing on the factory floor now starts with a memory conversation",
-      "source": "IoT Tech News",
-      "date": "2026-08-17",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Edge computing has become the default answer to a familiar problem on the factory floor. Rather than sending camera footage and sensor readings to a distant cloud server and waiting for a verdict, a plant puts a small computer next to the machine and gets the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Edge computing on the factory floor now starts with a memory conversation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/edge-computing-memory-supply/"
     },
     {
       "title": "e& UAE leads industry transition to 5G-native IoT with successful testing of Reduced Capability readiness on a live network",
@@ -583,34 +555,6 @@
       "url": "https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/"
     },
     {
-      "title": "Cisco and Rockwell connect IT and OT for industrial AI",
-      "source": "IoT Tech News",
-      "date": "2026-08-13",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Factory data often sits inside operational systems that are separate from enterprise IT. Cisco and Rockwell Automation are targeting that divide with a software-defined manufacturing architecture that links plant-floor systems with higher-level computing...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Cisco and Rockwell connect IT and OT for industrial AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/cisco-rockwell-it-ot-convergence-industrial-ai/"
-    },
-    {
       "title": "Fibocom and Future Electronics deepen collaboration in Australia and New Zealand to accelerate IoT innovation",
       "source": "IoT Now",
       "date": "2026-08-12",
@@ -634,6 +578,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Fibocom and Future Electronics deepen collaboration in Australia and New Zealand to accelerate IoT innovation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/12/157881-fibocom-and-future-electronics-deepen-collaboration-in-australia-and-new-zealand-to-accelerate-iot-innovation/"
+    },
+    {
+      "title": "AIS Business joins hands with Huawei Cloud in MOU to advance global cloud capabilities and intelligent 5G solutions",
+      "source": "IoT Now",
+      "date": "2026-08-11",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "AIS Business and Huawei Cloud have signed a Memorandum of Understanding (MOU) to accelerate Thailand’s industrial sector towards intelligent manufacturing, with data and AI serving as key drivers. The collaboration … Continued The post AIS Business joins...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "AIS Business joins hands with Huawei Cloud in MOU to advance global cloud capabilities and intelligent 5G solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/11/157870-ais-business-joins-hands-with-huawei-cloud-in-mou-to-advance-global-cloud-capabilities-and-intelligent-5g-solutions/"
+    },
+    {
+      "title": "SolidRun and Leopard Imaging collaborate to accelerate Edge AI vision development",
+      "source": "IoT Now",
+      "date": "2026-08-10",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SolidRun, a developer of embedded computing and edge AI solutions, and Leopard Imaging, a global contributor in embedded vision and camera technology, has announced a technology collaboration to simplify and … Continued The post SolidRun and Leopard Imaging...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SolidRun and Leopard Imaging collaborate to accelerate Edge AI vision development\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/10/157857-solidrun-and-leopard-imaging-collaborate-to-accelerate-edge-ai-vision-development/"
     }
   ]
 }
