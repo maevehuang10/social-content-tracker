@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:03:48.872Z",
+  "generatedAt": "2026-08-19T02:22:45.884Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-08-19"
+    },
     {
       "title": "LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board",
       "source": "CNX Software",
@@ -85,6 +192,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Viasat selects Rocket Lab to build GEO Satellite for U.S. Space Force’s Protected Tactical SATCOM-Global Program\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/18/157984-viasat-selects-rocket-lab-to-build-geo-satellite-for-u-s-space-forces-protected-tactical-satcom-global-program/"
+    },
+    {
+      "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
+      "source": "CNX Software",
+      "date": "2026-08-18",
+      "product": "ESP32 Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Waveshare PiRack-M6F is a multi-node server cluster kit for Raspberry Pi 4/5 designed for 10-inch 2U racks and supporting up to six Model B SBCs with all ports brought to the front panel. We wrote about rack mounts for Raspberry Pi SBCs before with products...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/18/waveshare-pirack-m6f-6-node-rack-unit-for-raspberry-pi-4-5-brings-all-ports-to-the-front/"
     },
     {
       "title": "Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge",
@@ -426,32 +558,6 @@
       "url": "https://iot-now.com/2026/08/14/157916-autonomous-iot-in-oil-and-gas-the-shift-from-remote-monitoring-to-autonomous-decisions/"
     },
     {
-      "title": "AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications",
-      "source": "CNX Software",
-      "date": "2026-08-13",
-      "product": "ESP32 Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "AAEON PICO-ADN2 is a low-profile Alder Lake-N Pico-ITX SBC powered by an Intel N97 or Core i3-N305 SoC and designed for space-constrained transportation, digital signage, industrial automation, and smart kiosk applications. Its features are very similar to...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "AAEON PICO-ADN2 – A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/"
-    },
-    {
       "title": "Context Labs enters multi-year agreement with Trafigura and acquires Kinertic to power carbon-informed commodities trading",
       "source": "IoT Now",
       "date": "2026-08-13",
@@ -525,106 +631,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "AIS Business joins hands with Huawei Cloud in MOU to advance global cloud capabilities and intelligent 5G solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/11/157870-ais-business-joins-hands-with-huawei-cloud-in-mou-to-advance-global-cloud-capabilities-and-intelligent-5g-solutions/"
-    },
-    {
-      "title": "SolidRun and Leopard Imaging collaborate to accelerate Edge AI vision development",
-      "source": "IoT Now",
-      "date": "2026-08-10",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "SolidRun, a developer of embedded computing and edge AI solutions, and Leopard Imaging, a global contributor in embedded vision and camera technology, has announced a technology collaboration to simplify and … Continued The post SolidRun and Leopard Imaging...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "SolidRun and Leopard Imaging collaborate to accelerate Edge AI vision development\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/10/157857-solidrun-and-leopard-imaging-collaborate-to-accelerate-edge-ai-vision-development/"
-    },
-    {
-      "title": "Podcast: The New Reality of Connected Infrastructure: Continuous Connectivity in an Unpredictable World",
-      "source": "IoT Now",
-      "date": "2026-08-09",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Exploring how resilient connectivity is transforming critical infrastructure, industrial IoT, and remote operations. As organisations become increasingly reliant on connected infrastructure, maintaining continuous connectivity is no longer just an operational...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Podcast: The New Reality of Connected Infrastructure: Continuous Connectivity in an Unpredictable World\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/10/157778-podcast-the-new-reality-of-connected-infrastructure-continuous-connectivity-in-an-unpredictable-world/"
-    },
-    {
-      "title": "IoT Now Contract Win List – July 2026",
-      "source": "IoT Now",
-      "date": "2026-08-07",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The IoT Now Contract Win List for July 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – July 2026 appeared first on IoT...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT Now Contract Win List – July 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/07/157806-iot-now-contract-win-list-july-2026/"
-    },
-    {
-      "title": "Vibe Coding Meets IoT: Faster Development, Smarter Innovation?",
-      "source": "IoT Now",
-      "date": "2026-08-06",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Could Vibe Coding be the biggest game changer for IoT practitioners since the Raspberry Pi? Join Kai Hackbarth for the latest episode of “It’s Time We Talk About…” IoT development … Continued The post Vibe Coding Meets IoT: Faster Development, Smarter...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Vibe Coding Meets IoT: Faster Development, Smarter Innovation?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/06/157650-vibe-coding-meets-iot-faster-development-smarter-innovation/"
     }
   ]
 }
