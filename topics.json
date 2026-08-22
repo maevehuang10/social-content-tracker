@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:56:26.622Z",
+  "generatedAt": "2026-08-22T12:56:09.063Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -322,6 +322,31 @@
       "url": "https://iot-now.com/2026/08/20/157998-private-5g-a-2-5-billion-opportunity-in-the-defence-sector-says-sns-telecom-it/"
     },
     {
+      "title": "Generalist AI’s GEN-1.5 robot model learns tasks from one demo",
+      "source": "IoT Tech News",
+      "date": "2026-08-20",
+      "product": "IoT Industry",
+      "score": 70,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "The GEN-1.5 robot model from Generalist AI learns new physical tasks from one demo, without gradient updates. The company describes GEN-1.5 as the first model it knows of to show one-shot and few-shot learning of physical skills at scale. That claim points at...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Generalist AI’s GEN-1.5 robot model learns tasks from one demo\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/generalist-ai-gen-1-5-robot-model-learns-tasks-one-demo/"
+    },
+    {
       "title": "Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices",
       "source": "CNX Software",
       "date": "2026-08-19",
@@ -447,6 +472,34 @@
       "url": "https://iot-now.com/2026/08/18/157984-viasat-selects-rocket-lab-to-build-geo-satellite-for-u-s-space-forces-protected-tactical-satcom-global-program/"
     },
     {
+      "title": "Edge computing on the factory floor now starts with a memory conversation",
+      "source": "IoT Tech News",
+      "date": "2026-08-17",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Edge computing has become the default answer to a familiar problem on the factory floor. Rather than sending camera footage and sensor readings to a distant cloud server and waiting for a verdict, a plant puts a small computer next to the machine and gets the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Edge computing on the factory floor now starts with a memory conversation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/edge-computing-memory-supply/"
+    },
+    {
       "title": "e& UAE leads industry transition to 5G-native IoT with successful testing of Reduced Capability readiness on a live network",
       "source": "IoT Now",
       "date": "2026-08-17",
@@ -570,56 +623,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Context Labs enters multi-year agreement with Trafigura and acquires Kinertic to power carbon-informed commodities trading\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/13/157909-context-labs-enters-multi-year-agreement-with-trafigura-and-acquires-kinertic-to-power-carbon-informed-commodities-trading/"
-    },
-    {
-      "title": "Fibocom and Future Electronics deepen collaboration in Australia and New Zealand to accelerate IoT innovation",
-      "source": "IoT Now",
-      "date": "2026-08-12",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Fibocom, a global provider of wireless communication modules and AI solutions, recently joined Future Electronics at the Future Supplier Tech Fest Australia 2026 in Sydney and Melbourne. Through product demonstrations, technical presentations … Continued The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Fibocom and Future Electronics deepen collaboration in Australia and New Zealand to accelerate IoT innovation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/12/157881-fibocom-and-future-electronics-deepen-collaboration-in-australia-and-new-zealand-to-accelerate-iot-innovation/"
-    },
-    {
-      "title": "AIS Business joins hands with Huawei Cloud in MOU to advance global cloud capabilities and intelligent 5G solutions",
-      "source": "IoT Now",
-      "date": "2026-08-11",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "AIS Business and Huawei Cloud have signed a Memorandum of Understanding (MOU) to accelerate Thailand’s industrial sector towards intelligent manufacturing, with data and AI serving as key drivers. The collaboration … Continued The post AIS Business joins...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "AIS Business joins hands with Huawei Cloud in MOU to advance global cloud capabilities and intelligent 5G solutions\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/11/157870-ais-business-joins-hands-with-huawei-cloud-in-mou-to-advance-global-cloud-capabilities-and-intelligent-5g-solutions/"
     }
   ]
 }
