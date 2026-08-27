@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T13:10:49.192Z",
+  "generatedAt": "2026-08-27T11:09:39.518Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,111 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Opener is an open-source reference implementation of the DECT NR+ massive IoT, low-latency standard",
+      "source": "CNX Software",
+      "date": "2026-08-27",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Opener is an open-source reference implementation of the DECT NR+ protocol stack, formally known as DECT-2020 NR, used for massive IoT (mMTC) and low-latency (URLLC) machine-to-machine communication applications. It is developed by the Opener Initiative,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Opener is an open-source reference implementation of the DECT NR+ massive IoT, low-latency standard\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/27/opener-open-source-reference-implementation-of-the-dect-nr-massive-iot-standard/"
+    },
+    {
+      "title": "GCT Semiconductor forms partnership to advance next-generation UAV control and communications",
+      "source": "IoT Now",
+      "date": "2026-08-27",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "GCT Semiconductor Holding, a designer and supplier of 5G semiconductors powering the AI data pipeline with wireless connectivity, has announced a partnership and license agreement with an infrastructure provider for … Continued The post GCT Semiconductor...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GCT Semiconductor forms partnership to advance next-generation UAV control and communications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/27/158075-gct-semiconductor-forms-partnership-to-advance-next-generation-uav-control-and-communications/"
+    },
+    {
+      "title": "LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software",
+      "source": "CNX Software",
+      "date": "2026-08-27",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "We’ve gotten a sample of the LUNYEE 3020 Nova desktop CNC router for review. The machine features a 710W trim router spindle suitable for carving wood, acrylic, and aluminum. The drive system relies on dual HG15 linear guides and 1204 ball screws for enhanced...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/27/lunyee-3020-nova-review-a-desktop-cnc-router-with-710w-spindle-tested-with-ugs-and-easel-software/"
+    },
+    {
+      "title": "HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant",
+      "source": "CNX Software",
+      "date": "2026-08-26",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The HomeMaster MiniPLC is an ESP32 PLC controller in a compact DIN-rail form factor with ESPHome pre-installed for Home Assistant integration, and designed for residential and light industrial automation. The device features relay outputs, four isolated 24V...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/26/homemaster-miniplc-an-esp32-din-rail-plc-controller-for-home-assistant/"
+    },
     {
       "title": "Taoglas expands outdoor and industrial connectivity capabilities with acquisition of QuWireless",
       "source": "IoT Now",
@@ -214,31 +319,6 @@
       "url": "https://iot-now.com/2026/08/25/158047-connecting-iot-to-edge-ai-why-connectivity-matters-for-physical-ai/"
     },
     {
-      "title": "Airbound raises $37M for autonomous drone delivery network",
-      "source": "IoT Tech News",
-      "date": "2026-08-25",
-      "product": "IoT Industry",
-      "score": 70,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Airbound has raised $37 million to scale its autonomous drone delivery network, backed by a new Andhra Pradesh deployment deal. The big question for aerial delivery pilots has always been whether the underlying aircraft economics can compete with a truck on...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Airbound raises $37M for autonomous drone delivery network\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/airbound-raises-37m-autonomous-drone-delivery-network/"
-    },
-    {
       "title": "MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding)",
       "source": "CNX Software",
       "date": "2026-08-24",
@@ -402,85 +482,6 @@
       "url": "https://www.cnx-software.com/2026/08/24/rockchip-rv1126b-based-forlinx-fcu3101-fanless-edge-ai-system-targets-iiot-and-smart-security-applications/"
     },
     {
-      "title": "Openterface KeyMod turns your smartphone into a USB keyboard, mouse, gamepad, or SSH client (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-08-23",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "After successfully launching the Openterface Mini-KVM and Openterface KVM-GO, TechxArtisan has just introduced the Openterface KeyMod pocket-sized USB multi-tool that turns an Android or iOS smartphone into a wireless keyboard, mouse, gamepad, presentation...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Openterface KeyMod turns your smartphone into a USB keyboard, mouse, gamepad, or SSH client (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/24/openterface-keymod-turns-your-smartphone-into-a-usb-keyboard-mouse-gamepad-or-ssh-client/"
-    },
-    {
-      "title": "Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11",
-      "source": "CNX Software",
-      "date": "2026-08-23",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "First introduced in 2025, the Framework Laptop 12 upgradable and repairable laptop has just gotten a new motherboard offered with a choice of Wildcat Lake (Intel Core Series 3) processors from the Core 3 304 up to the Core 7 350. The Wildcat Lake-based...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/"
-    },
-    {
-      "title": "Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor",
-      "source": "CNX Software",
-      "date": "2026-08-22",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The ESP32-S31 microprocessor is getting Linux support from Espressif Systems. The ESP32-S31 dual-core RISC-V microprocessor was first unveiled in March, two ESP32-S31 development boards followed in May, and mass production was announced a few weeks ago. The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/"
-    },
-    {
       "title": "Europe’s cyber leaders to converge in Rome as the digital threat landscape evolves",
       "source": "IoT Now",
       "date": "2026-08-20",
@@ -556,31 +557,6 @@
       "url": "https://iot-now.com/2026/08/20/157998-private-5g-a-2-5-billion-opportunity-in-the-defence-sector-says-sns-telecom-it/"
     },
     {
-      "title": "Generalist AI’s GEN-1.5 robot model learns tasks from one demo",
-      "source": "IoT Tech News",
-      "date": "2026-08-20",
-      "product": "IoT Industry",
-      "score": 70,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "The GEN-1.5 robot model from Generalist AI learns new physical tasks from one demo, without gradient updates. The company describes GEN-1.5 as the first model it knows of to show one-shot and few-shot learning of physical skills at scale. That claim points at...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Generalist AI’s GEN-1.5 robot model learns tasks from one demo\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/generalist-ai-gen-1-5-robot-model-learns-tasks-one-demo/"
-    },
-    {
       "title": "Quectel launches Android 16 smart modules for 4G and 5G IoT devices",
       "source": "IoT Now",
       "date": "2026-08-19",
@@ -629,6 +605,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Viasat selects Rocket Lab to build GEO Satellite for U.S. Space Force’s Protected Tactical SATCOM-Global Program\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/18/157984-viasat-selects-rocket-lab-to-build-geo-satellite-for-u-s-space-forces-protected-tactical-satcom-global-program/"
+    },
+    {
+      "title": "How the software-defined vehicle is rewriting the rules of connectivity",
+      "source": "IoT Now",
+      "date": "2026-08-17",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The connected car is becoming a software-defined vehicle: a platform that improves through software upgrades throughout its life. The number of these vehicles is climbing quickly: Analysys Mason expects the … Continued The post How the software-defined...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "How the software-defined vehicle is rewriting the rules of connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/17/157957-how-the-software-defined-vehicle-is-rewriting-the-rules-of-connectivity/"
     }
   ]
 }
