@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T22:12:26.536Z",
+  "generatedAt": "2026-08-28T12:42:51.305Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,92 +8,15 @@
   ],
   "topics": [
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory",
+      "source": "CNX Software",
+      "date": "2026-08-28",
+      "product": "BLE Module",
+      "score": 98,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
+        "Sales Material",
         "Short Video",
-        "LinkedIn Post",
         "Carousel"
       ],
       "platforms": [
@@ -103,16 +26,119 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-08-28"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IBASE AA400-N is an “ultra-compact” fanless edge AI computer powered by an AMD Ryzen Embedded 8840U/8640U processor with up to 8 cores, 16 threads, and a combined 39 TOPS of AI performance for machine and robotic vision, autonomous inspection, smart retail,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/28/fanless-amd-ryzen-embedded-8840u-8640u-edge-ai-computer-supports-up-to-256gb-ddr5-so-dimm-memory/"
+    },
+    {
+      "title": "Microduck – A duck-like biped robot designed for physical AI experimentation and fun",
+      "source": "CNX Software",
+      "date": "2026-08-28",
+      "product": "ESP32 Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Pollen Robotics and Hugging Face have unveiled the Microduck, a 25 cm tall biped robot with 15 motors, a camera, a depth sensor, two motion sensors, and an articulated beak that can pick up objects. This follows the launch of the Reachy Mini desktop robot...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Microduck – A duck-like biped robot designed for physical AI experimentation and fun\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/"
+    },
+    {
+      "title": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices",
+      "source": "IoT Now",
+      "date": "2026-08-28",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IoT deployments are moving further beyond the reach of traditional networks. As connected devices expand into remote, mobile and geographically dispersed environments, satellite connectivity is becoming an increasingly important complement … Continued The...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/28/158085-the-advent-of-3gpp-non-terrestrial-networks-satellite-becomes-anoption-for-cellular-devices/"
+    },
+    {
+      "title": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-08-28",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Spark Solder is a compact, USB-C-powered one-handed soldering iron with a built-in motorized solder feeder for convenient one-handed operation. It supports standard TS100 tips, delivers up to 45W of heating power, and features a 1-inch LCD for adjusting the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/"
+    },
+    {
+      "title": "Nvidia Jetson Orin Nano 2 targets factory-floor edge AI",
+      "source": "IoT Tech News",
+      "date": "2026-08-28",
+      "product": "IoT Industry",
+      "score": 83,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Nvidia has introduced the Jetson Orin Nano 2, a compact robotics computer designed to run AI workloads at the edge. The company is targeting robots, delivery and inspection drones, and vision AI systems. Smaller and more efficient AI models are allowing more...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Nvidia Jetson Orin Nano 2 targets factory-floor edge AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-jetson-orin-nano-2-factory-edge-ai/"
     },
     {
       "title": "Opener is an open-source reference implementation of the DECT NR+ massive IoT, low-latency standard",
@@ -267,6 +293,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Is your IoT strategy ready for APAC complexity?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/27/157922-is-your-iot-strategy-ready-for-apac-complexity/"
+    },
+    {
+      "title": "Waymo explains AI behind 200M driverless miles",
+      "source": "IoT Tech News",
+      "date": "2026-08-27",
+      "product": "IoT Industry",
+      "score": 78,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Waymo has outlined the AI architecture behind more than 200 million fully driverless miles, from sensor fusion to safety validation. The company published an account describing ten lessons drawn from that mileage, covering sensor design, model architecture,...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Waymo explains AI behind 200M driverless miles\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/waymo-explains-ai-behind-200m-driverless-miles/"
     },
     {
       "title": "HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant",
@@ -504,11 +555,11 @@
       "url": "https://iot-now.com/2026/08/25/158047-connecting-iot-to-edge-ai-why-connectivity-matters-for-physical-ai/"
     },
     {
-      "title": "MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-08-24",
-      "product": "ESP32 Module",
-      "score": 94,
+      "title": "Airbound raises $37M for autonomous drone delivery network",
+      "source": "IoT Tech News",
+      "date": "2026-08-25",
+      "product": "IoT Industry",
+      "score": 70,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -518,44 +569,15 @@
         "Facebook"
       ],
       "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
       ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "MNT Research, the Berlin-based team behind the MNT Reform, MNT Pocket Reform, Reform 2, and MNT Reform Next, has launched the MNT Station, a fanless, open-hardware modular computer designed for use as a desktop PC, home server, NAS, router, edge device, or...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/"
-    },
-    {
-      "title": "$60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications",
-      "source": "CNX Software",
-      "date": "2026-08-24",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Nordic Semiconductor has launched the nRF93M1 DK (Development Kit) based on the nRF93M1-LABA LTE Cat 1 bis with Wi-Fi and cellular location and a Nordic Semi nRF54L15 host microcontroller. The nRF93M1 module was first introduced at Embedded World 2026 last...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/"
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Airbound has raised $37 million to scale its autonomous drone delivery network, backed by a new Andhra Pradesh deployment deal. The big question for aerial delivery pilots has always been whether the underlying aircraft economics can compete with a truck on...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Airbound raises $37M for autonomous drone delivery network\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/airbound-raises-37m-autonomous-drone-delivery-network/"
     },
     {
       "title": "Morse Micro announces two Wi-Fi HaLow USB Dongle Reference Designs to enable long-range Edge AI connectivity",
@@ -607,35 +629,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Podcast: eSIM-first IoT and why AI in the device changes the network\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/24/158028-podcast-esim-first-iot-and-why-ai-in-the-device-changes-the-network/"
-    },
-    {
-      "title": "Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems",
-      "source": "CNX Software",
-      "date": "2026-08-24",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Jetway PIC-TWL1 is a compact (100×72 mm) fanless Pico-ITX motherboard powered by an Intel N150 Twin Lake processor and engineered for industrial control, factory automation, facial recognition, and edge embedded systems. The board supports up to 32GB DDR5...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/25/jetway-pic-twl1-intel-n150-pico-itx-motherboard-is-made-for-industrial-automation-and-embedded-systems/"
     }
   ]
 }
