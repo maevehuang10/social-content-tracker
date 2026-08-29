@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T22:13:36.325Z",
+  "generatedAt": "2026-08-29T07:49:48.232Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -115,60 +115,6 @@
       "date": "2026-08-29"
     },
     {
-      "title": "Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory",
-      "source": "CNX Software",
-      "date": "2026-08-28",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "IBASE AA400-N is an “ultra-compact” fanless edge AI computer powered by an AMD Ryzen Embedded 8840U/8640U processor with up to 8 cores, 16 threads, and a combined 39 TOPS of AI performance for machine and robotic vision, autonomous inspection, smart retail,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/28/fanless-amd-ryzen-embedded-8840u-8640u-edge-ai-computer-supports-up-to-256gb-ddr5-so-dimm-memory/"
-    },
-    {
-      "title": "Microduck – A duck-like biped robot designed for physical AI experimentation and fun",
-      "source": "CNX Software",
-      "date": "2026-08-28",
-      "product": "ESP32 Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Pollen Robotics and Hugging Face have unveiled the Microduck, a 25 cm tall biped robot with 15 motors, a camera, a depth sensor, two motion sensors, and an articulated beak that can pick up objects. This follows the launch of the Reachy Mini desktop robot...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Microduck – A duck-like biped robot designed for physical AI experimentation and fun\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/"
-    },
-    {
       "title": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices",
       "source": "IoT Now",
       "date": "2026-08-28",
@@ -192,86 +138,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/28/158085-the-advent-of-3gpp-non-terrestrial-networks-satellite-becomes-anoption-for-cellular-devices/"
-    },
-    {
-      "title": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-08-28",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Spark Solder is a compact, USB-C-powered one-handed soldering iron with a built-in motorized solder feeder for convenient one-handed operation. It supports standard TS100 tips, delivers up to 45W of heating power, and features a 1-inch LCD for adjusting the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/"
-    },
-    {
-      "title": "Opener is an open-source reference implementation of the DECT NR+ massive IoT, low-latency standard",
-      "source": "CNX Software",
-      "date": "2026-08-27",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Opener is an open-source reference implementation of the DECT NR+ protocol stack, formally known as DECT-2020 NR, used for massive IoT (mMTC) and low-latency (URLLC) machine-to-machine communication applications. It is developed by the Opener Initiative,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Opener is an open-source reference implementation of the DECT NR+ massive IoT, low-latency standard\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/27/opener-open-source-reference-implementation-of-the-dect-nr-massive-iot-standard/"
-    },
-    {
-      "title": "USB-C Deskradar – An ESP32-C3 ADS-B flight tracker with a 1.28-inch round display",
-      "source": "CNX Software",
-      "date": "2026-08-27",
-      "product": "Radar Sensor",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for turning current industry news into content about privacy-friendly sensing, elderly care, smart bathrooms, security, and presence detection.",
-      "summary": "The USB-C Deskradar is an ESP32-C3-based, aviation-themed ADS-B flight tracker that tracks and displays live aircraft positions around your location on a sonar-style circular grid. A 1.28-inch round display and a 3D-printed enclosure provide a real-time view...",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "USB-C Deskradar – An ESP32-C3 ADS-B flight tracker with a 1.28-inch round display\n\nThis is a useful signal for IoT brands and product teams watching Radar Sensor opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/27/usb-c-deskradar-an-esp32-c3-ads-b-flight-tracker-with-a-1-28-inch-round-display/"
     },
     {
       "title": "GSMA MWC26 Doha to co-locate alongside the ITU Plenipotentiary Conference in November 2026",
@@ -324,31 +190,6 @@
       "url": "https://iot-now.com/2026/08/27/158075-gct-semiconductor-forms-partnership-to-advance-next-generation-uav-control-and-communications/"
     },
     {
-      "title": "LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software",
-      "source": "CNX Software",
-      "date": "2026-08-27",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "We’ve gotten a sample of the LUNYEE 3020 Nova desktop CNC router for review. The machine features a 710W trim router spindle suitable for carving wood, acrylic, and aluminum. The drive system relies on dual HG15 linear guides and 1204 ball screws for enhanced...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/27/lunyee-3020-nova-review-a-desktop-cnc-router-with-710w-spindle-tested-with-ugs-and-easel-software/"
-    },
-    {
       "title": "Is your IoT strategy ready for APAC complexity?",
       "source": "IoT Now",
       "date": "2026-08-27",
@@ -374,35 +215,6 @@
       "url": "https://iot-now.com/2026/08/27/157922-is-your-iot-strategy-ready-for-apac-complexity/"
     },
     {
-      "title": "HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant",
-      "source": "CNX Software",
-      "date": "2026-08-26",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The HomeMaster MiniPLC is an ESP32 PLC controller in a compact DIN-rail form factor with ESPHome pre-installed for Home Assistant integration, and designed for residential and light industrial automation. The device features relay outputs, four isolated 24V...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "HomeMaster MiniPLC – An ESP32 DIN-rail PLC controller for Home Assistant\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/26/homemaster-miniplc-an-esp32-din-rail-plc-controller-for-home-assistant/"
-    },
-    {
       "title": "Taoglas expands outdoor and industrial connectivity capabilities with acquisition of QuWireless",
       "source": "IoT Now",
       "date": "2026-08-26",
@@ -426,136 +238,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Taoglas expands outdoor and industrial connectivity capabilities with acquisition of QuWireless\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/26/158061-taoglas-expands-outdoor-and-industrial-connectivity-capabilities-with-acquisition-of-quwireless/"
-    },
-    {
-      "title": "Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications",
-      "source": "CNX Software",
-      "date": "2026-08-26",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Banana Pi BPI-AI2N is a system-on-module (SoM) powered by a Renesas RZ/V2N quad-core Cortex-A55 microprocessor with a 15 TOPS (sparse) DRP-AI3 accelerator for Vision AI workloads. The module features 8GB LPDDR4x, 32GB eMMC flash, 64MB SPI flash, two Gigabit...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/"
-    },
-    {
-      "title": "Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5",
-      "source": "CNX Software",
-      "date": "2026-08-25",
-      "product": "Cellular IoT Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Advantech AOM-6741 is a SMARC 2.2 Full Size module powered by a Qualcomm Dragonwing IQ-9075 octa-core SoC with up to 100 TOPS (INT8) of AI performance, up to 36 GB LPDDR5 memory, and 128GB UFS storage. The module also features two MIPI DSI connectors, at...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/"
-    },
-    {
-      "title": "Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs",
-      "source": "CNX Software",
-      "date": "2026-08-25",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Lantronix Open-M 720G and 520G are compact (43x44mm) LGA system-on-modules (SoM) powered by 6nm MediaTek Genio 720 and Genio 520 SoCs, offering an AI performance of 10 TOPS, and designed for Edge IoT applications running low-power Vision AI and GenAI tasks....",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/"
-    },
-    {
-      "title": "$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU",
-      "source": "CNX Software",
-      "date": "2026-08-25",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The Arduino Ventuno Q is a single board computer pairing a Qualcomm Dragonwing IQ8 (IQ-8275) octa-core Edge AI SoC with an STM32H5F5 Arm Cortex-M33 microcontroller for real-time I/Os. First introduced at Embedded World 2026, the Ventuno Q is the second...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/"
-    },
-    {
-      "title": "Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-08-25",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Computer Equipment Group has launched the Firehat, an open-source FireWire HAT that adds a native IEEE 1394 / i.LINK / DV port to SBCs with a Raspberry Pi PCIe FFC connector like the Pi 5 or the Radxa ROCK 2F. Built around a VIA VT6315N controller, the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/"
     },
     {
       "title": "SK telink deepen partnership to accelerate NexusWave adoption in South Korea",
@@ -632,6 +314,107 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Morse Micro announces two Wi-Fi HaLow USB Dongle Reference Designs to enable long-range Edge AI connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/24/158025-morse-micro-announces-two-wi-fi-halow-usb-dongle-reference-designs-to-enable-long-range-edge-ai-connectivity/"
+    },
+    {
+      "title": "Podcast: eSIM-first IoT and why AI in the device changes the network",
+      "source": "IoT Now",
+      "date": "2026-08-24",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "In this episode of the Trending Tech podcast, host Jim Morrish, co-founder of Transforma Insights, is joined by Rony Cohen, co-founder of FLOLIVE and Loic Bonvarlet, senior VP of ecosystem … Continued The post Podcast: eSIM-first IoT and why AI in the device...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Podcast: eSIM-first IoT and why AI in the device changes the network\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/24/158028-podcast-esim-first-iot-and-why-ai-in-the-device-changes-the-network/"
+    },
+    {
+      "title": "Europe’s cyber leaders to converge in Rome as the digital threat landscape evolves",
+      "source": "IoT Now",
+      "date": "2026-08-20",
+      "product": "BLE Module",
+      "score": 84,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Cybertech Europe 2026 will bring together government officials, CISOs, industry leaders and innovators to address the challenges shaping Europe’s cybersecurity future. As cyber threats grow more complex and emerging technologies … Continued The post Europe’s...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Europe’s cyber leaders to converge in Rome as the digital threat landscape evolves\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/20/158008-europes-cyber-leaders-to-converge-in-rome-as-the-digital-threat-landscape-evolves/"
+    },
+    {
+      "title": "Telefónica is driving the digitalisation of operational management in Negratín’s energy projects",
+      "source": "IoT Now",
+      "date": "2026-08-20",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Telefónica has rolled out a new model for managing the Negratín Group’s construction projects, based on advanced digitalisation solutions that will transform the way it operates on large-scale energy projects. … Continued The post Telefónica is driving the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Telefónica is driving the digitalisation of operational management in Negratín’s energy projects\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/20/158005-telefonica-is-driving-the-digitalisation-of-operational-management-in-negratins-energy-projects/"
+    },
+    {
+      "title": "Private 5G a $2.5 billion opportunity in the defence sector, says SNS Telecom & IT",
+      "source": "IoT Now",
+      "date": "2026-08-20",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SNS Telecom & IT‘s latest research report indicates that cumulative spending on private 5G networks in the defence sector will reach $2.5 billion between 2026 and 2029. The military has … Continued The post Private 5G a $2.5 billion opportunity in the defence...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Private 5G a $2.5 billion opportunity in the defence sector, says SNS Telecom & IT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/20/157998-private-5g-a-2-5-billion-opportunity-in-the-defence-sector-says-sns-telecom-it/"
     }
   ]
 }
