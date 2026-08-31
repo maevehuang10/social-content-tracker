@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T06:59:50.626Z",
+  "generatedAt": "2026-08-31T13:38:34.179Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,90 @@
   ],
   "topics": [
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
+      "title": "ARK Just A Pi – A tiny NDAA-compliant Raspberry Pi CM5 carrier board for drones and robots",
+      "source": "CNX Software",
+      "date": "2026-08-31",
+      "product": "ESP32 Module",
+      "score": 88,
       "formats": [
-        "Short Video",
         "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "ARK Just A Pi is a tiny NDAA-compliant carrier board for the Raspberry Pi CM5 designed for drones, robots, or other space-constrained embedded applications that’s about the size of the Compute Module itself. This follows ARK Electronics’ NDAA-compliant ARK...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ARK Just A Pi – A tiny NDAA-compliant Raspberry Pi CM5 carrier board for drones and robots\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/31/ark-just-a-pi-a-credit-card-sized-ndaa-compliant-raspberry-pi-cm5-carrier-board-for-drones-and-robots/"
+    },
+    {
+      "title": "D-Robotics RDK S100P – A 128 TOPS alternative to NVIDIA Jetson Orin NX 16GB with Cortex-A78AE/R52+ cores",
+      "source": "CNX Software",
+      "date": "2026-08-31",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "D-Robotics RDK S100P development kit is a robotics SBC built around an S100P-based module providing an alternative to NVIDIA Jetson Orin NX 16GB with a 6-core Cortex-A78AE application cluster, a 4-core Cortex-R52+ MCU domain, a Nash BPU rated at 128 TOPS...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "D-Robotics RDK S100P – A 128 TOPS alternative to NVIDIA Jetson Orin NX 16GB with Cortex-A78AE/R52+ cores\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/31/d-robotics-rdk-s100p-a-128-tops-alternative-to-nvidia-jetson-orin-nx-16gb-with-cortex-a78ae-r52-cores/"
+    },
+    {
+      "title": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers",
+      "source": "IoT Now",
+      "date": "2026-08-31",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Physical AI is moving out of pilots and into production and almost all of the architectural attention is going to the edge compute. The connectivity between those two things is … Continued The post Connecting IoT devices to edge AI infrastructure: the role of...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/31/158132-connecting-iot-devices-to-edge-ai-infrastructure-the-role-of-global-iot-connectivity-providers/"
+    },
+    {
+      "title": "Orange Pi Zero 4 – Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up",
+      "source": "CNX Software",
+      "date": "2026-08-31",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
         "Carousel"
       ],
       "platforms": [
@@ -24,25 +101,24 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-08-31"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Orange Pi Zero 4 is an affordable yet feature-rich Allwinner A733 single board computer (SBC) with up to 8GB RAM, eMMC/UFS storage footprint, a microSD card slot, and plenty of I/Os. The board packs mini HDMI and USB-C DisplayPort, Gigabit Ethernet, WiFi 6...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Orange Pi Zero 4 – Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/08/31/orange-pi-zero-4-allwinner-a733-sbc-offers-hdmi-usb-c-dp-gbe-wifi-6-pcie-ffc-connector/"
     },
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "West Sussex advances smart livestock monitoring with Pneumonitor and Boldyn Networks’ private 5G",
+      "source": "IoT Now",
+      "date": "2026-08-31",
+      "product": "BLE Module",
+      "score": 80,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -50,69 +126,15 @@
         "Facebook"
       ],
       "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-08-31"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "West Sussex County Council is leading the way in smart livestock monitoring. Through the public sector-led Growing Sussex programme, it is partnering with Boldyn Networks and agritech specialist Pneumonitor, to connect Pneumonitor’s in-pen environmental …...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "West Sussex advances smart livestock monitoring with Pneumonitor and Boldyn Networks’ private 5G\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/31/158136-west-sussex-advances-smart-livestock-monitoring-with-pneumonitor-and-boldyn-networks-private-5g/"
     },
     {
       "title": "Radxa Linkr – A USB drive-sized IP KVM with USB-C, Ethernet, and WiFi support",
@@ -560,11 +582,11 @@
       "url": "https://iot-now.com/2026/08/26/158061-taoglas-expands-outdoor-and-industrial-connectivity-capabilities-with-acquisition-of-quwireless/"
     },
     {
-      "title": "Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications",
-      "source": "CNX Software",
-      "date": "2026-08-26",
-      "product": "ESP32 Module",
-      "score": 88,
+      "title": "SK telink deepen partnership to accelerate NexusWave adoption in South Korea",
+      "source": "IoT Now",
+      "date": "2026-08-25",
+      "product": "BLE Module",
+      "score": 80,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -574,57 +596,29 @@
         "Facebook"
       ],
       "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Banana Pi BPI-AI2N is a system-on-module (SoM) powered by a Renesas RZ/V2N quad-core Cortex-A55 microprocessor with a 15 TOPS (sparse) DRP-AI3 accelerator for Vision AI workloads. The module features 8GB LPDDR4x, 32GB eMMC flash, 64MB SPI flash, two Gigabit...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Inmarsat Maritime, a Viasat company, and South Korean telecommunications services provider SK telink have signed an agreement to advance maritime digitalisation across the country’s shipping industry. The agreement will strengthen … Continued The post SK...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SK telink deepen partnership to accelerate NexusWave adoption in South Korea\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/25/158057-sk-telink-deepen-partnership-to-accelerate-nexuswave-adoption-in-south-korea/"
     },
     {
-      "title": "Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs",
-      "source": "CNX Software",
+      "title": "Connecting IoT to Edge AI: Why Connectivity Matters for Physical AI",
+      "source": "IoT Now",
       "date": "2026-08-25",
       "product": "BLE Module",
-      "score": 88,
+      "score": 80,
       "formats": [
         "LinkedIn Post",
         "Sales Material",
-        "Short Video",
         "Carousel"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Lantronix Open-M 720G and 520G are compact (43x44mm) LGA system-on-modules (SoM) powered by 6nm MediaTek Genio 720 and Genio 520 SoCs, offering an AI performance of 10 TOPS, and designed for Edge IoT applications running low-power Vision AI and GenAI tasks....",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/"
-    },
-    {
-      "title": "$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU",
-      "source": "CNX Software",
-      "date": "2026-08-25",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
         "Facebook"
       ],
       "tags": [
@@ -633,10 +627,10 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The Arduino Ventuno Q is a single board computer pairing a Qualcomm Dragonwing IQ8 (IQ-8275) octa-core Edge AI SoC with an STM32H5F5 Arm Cortex-M33 microcontroller for real-time I/Os. First introduced at Embedded World 2026, the Ventuno Q is the second...",
+      "summary": "Edge AI is moving intelligence closer to where data is generated – but without the right connectivity, physical AI systems cannot operate reliably or scale effectively. As organisations deploy AI … Continued The post Connecting IoT to Edge AI: Why...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/"
+      "post": "Connecting IoT to Edge AI: Why Connectivity Matters for Physical AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/25/158047-connecting-iot-to-edge-ai-why-connectivity-matters-for-physical-ai/"
     }
   ]
 }
