@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T05:45:50.337Z",
+  "generatedAt": "2026-09-02T11:12:12.688Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,13 @@
   ],
   "topics": [
     {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
+      "title": "GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware",
+      "source": "CNX Software",
+      "date": "2026-09-02",
+      "product": "BLE Module",
       "score": 94,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -22,25 +22,101 @@
         "Facebook"
       ],
       "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-09-02"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Last December, we wrote about XyphroLabs’s UsbGpib open-source hardware, affordable, and portable USB-to-GPIB adapter designed for legacy GPIB/IEEE-488 instruments and offering modern hardware and software. At the time, the UsbGpib V3 was also in the works...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GPIBee (UsbGpib V3) USB-to-GPIB adapter gains Ethernet (PoE), but launches as closed-source hardware\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/02/gpibee-usbgpib-v3-usb-to-gpib-adapter-gains-ethernet-poe-but-launches-as-closed-source-hardware/"
     },
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
+      "title": "Circuit Valley CHC5 – A modular USB, HDMI, and Ethernet camera system (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-09-02",
+      "product": "ESP32 Module",
+      "score": 88,
       "formats": [
-        "Short Video",
         "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Circuit Valley’s CHC5 is a modular camera system based on a Core board powered by an AMD/Xilinx Zynq-7020 SoC FPGA, a range of interface boards with USB, HDMI, or Ethernet (PoE), various sensor boards, and a metal enclosure. The solution can be customized...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Circuit Valley CHC5 – A modular USB, HDMI, and Ethernet camera system (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/02/circuit-valley-chc5-a-modular-usb-hdmi-and-ethernet-camera-system/"
+    },
+    {
+      "title": "LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-09-02",
+      "product": "ESP32 Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "The LightMake L4 is a desktop 3D printer with four independent printing heads for high-throughput multi-color, multi-material, and batch production. It uses four independently controlled printheads and linear-motor motion instead of conventional belts,...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/02/lightmake-l4-3d-printer-features-four-independent-printing-heads/"
+    },
+    {
+      "title": "Suresh Sathyamurthy joins Aeris as CMO for physical AI push",
+      "source": "IoT Now",
+      "date": "2026-09-02",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Former Microsoft, Palo Alto Networks and Dell EMC executive Suresh Sathyamurthy has joined Aeris as chief marketing officer. In his new role, Sathyamurthy will lead Aeris’ marketing, communications and go-to-market … Continued The post Suresh Sathyamurthy...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Suresh Sathyamurthy joins Aeris as CMO for physical AI push\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/02/158216-suresh-sathyamurthy-joins-aeris-as-cmo-for-physical-ai-push/"
+    },
+    {
+      "title": "Flashnet joins Netmore Pulse Partner Program to scale smart street lighting",
+      "source": "IoT Now",
+      "date": "2026-09-02",
+      "product": "LoRa Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
         "Carousel"
       ],
       "platforms": [
@@ -50,69 +126,15 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
         "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "LPWAN",
+        "Smart City"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "Collaboration combines carrier-grade LoRaWAN connectivity with smart street lighting technology to accelerate smart city transformation. The post Flashnet joins Netmore Pulse Partner Program to scale smart street lighting appeared first on IoT Now News - How...",
       "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-09-02"
+      "post": "Flashnet joins Netmore Pulse Partner Program to scale smart street lighting\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/02/158213-flashnet-joins-netmore-pulse-partner-program-smart-street-lighting/"
     },
     {
       "title": "Qualcomm introduces Dragonwing Q-2390 and IQ-2390 for consumer and industrial AIoT applications",
@@ -430,60 +452,6 @@
       "url": "https://www.cnx-software.com/2026/08/28/fanless-amd-ryzen-embedded-8840u-8640u-edge-ai-computer-supports-up-to-256gb-ddr5-so-dimm-memory/"
     },
     {
-      "title": "Microduck – A duck-like biped robot designed for physical AI experimentation and fun",
-      "source": "CNX Software",
-      "date": "2026-08-28",
-      "product": "ESP32 Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Pollen Robotics and Hugging Face have unveiled the Microduck, a 25 cm tall biped robot with 15 motors, a camera, a depth sensor, two motion sensors, and an articulated beak that can pick up objects. This follows the launch of the Reachy Mini desktop robot...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Microduck – A duck-like biped robot designed for physical AI experimentation and fun\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/"
-    },
-    {
-      "title": "Anthropic standard lets AI agents run lab and factory hardware",
-      "source": "IoT Tech News",
-      "date": "2026-08-28",
-      "product": "IoT Industry",
-      "score": 89,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Anthropic has opened a research preview of its Model Hardware Standard, letting AI agents operate lab and factory hardware. The specification, called MHS, is going first to a small group of scientific research labs and advanced manufacturers, not to the...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Anthropic standard lets AI agents run lab and factory hardware\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/anthropic-standard-ai-agents-run-lab-factory-hardware/"
-    },
-    {
       "title": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices",
       "source": "IoT Now",
       "date": "2026-08-28",
@@ -507,88 +475,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/28/158085-the-advent-of-3gpp-non-terrestrial-networks-satellite-becomes-anoption-for-cellular-devices/"
-    },
-    {
-      "title": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-08-28",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Spark Solder is a compact, USB-C-powered one-handed soldering iron with a built-in motorized solder feeder for convenient one-handed operation. It supports standard TS100 tips, delivers up to 45W of heating power, and features a 1-inch LCD for adjusting the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/"
-    },
-    {
-      "title": "Nvidia Jetson Orin Nano 2 targets factory-floor edge AI",
-      "source": "IoT Tech News",
-      "date": "2026-08-28",
-      "product": "IoT Industry",
-      "score": 83,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Nvidia has introduced the Jetson Orin Nano 2, a compact robotics computer designed to run AI workloads at the edge. The company is targeting robots, delivery and inspection drones, and vision AI systems. Smaller and more efficient AI models are allowing more...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Nvidia Jetson Orin Nano 2 targets factory-floor edge AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-jetson-orin-nano-2-factory-edge-ai/"
-    },
-    {
-      "title": "USB-C Deskradar – An ESP32-C3 ADS-B flight tracker with a 1.28-inch round display",
-      "source": "CNX Software",
-      "date": "2026-08-27",
-      "product": "Radar Sensor",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for turning current industry news into content about privacy-friendly sensing, elderly care, smart bathrooms, security, and presence detection.",
-      "summary": "The USB-C Deskradar is an ESP32-C3-based, aviation-themed ADS-B flight tracker that tracks and displays live aircraft positions around your location on a sonar-style circular grid. A 1.28-inch round display and a 3D-printed enclosure provide a real-time view...",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "USB-C Deskradar – An ESP32-C3 ADS-B flight tracker with a 1.28-inch round display\n\nThis is a useful signal for IoT brands and product teams watching Radar Sensor opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/08/27/usb-c-deskradar-an-esp32-c3-ads-b-flight-tracker-with-a-1-28-inch-round-display/"
     },
     {
       "title": "GSMA MWC26 Doha to co-locate alongside the ITU Plenipotentiary Conference in November 2026",
@@ -639,6 +525,107 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GCT Semiconductor forms partnership to advance next-generation UAV control and communications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/27/158075-gct-semiconductor-forms-partnership-to-advance-next-generation-uav-control-and-communications/"
+    },
+    {
+      "title": "Is your IoT strategy ready for APAC complexity?",
+      "source": "IoT Now",
+      "date": "2026-08-27",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "APAC is one of the world’s most exciting growth markets for cellular IoT. But scaling IoT across the region is rarely simple. Different countries, regulations, network capabilities, data-routing requirements and … Continued The post Is your IoT strategy ready...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is your IoT strategy ready for APAC complexity?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/27/157922-is-your-iot-strategy-ready-for-apac-complexity/"
+    },
+    {
+      "title": "Taoglas expands outdoor and industrial connectivity capabilities with acquisition of QuWireless",
+      "source": "IoT Now",
+      "date": "2026-08-26",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Taoglas, a trusted provider of antennas and advanced RF solutions, has announced it has completed the acquisition of Wireless Instruments Sp. z o.o. (QuWireless), a specialist in high-performance antennas and … Continued The post Taoglas expands outdoor and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Taoglas expands outdoor and industrial connectivity capabilities with acquisition of QuWireless\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/26/158061-taoglas-expands-outdoor-and-industrial-connectivity-capabilities-with-acquisition-of-quwireless/"
+    },
+    {
+      "title": "SK telink deepen partnership to accelerate NexusWave adoption in South Korea",
+      "source": "IoT Now",
+      "date": "2026-08-25",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Inmarsat Maritime, a Viasat company, and South Korean telecommunications services provider SK telink have signed an agreement to advance maritime digitalisation across the country’s shipping industry. The agreement will strengthen … Continued The post SK...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SK telink deepen partnership to accelerate NexusWave adoption in South Korea\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/25/158057-sk-telink-deepen-partnership-to-accelerate-nexuswave-adoption-in-south-korea/"
+    },
+    {
+      "title": "Connecting IoT to Edge AI: Why Connectivity Matters for Physical AI",
+      "source": "IoT Now",
+      "date": "2026-08-25",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Edge AI is moving intelligence closer to where data is generated – but without the right connectivity, physical AI systems cannot operate reliably or scale effectively. As organisations deploy AI … Continued The post Connecting IoT to Edge AI: Why...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Connecting IoT to Edge AI: Why Connectivity Matters for Physical AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/25/158047-connecting-iot-to-edge-ai-why-connectivity-matters-for-physical-ai/"
     }
   ]
 }
