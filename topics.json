@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T16:33:02.998Z",
+  "generatedAt": "2026-09-02T05:45:50.337Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -168,7 +168,7 @@
       "url": "https://iot-now.com/2026/09/01/158197-gigadevice-strengthens-emea-and-southeast-asia-market-reach-through-partnership-with-rutronik/"
     },
     {
-      "title": "Makera Z1 Desktop CNC Review – Smart milling, 4-axis module, and 5W laser engraving",
+      "title": "Makera Z1 Desktop CNC Review – Smart milling, 4-th axis module, and 5W laser engraving",
       "source": "CNX Software",
       "date": "2026-09-01",
       "product": "BLE Module",
@@ -189,7 +189,7 @@
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
       "summary": "The Makera Z1 Desktop CNC is a desktop CNC machine designed for milling and engraving work that requires precision. The fully enclosed machine features an aluminum structure, offers a 200 × 200 × 100 mm work volume, and is suitable for wood, plastic, acrylic,...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Makera Z1 Desktop CNC Review – Smart milling, 4-axis module, and 5W laser engraving\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "post": "Makera Z1 Desktop CNC Review – Smart milling, 4-th axis module, and 5W laser engraving\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/01/makera-z1-desktop-cnc-review-smart-milling-4-axis-module-and-5w-laser-engraving/"
     },
     {
@@ -455,6 +455,35 @@
       "url": "https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/"
     },
     {
+      "title": "Anthropic standard lets AI agents run lab and factory hardware",
+      "source": "IoT Tech News",
+      "date": "2026-08-28",
+      "product": "IoT Industry",
+      "score": 89,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Anthropic has opened a research preview of its Model Hardware Standard, letting AI agents operate lab and factory hardware. The specification, called MHS, is going first to a small group of scientific research labs and advanced manufacturers, not to the...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Anthropic standard lets AI agents run lab and factory hardware\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/anthropic-standard-ai-agents-run-lab-factory-hardware/"
+    },
+    {
       "title": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices",
       "source": "IoT Now",
       "date": "2026-08-28",
@@ -504,6 +533,34 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/"
+    },
+    {
+      "title": "Nvidia Jetson Orin Nano 2 targets factory-floor edge AI",
+      "source": "IoT Tech News",
+      "date": "2026-08-28",
+      "product": "IoT Industry",
+      "score": 83,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Nvidia has introduced the Jetson Orin Nano 2, a compact robotics computer designed to run AI workloads at the edge. The company is targeting robots, delivery and inspection drones, and vision AI systems. Smaller and more efficient AI models are allowing more...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Nvidia Jetson Orin Nano 2 targets factory-floor edge AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-jetson-orin-nano-2-factory-edge-ai/"
     },
     {
       "title": "USB-C Deskradar – An ESP32-C3 ADS-B flight tracker with a 1.28-inch round display",
@@ -582,56 +639,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GCT Semiconductor forms partnership to advance next-generation UAV control and communications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/08/27/158075-gct-semiconductor-forms-partnership-to-advance-next-generation-uav-control-and-communications/"
-    },
-    {
-      "title": "Is your IoT strategy ready for APAC complexity?",
-      "source": "IoT Now",
-      "date": "2026-08-27",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "APAC is one of the world’s most exciting growth markets for cellular IoT. But scaling IoT across the region is rarely simple. Different countries, regulations, network capabilities, data-routing requirements and … Continued The post Is your IoT strategy ready...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Is your IoT strategy ready for APAC complexity?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/27/157922-is-your-iot-strategy-ready-for-apac-complexity/"
-    },
-    {
-      "title": "Taoglas expands outdoor and industrial connectivity capabilities with acquisition of QuWireless",
-      "source": "IoT Now",
-      "date": "2026-08-26",
-      "product": "BLE Module",
-      "score": 91,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Taoglas, a trusted provider of antennas and advanced RF solutions, has announced it has completed the acquisition of Wireless Instruments Sp. z o.o. (QuWireless), a specialist in high-performance antennas and … Continued The post Taoglas expands outdoor and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Taoglas expands outdoor and industrial connectivity capabilities with acquisition of QuWireless\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/26/158061-taoglas-expands-outdoor-and-industrial-connectivity-capabilities-with-acquisition-of-quwireless/"
     }
   ]
 }
