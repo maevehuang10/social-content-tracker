@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:16:15.700Z",
+  "generatedAt": "2026-09-05T05:40:58.704Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -452,32 +452,6 @@
       "url": "https://www.cnx-software.com/2026/09/02/circuit-valley-chc5-a-modular-usb-hdmi-and-ethernet-camera-system/"
     },
     {
-      "title": "CSA opens certification for Zigbee sub-GHz extension Suzi",
-      "source": "IoT Tech News",
-      "date": "2026-09-02",
-      "product": "IoT Industry",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "The Connectivity Standards Alliance (CSA) has opened its Product Certification Program for Suzi, Zigbee’s new sub-GHz extension. The programme follows the Alliance’s earlier rollout of Zigbee 4.0 and gives device makers a formal route to certify sub-GHz...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "CSA opens certification for Zigbee sub-GHz extension Suzi\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/csa-opens-certification-for-zigbee-sub-ghz-extension-suzi/"
-    },
-    {
       "title": "LightMake L4 3D printer features four independent heads for simultaneous or multi-color printing (Crowdfunding)",
       "source": "CNX Software",
       "date": "2026-09-02",
@@ -633,6 +607,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Makera Z1 Desktop CNC Review – Smart milling, 4-th axis module, and 5W laser engraving\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/01/makera-z1-desktop-cnc-review-smart-milling-4-axis-module-and-5w-laser-engraving/"
+    },
+    {
+      "title": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers",
+      "source": "IoT Now",
+      "date": "2026-08-31",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Physical AI is moving out of pilots and into production and almost all of the architectural attention is going to the edge compute. The connectivity between those two things is … Continued The post Connecting IoT devices to edge AI infrastructure: the role of...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/08/31/158132-connecting-iot-devices-to-edge-ai-infrastructure-the-role-of-global-iot-connectivity-providers/"
     }
   ]
 }
