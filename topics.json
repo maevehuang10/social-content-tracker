@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:54:55.930Z",
+  "generatedAt": "2026-09-08T11:11:41.787Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,59 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/"
+    },
+    {
+      "title": "USI launches edge AI camera for factory-floor inspection",
+      "source": "IoT Tech News",
+      "date": "2026-09-08",
+      "product": "IoT Industry",
+      "score": 81,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Electronics manufacturer USI has launched an AI Smart Camera designed to run computer vision workloads directly on the factory floor. The system combines high-resolution imaging, a low-power edge computing platform, and AI vision software, allowing image...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "USI launches edge AI camera for factory-floor inspection\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/usi-edge-ai-camera-factory-inspection/"
+    },
+    {
+      "title": "Dyna.Ai and GAPP partner to power Saudi Arabia’s digital infrastructure and next-gen AI workforce",
+      "source": "IoT Now",
+      "date": "2026-09-08",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The partnership will bring Dyna.Ai’s agentic AI platform into the enterprise IT environments GAPP supports across Saudi Arabia. The post Dyna.Ai and GAPP partner to power Saudi Arabia’s digital infrastructure and next-gen AI workforce appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Dyna.Ai and GAPP partner to power Saudi Arabia’s digital infrastructure and next-gen AI workforce\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/08/158280-dynaai-gapp-partner-saudi-arabia-digital-infrastructure-ai-workforce/"
     },
     {
       "title": "XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
@@ -291,6 +344,31 @@
       "url": "https://iot-now.com/2026/09/04/158122-podcast-how-satellite-connectivity-is-bringing-global-iot-into-the-mainstream/"
     },
     {
+      "title": "Netmore adds Kinéis satellite connectivity to LPWAN network",
+      "source": "IoT Tech News",
+      "date": "2026-09-04",
+      "product": "LoRa Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "Netmore Group has added Kinéis satellite connectivity to its LPWAN network to support hybrid terrestrial and orbital IoT operations. The integration provides single-platform management for customers across the utilities, water, infrastructure, and smart city...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "Netmore adds Kinéis satellite connectivity to LPWAN network\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/netmore-adds-kineis-satellite-connectivity-lpwan-network/"
+    },
+    {
       "title": "TickrCast – An ESP32-S3 HUB75 LED ticker display with server-side rendering and OTA (Crowdfunding)",
       "source": "CNX Software",
       "date": "2026-09-03",
@@ -445,6 +523,32 @@
       "url": "https://www.cnx-software.com/2026/09/03/artery-at32f406-and-at32f408-cortex-m4f-mcus-feature-optional-high-speed-usb-otg-phy/"
     },
     {
+      "title": "CSA opens certification for Zigbee sub-GHz extension Suzi",
+      "source": "IoT Tech News",
+      "date": "2026-09-02",
+      "product": "IoT Industry",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "The Connectivity Standards Alliance (CSA) has opened its Product Certification Program for Suzi, Zigbee’s new sub-GHz extension. The programme follows the Alliance’s earlier rollout of Zigbee 4.0 and gives device makers a formal route to certify sub-GHz...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "CSA opens certification for Zigbee sub-GHz extension Suzi\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/csa-opens-certification-for-zigbee-sub-ghz-extension-suzi/"
+    },
+    {
       "title": "Suresh Sathyamurthy joins Aeris as CMO for physical AI push",
       "source": "IoT Now",
       "date": "2026-09-02",
@@ -522,106 +626,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GigaDevice strengthens EMEA and Southeast Asia market reach through partnership with Rutronik\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/01/158197-gigadevice-strengthens-emea-and-southeast-asia-market-reach-through-partnership-with-rutronik/"
-    },
-    {
-      "title": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers",
-      "source": "IoT Now",
-      "date": "2026-08-31",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Physical AI is moving out of pilots and into production and almost all of the architectural attention is going to the edge compute. The connectivity between those two things is … Continued The post Connecting IoT devices to edge AI infrastructure: the role of...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/31/158132-connecting-iot-devices-to-edge-ai-infrastructure-the-role-of-global-iot-connectivity-providers/"
-    },
-    {
-      "title": "West Sussex advances smart livestock monitoring with Pneumonitor and Boldyn Networks’ private 5G",
-      "source": "IoT Now",
-      "date": "2026-08-31",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "West Sussex County Council is leading the way in smart livestock monitoring. Through the public sector-led Growing Sussex programme, it is partnering with Boldyn Networks and agritech specialist Pneumonitor, to connect Pneumonitor’s in-pen environmental …...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "West Sussex advances smart livestock monitoring with Pneumonitor and Boldyn Networks’ private 5G\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/31/158136-west-sussex-advances-smart-livestock-monitoring-with-pneumonitor-and-boldyn-networks-private-5g/"
-    },
-    {
-      "title": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices",
-      "source": "IoT Now",
-      "date": "2026-08-28",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "IoT deployments are moving further beyond the reach of traditional networks. As connected devices expand into remote, mobile and geographically dispersed environments, satellite connectivity is becoming an increasingly important complement … Continued The...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "The advent of 3GPP Non-Terrestrial Networks: satellite becomes anoption for cellular devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/28/158085-the-advent-of-3gpp-non-terrestrial-networks-satellite-becomes-anoption-for-cellular-devices/"
-    },
-    {
-      "title": "Is your IoT strategy ready for APAC complexity?",
-      "source": "IoT Now",
-      "date": "2026-08-27",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "APAC is one of the world’s most exciting growth markets for cellular IoT. But scaling IoT across the region is rarely simple. Different countries, regulations, network capabilities, data-routing requirements and … Continued The post Is your IoT strategy ready...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Is your IoT strategy ready for APAC complexity?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/27/157922-is-your-iot-strategy-ready-for-apac-complexity/"
     }
   ]
 }
