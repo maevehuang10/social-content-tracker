@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T05:56:30.891Z",
+  "generatedAt": "2026-09-09T11:16:11.377Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
+      "source": "CNX Software",
+      "date": "2026-09-09",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Waveshare ESP32-C5 Pico board brings the ESP32-C5 dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) SoC to the Raspberry Pi Pico form factor. The board features an ESP32-C5-MINI-1 Series module with PCB or external antenna, two 20-pin GPIO headers,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/"
+    },
     {
       "title": "FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0",
       "source": "CNX Software",
@@ -35,6 +64,31 @@
       "hook": "Some IoT projects need years of battery life, not more bandwidth.",
       "post": "FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/"
+    },
+    {
+      "title": "Telit Cinterion introduces edge AI SDK to run machine learning models on selected 4G and 5G cellular modules",
+      "source": "IoT Now",
+      "date": "2026-09-09",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The SDK embeds the LiteRT runtime in the modules’ firmware, which runs AI inference on their application cores. The post Telit Cinterion introduces edge AI SDK to run machine learning models on selected 4G and 5G cellular modules appeared first on IoT Now...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Telit Cinterion introduces edge AI SDK to run machine learning models on selected 4G and 5G cellular modules\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/09/158299-telit-cinterion-edge-ai-sdk-machine-learning-4g-5g-cellular-modules/"
     },
     {
       "title": "Arm CSS for Mobile 2 “AI-Native” platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU",
@@ -523,31 +577,6 @@
       "url": "https://iot-now.com/2026/09/03/158253-iot-sparks-2026-opens-the-registrations-to-the-workshops-and-launches-a-flash-sale-for-premiere-international-iot-and-ai-event/"
     },
     {
-      "title": "Artery AT32F406 and AT32F408 Cortex-M4F MCUs feature optional high-speed USB OTG PHY",
-      "source": "CNX Software",
-      "date": "2026-09-03",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Artery Technology AT32F406 and AT32F408 are two new Arm Cortex-M4F MCUs running at up to 216 MHz, with the F408 adding USB OTG High-Speed and an integrated PHY for industrial automation, IoT, USB accessories, and gaming peripherals. The AT32F406/F408 series...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Artery AT32F406 and AT32F408 Cortex-M4F MCUs feature optional high-speed USB OTG PHY\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/03/artery-at32f406-and-at32f408-cortex-m4f-mcus-feature-optional-high-speed-usb-otg-phy/"
-    },
-    {
       "title": "CSA opens certification for Zigbee sub-GHz extension Suzi",
       "source": "IoT Tech News",
       "date": "2026-09-02",
@@ -597,35 +626,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Suresh Sathyamurthy joins Aeris as CMO for physical AI push\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/02/158216-suresh-sathyamurthy-joins-aeris-as-cmo-for-physical-ai-push/"
-    },
-    {
-      "title": "Flashnet joins Netmore Pulse Partner Program to scale smart street lighting",
-      "source": "IoT Now",
-      "date": "2026-09-02",
-      "product": "LoRa Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "Collaboration combines carrier-grade LoRaWAN connectivity with smart street lighting technology to accelerate smart city transformation. The post Flashnet joins Netmore Pulse Partner Program to scale smart street lighting appeared first on IoT Now News - How...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "Flashnet joins Netmore Pulse Partner Program to scale smart street lighting\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/02/158213-flashnet-joins-netmore-pulse-partner-program-smart-street-lighting/"
     }
   ]
 }
