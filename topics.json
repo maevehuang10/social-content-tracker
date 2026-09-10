@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:55:26.375Z",
+  "generatedAt": "2026-09-10T11:12:39.142Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -57,6 +57,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "LattePanda Mu Ultra Compute Module features Intel Core Ultra 5 226V/7 256V Lunar Lake CPU for AI workloads\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/10/lattepanda-mu-ultra-compute-module-features-intel-core-ultra-5-226v-7-256v-lunar-lake-cpu-for-ai-workloads/"
+    },
+    {
+      "title": "GITEX Ai Türkiye debuts in Istanbul, spotlighting the nation’s path towards becoming a global AI epicentre",
+      "source": "IoT Now",
+      "date": "2026-09-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Tech leaders, investors, entrepreneurs and policymakers converge as opening day centres attention on the innovation and cross-border collaboration powering Türkiye’s digital economy. The post GITEX Ai Türkiye debuts in Istanbul, spotlighting the nation’s path...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GITEX Ai Türkiye debuts in Istanbul, spotlighting the nation’s path towards becoming a global AI epicentre\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/10/158333-gitex-ai-turkiye-debuts-istanbul-ai-action-plan/"
     },
     {
       "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
@@ -602,31 +627,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GigaDevice strengthens EMEA and Southeast Asia market reach through partnership with Rutronik\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/01/158197-gigadevice-strengthens-emea-and-southeast-asia-market-reach-through-partnership-with-rutronik/"
-    },
-    {
-      "title": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers",
-      "source": "IoT Now",
-      "date": "2026-08-31",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Physical AI is moving out of pilots and into production and almost all of the architectural attention is going to the edge compute. The connectivity between those two things is … Continued The post Connecting IoT devices to edge AI infrastructure: the role of...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Connecting IoT devices to edge AI infrastructure: the role of global IoT connectivity providers\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/08/31/158132-connecting-iot-devices-to-edge-ai-infrastructure-the-role-of-global-iot-connectivity-providers/"
     }
   ]
 }
