@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:54:49.437Z",
+  "generatedAt": "2026-09-11T11:13:57.051Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -57,6 +57,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Arduino UNO Media Carrier adds MIPI CSI/DSI and audio connectors to UNO Q and VENTUNO Q boards\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/10/arduino-uno-media-carrier-adds-mipi-csi-dsi-and-audio-connectors-to-uno-q-and-ventuno-q-boards/"
+    },
+    {
+      "title": "Telit Cinterion details edge AI SDK for cellular modules",
+      "source": "IoT Tech News",
+      "date": "2026-09-10",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Telit Cinterion has revealed an edge AI SDK alongside planned AI-enabled cellular module variants designed to run machine learning on-device. The SDK runs machine learning models directly on the cellular module’s internal hardware. By executing workloads...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Telit Cinterion details edge AI SDK for cellular modules\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/telit-cinterion-details-edge-ai-sdk-for-cellular-modules/"
     },
     {
       "title": "LattePanda Mu Ultra Compute Module features Intel Core Ultra 5 226V/7 256V Lunar Lake CPU for AI workloads",
@@ -293,7 +318,35 @@
       "url": "https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/"
     },
     {
-      "title": "Two days left: The 2026 IoT Global Awards programme closes for entries this Friday",
+      "title": "USI launches edge AI camera for factory-floor inspection",
+      "source": "IoT Tech News",
+      "date": "2026-09-08",
+      "product": "IoT Industry",
+      "score": 81,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Electronics manufacturer USI has launched an AI Smart Camera designed to run computer vision workloads directly on the factory floor. The system combines high-resolution imaging, a low-power edge computing platform, and AI vision software, allowing image...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "USI launches edge AI camera for factory-floor inspection\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/usi-edge-ai-camera-factory-inspection/"
+    },
+    {
+      "title": "One day left: The 2026 IoT Global Awards programme closes for entries today",
       "source": "IoT Now",
       "date": "2026-09-08",
       "product": "BLE Module",
@@ -312,9 +365,9 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The IoT Global Awards will stop accepting entries for this year’s programme, at 17:00 CET on Friday 11th September. Entries are to be submitted via the official IoT Global Awards … Continued The post Two days left: The 2026 IoT Global Awards programme closes...",
+      "summary": "The IoT Global Awards will stop accepting entries for this year’s programme, at 17:00 CET on Friday 11th September. Entries are to be submitted via the official IoT Global Awards … Continued The post One day left: The 2026 IoT Global Awards programme closes...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Two days left: The 2026 IoT Global Awards programme closes for entries this Friday\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "post": "One day left: The 2026 IoT Global Awards programme closes for entries today\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/08/158292-four-days-left-the-2026-iot-global-awards-programme-closes-for-entries-this-friday/"
     },
     {
@@ -548,11 +601,11 @@
       "url": "https://iot-now.com/2026/09/04/158122-podcast-how-satellite-connectivity-is-bringing-global-iot-into-the-mainstream/"
     },
     {
-      "title": "Fibocom launches RU311 5G RedCap module series for streamlined 5G upgrades in mid-tier IoT",
-      "source": "IoT Now",
-      "date": "2026-09-03",
-      "product": "BLE Module",
-      "score": 94,
+      "title": "Netmore adds Kinéis satellite connectivity to LPWAN network",
+      "source": "IoT Tech News",
+      "date": "2026-09-04",
+      "product": "LoRa Module",
+      "score": 80,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -562,65 +615,15 @@
         "Facebook"
       ],
       "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
+        "LoRa",
+        "LPWAN",
+        "Smart City"
       ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The RU311 series gives mid-tier IoT devices a dual-mode 5G RedCap and LTE Cat.4 upgrade path in LGA, M.2 and Mini PCIe form factors. The post Fibocom launches RU311 5G RedCap module series for streamlined 5G upgrades in mid-tier IoT appeared first on IoT Now...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Fibocom launches RU311 5G RedCap module series for streamlined 5G upgrades in mid-tier IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/03/158234-fibocom-launches-ru311-5g-redcap-module-series-mid-tier-iot/"
-    },
-    {
-      "title": "IoT in Transition: Navigating a Rapidly Evolving Global Regulatory and Connectivity Landscape",
-      "source": "IoT Now",
-      "date": "2026-09-03",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "IoT is entering a new phase, and the stakes are getting higher. As connected devices become more central to business operations, organisations are facing new pressure around cybersecurity, software updates, … Continued The post IoT in Transition: Navigating a...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT in Transition: Navigating a Rapidly Evolving Global Regulatory and Connectivity Landscape\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/03/158106-iot-in-transition-navigating-a-rapidly-evolving-global-regulatory-and-connectivity-landscape/"
-    },
-    {
-      "title": "IoT Sparks 2026 opens the registrations to the workshops and launches a flash sale for premiere international IoT and AI event",
-      "source": "IoT Now",
-      "date": "2026-09-03",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Registrations are officially open for the hands-on workshop track at IoT Sparks 2026, the global conference driving practical Internet of Things and Artificial Intelligence adoption. Taking place on October 6, … Continued The post IoT Sparks 2026 opens the...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT Sparks 2026 opens the registrations to the workshops and launches a flash sale for premiere international IoT and AI event\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/03/158253-iot-sparks-2026-opens-the-registrations-to-the-workshops-and-launches-a-flash-sale-for-premiere-international-iot-and-ai-event/"
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "Netmore Group has added Kinéis satellite connectivity to its LPWAN network to support hybrid terrestrial and orbital IoT operations. The integration provides single-platform management for customers across the utilities, water, infrastructure, and smart city...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "Netmore adds Kinéis satellite connectivity to LPWAN network\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/netmore-adds-kineis-satellite-connectivity-lpwan-network/"
     }
   ]
 }
