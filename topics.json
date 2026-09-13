@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T15:27:33.098Z",
+  "generatedAt": "2026-09-13T06:04:48.676Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,34 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "M5Stack Module13.2 LoRa-1262 expansion board integrates 14×10 mm Stamp LoRa-1262 module",
+      "source": "CNX Software",
+      "date": "2026-09-13",
+      "product": "LoRa Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "After launching the SX1262-based M5Stamp C6LoRa tiny module, M5Stack has launched two SX1262-based LoRa add-ons for the 868–923 MHz band: the tiny Stamp LoRa-1262 SMD module for custom PCBs, and the stackable Module13.2 LoRa-1262 module for the M5Stack Core...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "M5Stack Module13.2 LoRa-1262 expansion board integrates 14×10 mm Stamp LoRa-1262 module\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/"
+    },
     {
       "title": "NeoEyes NE302 – A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU",
       "source": "CNX Software",
@@ -569,31 +597,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Kinéis and Netmore partner on hybrid satellite and terrestrial IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/07/158275-kineis-netmore-partner-hybrid-satellite-terrestrial-iot-connectivity/"
-    },
-    {
-      "title": "ACEMAGIC Kron Mini K5 Review – Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro",
-      "source": "CNX Software",
-      "date": "2026-09-06",
-      "product": "WiFi Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "After checking out the hardware of the ACEMAGIC Kron Mini K5 with an unboxing and a teardown in the first part of the review, we’ve now had time to test the Intel Core 3 304 Wildcat Lake mini PC in more depth with Windows 11 Pro. So in this article, we’ll...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "ACEMAGIC Kron Mini K5 Review – Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/06/acemagic-kron-mini-k5-review-part-2-a-400-intel-core-3-304-wildcat-lake-mini-pc-tested-with-windows-11-pro/"
     },
     {
       "title": "Podcast: How satellite connectivity is bringing global IoT into the mainstream",
