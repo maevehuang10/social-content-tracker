@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T06:05:49.062Z",
+  "generatedAt": "2026-09-17T11:35:05.441Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer",
+      "source": "CNX Software",
+      "date": "2026-09-17",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "BE-IIS (Brechel Electronic-Industrial Interface Systems) has released a dual GMSL2 Camera HAT for Raspberry Pi 5. The board is based on the MAX96716A GMSL2 deserializer and connects two remote GMSL2 cameras through the Pi’s CSI-2 interfaces. The solution has...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/17/raspberry-pi-5-gets-dual-gmsl2-camera-hat-based-on-max96716a-deserializer/"
+    },
     {
       "title": "ENILINX TICKEY – An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding)",
       "source": "CNX Software",
@@ -35,6 +60,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "ENILINX TICKEY – An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/"
+    },
+    {
+      "title": "Onomondo launches its own SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining cellular IoT",
+      "source": "IoT Now",
+      "date": "2026-09-17",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Onomondo’s new eSIM IoT Remote Manager is designed to make cellular IoT connectivity providers interchangeable in practice, not merely interoperable in theory. The post Onomondo launches its own SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Onomondo launches its own SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining cellular IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/17/158452-onomondo-sgp-32-esim-iot-remote-manager-eim/"
+    },
+    {
+      "title": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1",
+      "source": "IoT Tech News",
+      "date": "2026-09-17",
+      "product": "IoT Industry",
+      "score": 78,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Edge AI agents face rigorous MLPerf testing across multi-turn trajectories, where NVIDIA Jetson Thor hardware cut execution runtime 6.4x against reference software configurations. MLPerf Inference v6.1 from MLCommons added an Edge Agentic Inference workload...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-jetson-thor-speeds-edge-agentic-inference-mlperf-v6-1/"
     },
     {
       "title": "AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more",
@@ -114,6 +189,34 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT in transition: Device security has officially become a governance problem\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/16/158416-eu-cyber-resilience-act-iot-device-security-governance/"
+    },
+    {
+      "title": "Ambarella and ZEDEDA bring cloud orchestration to edge AI silicon",
+      "source": "IoT Tech News",
+      "date": "2026-09-16",
+      "product": "IoT Industry",
+      "score": 89,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Distributed camera networks and autonomous robotics running on Ambarella edge AI silicon can now tap ZEDEDA cloud orchestration, easing remote model updates across factory floors and transport fleets. Announced through a partnership between the two suppliers,...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Ambarella and ZEDEDA bring cloud orchestration to edge AI silicon\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/ambarella-zededa-cloud-orchestration-to-edge-ai-silicon/"
     },
     {
       "title": "OpenMANET – A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow",
@@ -267,6 +370,34 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "Design in KiCad, Quote with AIVON: A Faster Path to PCB Prototyping (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/15/design-in-kicad-quote-with-aivon-a-faster-path-to-pcb-prototyping/"
+    },
+    {
+      "title": "LG brings factory AI closer to production data with EXAONE",
+      "source": "IoT Tech News",
+      "date": "2026-09-15",
+      "product": "IoT Industry",
+      "score": 75,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "LG AI Research has introduced two AI foundation models designed for manufacturing, including production-data analysis and automated visual inspection. The models, EXAONE Tabular and EXAONE Omni-Inspect, were presented at LG AI Talk Concert 2026 in Seoul. LG...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "LG brings factory AI closer to production data with EXAONE\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/lg-factory-ai-exaone-production-data/"
     },
     {
       "title": "JetKVM Mini – A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity",
@@ -423,31 +554,6 @@
       "url": "https://www.cnx-software.com/2026/09/12/neoeyes-ne302-a-tiny-usb-c-powered-wifi-6-edge-ai-vision-camera-based-on-stm32n6-mcu/"
     },
     {
-      "title": "Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications",
-      "source": "CNX Software",
-      "date": "2026-09-11",
-      "product": "ESP32 Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Amlogic has unveiled the A123X quad-core and C305X2 dual-core Arm Cortex-A320 SoCs for industrial and battery-powered Edge AI and IoT applications such as robots, dashcams, IP cameras, video conferencing equipment, and so on. The Arm Cortex-A320 low-power...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/"
-    },
-    {
       "title": "Renesas RZ/G3L & RZ/G3SE – Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications",
       "source": "CNX Software",
       "date": "2026-09-11",
@@ -473,11 +579,36 @@
       "url": "https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/"
     },
     {
-      "title": "Solve Networks brings global eSIM connectivity to enterprise IoT deployments",
-      "source": "IoT Now",
+      "title": "Skild trains S1 robot physical AI model on NVIDIA infrastructure",
+      "source": "IoT Tech News",
+      "date": "2026-09-11",
+      "product": "IoT Industry",
+      "score": 81,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Skild AI has launched its S1 robot foundation model on NVIDIA infrastructure, training robotics systems using single video demonstrations. The system uses video inputs to execute long-horizon, previously unseen tasks through in-context learning, operating...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "Skild trains S1 robot physical AI model on NVIDIA infrastructure\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/skild-trains-s1-robot-physical-ai-model-on-nvidia-infrastructure/"
+    },
+    {
+      "title": "Telit Cinterion details edge AI SDK for cellular modules",
+      "source": "IoT Tech News",
       "date": "2026-09-10",
       "product": "BLE Module",
-      "score": 88,
+      "score": 94,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -492,136 +623,10 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The offering gives enterprises with distributed, cross-border device fleets one connectivity profile across more than 200 countries and territories. The post Solve Networks brings global eSIM connectivity to enterprise IoT deployments appeared first on IoT...",
+      "summary": "Telit Cinterion has revealed an edge AI SDK alongside planned AI-enabled cellular module variants designed to run machine learning on-device. The SDK runs machine learning models directly on the cellular module’s internal hardware. By executing workloads...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Solve Networks brings global eSIM connectivity to enterprise IoT deployments\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/10/158338-solve-networks-global-esim-connectivity-enterprise-iot/"
-    },
-    {
-      "title": "Siemens Transform puts urgent focus on real-world AI and automation adoption",
-      "source": "IoT Now",
-      "date": "2026-09-10",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Advanced Engineering returns to NEC Birmingham on 4–5 November 2026 with a dedicated AI, Digitalisation and Automation track. The post Siemens Transform puts urgent focus on real-world AI and automation adoption appeared first on IoT Now News - How to run an...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Siemens Transform puts urgent focus on real-world AI and automation adoption\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/10/158345-advanced-engineering-2026-ai-digitalisation-automation-track/"
-    },
-    {
-      "title": "Podcast: From Mars to machines: How connectivity powers physical AI in Smart Mobility",
-      "source": "IoT Now",
-      "date": "2026-09-10",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Back by popular demand, Trending Tech returns for 2026 with a brand-new episode on one of the year’s hottest topics: physical AI in smart mobility. Explore how physical AI is … Continued The post Podcast: From Mars to machines: How connectivity powers...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Podcast: From Mars to machines: How connectivity powers physical AI in Smart Mobility\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/10/157746-podcast-from-mars-to-machines-how-connectivity-powers-physical-ai-in-smart-mobility/"
-    },
-    {
-      "title": "GITEX Ai Türkiye debuts in Istanbul, spotlighting the nation’s path towards becoming a global AI epicentre",
-      "source": "IoT Now",
-      "date": "2026-09-10",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Tech leaders, investors, entrepreneurs and policymakers converge as opening day centres attention on the innovation and cross-border collaboration powering Türkiye’s digital economy. The post GITEX Ai Türkiye debuts in Istanbul, spotlighting the nation’s path...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "GITEX Ai Türkiye debuts in Istanbul, spotlighting the nation’s path towards becoming a global AI epicentre\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/10/158333-gitex-ai-turkiye-debuts-istanbul-ai-action-plan/"
-    },
-    {
-      "title": "Telit Cinterion introduces edge AI SDK to run machine learning models on selected 4G and 5G cellular modules",
-      "source": "IoT Now",
-      "date": "2026-09-09",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The SDK embeds the LiteRT runtime in the modules’ firmware, which runs AI inference on their application cores. The post Telit Cinterion introduces edge AI SDK to run machine learning models on selected 4G and 5G cellular modules appeared first on IoT Now...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Telit Cinterion introduces edge AI SDK to run machine learning models on selected 4G and 5G cellular modules\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/09/158299-telit-cinterion-edge-ai-sdk-machine-learning-4g-5g-cellular-modules/"
-    },
-    {
-      "title": "Entries for the 2026 IoT Global Awards programme have closed",
-      "source": "IoT Now",
-      "date": "2026-09-08",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The IoT Global Awards will stop accepting entries for this year’s programme, at 17:00 CET on Friday 11th September. Entries are to be submitted via the official IoT Global Awards … Continued The post Entries for the 2026 IoT Global Awards programme have...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Entries for the 2026 IoT Global Awards programme have closed\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/08/158292-four-days-left-the-2026-iot-global-awards-programme-closes-for-entries-this-friday/"
+      "post": "Telit Cinterion details edge AI SDK for cellular modules\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/telit-cinterion-details-edge-ai-sdk-for-cellular-modules/"
     }
   ]
 }
