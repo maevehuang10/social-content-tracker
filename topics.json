@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T15:58:37.891Z",
+  "generatedAt": "2026-09-21T06:15:21.202Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up",
+      "source": "CNX Software",
+      "date": "2026-09-21",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Back in November 2025, we wrote about the Brainchip AKD1500 PCIe/SPI Edge AI co-processor designed for low-power systems and delivering up to 800 GOPS at just 300 mW. In recent months, the company has launched several hardware platforms based on the ADK1500....",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/21/brainchip-akd1500-m-2-and-pcie-edge-ai-cards-brainboard-1500-spi-module/"
+    },
     {
       "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
       "source": "CNX Software",
@@ -507,31 +532,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Space42 and Viasat sign binding agreement to co-found Equatys\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/15/158411-space42-viasat-equatys-direct-to-device-satellite-connectivity/"
-    },
-    {
-      "title": "Design in KiCad, Quote with AIVON: A Faster Path to PCB Prototyping (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-09-15",
-      "product": "ESP32 Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Finished your PCB layout in KiCad? You don’t necessarily need to leave the PCB Editor, export a separate set of manufacturing files, and manually upload them to a PCB manufacturer. AIVON’s KiCad Plugin creates a direct path from your PCB design to an online...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Design in KiCad, Quote with AIVON: A Faster Path to PCB Prototyping (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/15/design-in-kicad-quote-with-aivon-a-faster-path-to-pcb-prototyping/"
     },
     {
       "title": "LG brings factory AI closer to production data with EXAONE",
