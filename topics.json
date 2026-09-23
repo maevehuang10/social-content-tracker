@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:28:17.791Z",
+  "generatedAt": "2026-09-23T16:49:03.263Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-09-24"
+    },
     {
       "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
       "source": "CNX Software",
@@ -58,30 +165,57 @@
       "url": "https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/"
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 brings agentic workflows to physical AI",
-      "source": "IoT Tech News",
+      "title": "Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch Wi-Fi onboarding for IoT and edge devices",
+      "source": "IoT Now",
       "date": "2026-09-23",
-      "product": "IoT Industry",
-      "score": 81,
+      "product": "BLE Module",
+      "score": 93,
       "formats": [
         "LinkedIn Post",
         "Sales Material",
-        "Carousel"
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Trial demonstrates factory-provisioned devices can connect automatically to OpenRoaming® and begin secure FIDO Device Onboard ownership transfer, cutting deployment costs. The post Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch Wi-Fi onboarding for IoT and edge devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/23/158511-wba-fido-alliance-zero-touch-wifi-onboarding-iot-edge-devices/"
+    },
+    {
+      "title": "IoT Now Magazine Q3 2026",
+      "source": "IoT Now",
+      "date": "2026-09-23",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
         "Facebook"
       ],
       "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Teams running NVIDIA Isaac ROS 5.0 can deploy agentic robotics workflows to build physical AI systems across standard industrial platforms. Announced at the ROSCon gathering in Toronto, the open-source software collection connects autonomous AI agents...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA Isaac ROS 5.0 brings agentic workflows to physical AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-isaac-ros-5-0-agentic-workflows-to-physical-ai/"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Where your IoT data is processed shapes your latency, cost and compliance. Increasingly, it also decides whether physical AI works once it leaves the lab. The latest issue of IoT … Continued The post IoT Now Magazine Q3 2026 appeared first on IoT Now News -...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now Magazine Q3 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/23/158514-iot-now-magazine-q3-2026/"
     },
     {
       "title": "Gearotons M17 – A low-cost NEMA-17 4-in-1 servomotor with driver, motion controller, and encoder",
@@ -352,34 +486,6 @@
       "url": "https://www.cnx-software.com/2026/09/18/wlv-01-hackable-diy-digital-camera-features-raspberry-pi-5-interchangeable-sensors/"
     },
     {
-      "title": "QNX and Sift link industrial edge telemetry directly to SQL",
-      "source": "IoT Tech News",
-      "date": "2026-09-18",
-      "product": "ESP32 Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "QNX and Sift are bringing sub-second telemetry queries to industrial edge hardware, streaming live data from embedded factory machinery. The integration targets mission-focused machinery operating on factory floors, robotics cells, and medical environments....",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "QNX and Sift link industrial edge telemetry directly to SQL\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/qnx-and-sift-link-industrial-edge-telemetry-to-sql/"
-    },
-    {
       "title": "ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor",
       "source": "CNX Software",
       "date": "2026-09-18",
@@ -455,31 +561,6 @@
       "url": "https://iot-now.com/2026/09/17/158452-onomondo-sgp-32-esim-iot-remote-manager-eim/"
     },
     {
-      "title": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1",
-      "source": "IoT Tech News",
-      "date": "2026-09-17",
-      "product": "IoT Industry",
-      "score": 78,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Edge AI agents face rigorous MLPerf testing across multi-turn trajectories, where NVIDIA Jetson Thor hardware cut execution runtime 6.4x against reference software configurations. MLPerf Inference v6.1 from MLCommons added an Edge Agentic Inference workload...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-jetson-thor-speeds-edge-agentic-inference-mlperf-v6-1/"
-    },
-    {
       "title": "IoT in transition: Device security has officially become a governance problem",
       "source": "IoT Now",
       "date": "2026-09-16",
@@ -503,34 +584,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT in transition: Device security has officially become a governance problem\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/16/158416-eu-cyber-resilience-act-iot-device-security-governance/"
-    },
-    {
-      "title": "Ambarella and ZEDEDA bring cloud orchestration to edge AI silicon",
-      "source": "IoT Tech News",
-      "date": "2026-09-16",
-      "product": "IoT Industry",
-      "score": 89,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Distributed camera networks and autonomous robotics running on Ambarella edge AI silicon can now tap ZEDEDA cloud orchestration, easing remote model updates across factory floors and transport fleets. Announced through a partnership between the two suppliers,...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Ambarella and ZEDEDA bring cloud orchestration to edge AI silicon\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/ambarella-zededa-cloud-orchestration-to-edge-ai-silicon/"
     },
     {
       "title": "SES and Elveo Mobile deepen collaboration to advance direct-to-device services in Europe",
@@ -581,59 +634,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT Global Awards reveals its 2026 shortlist\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/16/158445-iot-global-awards-2026-shortlist/"
-    },
-    {
-      "title": "Space42 and Viasat sign binding agreement to co-found Equatys",
-      "source": "IoT Now",
-      "date": "2026-09-15",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The shared space and ground infrastructure platform for global direct-to-device and advanced MSS connectivity carries up to USD1 billion in combined equity commitments. The post Space42 and Viasat sign binding agreement to co-found Equatys appeared first on...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Space42 and Viasat sign binding agreement to co-found Equatys\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/15/158411-space42-viasat-equatys-direct-to-device-satellite-connectivity/"
-    },
-    {
-      "title": "LG brings factory AI closer to production data with EXAONE",
-      "source": "IoT Tech News",
-      "date": "2026-09-15",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "LG AI Research has introduced two AI foundation models designed for manufacturing, including production-data analysis and automated visual inspection. The models, EXAONE Tabular and EXAONE Omni-Inspect, were presented at LG AI Talk Concert 2026 in Seoul. LG...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "LG brings factory AI closer to production data with EXAONE\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/lg-factory-ai-exaone-production-data/"
     }
   ]
 }
