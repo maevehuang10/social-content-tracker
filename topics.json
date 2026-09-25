@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:08:00.328Z",
+  "generatedAt": "2026-09-25T11:44:57.878Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor",
+      "source": "CNX Software",
+      "date": "2026-09-25",
+      "product": "ESP32 Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "8devices 8Sight T100 is a compact Long-Wave Infrared (thermal imaging) camera for UAS, robotics, and industrial applications. It combines a Lynred ATI320 LWIR sensor with an STM32N6 Arm Cortex-M55 microcontroller featuring a Neural-ART NPU and a hardware ISP...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/25/compact-long-wave-infrared-camera-pairs-stm32n6-mcu-with-lynred-ati320-thermal-sensor/"
+    },
     {
       "title": "MemBrowse continuously tracks firmware memory footprint, is free for open-source projects",
       "source": "CNX Software",
@@ -84,34 +109,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/"
-    },
-    {
-      "title": "WBA and FIDO test zero-touch IoT Wi-Fi onboarding",
-      "source": "IoT Tech News",
-      "date": "2026-09-24",
-      "product": "WiFi Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "WiFi",
-        "Smart Home",
-        "Wireless Module"
-      ],
-      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
-      "summary": "Industrial operators can automate IoT onboarding across Wi-Fi networks through a joint specification from the Wireless Broadband Alliance (WBA) and FIDO Alliance. The framework pairs the WBA’s federated OpenRoaming architecture with FIDO Device Onboard...",
-      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
-      "post": "WBA and FIDO test zero-touch IoT Wi-Fi onboarding\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/wba-fido-test-zero-touch-iot-wi-fi-onboarding/"
     },
     {
       "title": "CyboPal ONE – An AI-powered, 6-DOF robotic terminal with 27-inch 4K display that adjusts to your posture (Crowdfunding)",
@@ -193,34 +190,6 @@
       "url": "https://iot-now.com/2026/09/24/158548-semtech-palo-alto-networks-secure-industrial-iot-zero-trust/"
     },
     {
-      "title": "Cognex to acquire RealSense for $500M in factory edge AI deal",
-      "source": "IoT Tech News",
-      "date": "2026-09-24",
-      "product": "IoT Industry",
-      "score": 75,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Cognex has agreed to acquire RealSense for about $500 million in cash, adding 3D depth-sensing and robotic perception technology to its industrial machine-vision portfolio. The transaction is expected to close in the fourth quarter of 2026, subject to...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "Cognex to acquire RealSense for $500M in factory edge AI deal\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/cognex-realsense-acquisition-factory-edge-ai/"
-    },
-    {
       "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
       "source": "CNX Software",
       "date": "2026-09-23",
@@ -297,32 +266,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch Wi-Fi onboarding for IoT and edge devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/23/158511-wba-fido-alliance-zero-touch-wifi-onboarding-iot-edge-devices/"
-    },
-    {
-      "title": "NVIDIA Isaac ROS 5.0 brings agentic workflows to physical AI",
-      "source": "IoT Tech News",
-      "date": "2026-09-23",
-      "product": "IoT Industry",
-      "score": 81,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
-      ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Teams running NVIDIA Isaac ROS 5.0 can deploy agentic robotics workflows to build physical AI systems across standard industrial platforms. Announced at the ROSCon gathering in Toronto, the open-source software collection connects autonomous AI agents...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA Isaac ROS 5.0 brings agentic workflows to physical AI\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-isaac-ros-5-0-agentic-workflows-to-physical-ai/"
     },
     {
       "title": "IoT Now Magazine Q3 2026",
@@ -534,63 +477,6 @@
       "url": "https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/"
     },
     {
-      "title": "OpenMote – An ESP32-S3 programmable universal remote in a Wiimote shell (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-09-19",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Hat & Hammer has launched the OpenMote, an ESP32-S3-powered programmable universal remote that adopts the familiar, nostalgic form factor of a Nintendo Wiimote. It features WiFi, Bluetooth LE, an infrared (IR) transceiver, a 6-axis IMU, and Home Assistant...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "OpenMote – An ESP32-S3 programmable universal remote in a Wiimote shell (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/19/openmote-an-esp32-s3-programmable-universal-remote-in-a-wiimote-shell/"
-    },
-    {
-      "title": "QNX and Sift link industrial edge telemetry directly to SQL",
-      "source": "IoT Tech News",
-      "date": "2026-09-18",
-      "product": "ESP32 Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "QNX and Sift are bringing sub-second telemetry queries to industrial edge hardware, streaming live data from embedded factory machinery. The integration targets mission-focused machinery operating on factory floors, robotics cells, and medical environments....",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "QNX and Sift link industrial edge telemetry directly to SQL\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/qnx-and-sift-link-industrial-edge-telemetry-to-sql/"
-    },
-    {
       "title": "Onomondo launches SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining cellular IoT",
       "source": "IoT Now",
       "date": "2026-09-17",
@@ -616,11 +502,11 @@
       "url": "https://iot-now.com/2026/09/17/158452-onomondo-sgp-32-esim-iot-remote-manager-eim/"
     },
     {
-      "title": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1",
-      "source": "IoT Tech News",
-      "date": "2026-09-17",
-      "product": "IoT Industry",
-      "score": 78,
+      "title": "IoT in transition: Device security has officially become a governance problem",
+      "source": "IoT Now",
+      "date": "2026-09-16",
+      "product": "BLE Module",
+      "score": 92,
       "formats": [
         "LinkedIn Post",
         "Sales Material"
@@ -630,15 +516,115 @@
         "Facebook"
       ],
       "tags": [
-        "IoT",
-        "Industry Trend",
-        "Wireless Technology"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
-      "summary": "Edge AI agents face rigorous MLPerf testing across multi-turn trajectories, where NVIDIA Jetson Thor hardware cut execution runtime 6.4x against reference software configurations. MLPerf Inference v6.1 from MLCommons added an Edge Agentic Inference workload...",
-      "hook": "Good IoT content starts with useful market context.",
-      "post": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
-      "url": "https://iottechnews.com/news/nvidia-jetson-thor-speeds-edge-agentic-inference-mlperf-v6-1/"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The EU Cyber Resilience Act’s reporting obligations are now in force, and a new Transforma Insights report maps what compliance demands in practice. The post IoT in transition: Device security has officially become a governance problem appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT in transition: Device security has officially become a governance problem\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/16/158416-eu-cyber-resilience-act-iot-device-security-governance/"
+    },
+    {
+      "title": "SES and Elveo Mobile deepen collaboration to advance direct-to-device services in Europe",
+      "source": "IoT Now",
+      "date": "2026-09-16",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The expanded collaboration covers European manufacturing of LEO direct-to-device satellites and a multi-orbit architecture spanning LEO, MEO and GEO. The post SES and Elveo Mobile deepen collaboration to advance direct-to-device services in Europe appeared...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SES and Elveo Mobile deepen collaboration to advance direct-to-device services in Europe\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/16/158437-ses-elveo-mobile-direct-to-device-services-europe/"
+    },
+    {
+      "title": "IoT Global Awards reveals its 2026 shortlist",
+      "source": "IoT Now",
+      "date": "2026-09-16",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Shortlisted innovators announced across IoT categories, with winners to be revealed on Wednesday 7th October 2026. The post IoT Global Awards reveals its 2026 shortlist appeared first on IoT Now News - How to run an IoT enabled business .",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Global Awards reveals its 2026 shortlist\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/16/158445-iot-global-awards-2026-shortlist/"
+    },
+    {
+      "title": "Space42 and Viasat sign binding agreement to co-found Equatys",
+      "source": "IoT Now",
+      "date": "2026-09-15",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The shared space and ground infrastructure platform for global direct-to-device and advanced MSS connectivity carries up to USD1 billion in combined equity commitments. The post Space42 and Viasat sign binding agreement to co-found Equatys appeared first on...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Space42 and Viasat sign binding agreement to co-found Equatys\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/15/158411-space42-viasat-equatys-direct-to-device-satellite-connectivity/"
+    },
+    {
+      "title": "IoT Now Contract Win List – August 2026",
+      "source": "IoT Now",
+      "date": "2026-09-14",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The IoT Now Contract Win List for August 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – August 2026 appeared first on...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now Contract Win List – August 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/14/158386-iot-now-contract-win-list-august-2026/"
     }
   ]
 }
