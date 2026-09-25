@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:03:47.975Z",
+  "generatedAt": "2026-09-25T06:08:00.328Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,111 +8,29 @@
   ],
   "topics": [
     {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
+      "title": "MemBrowse continuously tracks firmware memory footprint, is free for open-source projects",
+      "source": "CNX Software",
+      "date": "2026-09-25",
       "product": "ESP32 Module",
-      "score": 96,
+      "score": 80,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Short Video"
+        "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook",
-        "YouTube"
+        "Facebook"
       ],
       "tags": [
         "ESP32",
         "Embedded Development",
         "Smart Device"
       ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "MemBrowse tool allows embedded software developers to track the RAM and flash footprint of their firmware in continuous integration, with support for GitHub Actions, GitLab CI/CD, and other CI solutions. Engineers can monitor footprint changes in a granular...",
       "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-09-25"
+      "post": "MemBrowse continuously tracks firmware memory footprint, is free for open-source projects\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/"
     },
     {
       "title": "Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC",
@@ -141,6 +59,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc/"
+    },
+    {
+      "title": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series",
+      "source": "CNX Software",
+      "date": "2026-09-24",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Qualcomm has released an “Early Developer Preview” of Linux for the Snapdragon X2 Armv9 family of laptop SoCs. This release is meant for distribution maintainers, toolchain developers, kernel contributors, and hardware enablement engineers. New Qualcomm...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/"
     },
     {
       "title": "WBA and FIDO test zero-touch IoT Wi-Fi onboarding",
@@ -620,16 +563,15 @@
       "url": "https://www.cnx-software.com/2026/09/19/openmote-an-esp32-s3-programmable-universal-remote-in-a-wiimote-shell/"
     },
     {
-      "title": "Review of Elecrow ThinkNode M9 QWERTY terminal with MeshCore firmware",
-      "source": "CNX Software",
+      "title": "QNX and Sift link industrial edge telemetry directly to SQL",
+      "source": "IoT Tech News",
       "date": "2026-09-18",
-      "product": "LoRa Module",
-      "score": 94,
+      "product": "ESP32 Module",
+      "score": 93,
       "formats": [
         "LinkedIn Post",
         "Sales Material",
-        "Short Video",
-        "Carousel"
+        "Short Video"
       ],
       "platforms": [
         "LinkedIn",
@@ -638,15 +580,65 @@
         "YouTube"
       ],
       "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
       ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "Last August, CNX Software covered the launch of the Elecrow ThinkNode M9, a standalone LoRa terminal running MeshCore firmware with a QWERTY keyboard, a color display, GPS, and a built-in 2,300mAh battery. Elecrow has now sent us two units (923 MHz version)...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "Review of Elecrow ThinkNode M9 QWERTY terminal with MeshCore firmware\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/18/elecrow-thinknode-m9-review-qwerty-terminal-meshcore-firmware/"
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "QNX and Sift are bringing sub-second telemetry queries to industrial edge hardware, streaming live data from embedded factory machinery. The integration targets mission-focused machinery operating on factory floors, robotics cells, and medical environments....",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "QNX and Sift link industrial edge telemetry directly to SQL\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/qnx-and-sift-link-industrial-edge-telemetry-to-sql/"
+    },
+    {
+      "title": "Onomondo launches SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining cellular IoT",
+      "source": "IoT Now",
+      "date": "2026-09-17",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Onomondo’s new eSIM IoT Remote Manager is designed to make cellular IoT connectivity providers interchangeable in practice, not merely interoperable in theory. The post Onomondo launches SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Onomondo launches SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining cellular IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/17/158452-onomondo-sgp-32-esim-iot-remote-manager-eim/"
+    },
+    {
+      "title": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1",
+      "source": "IoT Tech News",
+      "date": "2026-09-17",
+      "product": "IoT Industry",
+      "score": 78,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "IoT",
+        "Industry Trend",
+        "Wireless Technology"
+      ],
+      "value": "Useful for turning current industry news into content about market education, B2B trend posts, sales context, and social content planning.",
+      "summary": "Edge AI agents face rigorous MLPerf testing across multi-turn trajectories, where NVIDIA Jetson Thor hardware cut execution runtime 6.4x against reference software configurations. MLPerf Inference v6.1 from MLCommons added an Edge Agentic Inference workload...",
+      "hook": "Good IoT content starts with useful market context.",
+      "post": "NVIDIA Jetson Thor speeds edge agentic inference in MLPerf v6.1\n\nThis is a useful signal for IoT brands and product teams watching IoT Industry opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Tech News",
+      "url": "https://iottechnews.com/news/nvidia-jetson-thor-speeds-edge-agentic-inference-mlperf-v6-1/"
     }
   ]
 }
