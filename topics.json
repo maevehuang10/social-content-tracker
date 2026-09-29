@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T06:50:05.304Z",
+  "generatedAt": "2026-09-29T12:45:08.145Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports",
+      "source": "CNX Software",
+      "date": "2026-09-29",
+      "product": "ESP32 Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "NXP has just launched the FRDM-IMXRT1186, a development board based on the i.MX RT1186 crossover MCU for industrial automation, robotics, PLCs, and edge computing applications. The MCU uses a heterogeneous architecture with an 800 MHz Arm Cortex-M7 core for...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/"
+    },
     {
       "title": "Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC",
       "source": "CNX Software",
@@ -372,31 +397,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Semtech and Palo Alto Networks secure industrial IoT with Zero Trust\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/24/158548-semtech-palo-alto-networks-secure-industrial-iot-zero-trust/"
-    },
-    {
-      "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-09-23",
-      "product": "Radar Sensor",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for turning current industry news into content about privacy-friendly sensing, elderly care, smart bathrooms, security, and presence detection.",
-      "summary": "South Korean startup Soulart has launched the Soulart Station, a markerless full-body motion tracker for VR, VTubing, and motion capture. The device uses a Time-of-Flight (ToF) sensor and an onboard Neural Processing Unit (NPU) to capture 3D point cloud data...",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching Radar Sensor opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/"
     },
     {
       "title": "MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X4/A720 SoC targets Googlebooks",
