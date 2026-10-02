@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:22:59.759Z",
+  "generatedAt": "2026-10-02T06:57:45.402Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,13 @@
   ],
   "topics": [
     {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
+      "title": "Avaota F2 – Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support",
+      "source": "CNX Software",
+      "date": "2026-10-02",
       "product": "WiFi Module",
-      "score": 94,
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -22,25 +22,26 @@
         "Facebook"
       ],
       "tags": [
-        "Matter",
+        "WiFi",
         "Smart Home",
-        "Interoperability"
+        "Wireless Module"
       ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-10-02"
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Avaota F2 is the first SBC based on an Allwinner V861 dual-core 64-bit RISC-V SoC with 128MB on-chip DDR3 memory, support for 4K cameras, H.265 video codec, and a 1 TOPS AI accelerator. It’s an update to the earlier Avaota F1 camera board based on an...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "Avaota F2 – Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/"
     },
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
+      "title": "ASRock Industrial NUC 300 series – Intel Core 3 304/Core 5 320 mini PCs and motherboards",
+      "source": "CNX Software",
+      "date": "2026-10-02",
+      "product": "BLE Module",
+      "score": 85,
       "formats": [
-        "Short Video",
         "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
         "Carousel"
       ],
       "platforms": [
@@ -50,69 +51,15 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-10-02"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "ASRock Industrial has introduced the NUC Core 300 BOX series of mini PCs and the NUC Core 300 motherboards built around Intel Core Series 3 Wildcat Lake-U processors. The lineup includes the NUC BOX-320, with the Intel Core 5 320 SoC, and the NUC BOX-304,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ASRock Industrial NUC 300 series – Intel Core 3 304/Core 5 320 mini PCs and motherboards\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/02/asrock-industrial-nuc-300-series-intel-core-3-304-core-5-320-mini-pcs-and-motherboards/"
     },
     {
       "title": "$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks",
@@ -516,56 +463,6 @@
       "url": "https://www.cnx-software.com/2026/09/26/kryonos-turns-esp32-boards-into-javascript-powered-mini-computer/"
     },
     {
-      "title": "Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor",
-      "source": "CNX Software",
-      "date": "2026-09-25",
-      "product": "ESP32 Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "8devices 8Sight T100 is a compact Long-Wave Infrared (thermal imaging) camera for UAS, robotics, and industrial applications. It combines a Lynred ATI320 LWIR sensor with an STM32N6 Arm Cortex-M55 microcontroller featuring a Neural-ART NPU and a hardware ISP...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/25/compact-long-wave-infrared-camera-pairs-stm32n6-mcu-with-lynred-ati320-thermal-sensor/"
-    },
-    {
-      "title": "MemBrowse continuously tracks firmware memory footprint, is free for open-source projects",
-      "source": "CNX Software",
-      "date": "2026-09-25",
-      "product": "ESP32 Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "MemBrowse tool allows embedded software developers to track the RAM and flash footprint of their firmware in continuous integration, with support for GitHub Actions, GitLab CI/CD, and other CI solutions. Engineers can monitor footprint changes in a granular...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "MemBrowse continuously tracks firmware memory footprint, is free for open-source projects\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/"
-    },
-    {
       "title": "Who leads the satellite IoT race?",
       "source": "IoT Now",
       "date": "2026-09-24",
@@ -643,6 +540,106 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch Wi-Fi onboarding for IoT and edge devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/23/158511-wba-fido-alliance-zero-touch-wifi-onboarding-iot-edge-devices/"
+    },
+    {
+      "title": "IoT Now Magazine Q3 2026",
+      "source": "IoT Now",
+      "date": "2026-09-23",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Where your IoT data is processed shapes your latency, cost and compliance. Increasingly, it also decides whether physical AI works once it leaves the lab. The latest issue of IoT … Continued The post IoT Now Magazine Q3 2026 appeared first on IoT Now News -...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now Magazine Q3 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/23/158514-iot-now-magazine-q3-2026/"
+    },
+    {
+      "title": "Semtech enables 50G optical transition for AI-driven 5G-Advanced",
+      "source": "IoT Now",
+      "date": "2026-09-22",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Semtech’s wireless transceiver portfolio is now in full production for 10 km, 15 km BiDi and WDM links, enabling 50G fronthaul for 5G-Advanced radio deployments. The post Semtech enables 50G optical transition for AI-driven 5G-Advanced appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Semtech enables 50G optical transition for AI-driven 5G-Advanced\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/22/158483-semtech-50g-optical-transition-ai-driven-5g-advanced/"
+    },
+    {
+      "title": "Sift and QNX team up to stream live sensor data from physical AI systems",
+      "source": "IoT Now",
+      "date": "2026-09-21",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "QNX-powered systems can now feed live telemetry into Sift with no firmware changes, enabling engineers to query machine data within one second of leaving the device. The post Sift and QNX team up to stream live sensor data from physical AI systems appeared...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Sift and QNX team up to stream live sensor data from physical AI systems\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/21/158478-sift-qnx-stream-live-sensor-data-physical-ai-systems/"
+    },
+    {
+      "title": "Onomondo launches SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining cellular IoT",
+      "source": "IoT Now",
+      "date": "2026-09-17",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Onomondo’s new eSIM IoT Remote Manager is designed to make cellular IoT connectivity providers interchangeable in practice, not merely interoperable in theory. The post Onomondo launches SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Onomondo launches SGP.32 eSIM IoT Remote Manager to prevent vendor lock-in undermining cellular IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/09/17/158452-onomondo-sgp-32-esim-iot-remote-manager-eim/"
     }
   ]
 }
