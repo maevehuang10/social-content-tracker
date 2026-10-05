@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:57:25.978Z",
+  "generatedAt": "2026-10-05T14:28:09.734Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -32,6 +32,60 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Geekworm UPS Scap 5V5A – A supercapacitor UPS HAT for Raspberry Pi 5\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/05/geekworm-ups-scap-5v5a-a-supercapacitor-ups-hat-for-raspberry-pi-5/"
+    },
+    {
+      "title": "DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support",
+      "source": "CNX Software",
+      "date": "2026-10-05",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The DEBIX M8391-01 is a compact industrial SBC built around the MediaTek MT8391 (Genio 720) processor, designed for edge AI, computer vision, robotics, and intelligent IoT applications. The SoC’s 9-TOPS NPU enables local AI inference without relying on cloud...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/05/debix-m8391-01-industrial-sbc-features-mediatek-genio-720-soc-with-9-tops-npu-dual-display-support/"
+    },
+    {
+      "title": "Aeris extends IoT eSIM orchestration for the Physical AI era",
+      "source": "IoT Now",
+      "date": "2026-10-05",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "New SGP.32 orchestration, Single SKU eSIM and eIMaaS bring speed, simplicity and scale to global IoT deployments on the Aeris IoT Accelerator platform. The post Aeris extends IoT eSIM orchestration for the Physical AI era appeared first on IoT Now News - How...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Aeris extends IoT eSIM orchestration for the Physical AI era\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/05/158675-aeris-iot-esim-orchestration-sgp32-physical-ai/"
     },
     {
       "title": "ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)",
@@ -380,35 +434,6 @@
       "url": "https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/"
     },
     {
-      "title": "Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC",
-      "source": "CNX Software",
-      "date": "2026-09-29",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Walnut Pi CM2 is a low-cost Raspberry Pi CM5-compatible Compute Module powered by an Allwinner T527 octa-core Cortex-A55 processor paired with up to 4GB LPDDR4 RAM, 16GB eMMC flash, and an optional wireless module. It’s basically the company’s Walnut Pi 2B...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/"
-    },
-    {
       "title": "Netmore and Itron complete validation of LoRaWAN Relay for smart water metering",
       "source": "IoT Now",
       "date": "2026-09-29",
@@ -615,31 +640,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Semtech enables 50G optical transition for AI-driven 5G-Advanced\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/22/158483-semtech-50g-optical-transition-ai-driven-5g-advanced/"
-    },
-    {
-      "title": "Sift and QNX team up to stream live sensor data from physical AI systems",
-      "source": "IoT Now",
-      "date": "2026-09-21",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "QNX-powered systems can now feed live telemetry into Sift with no firmware changes, enabling engineers to query machine data within one second of leaving the device. The post Sift and QNX team up to stream live sensor data from physical AI systems appeared...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Sift and QNX team up to stream live sensor data from physical AI systems\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/21/158478-sift-qnx-stream-live-sensor-data-physical-ai-systems/"
     }
   ]
 }
