@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:29:57.903Z",
+  "generatedAt": "2026-10-06T13:14:17.375Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556",
+      "source": "CNX Software",
+      "date": "2026-10-06",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The XIMEA MU003TG-SY-UC is a miniature industrial Time-of-Flight (ToF) camera with a 0.3MP Sony IMX556 CMOS sensor, global shutter, 640 × 480 resolution, and a 60 FPS frame rate. Its compact 26.4 × 26.4 × 28.67 mm enclosure and 31-gram weight make it suitable...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/06/ximea-mu003tg-sy-uc-a-miniature-modular-0-3mp-usb-3-0-tof-sensor-based-on-sony-imx556/"
+    },
     {
       "title": "Save $70 on GEEKOM A5 Pro 2026 Edition mini PC during Prime Day Sale (Sponsored)",
       "source": "CNX Software",
@@ -31,6 +56,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Save $70 on GEEKOM A5 Pro 2026 Edition mini PC during Prime Day Sale (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/06/save-70-on-geekom-a5-pro-2026-edition-mini-pc-for-prime-day-sale/"
+    },
+    {
+      "title": "SEALSQ’s sister company WISeSat.Space completes business combination with Columbus Acquisition Corporation",
+      "source": "IoT Now",
+      "date": "2026-10-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "WISeSat.Space ordinary shares have begun trading on Nasdaq under the ticker SAIQ, establishing a separately listed company focused on post-quantum-secure satellite IoT connectivity. The post SEALSQ’s sister company WISeSat.Space completes business combination...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SEALSQ’s sister company WISeSat.Space completes business combination with Columbus Acquisition Corporation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/06/158711-wisesat-space-columbus-acquisition-nasdaq-listing-satellite-iot/"
+    },
+    {
+      "title": "Can you see your whole IoT estate across the Asia Pacific region?",
+      "source": "IoT Now",
+      "date": "2026-10-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Kaleido Intelligence research finds 38% of CSPs operating across Asia Pacific can offer customers only partial visibility of their network – and shows what that costs enterprises. The post Can you see your whole IoT estate across the Asia Pacific region?...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Can you see your whole IoT estate across the Asia Pacific region?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/06/158697-see-whole-iot-estate-asia-pacific-visibility-apac/"
     },
     {
       "title": "Geekworm UPS Scap 5V5A – A supercapacitor UPS HAT for Raspberry Pi 5",
@@ -405,35 +480,6 @@
       "url": "https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera/"
     },
     {
-      "title": "ESP32-C5 devkit features 3.5-inch touch LCD, optional camera and battery",
-      "source": "CNX Software",
-      "date": "2026-09-30",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Waveshare ESP32-C5-Touch-LCD-3.5 is another ESP32-C5 devkit with a built-in display, but equipped with a larger 3.5-inch color touch LCD and an optional BF3901 low-resolution (0.08 MP) camera and/or a 500 mAh battery. It also features a speaker connector and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "ESP32-C5 devkit features 3.5-inch touch LCD, optional camera and battery\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/09/30/esp32-c5-devkit-features-3-5-inch-touch-lcd-optional-camera-and-battery/"
-    },
-    {
       "title": "NTT DOCOMO BUSINESS and stc group launch IoT connectivity solution for Komatsu construction equipment in Saudi Arabia",
       "source": "IoT Now",
       "date": "2026-09-30",
@@ -587,59 +633,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Semtech and Palo Alto Networks secure industrial IoT with Zero Trust\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/24/158548-semtech-palo-alto-networks-secure-industrial-iot-zero-trust/"
-    },
-    {
-      "title": "Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch Wi-Fi onboarding for IoT and edge devices",
-      "source": "IoT Now",
-      "date": "2026-09-23",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Trial demonstrates factory-provisioned devices can connect automatically to OpenRoaming® and begin secure FIDO Device Onboard ownership transfer, cutting deployment costs. The post Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Wireless Broadband Alliance and FIDO Alliance validate secure, zero-touch Wi-Fi onboarding for IoT and edge devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/23/158511-wba-fido-alliance-zero-touch-wifi-onboarding-iot-edge-devices/"
-    },
-    {
-      "title": "IoT Now Magazine Q3 2026",
-      "source": "IoT Now",
-      "date": "2026-09-23",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Where your IoT data is processed shapes your latency, cost and compliance. Increasingly, it also decides whether physical AI works once it leaves the lab. The latest issue of IoT … Continued The post IoT Now Magazine Q3 2026 appeared first on IoT Now News -...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT Now Magazine Q3 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/23/158514-iot-now-magazine-q3-2026/"
     }
   ]
 }
