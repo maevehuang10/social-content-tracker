@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:10:34.282Z",
+  "generatedAt": "2026-10-07T13:14:28.042Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,81 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/"
+    },
+    {
+      "title": "IoT Global Awards 2026 winners announced",
+      "source": "IoT Now",
+      "date": "2026-10-07",
+      "product": "BLE Module",
+      "score": 91,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Recognising innovation in iSIM, industrial AI and fleet technology, the winners of the IoT Global Awards for 2026 have been selected. Following a rigorous evaluation by an independent judging panel … Continued The post IoT Global Awards 2026 winners announced...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Global Awards 2026 winners announced\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/07/158736-iot-global-awards-2026-winners-announced/"
+    },
+    {
+      "title": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine",
+      "source": "CNX Software",
+      "date": "2026-10-07",
+      "product": "ESP32 Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "DSPi is a full-featured audio DSP firmware for the Raspberry Pi Pico, Pico 2, and other Raspberry Pi RP2040/RP2350 boards, which turns them into a USB sound card with an integrated DSP. It allows users to make use of essential tools like room correction,...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/"
+    },
+    {
+      "title": "Aeris and Telna partner to reduce global IoT connectivity fragmentation, expanding IoT Accelerator coverage in Brazil",
+      "source": "IoT Now",
+      "date": "2026-10-07",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The partnership pairs Aeris’ Connectivity Management Platform with Telna’s cloud-native core network to deliver zero-touch eSIM, local breakout and single-interface management in Brazil. The post Aeris and Telna partner to reduce global IoT connectivity...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Aeris and Telna partner to reduce global IoT connectivity fragmentation, expanding IoT Accelerator coverage in Brazil\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/07/158733-aeris-telna-partnership-iot-connectivity-brazil-iot-accelerator/"
     },
     {
       "title": "XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556",
@@ -396,35 +471,6 @@
       "url": "https://www.cnx-software.com/2026/10/02/up-xtreme-ptl-edge-air-panther-lake-mini-pc-gets-airjet-solid-state-active-cooling-solution/"
     },
     {
-      "title": "$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks",
-      "source": "CNX Software",
-      "date": "2026-10-01",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Raspberry Pi Smart Display Module is a CM5 carrier board compatible with the Intel Smart Display Module (SDM) specification, more specifically the SDM-L form factor (as opposed to the smaller SDM-S option). The Intel SDM standard has been around for years,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/01/30-raspberry-pi-smart-display-module-for-cm5-targets-digital-signage-displays-and-kiosks/"
-    },
-    {
       "title": "LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner",
       "source": "CNX Software",
       "date": "2026-10-01",
@@ -581,57 +627,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Ai Everything Abu Dhabi to debut AI-first expo and summit at ADNEC Centre\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/28/158621-ai-everything-abu-dhabi-2026-expo-summit-adnec-centre/"
-    },
-    {
-      "title": "Who leads the satellite IoT race?",
-      "source": "IoT Now",
-      "date": "2026-09-24",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Counterpoint Research’s 2026 CORE rankings place Iridium and Skylo as satellite IoT pacesetters as the market shifts towards standards-based NTN. The post Who leads the satellite IoT race? appeared first on IoT Now News - How to run an IoT enabled business .",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Who leads the satellite IoT race?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/24/158464-who-leads-the-satellite-iot-race-counterpoint-core-2026/"
-    },
-    {
-      "title": "Semtech and Palo Alto Networks secure industrial IoT with Zero Trust",
-      "source": "IoT Now",
-      "date": "2026-09-24",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Semtech AirLink networking solutions and Palo Alto Networks Next-Generation Firewalls deliver automated, edge-to-core protection for utilities and critical infrastructure operators. The post Semtech and Palo Alto Networks secure industrial IoT with Zero Trust...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Semtech and Palo Alto Networks secure industrial IoT with Zero Trust\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/24/158548-semtech-palo-alto-networks-secure-industrial-iot-zero-trust/"
     }
   ]
 }
