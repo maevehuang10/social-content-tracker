@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:17:11.903Z",
+  "generatedAt": "2026-10-08T13:21:03.651Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,56 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Exein and Deutsche Telekom IoT partner to secure the next generation of connected devices",
+      "source": "IoT Now",
+      "date": "2026-10-08",
+      "product": "BLE Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Exein and Deutsche Telekom IoT have partnered to bring integrated, device-level security to connected devices across Deutsche Telekom IoT’s global connectivity ecosystem. The post Exein and Deutsche Telekom IoT partner to secure the next generation of...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Exein and Deutsche Telekom IoT partner to secure the next generation of connected devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/08/158745-exein-deutsche-telekom-iot-partnership-connected-device-security/"
+    },
+    {
+      "title": "Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-10-08",
+      "product": "ESP32 Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "ZeroWire Robotics Q8botOne is an open-source, palm-sized quadruped robot built around an ESP32-C3 MCU and ROBOTIS DYNAMIXEL smart actuators. Designed with a unique wire-free architecture, the robot integrates all components onto a central printed circuit...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/"
+    },
     {
       "title": "Efinix Sapphire RV64 SoC – Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs",
       "source": "CNX Software",
@@ -442,35 +492,6 @@
       "url": "https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/"
     },
     {
-      "title": "ASRock Industrial NUC 300 series – Intel Core 3 304/Core 5 320 mini PCs and motherboards",
-      "source": "CNX Software",
-      "date": "2026-10-02",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "ASRock Industrial has introduced the NUC Core 300 BOX series of mini PCs and the NUC Core 300 motherboards built around Intel Core Series 3 Wildcat Lake-U processors. The lineup includes the NUC BOX-320, with the Intel Core 5 320 SoC, and the NUC BOX-304,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "ASRock Industrial NUC 300 series – Intel Core 3 304/Core 5 320 mini PCs and motherboards\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/02/asrock-industrial-nuc-300-series-intel-core-3-304-core-5-320-mini-pcs-and-motherboards/"
-    },
-    {
       "title": "UP Xtreme PTL Edge Air Panther Lake Mini PC gets AirJet solid-state active cooling solution",
       "source": "CNX Software",
       "date": "2026-10-02",
@@ -573,31 +594,6 @@
       "hook": "Some IoT projects need years of battery life, not more bandwidth.",
       "post": "Netmore and Itron complete validation of LoRaWAN Relay for smart water metering\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/29/158630-netmore-itron-lorawan-relay-smart-water-metering-validation/"
-    },
-    {
-      "title": "GCF and MSSA sign Memorandum of Understanding to advance global NTN certification and interoperability",
-      "source": "IoT Now",
-      "date": "2026-09-28",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The Global Certification Forum and the Mobile Satellite Services Association have signed an MoU to formalise cooperation on certification and interoperability for 3GPP NTN technologies. The post GCF and MSSA sign Memorandum of Understanding to advance global...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "GCF and MSSA sign Memorandum of Understanding to advance global NTN certification and interoperability\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/28/158580-gcf-mssa-memorandum-of-understanding-ntn-certification-interoperability/"
     },
     {
       "title": "Ai Everything Abu Dhabi to debut AI-first expo and summit at ADNEC Centre",
