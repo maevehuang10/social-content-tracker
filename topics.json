@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:39:33.609Z",
+  "generatedAt": "2026-10-13T14:04:57.421Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,56 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing",
+      "source": "CNX Software",
+      "date": "2026-10-13",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Microchip Technology has introduced the MTCH3380P and MTCH3240P, two new capacitive touch controllers that handle touch detection internally, making it easier to build display-free HMI devices with touch-sensitive buttons, sliders, and wheels. The main...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/13/microchip-mtch3380p-and-mtch3240p-capacitive-touch-controllers-support-up-to-64-buttons-with-parallel-sensing/"
+    },
+    {
+      "title": "SEALSQ unveils VaultIC409, a quantum-ready secure element designed for the next generation of connected devices",
+      "source": "IoT Now",
+      "date": "2026-10-13",
+      "product": "BLE Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SEALSQ has unveiled VaultIC409, a secure element built on its QS7001 platform that combines a hardware Root of Trust, cryptographic agility and SPI connectivity for post-quantum security. The post SEALSQ unveils VaultIC409, a quantum-ready secure element...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SEALSQ unveils VaultIC409, a quantum-ready secure element designed for the next generation of connected devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/13/158784-sealsq-vaultic409-quantum-ready-secure-element-connected-devices/"
+    },
     {
       "title": "Dragonwing FWA Gen 6 Elite Platform combines 5G Advanced, NR-NTN, and tri-band Wi-Fi 8",
       "source": "CNX Software",
@@ -391,31 +441,6 @@
       "url": "https://iot-now.com/2026/10/07/158733-aeris-telna-partnership-iot-connectivity-brazil-iot-accelerator/"
     },
     {
-      "title": "XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556",
-      "source": "CNX Software",
-      "date": "2026-10-06",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The XIMEA MU003TG-SY-UC is a miniature industrial Time-of-Flight (ToF) camera with a 0.3MP Sony IMX556 CMOS sensor, global shutter, 640 × 480 resolution, and a 60 FPS frame rate. Its compact 26.4 × 26.4 × 28.67 mm enclosure and 31-gram weight make it suitable...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/06/ximea-mu003tg-sy-uc-a-miniature-modular-0-3mp-usb-3-0-tof-sensor-based-on-sony-imx556/"
-    },
-    {
       "title": "SEALSQ’s sister company WISeSat.Space completes business combination with Columbus Acquisition Corporation",
       "source": "IoT Now",
       "date": "2026-10-06",
@@ -589,35 +614,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "NTT DOCOMO BUSINESS and stc group launch IoT connectivity solution for Komatsu construction equipment in Saudi Arabia\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/09/30/158634-ntt-docomo-business-stc-group-komatsu-iot-connectivity-saudi-arabia/"
-    },
-    {
-      "title": "Netmore and Itron complete validation of LoRaWAN Relay for smart water metering",
-      "source": "IoT Now",
-      "date": "2026-09-29",
-      "product": "LoRa Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "End-to-end interoperability between Itron’s Cyble 5, the Abeeway LoRaWAN Relay and Netmore’s network demonstrates a practical path to full network coverage for water utilities. The post Netmore and Itron complete validation of LoRaWAN Relay for smart water...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "Netmore and Itron complete validation of LoRaWAN Relay for smart water metering\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/09/29/158630-netmore-itron-lorawan-relay-smart-water-metering-validation/"
     }
   ]
 }
