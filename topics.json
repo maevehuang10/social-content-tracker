@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T05:51:23.493Z",
+  "generatedAt": "2026-10-15T11:20:35.144Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,94 +8,38 @@
   ],
   "topics": [
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control",
+      "source": "CNX Software",
+      "date": "2026-10-15",
+      "product": "ESP32 Module",
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
         "LinkedIn",
         "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
       ],
       "tags": [
         "ESP32",
         "Embedded Development",
         "Smart Device"
       ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog...",
       "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-10-15"
+      "post": "HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/"
     },
     {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
+      "title": "Altair Semiconductor integrates Iridium NTN Direct into ALT1350 and ALT1550 cellular IoT chipsets",
+      "source": "IoT Now",
+      "date": "2026-10-15",
+      "product": "BLE Module",
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -103,16 +47,15 @@
         "Facebook"
       ],
       "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-10-15"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Altair Semiconductor is integrating Iridium NTN Direct into its ALT1350 and next-generation ALT1550 platforms, putting terrestrial cellular IoT and satellite connectivity on a single chipset. The post Altair Semiconductor integrates Iridium NTN Direct into...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Altair Semiconductor integrates Iridium NTN Direct into ALT1350 and ALT1550 cellular IoT chipsets\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/15/158841-altair-semiconductor-iridium-ntn-direct-alt1350-alt1550-cellular-iot-chipsets/"
     },
     {
       "title": "VIEWE launches 4.3-inch ESP32-S31 display development board",
@@ -556,31 +499,6 @@
       "url": "https://iot-now.com/2026/10/08/158745-exein-deutsche-telekom-iot-partnership-connected-device-security/"
     },
     {
-      "title": "Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-10-08",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "ZeroWire Robotics Q8botOne is an open-source, palm-sized quadruped robot built around an ESP32-C3 MCU and ROBOTIS DYNAMIXEL smart actuators. Designed with a unique wire-free architecture, the robot integrates all components onto a central printed circuit...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/"
-    },
-    {
       "title": "IoT Global Awards 2026 winners announced",
       "source": "IoT Now",
       "date": "2026-10-07",
@@ -629,6 +547,81 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Aeris and Telna partner to reduce global IoT connectivity fragmentation, expanding IoT Accelerator coverage in Brazil\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/07/158733-aeris-telna-partnership-iot-connectivity-brazil-iot-accelerator/"
+    },
+    {
+      "title": "SEALSQ’s sister company WISeSat.Space completes business combination with Columbus Acquisition Corporation",
+      "source": "IoT Now",
+      "date": "2026-10-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "WISeSat.Space ordinary shares have begun trading on Nasdaq under the ticker SAIQ, establishing a separately listed company focused on post-quantum-secure satellite IoT connectivity. The post SEALSQ’s sister company WISeSat.Space completes business combination...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SEALSQ’s sister company WISeSat.Space completes business combination with Columbus Acquisition Corporation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/06/158711-wisesat-space-columbus-acquisition-nasdaq-listing-satellite-iot/"
+    },
+    {
+      "title": "Can you see your whole IoT estate across the Asia Pacific region?",
+      "source": "IoT Now",
+      "date": "2026-10-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Kaleido Intelligence research finds 38% of CSPs operating across Asia Pacific can offer customers only partial visibility of their network – and shows what that costs enterprises. The post Can you see your whole IoT estate across the Asia Pacific region?...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Can you see your whole IoT estate across the Asia Pacific region?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/06/158697-see-whole-iot-estate-asia-pacific-visibility-apac/"
+    },
+    {
+      "title": "New intelligence powers government, scientific discovery and critical infrastructure at Ai Everything Abu Dhabi",
+      "source": "IoT Now",
+      "date": "2026-10-05",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Microsoft, VDURA and IFS bring practical applications to the AI-first Expo and Summit, as government and industry leaders examine how new intelligence accelerates industry transformation. The post New intelligence powers government, scientific discovery and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "New intelligence powers government, scientific discovery and critical infrastructure at Ai Everything Abu Dhabi\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/05/158707-ai-everything-abu-dhabi-government-scientific-discovery-critical-infrastructure/"
     }
   ]
 }
