@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:06:18.550Z",
+  "generatedAt": "2026-10-19T13:01:24.569Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,35 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/"
+    },
+    {
+      "title": "BIOSTAR BIWCL-PAT – A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support",
+      "source": "CNX Software",
+      "date": "2026-10-19",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "BIOSTAR BIWCL-PAT is a 3.5-inch industrial SBC built around the Intel Core Series 3 “Wildcat Lake” SoC family, ranging from the Core 3 304 to the Core 7 360. The board supports up to 64GB DDR5-6400 memory, three independent displays, and dual 2.5GbE...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "BIOSTAR BIWCL-PAT – A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/19/biostar-biwcl-pat-a-3-5-inch-industrial-wildcat-lake-sbc-with-dual-2-5gbe-triple-display-support/"
     },
     {
       "title": "M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display",
@@ -422,31 +451,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "Dragonwing FWA Gen 6 Elite Platform combines 5G Advanced, NR-NTN, and tri-band Wi-Fi 8\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/13/dragonwing-fwa-gen-6-elite-platform-combines-5g-advanced-nr-ntn-and-tri-band-wi-fi-8/"
-    },
-    {
-      "title": "PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support",
-      "source": "CNX Software",
-      "date": "2026-10-12",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "We received two unusual little devices for review this month: the PlugMate and the PlugClaw, both built by TrustKernel, a security company better known for the trusted-execution tech inside other people’s phones than for consumer gadgets. Each is a complete,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/12/plugmate-and-plugclaw-review-thumb-sized-android-based-private-computers-with-optional-ubuntu-openclaw-support/"
     },
     {
       "title": "Fibocom and Grid-OS accelerate IoT deployment at scale in India at IMC 2026",
