@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T15:46:56.519Z",
+  "generatedAt": "2026-10-19T06:06:18.550Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,31 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost",
+      "source": "CNX Software",
+      "date": "2026-10-19",
+      "product": "ESP32 Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Axera AX8860P is a new 16-core Cortex-A55 SoC with up to 128 TOPS/256 TOPS (FP4) NPU, 256-bit LPDDR5/5X memory, and PCIe 5.0 connectivity, aiming to power desktop AI solutions competing with NVIDIA DGX Spark at a fraction of the cost. Dr. Qiu Xiaoxin, founder...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/"
+    },
     {
       "title": "M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display",
       "source": "CNX Software",
@@ -397,31 +422,6 @@
       "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
       "post": "Dragonwing FWA Gen 6 Elite Platform combines 5G Advanced, NR-NTN, and tri-band Wi-Fi 8\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/13/dragonwing-fwa-gen-6-elite-platform-combines-5g-advanced-nr-ntn-and-tri-band-wi-fi-8/"
-    },
-    {
-      "title": "Facebook releases Muse Gadgets SDK for ESP32 and Raspberry Pi/Linux-based devices",
-      "source": "CNX Software",
-      "date": "2026-10-12",
-      "product": "ESP32 Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Meta, Facebook’s parent company, has released the open-source Muse Gadgets SDK, designed to work with ESP32 boards or Linux-based SBCs like a Raspberry Pi. This requires some explanation… I’ve been on holiday for a while, so I’m not up to date on everything,...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Facebook releases Muse Gadgets SDK for ESP32 and Raspberry Pi/Linux-based devices\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/12/facebook-releases-muse-gadgets-sdk-for-esp32-and-raspberry-pi-linux-based-devices/"
     },
     {
       "title": "PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support",
