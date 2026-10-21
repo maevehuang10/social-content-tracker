@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:58:51.046Z",
+  "generatedAt": "2026-10-21T11:40:59.596Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,64 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "PHY Wireless and Ubiik deliver a 3GPP standards-based alternative for Physical AI and industrial positioning",
+      "source": "IoT Now",
+      "date": "2026-10-21",
+      "product": "BLE Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "PHY Wireless and Ubiik are collaborating on an integrated communications and positioning platform that adds edge-based cellular positioning to private LTE and 5G networks for industrial and enterprise sites. The post PHY Wireless and Ubiik deliver a 3GPP...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "PHY Wireless and Ubiik deliver a 3GPP standards-based alternative for Physical AI and industrial positioning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/21/158947-phy-wireless-ubiik-3gpp-cellular-positioning-physical-ai-industrial/"
+    },
+    {
+      "title": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation",
+      "source": "CNX Software",
+      "date": "2026-10-21",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Espressif Systems ESP-Mosaico is an ESP32-S31 development platform with a 480 × 480 OLED touchscreen, haptic feedback, a built-in battery, USB Type-C connectivity, and expansion I/O. It’s specifically designed for AI <-> hardware integration and targets...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/21/esp-mosaico-an-esp32-s31-based-modular-development-platform-for-ai-assisted-hardware-creation/"
+    },
     {
       "title": "Raytron SE5 1280: 1280×1024 Uncooled Thermal Imaging Module for OEM Applications (Sponsored)",
       "source": "CNX Software",
@@ -348,31 +406,6 @@
       "url": "https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/"
     },
     {
-      "title": "Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-10-14",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Bitmerse Romu is a tiny (15.5 x 12 mm), almost minimal Raspberry Pi RP2354A USB board with a USB 2.0 interface on one side of the PCB, and the dual Cortex-M33/RISC-V MCU on the other side, connected to a few debugging/programming pads, buttons, and an RGB...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/14/romu-tiny-raspberry-pi-rp2354a-usb-board/"
-    },
-    {
       "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
       "source": "CNX Software",
       "date": "2026-10-14",
@@ -600,31 +633,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Aeris and Telna partner to reduce global IoT connectivity fragmentation, expanding IoT Accelerator coverage in Brazil\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/07/158733-aeris-telna-partnership-iot-connectivity-brazil-iot-accelerator/"
-    },
-    {
-      "title": "SEALSQ’s sister company WISeSat.Space completes business combination with Columbus Acquisition Corporation",
-      "source": "IoT Now",
-      "date": "2026-10-06",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "WISeSat.Space ordinary shares have begun trading on Nasdaq under the ticker SAIQ, establishing a separately listed company focused on post-quantum-secure satellite IoT connectivity. The post SEALSQ’s sister company WISeSat.Space completes business combination...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "SEALSQ’s sister company WISeSat.Space completes business combination with Columbus Acquisition Corporation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/06/158711-wisesat-space-columbus-acquisition-nasdaq-listing-satellite-iot/"
     }
   ]
 }
