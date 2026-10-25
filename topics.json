@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:50:38.602Z",
+  "generatedAt": "2026-10-25T06:01:00.427Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,34 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine",
+      "source": "CNX Software",
+      "date": "2026-10-25",
+      "product": "LoRa Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "Deki Engine is an open-source modular C++ engine with a Unity-style visual editor for embedded devices, currently optimized for ESP32 platforms such as LilyGO T-Deck Plus, T-Display S3 AMOLED, and soon Elecrow CrowPanel Advanced 7″ ESP32-P4. The editor is...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/"
+    },
     {
       "title": "ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC",
       "source": "CNX Software",
@@ -406,35 +434,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/19/158940-csl-group-acquires-simpl-wireless-critical-connectivity-north-america/"
-    },
-    {
-      "title": "M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display",
-      "source": "CNX Software",
-      "date": "2026-10-18",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "M5Stack has released the PaperDIY series, an updated version of its 2020 M5Paper ESP32 development kit, featuring an ESP32-S3 MCU and a 4.7-inch e-paper display with 16 levels of gray. It comes in two versions: the PaperDIY Complete Kit, which ships...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/18/m5stack-paperdiy-kits-pair-an-esp32-s3-mcu-with-a-4-7-inch-e-paper-display/"
     },
     {
       "title": "Altair Semiconductor integrates Iridium NTN Direct into ALT1350 and ALT1550 cellular IoT chipsets",
