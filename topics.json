@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:13:01.431Z",
+  "generatedAt": "2026-10-27T12:02:53.688Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/O",
+      "source": "CNX Software",
+      "date": "2026-10-27",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Synergy Logic SLM-RP4 industrial PLC is built around a Raspberry Pi 4 SBC and designed for industrial automation, machine control, data acquisition, and Industrial IoT (IIoT) applications. The DIN-rail mountable controller supports 24V DC input and an...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/O\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o/"
+    },
     {
       "title": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications",
       "source": "CNX Software",
@@ -35,6 +64,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/"
+    },
+    {
+      "title": "Keysight and KTL advance NR-NTN validation for satellite connectivity",
+      "source": "IoT Now",
+      "date": "2026-10-27",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Korea Testing Laboratory has selected Keysight NR-NTN RF and RRM test solutions to expand its acceptance testing for satellite-enabled devices and networks. The post Keysight and KTL advance NR-NTN validation for satellite connectivity appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Keysight and KTL advance NR-NTN validation for satellite connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/27/159032-keysight-ktl-nr-ntn-validation-satellite-connectivity/"
+    },
+    {
+      "title": "GSMA MWC27 Barcelona countdown begins, with new dedicated technology spaces for automotive, health and aviation",
+      "source": "IoT Now",
+      "date": "2026-10-27",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "GSMA MWC27 Barcelona returns to Fira Gran Via from 1 to 4 March 2027, adding three dedicated technology spaces for automotive, health and aviation alongside showcases on frontier AI, robotics and NTN satellite connectivity. The post GSMA MWC27 Barcelona...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GSMA MWC27 Barcelona countdown begins, with new dedicated technology spaces for automotive, health and aviation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/27/159036-gsma-mwc27-barcelona-countdown-automotive-health-aviation/"
     },
     {
       "title": "Renesas RX74M and RX74N – 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process",
@@ -437,34 +516,6 @@
       "url": "https://iot-now.com/2026/10/20/158944-goodix-integrated-fingerprint-security-on-device-identity-authentication-iot-ai/"
     },
     {
-      "title": "Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz",
-      "source": "CNX Software",
-      "date": "2026-10-20",
-      "product": "LoRa Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "Earlier this month, we saw how the humble ESP32-S3 could be turned into an SDR transmitter and receiver; then we saw developer h0m3us3r release the w1700k-sdr project, which turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The LR2021-SDR...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/"
-    },
-    {
       "title": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America",
       "source": "IoT Now",
       "date": "2026-10-19",
@@ -588,56 +639,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT Now Contract Win List – September 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/14/158809-iot-now-contract-win-list-september-2026/"
-    },
-    {
-      "title": "SEALSQ unveils VaultIC409, a quantum-ready secure element designed for the next generation of connected devices",
-      "source": "IoT Now",
-      "date": "2026-10-13",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "SEALSQ has unveiled VaultIC409, a secure element built on its QS7001 platform that combines a hardware Root of Trust, cryptographic agility and SPI connectivity for post-quantum security. The post SEALSQ unveils VaultIC409, a quantum-ready secure element...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "SEALSQ unveils VaultIC409, a quantum-ready secure element designed for the next generation of connected devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/13/158784-sealsq-vaultic409-quantum-ready-secure-element-connected-devices/"
-    },
-    {
-      "title": "Fibocom and Grid-OS accelerate IoT deployment at scale in India at IMC 2026",
-      "source": "IoT Now",
-      "date": "2026-10-12",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Fibocom is collaborating with India-based IoT ODM Grid-OS on smart payment and vehicle tracking devices built on its LTE Cat 1 bis modules, showcased at IMC 2026. The post Fibocom and Grid-OS accelerate IoT deployment at scale in India at IMC 2026 appeared...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Fibocom and Grid-OS accelerate IoT deployment at scale in India at IMC 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/12/158773-fibocom-grid-os-iot-deployment-at-scale-india-imc-2026/"
     }
   ]
 }
