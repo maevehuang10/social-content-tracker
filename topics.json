@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:38:25.350Z",
+  "generatedAt": "2026-10-27T06:13:01.431Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,15 @@
   ],
   "topics": [
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
+      "title": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications",
+      "source": "CNX Software",
+      "date": "2026-10-27",
+      "product": "BLE Module",
+      "score": 98,
       "formats": [
-        "Short Video",
         "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
         "Carousel"
       ],
       "platforms": [
@@ -24,95 +26,15 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-10-27"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "MYIR MYC-JR3576 is a SMARC 2.2 system-on-module (SoM) powered by a Rockchip RK3576/RK3576J octa-core Cortex-A72/A53 SoC with a 6 TOPS NPU designed for Edge AI applications. It features up to 8GB LPDDR5, up to 64GB eMMC flash, an optional WiFI 6E and Bluetooth...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/"
     },
     {
       "title": "Renesas RX74M and RX74N – 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process",
@@ -543,31 +465,6 @@
       "url": "https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/"
     },
     {
-      "title": "Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures",
-      "source": "CNX Software",
-      "date": "2026-10-19",
-      "product": "ESP32 Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Linus Torvalds announced the release of Linux 7.3 on LKML last Sunday: It’s Sunday afternoon, and this week I somehow kept my wits together long enough to keep track of the day of the week, so the release isn’t randomly delayed. Will wonders never cease?...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/"
-    },
-    {
       "title": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America",
       "source": "IoT Now",
       "date": "2026-10-19",
@@ -641,6 +538,106 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GSMA MWC26 Doha: New agenda-setting speaker and exhibitor line-up revealed\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/14/158817-gsma-mwc26-doha-speaker-exhibitor-line-up-revealed/"
+    },
+    {
+      "title": "BroadForward delivers secure signalling for Terrestar’s satellite direct-to-mobile connectivity across Canada",
+      "source": "IoT Now",
+      "date": "2026-10-14",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "BroadForward’s 4G routing and Diameter Firewall are now live in Terrestar Solutions’ network, routing signalling between satellite and cellular domains to extend mobile and IoT coverage across remote Canada. The post BroadForward delivers secure signalling...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "BroadForward delivers secure signalling for Terrestar’s satellite direct-to-mobile connectivity across Canada\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/14/158814-broadforward-terrestar-satellite-direct-to-mobile-signalling-canada/"
+    },
+    {
+      "title": "IoT Now Contract Win List – September 2026",
+      "source": "IoT Now",
+      "date": "2026-10-14",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The IoT Now Contract Win List for September 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – September 2026 appeared first...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now Contract Win List – September 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/14/158809-iot-now-contract-win-list-september-2026/"
+    },
+    {
+      "title": "SEALSQ unveils VaultIC409, a quantum-ready secure element designed for the next generation of connected devices",
+      "source": "IoT Now",
+      "date": "2026-10-13",
+      "product": "BLE Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SEALSQ has unveiled VaultIC409, a secure element built on its QS7001 platform that combines a hardware Root of Trust, cryptographic agility and SPI connectivity for post-quantum security. The post SEALSQ unveils VaultIC409, a quantum-ready secure element...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SEALSQ unveils VaultIC409, a quantum-ready secure element designed for the next generation of connected devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/13/158784-sealsq-vaultic409-quantum-ready-secure-element-connected-devices/"
+    },
+    {
+      "title": "Fibocom and Grid-OS accelerate IoT deployment at scale in India at IMC 2026",
+      "source": "IoT Now",
+      "date": "2026-10-12",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Fibocom is collaborating with India-based IoT ODM Grid-OS on smart payment and vehicle tracking devices built on its LTE Cat 1 bis modules, showcased at IMC 2026. The post Fibocom and Grid-OS accelerate IoT deployment at scale in India at IMC 2026 appeared...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Fibocom and Grid-OS accelerate IoT deployment at scale in India at IMC 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/12/158773-fibocom-grid-os-iot-deployment-at-scale-india-imc-2026/"
     }
   ]
 }
