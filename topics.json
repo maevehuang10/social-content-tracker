@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:54:52.231Z",
+  "generatedAt": "2026-10-28T06:48:43.162Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,13 @@
   ],
   "topics": [
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-10-28",
+      "product": "BLE Module",
+      "score": 93,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -22,97 +22,15 @@
         "Facebook"
       ],
       "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-10-28"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Picotronix is a modular oscilloscope, logic analyzer, and frequency meter from Sydney-based Thort Werx Pty Ltd, based on two Raspberry Pi Pico 2 units, more exactly a Pico 2 used as a signal processor and a Pico 2 W used to drive the display and for wireless...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/"
     },
     {
       "title": "Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os",
@@ -598,31 +516,6 @@
       "url": "https://www.cnx-software.com/2026/10/21/esp-mosaico-an-esp32-s31-based-modular-development-platform-for-ai-assisted-hardware-creation/"
     },
     {
-      "title": "Raytron SE5 1280: 1280×1024 Uncooled Thermal Imaging Module for OEM Applications (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-10-21",
-      "product": "ESP32 Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "The Raytron SE5 1280 is a high-resolution uncooled infrared module designed for integration into OEM thermal imaging systems. Based on a 1280 × 1024 uncooled VOx infrared detector with a 12 μm pixel pitch, the module delivers more than 1.3 million infrared...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Raytron SE5 1280: 1280×1024 Uncooled Thermal Imaging Module for OEM Applications (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/21/raytron-se5-1280-1280x1024-uncooled-thermal-imaging-module-for-oem-applications/"
-    },
-    {
       "title": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices",
       "source": "IoT Now",
       "date": "2026-10-20",
@@ -646,6 +539,106 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/20/158944-goodix-integrated-fingerprint-security-on-device-identity-authentication-iot-ai/"
+    },
+    {
+      "title": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America",
+      "source": "IoT Now",
+      "date": "2026-10-19",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "CSL Group has acquired US-based IoT eSIM provider SIMPL Wireless, adding multi-carrier eSIM, the Compass management platform and Tier-1 US carrier partnerships to its global IoT connectivity platform. The post CSL Group acquires SIMPL Wireless to bring...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/19/158940-csl-group-acquires-simpl-wireless-critical-connectivity-north-america/"
+    },
+    {
+      "title": "Altair Semiconductor integrates Iridium NTN Direct into ALT1350 and ALT1550 cellular IoT chipsets",
+      "source": "IoT Now",
+      "date": "2026-10-15",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Altair Semiconductor is integrating Iridium NTN Direct into its ALT1350 and next-generation ALT1550 platforms, putting terrestrial cellular IoT and satellite connectivity on a single chipset. The post Altair Semiconductor integrates Iridium NTN Direct into...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Altair Semiconductor integrates Iridium NTN Direct into ALT1350 and ALT1550 cellular IoT chipsets\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/15/158841-altair-semiconductor-iridium-ntn-direct-alt1350-alt1550-cellular-iot-chipsets/"
+    },
+    {
+      "title": "GSMA MWC26 Doha: New agenda-setting speaker and exhibitor line-up revealed",
+      "source": "IoT Now",
+      "date": "2026-10-14",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The GSMA has announced the speaker and exhibitor line-up for MWC26 Doha, which returns to the Doha Exhibition and Convention Center on 8 to 10 November 2026, co-located with the ITU Plenipotentiary Conference. The post GSMA MWC26 Doha: New agenda-setting...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GSMA MWC26 Doha: New agenda-setting speaker and exhibitor line-up revealed\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/14/158817-gsma-mwc26-doha-speaker-exhibitor-line-up-revealed/"
+    },
+    {
+      "title": "BroadForward delivers secure signalling for Terrestar’s satellite direct-to-mobile connectivity across Canada",
+      "source": "IoT Now",
+      "date": "2026-10-14",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "BroadForward’s 4G routing and Diameter Firewall are now live in Terrestar Solutions’ network, routing signalling between satellite and cellular domains to extend mobile and IoT coverage across remote Canada. The post BroadForward delivers secure signalling...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "BroadForward delivers secure signalling for Terrestar’s satellite direct-to-mobile connectivity across Canada\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/10/14/158814-broadforward-terrestar-satellite-direct-to-mobile-signalling-canada/"
     }
   ]
 }
