@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T06:48:43.162Z",
+  "generatedAt": "2026-10-28T12:43:28.660Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -31,6 +31,34 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/"
+    },
+    {
+      "title": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity",
+      "source": "CNX Software",
+      "date": "2026-10-28",
+      "product": "LoRa Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "LILYGO T-Display K230 is a handheld dev kit based on Canaan’s Kendryte K230 dual-core 64-bit RISC-V processor. The kit features a 4.1-inch AMOLED touchscreen and supports an optional detachable keyboard with battery and optional nRF9151 cellular and GNSS...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/10/28/lilygo-t-display-k230-risc-v-ai-dev-kit-features-amoled-lora-and-an-optional-keyboard/"
     },
     {
       "title": "Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os",
@@ -485,35 +513,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "PHY Wireless and Ubiik deliver a 3GPP standards-based alternative for Physical AI and industrial positioning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/21/158947-phy-wireless-ubiik-3gpp-cellular-positioning-physical-ai-industrial/"
-    },
-    {
-      "title": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation",
-      "source": "CNX Software",
-      "date": "2026-10-21",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Espressif Systems ESP-Mosaico is an ESP32-S31 development platform with a 480 × 480 OLED touchscreen, haptic feedback, a built-in battery, USB Type-C connectivity, and expansion I/O. It’s specifically designed for AI <-> hardware integration and targets...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/21/esp-mosaico-an-esp32-s31-based-modular-development-platform-for-ai-assisted-hardware-creation/"
     },
     {
       "title": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices",
