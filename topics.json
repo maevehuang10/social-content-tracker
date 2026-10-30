@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:45:46.262Z",
+  "generatedAt": "2026-10-30T17:57:52.556Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-10-31"
+    },
     {
       "title": "Azume One – A 2.8mm sensor that turns any regular wristwatch into a health tracker (Crowdfunding)",
       "source": "CNX Software",
@@ -532,111 +639,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc/"
-    },
-    {
-      "title": "The AI worm your security stack can’t see: Why cellular IoT is the blind spot",
-      "source": "IoT Now",
-      "date": "2026-10-22",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Anthropic just put a date on a threat most security teams have filed under \"someday.\" The question it leaves open is the one that matters for enterprises: who can actually see the devices it targets?, writes Matt Coleman, the chief revenue officer of...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "The AI worm your security stack can’t see: Why cellular IoT is the blind spot\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/22/158963-ai-worm-cellular-iot-security-blind-spot/"
-    },
-    {
-      "title": "PHY Wireless and Ubiik deliver a 3GPP standards-based alternative for Physical AI and industrial positioning",
-      "source": "IoT Now",
-      "date": "2026-10-21",
-      "product": "BLE Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "PHY Wireless and Ubiik are collaborating on an integrated communications and positioning platform that adds edge-based cellular positioning to private LTE and 5G networks for industrial and enterprise sites. The post PHY Wireless and Ubiik deliver a 3GPP...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "PHY Wireless and Ubiik deliver a 3GPP standards-based alternative for Physical AI and industrial positioning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/21/158947-phy-wireless-ubiik-3gpp-cellular-positioning-physical-ai-industrial/"
-    },
-    {
-      "title": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices",
-      "source": "IoT Now",
-      "date": "2026-10-20",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Goodix Technology has introduced a multi-tier fingerprint portfolio covering Match-on-Host, Match-on-Chip and an integrated MoC + eSE solution for on-device identity authentication in IoT and AI edge devices. The post Goodix launches integrated fingerprint...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/20/158944-goodix-integrated-fingerprint-security-on-device-identity-authentication-iot-ai/"
-    },
-    {
-      "title": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America",
-      "source": "IoT Now",
-      "date": "2026-10-19",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "CSL Group has acquired US-based IoT eSIM provider SIMPL Wireless, adding multi-carrier eSIM, the Compass management platform and Tier-1 US carrier partnerships to its global IoT connectivity platform. The post CSL Group acquires SIMPL Wireless to bring...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/19/158940-csl-group-acquires-simpl-wireless-critical-connectivity-north-america/"
     }
   ]
 }
