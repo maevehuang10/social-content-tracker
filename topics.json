@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:37:08.430Z",
+  "generatedAt": "2026-11-02T15:39:45.680Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,85 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "AT&T and Smart Meter expand connected healthcare reach with Global SIM Advanced",
+      "source": "IoT Now",
+      "date": "2026-11-02",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "AT&T and Smart Meter are expanding their collaboration, using AT&T Global SIM Advanced multi-profile eSIM to keep cellular remote patient monitoring devices connected in more locations across the US. The post AT&T and Smart Meter expand connected healthcare...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "AT&T and Smart Meter expand connected healthcare reach with Global SIM Advanced\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/02/159123-att-smart-meter-connected-healthcare-global-sim-advanced/"
+    },
+    {
+      "title": "Banana Pi BPI-M8 – An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket",
+      "source": "CNX Software",
+      "date": "2026-11-02",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Banana Pi BPI-M8 is a credit card-sized SBC powered by an Allwinner A733 octa-core Cortex-A76/A55 SoC that aims to offer an alternative to the Raspberry Pi 5. The BPI-M8 comes with 4GB LPDDR5, HDMI and MIPI DSI display interfaces, two MIPI CSI camera...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Banana Pi BPI-M8 – An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/02/banana-pi-bpi-m8-an-allwinner-a733-sbc-inspired-by-the-raspberry-pi-5-with-pcie-ffc-connector-ufs-module-socket/"
+    },
+    {
+      "title": "TOOCAA NOVA Review – 20W laser engraver with AI camera, autofocus, and rotary module",
+      "source": "CNX Software",
+      "date": "2026-11-02",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "TOOCAA NOVA is a desktop laser cutter and engraver that combines creative functions in a compact body. It comes with a translucent orange cover and an A4 work area of 297 × 210 mm, suitable for making signs, decorations, personalized gifts, and DIY projects....",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "TOOCAA NOVA Review – 20W laser engraver with AI camera, autofocus, and rotary module\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/02/toocaa-nova-review-20w-laser-engraver-with-ai-camera-autofocus-rotary-module/"
+    },
     {
       "title": "Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI",
       "source": "CNX Software",
@@ -344,35 +423,6 @@
       "url": "https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o/"
     },
     {
-      "title": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications",
-      "source": "CNX Software",
-      "date": "2026-10-27",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MYIR MYC-JR3576 is a SMARC 2.2 system-on-module (SoM) powered by a Rockchip RK3576/RK3576J octa-core Cortex-A72/A53 SoC with a 6 TOPS NPU designed for Edge AI applications. It features up to 8GB LPDDR5, up to 64GB eMMC flash, an optional WiFI 6E and Bluetooth...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/"
-    },
-    {
       "title": "Keysight and KTL advance NR-NTN validation for satellite connectivity",
       "source": "IoT Now",
       "date": "2026-10-27",
@@ -446,35 +496,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GSMA MWC27 Barcelona countdown begins, with new dedicated technology spaces for automotive, health and aviation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/27/159036-gsma-mwc27-barcelona-countdown-automotive-health-aviation/"
-    },
-    {
-      "title": "Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",
-      "source": "CNX Software",
-      "date": "2026-10-26",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Adafruit has launched the Metro ESP32-P4 Hydra, an Arduino UNO-shaped development board with ESP32-P4, 16MB PSRAM, and 16MB NOR flash, and an ESP32-C6 for WiFi 6, Bluetooth 5.3 LE, Thread, and Zigbee connectivity. Other features include Raspberry...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/26/adafruit-metro-esp32-p4-hydra-an-arduino-uno-shaped-esp32-p4-esp32-c6-board-with-wifi-6-mipi-interfaces/"
     },
     {
       "title": "Your devices cross borders. Does your SIM?",
@@ -605,31 +626,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/20/158944-goodix-integrated-fingerprint-security-on-device-identity-authentication-iot-ai/"
-    },
-    {
-      "title": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America",
-      "source": "IoT Now",
-      "date": "2026-10-19",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "CSL Group has acquired US-based IoT eSIM provider SIMPL Wireless, adding multi-carrier eSIM, the Compass management platform and Tier-1 US carrier partnerships to its global IoT connectivity platform. The post CSL Group acquires SIMPL Wireless to bring...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "CSL Group acquires SIMPL Wireless to bring Critical Connectivity to North America\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/19/158940-csl-group-acquires-simpl-wireless-critical-connectivity-north-america/"
     }
   ]
 }
