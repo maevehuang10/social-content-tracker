@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:51:35.437Z",
+  "generatedAt": "2026-11-03T14:03:15.502Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices",
+      "source": "CNX Software",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Nordic Semi has just announced the nRF71 Series of ultra-low-power SoCs with ultra-low-power Wi-Fi 6, Bluetooth Low Energy (LE), and Thread connectivity, as well as an Axon NPU for edge AI workloads. The company claims the new chips, starting with the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/03/nordic-semi-nrf71-wireless-chips-to-deliver-20-times-lower-standby-power-for-battery-operated-wifi-devices/"
+    },
     {
       "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
       "source": "CNX Software",
@@ -31,6 +60,135 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/"
+    },
+    {
+      "title": "Your IoT Devices Are Talking. Do You Know Who To?",
+      "source": "IoT Now",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Explore how managed IoT connectivity can help improve resilience, visibility, security and compliance across global deployments. IoT connectivity is becoming more complex as enterprises scale globally, navigate evolving regulations and … Continued The post...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Your IoT Devices Are Talking. Do You Know Who To?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/03/159167-your-iot-devices-are-talking-do-you-know-who-to/"
+    },
+    {
+      "title": "Ceva and Mobilint advance Physical AI with REGULUS edge AI SoC",
+      "source": "IoT Now",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Mobilint has deployed Ceva's SensPro AI DSP and NeuPro-Nano NPU in its REGULUS edge AI SoC, delivering 10 TOPS at under 3W for Physical AI devices. The post Ceva and Mobilint advance Physical AI with REGULUS edge AI SoC appeared first on IoT Now News - How to...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Ceva and Mobilint advance Physical AI with REGULUS edge AI SoC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/03/159158-ceva-mobilint-physical-ai-regulus-edge-ai-soc/"
+    },
+    {
+      "title": "Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware",
+      "source": "CNX Software",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Seeed Studio has launched two Nordic nRF52840-based Bluetooth LE e-paper kits preloaded with the OpenDisplay open-source firmware for e-paper displays and supporting Home Assistant integration. The OpenDisplay 4.26″ Mono features a 4.26-inch...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/03/seeed-studio-4-26-mono-and-7-3-color-e-paper-kits-opendisplay-firmware/"
+    },
+    {
+      "title": "Satellite IoT: No more blind spots in asset tracking",
+      "source": "IoT Now",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "What happens when vehicles and cargo move beyond mobile network coverage? In this video interview, Subhadip Roy, Senior Analyst at Counterpoint Research, speaks with Martin Jefferson, Global Solution Architect at … Continued The post Satellite IoT: No more...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Satellite IoT: No more blind spots in asset tracking\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/03/158949-satellite-iot-no-more-blind-spots-in-asset-tracking/"
+    },
+    {
+      "title": "AI-enabled RAN automation and optimisation a US$1.1 billion market, says SNS Telecom & IT",
+      "source": "IoT Now",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "A new report from SNS Telecom & IT indicates that annual spending on AI-enabled RAN automation and optimisation is projected to reach US$1.1 billion by 2030 as mobile operators scale … Continued The post AI-enabled RAN automation and optimisation a US$1.1...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "AI-enabled RAN automation and optimisation a US$1.1 billion market, says SNS Telecom & IT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/03/159153-ai-enabled-ran-automation-and-optimisation-a-us1-1-billion-market-says-sns-telecom-it/"
     },
     {
       "title": "AT&T and Smart Meter expand connected healthcare reach with Global SIM Advanced",
@@ -316,59 +474,6 @@
       "url": "https://www.cnx-software.com/2026/10/29/2600-lattepanda-sigma-2-single-board-server-features-180-tops-intel-core-ultra-x7-358h-soc-for-local-ai-applications/"
     },
     {
-      "title": "Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-10-28",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Picotronix is a modular oscilloscope, logic analyzer, and frequency meter from Sydney-based Thort Werx Pty Ltd, based on two Raspberry Pi Pico 2 units, more exactly a Pico 2 used as a signal processor and a Pico 2 W used to drive the display and for wireless...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/"
-    },
-    {
-      "title": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity",
-      "source": "CNX Software",
-      "date": "2026-10-28",
-      "product": "LoRa Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "LILYGO T-Display K230 is a handheld dev kit based on Canaan’s Kendryte K230 dual-core 64-bit RISC-V processor. The kit features a 4.1-inch AMOLED touchscreen and supports an optional detachable keyboard with battery and optional nRF9151 cellular and GNSS...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/10/28/lilygo-t-display-k230-risc-v-ai-dev-kit-features-amoled-lora-and-an-optional-keyboard/"
-    },
-    {
       "title": "Barcelona Cybersecurity Congress to address the impact of AI on cybersecurity",
       "source": "IoT Now",
       "date": "2026-10-28",
@@ -517,111 +622,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Your devices cross borders. Does your SIM?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/10/26/158919-your-devices-cross-borders-does-your-sim/"
-    },
-    {
-      "title": "Semtech brings 5G network slicing, FIPS 140-3 to IACP 2026",
-      "source": "IoT Now",
-      "date": "2026-10-26",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Semtech is adding 5G network slicing support, FIPS 140-3 compliance via a software update and new fleet management tools to its AirLink routers for public safety fleets. The post Semtech brings 5G network slicing, FIPS 140-3 to IACP 2026 appeared first on IoT...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Semtech brings 5G network slicing, FIPS 140-3 to IACP 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/26/159024-semtech-5g-network-slicing-fips-140-3-iacp-2026/"
-    },
-    {
-      "title": "The AI worm your security stack can’t see: Why cellular IoT is the blind spot",
-      "source": "IoT Now",
-      "date": "2026-10-22",
-      "product": "BLE Module",
-      "score": 92,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Anthropic just put a date on a threat most security teams have filed under \"someday.\" The question it leaves open is the one that matters for enterprises: who can actually see the devices it targets?, writes Matt Coleman, the chief revenue officer of...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "The AI worm your security stack can’t see: Why cellular IoT is the blind spot\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/22/158963-ai-worm-cellular-iot-security-blind-spot/"
-    },
-    {
-      "title": "PHY Wireless and Ubiik deliver a 3GPP standards-based alternative for Physical AI and industrial positioning",
-      "source": "IoT Now",
-      "date": "2026-10-21",
-      "product": "BLE Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "PHY Wireless and Ubiik are collaborating on an integrated communications and positioning platform that adds edge-based cellular positioning to private LTE and 5G networks for industrial and enterprise sites. The post PHY Wireless and Ubiik deliver a 3GPP...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "PHY Wireless and Ubiik deliver a 3GPP standards-based alternative for Physical AI and industrial positioning\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/21/158947-phy-wireless-ubiik-3gpp-cellular-positioning-physical-ai-industrial/"
-    },
-    {
-      "title": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices",
-      "source": "IoT Now",
-      "date": "2026-10-20",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Goodix Technology has introduced a multi-tier fingerprint portfolio covering Match-on-Host, Match-on-Chip and an integrated MoC + eSE solution for on-device identity authentication in IoT and AI edge devices. The post Goodix launches integrated fingerprint...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Goodix launches integrated fingerprint and security solution to secure on-device identity authentication in IoT and AI devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/20/158944-goodix-integrated-fingerprint-security-on-device-identity-authentication-iot-ai/"
     }
   ]
 }
