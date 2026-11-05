@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:31:44.392Z",
+  "generatedAt": "2026-11-05T19:52:14.807Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-11-06"
+    },
     {
       "title": "Acceleronix, IDEMIA Secure Transactions and Orange announce flexible, single-SKU manufacturing with quantum-safe IFPP",
       "source": "IoT Now",
@@ -36,6 +143,135 @@
       "url": "https://iot-now.com/2026/11/05/159230-acceleronix-idemia-orange-single-sku-quantum-safe-ifpp/"
     },
     {
+      "title": "NXP MCX W70 and KW43 wireless MCUs support Bluetooth Channel Sounding for IoT and automotive applications",
+      "source": "CNX Software",
+      "date": "2026-11-05",
+      "product": "BLE Module",
+      "score": 97,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "NXP MCX W70 and KW43 wireless MCU families support Bluetooth 6.x Channel Sounding for secure distance measurement in industrial IoT and automotive applications. The MCX W70 supports Bluetooth LE, Zigbee, Thread, and Matter for Smart Home and industrial...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "NXP MCX W70 and KW43 wireless MCUs support Bluetooth Channel Sounding for IoT and automotive applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/05/nxp-mcx-w70-and-kw43-wireless-mcus-support-bluetooth-channel-sounding-for-iot-and-automotive-applications/"
+    },
+    {
+      "title": "P4 Launcher offers a PC-like and retro gaming experience on ESP32-P4 boards",
+      "source": "CNX Software",
+      "date": "2026-11-05",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Gil Tal has developed the P4 Launcher, an open-source application platform designed to bring a PC-like experience to ESP32-P4 boards with an attached touchscreen display. The launcher boots directly into its interface, while applications (.papp files) are...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "P4 Launcher offers a PC-like and retro gaming experience on ESP32-P4 boards\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/05/p4-launcher-offers-a-pc-like-and-retro-gaming-experience-on-esp32-p4-boards/"
+    },
+    {
+      "title": "ACEMAGIC Kron Mini K5 Review – Part 3: Ubuntu 26.04 on an entry-level Wildcat Lake mini PC",
+      "source": "CNX Software",
+      "date": "2026-11-05",
+      "product": "WiFi Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
+      ],
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "After checking out the ACEMAGIC Kron Mini K5’s hardware with an unboxing and a teardown in the first part of the review, we tested the entry-level Intel Core 3 304 mini PC on Windows 11, and we’ve now taken the time to test Linux on the low-cost mini PC with...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "ACEMAGIC Kron Mini K5 Review – Part 3: Ubuntu 26.04 on an entry-level Wildcat Lake mini PC\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/05/acemagic-kron-mini-k5-review-part-3-ubuntu-26-04-on-an-entry-level-wildcat-lake-mini-pc/"
+    },
+    {
+      "title": "Altera Agilex 27 FPGA & SoC family features up to 17.6M logic elements, Cortex-A720/A-520 cores, 256 Gbps SerDes, PCIe 7.0",
+      "source": "CNX Software",
+      "date": "2026-11-05",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Altera has introduced the Agilex 27 FPGA and SoC family designed for AI infrastructure, high-speed networking, 6G and satellite communications, and aerospace and defense applications. The family includes 14 device models, each available as either an FPGA-only...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Altera Agilex 27 FPGA & SoC family features up to 17.6M logic elements, Cortex-A720/A-520 cores, 256 Gbps SerDes, PCIe 7.0\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/05/altera-agilex-27-fpga-soc-family-features-up-to-17-6m-logic-elements-cortex-a720-a-520-cores-256-gbps-serdes-pcie-7-0/"
+    },
+    {
+      "title": "$21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more",
+      "source": "CNX Software",
+      "date": "2026-11-04",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Wireless Tag WT99P461-S1 is an ESP32-P4X and ESP32-C61 board based on the same WT01P461-S1 module as found on the ESP32P4C61-TINY board introduced last June. The main differences are that the WT99P461-S1 is a full-featured development board, adding features...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "$21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/04/21-esp32-p4x-and-esp32-c61-full-featured-board-offers-ethernet-wifi-6-rs485-can-bus-mipi-csi-dsi-and-more/"
+    },
+    {
       "title": "Is your IoT connectivity ready for critical operations?",
       "source": "IoT Now",
       "date": "2026-11-04",
@@ -59,6 +295,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Is your IoT connectivity ready for critical operations?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/04/157322-is-your-iot-connectivity-ready-for-critical-operations/"
+    },
+    {
+      "title": "LattePanda Mu Ultra Review – An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04",
+      "source": "CNX Software",
+      "date": "2026-11-04",
+      "product": "ESP32 Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Today, I’m going to review the LattePanda Mu Ultra, a compact x86 compute module designed for on-device AI applications. It comes in two versions, powered by either an Intel Core Ultra 5 226V or a Core Ultra 7 256V processor. Both models feature 16 GB of...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "LattePanda Mu Ultra Review – An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/04/lattepanda-mu-ultra-review-an-intel-core-ultra-7-256v-ai-compute-module-tested-on-ubuntu-26-04/"
+    },
+    {
+      "title": "1.3 million Google-certified Android TV boxes found to have malware",
+      "source": "CNX Software",
+      "date": "2026-11-04",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "You might assume that a Google-certified Android TV box will both work better and guarantee no malware. However, you’d be wrong, at least for the latter. Google has just published a new Threat Intelligence report entitled “Shutting the Door on the XCPE...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "1.3 million Google-certified Android TV boxes found to have malware\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/04/google-certified-android-tv-boxes-found-to-have-malware/"
     },
     {
       "title": "Nordic brings edge AI to battery-powered Wi-Fi devices",
@@ -88,6 +374,89 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Nordic brings edge AI to battery-powered Wi-Fi devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/04/159196-nordic-nrf71-series-edge-ai-battery-powered-wifi/"
+    },
+    {
+      "title": "ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4",
+      "source": "CNX Software",
+      "date": "2026-11-04",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "ZOTAC has introduced the ZBOX CI471 nano, a fanless mini PC powered by an Intel Core 7 350 hexa-core Wildcat Lake processor with integrated Xe3 graphics and a 17 TOPS NPU. The company has also introduced two lower-end models, the ZBOX CI451 nano with a Core 5...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/04/zotac-zbox-ci471-nano-fanless-mini-pc-features-intel-core-7-350-wifi-7-and-dual-thunderbolt-4/"
+    },
+    {
+      "title": "Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices",
+      "source": "CNX Software",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Nordic Semi has just announced the nRF71 Series of ultra-low-power SoCs with ultra-low-power Wi-Fi 6, Bluetooth Low Energy (LE), and Thread connectivity, as well as an Axon NPU for edge AI workloads. The company claims the new chips, starting with the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/03/nordic-semi-nrf71-wireless-chips-to-deliver-20-times-lower-standby-power-for-battery-operated-wifi-devices/"
+    },
+    {
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "source": "CNX Software",
+      "date": "2026-11-03",
+      "product": "ESP32 Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Raspberry Pi has announced yet another price increase, this time for most models with 16GB of RAM. The Raspberry Pi 5 16GB now sells for $385, an $80 increase compared to the last price hike in April, and the Raspberry Pi CM5 system-on-module gets a $40...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/"
     },
     {
       "title": "Your IoT Devices Are Talking. Do You Know Who To?",
@@ -138,6 +507,35 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Ceva and Mobilint advance Physical AI with REGULUS edge AI SoC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/03/159158-ceva-mobilint-physical-ai-regulus-edge-ai-soc/"
+    },
+    {
+      "title": "Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware",
+      "source": "CNX Software",
+      "date": "2026-11-03",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Seeed Studio has launched two Nordic nRF52840-based Bluetooth LE e-paper kits preloaded with the OpenDisplay open-source firmware for e-paper displays and supporting Home Assistant integration. The OpenDisplay 4.26″ Mono features a 4.26-inch...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/03/seeed-studio-4-26-mono-and-7-3-color-e-paper-kits-opendisplay-firmware/"
     },
     {
       "title": "Satellite IoT: No more blind spots in asset tracking",
@@ -215,18 +613,22 @@
       "url": "https://iot-now.com/2026/11/02/159123-att-smart-meter-connected-healthcare-global-sim-advanced/"
     },
     {
-      "title": "Renesas expands RL78 family with ultra-low-power 16-bit RL78/G21 MCU optimised for smart appliance system control",
-      "source": "IoT Now",
-      "date": "2026-10-29",
+      "title": "Banana Pi BPI-M8 – An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket",
+      "source": "CNX Software",
+      "date": "2026-11-02",
       "product": "BLE Module",
-      "score": 86,
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Sales Material"
+        "Sales Material",
+        "Short Video",
+        "Carousel"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook"
+        "Facebook",
+        "TikTok",
+        "YouTube"
       ],
       "tags": [
         "BLE",
@@ -234,85 +636,10 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Renesas has launched the RL78/G21, an ultra-low-power 16-bit MCU for system control in smart appliances, and expanded its RL78/G23 lineup with additional capacitive-touch channels. The post Renesas expands RL78 family with ultra-low-power 16-bit RL78/G21 MCU...",
+      "summary": "Banana Pi BPI-M8 is a credit card-sized SBC powered by an Allwinner A733 octa-core Cortex-A76/A55 SoC that aims to offer an alternative to the Raspberry Pi 5. The BPI-M8 comes with 4GB LPDDR5, HDMI and MIPI DSI display interfaces, two MIPI CSI camera...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Renesas expands RL78 family with ultra-low-power 16-bit RL78/G21 MCU optimised for smart appliance system control\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/29/159101-renesas-rl78-g21-ultra-low-power-16-bit-mcu-smart-appliances/"
-    },
-    {
-      "title": "Barcelona Cybersecurity Congress to address the impact of AI on cybersecurity",
-      "source": "IoT Now",
-      "date": "2026-10-28",
-      "product": "BLE Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The seventh Barcelona Cybersecurity Congress, from 3 to 5 November at Fira Gran Via, brings 150 international speakers and 111 exhibitors together to address how AI is reshaping cyber threats. The post Barcelona Cybersecurity Congress to address the impact of...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Barcelona Cybersecurity Congress to address the impact of AI on cybersecurity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/28/159076-barcelona-cybersecurity-congress-2026-ai-impact-cybersecurity/"
-    },
-    {
-      "title": "Visibility, Security and Simple Localisation:Scaling IoT Across APAC",
-      "source": "IoT Now",
-      "date": "2026-10-28",
-      "product": "BLE Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "How to build connected vehicle and physical AI deployments that are ready for the future Asia-Pacific offers huge growth opportunities, but every market is different. Each one has its own … Continued The post Visibility, Security and Simple...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Visibility, Security and Simple Localisation:Scaling IoT Across APAC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/28/159061-visibility-security-and-simple-localisationscaling-iot-across-apac/"
-    },
-    {
-      "title": "IoT deployment challenges white paper",
-      "source": "IoT Now",
-      "date": "2026-10-27",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "IoT deployment challenges white paper Why IoT projects stall and how to keep them on track Many IoT projects never make it beyond the pilot stage. Scaling complexity, fragmented suppliers, … Continued The post IoT deployment challenges white paper appeared...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT deployment challenges white paper\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/10/27/158981-iot-deployment-challenges-white-paper/"
+      "post": "Banana Pi BPI-M8 – An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/02/banana-pi-bpi-m8-an-allwinner-a733-sbc-inspired-by-the-raspberry-pi-5-with-pcie-ffc-connector-ufs-module-socket/"
     }
   ]
 }
