@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:21:27.031Z",
+  "generatedAt": "2026-11-10T14:46:35.956Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,60 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Vodafone IoT and Skylo launch commercial satellite connectivity service",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Skylo launches its NTN NB-IoT satellite service commercially for Vodafone IoT customers, letting devices switch between cellular and satellite on one SIM. The post Vodafone IoT and Skylo launch commercial satellite connectivity service appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Vodafone IoT and Skylo launch commercial satellite connectivity service\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159299-vodafone-iot-skylo-launch-commercial-satellite-connectivity-service/"
+    },
+    {
+      "title": "Robustel and Netmore form strategic technology partnership to accelerate global LoRaWAN deployments",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "LoRa Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "Robustel and Netmore partner to bring ThingPark LRR and LoRa Basics Station support to Robustel's industrial gateways, simplifying global LoRaWAN deployments. The post Robustel and Netmore form strategic technology partnership to accelerate global LoRaWAN...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "Robustel and Netmore form strategic technology partnership to accelerate global LoRaWAN deployments\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159293-robustel-netmore-strategic-partnership-global-lorawan-deployments/"
+    },
     {
       "title": "280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications",
       "source": "CNX Software",
@@ -31,6 +85,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/"
+    },
+    {
+      "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
+      "source": "CNX Software",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Andrii Shylenko’s LabWired is an MIT-licensed MCU firmware simulation core that runs compiled firmware against modeled CPUs and peripherals, captures UART and bus output, register state, and supports repeatable checks in CI. The simulator works on Arm...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/"
     },
     {
       "title": "ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding)",
@@ -85,6 +164,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "KiCad 10 now (unofficially) runs in a web browser or Android\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/10/kicad-10-now-unofficially-runs-in-a-web-browser-or-android/"
+    },
+    {
+      "title": "Scaling IoT across APAC: Why one global approach falls short and what to do instead",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Asia-Pacific is one of the fastest-growing regions for IoT but it is also one of the hardest to scale in. Connected vehicles, robotics, autonomous systems and physical AI are moving … Continued The post Scaling IoT across APAC: Why one global approach falls...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Scaling IoT across APAC: Why one global approach falls short and what to do instead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159303-scaling-iot-across-apac-why-one-global-approach-falls-short-and-what-to-do-instead/"
+    },
+    {
+      "title": "Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Jim Morrish and emnify’s Artur Michalczyk explore SGP.32, bootstrap connectivity and what IoT buyers should test before scaling eSIM deployments. The post Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale appeared first on IoT Now News - How...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159139-podcast-sgp-32-and-bootstrap-connectivity-preparing-iot-for-scale/"
     },
     {
       "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
@@ -385,31 +514,6 @@
       "url": "https://iot-now.com/2026/11/06/159256-esim-market-outlook-opportunities-in-iot-2026/"
     },
     {
-      "title": "AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H",
-      "source": "CNX Software",
-      "date": "2026-11-06",
-      "product": "Cellular IoT Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "AAEON claims the PICO-PTH4 is the world’s first 2.5-inch Pico-ITX board powered by an Intel Panther Lake processor, such as the Core Ultra 5 325, Core Ultra 7 355, and Core Ultra X7 358H, delivering up to 180 TOPS of AI performance in a 100mm x 72mm form...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/06/aaeon-pico-pth4-pico-itx-board-is-powered-by-an-intel-panther-lake-soc-up-to-the-core-ultra-x7-358h/"
-    },
-    {
       "title": "MWC26 Doha exhibition showfloor sold out, as final registration call issued for MENA connectivity event",
       "source": "IoT Now",
       "date": "2026-11-06",
@@ -536,110 +640,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Is your IoT connectivity ready for critical operations?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/04/157322-is-your-iot-connectivity-ready-for-critical-operations/"
-    },
-    {
-      "title": "Nordic brings edge AI to battery-powered Wi-Fi devices",
-      "source": "IoT Now",
-      "date": "2026-11-04",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Nordic Semiconductor's nRF71 Series combines Wi-Fi, Bluetooth LE, Thread and edge AI on one chip, with up to 20 times lower standby power than nRF70. The post Nordic brings edge AI to battery-powered Wi-Fi devices appeared first on IoT Now News - How to run...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Nordic brings edge AI to battery-powered Wi-Fi devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/04/159196-nordic-nrf71-series-edge-ai-battery-powered-wifi/"
-    },
-    {
-      "title": "Ceva and Mobilint advance Physical AI with REGULUS edge AI SoC",
-      "source": "IoT Now",
-      "date": "2026-11-03",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Mobilint has deployed Ceva's SensPro AI DSP and NeuPro-Nano NPU in its REGULUS edge AI SoC, delivering 10 TOPS at under 3W for Physical AI devices. The post Ceva and Mobilint advance Physical AI with REGULUS edge AI SoC appeared first on IoT Now News - How to...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Ceva and Mobilint advance Physical AI with REGULUS edge AI SoC\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/03/159158-ceva-mobilint-physical-ai-regulus-edge-ai-soc/"
-    },
-    {
-      "title": "Satellite IoT: No more blind spots in asset tracking",
-      "source": "IoT Now",
-      "date": "2026-11-03",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "What happens when vehicles and cargo move beyond mobile network coverage? In this video interview, Subhadip Roy, Senior Analyst at Counterpoint Research, speaks with Martin Jefferson, Global Solution Architect at … Continued The post Satellite IoT: No more...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Satellite IoT: No more blind spots in asset tracking\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/03/158949-satellite-iot-no-more-blind-spots-in-asset-tracking/"
-    },
-    {
-      "title": "AI-enabled RAN automation and optimisation a US$1.1 billion market, says SNS Telecom & IT",
-      "source": "IoT Now",
-      "date": "2026-11-03",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "A new report from SNS Telecom & IT indicates that annual spending on AI-enabled RAN automation and optimisation is projected to reach US$1.1 billion by 2030 as mobile operators scale … Continued The post AI-enabled RAN automation and optimisation a US$1.1...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "AI-enabled RAN automation and optimisation a US$1.1 billion market, says SNS Telecom & IT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/03/159153-ai-enabled-ran-automation-and-optimisation-a-us1-1-billion-market-says-sns-telecom-it/"
     }
   ]
 }
