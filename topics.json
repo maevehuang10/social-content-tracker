@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:13:50.789Z",
+  "generatedAt": "2026-11-12T15:03:38.250Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -62,6 +62,35 @@
       "url": "https://www.cnx-software.com/2026/11/12/lumissil-is31cs9202-is32cs9202-cortex-m0-mcus-integrate-serial-video-bus-sbv-lumibus-and-capacitive-touch-key-controller/"
     },
     {
+      "title": "VZMORE iX9 Max (U9-185H) mini PC review – Part 1: Specs, unboxing, teardown, and first boot",
+      "source": "CNX Software",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "VZMORE sent us a review sample of the iX9 Max mini PC powered by an Intel Core Ultra 9 185H 16-core/22-thread Meteor Lake processor clocked at up to 5.1 GHz, paired with 24 GB of LPDDR5-5600 memory and a 1 TB NVMe SSD. It supports up to four simultaneous...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "VZMORE iX9 Max (U9-185H) mini PC review – Part 1: Specs, unboxing, teardown, and first boot\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/12/vzmore-ix9-max-u9-185h-mini-pc-review-part-1-specs-unboxing-teardown-and-first-boot/"
+    },
+    {
       "title": "WeAct Logic Analyzer V2 – A $10 USB 3.0 logic analyzer board compatible with Sigrok/Pulseview (fork)",
       "source": "CNX Software",
       "date": "2026-11-12",
@@ -87,7 +116,132 @@
       "url": "https://www.cnx-software.com/2026/11/12/weact-logic-analyzer-v2-a-10-usb-3-0-logic-analyzer-board-compatible-with-sigrok-pulseview/"
     },
     {
-      "title": "Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation",
+      "title": "Three boardroom questions about IoT revenue growth",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Where can enterprise IoT providers find near-term revenue growth? How can they monetise their 5G assets? And how can they expand customer accounts without starting a new go-to-market strategy every … Continued The post Three boardroom questions about IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Three boardroom questions about IoT revenue growth\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159217-three-boardroom-questions-about-iot-revenue-growth/"
+    },
+    {
+      "title": "Is your network quietly undermining your AI?",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Here’s an uncomfortable question: when your AI makes a poor call, how sure are you that the model is to blame? OPEN PDF IN BROWSER As AI moves from retrospective … Continued The post Is your network quietly undermining your AI? appeared first on IoT Now News...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is your network quietly undermining your AI?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159347-is-your-network-quietly-undermining-your-ai/"
+    },
+    {
+      "title": "IoT Now Contract Win List – October 2026",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The IoT Now Contract Win List for October 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – October 2026 appeared first on...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now Contract Win List – October 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159337-iot-now-contract-win-list-october-2026/"
+    },
+    {
+      "title": "One festival, nine stages: How we built the 2026 programme",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Africa Tech Festival 2026 brings nine stages, six pillars and over 400 speakers to Cape Town from 17th to 19th November as one connected programme. The post One festival, nine stages: How we built the 2026 programme appeared first on IoT Now News - How to run...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "One festival, nine stages: How we built the 2026 programme\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159330-africa-tech-festival-2026-one-festival-nine-stages-programme/"
+    },
+    {
+      "title": "ABB and Samsung simplify commercial building projects with one integrated IoT solution",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "ABB and Samsung combine building automation, HVAC, displays and energy management in one IoT package for commercial buildings, via trained integrators. The post ABB and Samsung simplify commercial building projects with one integrated IoT solution appeared...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ABB and Samsung simplify commercial building projects with one integrated IoT solution\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159322-abb-samsung-integrated-iot-solution-commercial-buildings/"
+    },
+    {
+      "title": "Arduino Nano XL Link board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation",
       "source": "CNX Software",
       "date": "2026-11-11",
       "product": "BLE Module",
@@ -108,7 +262,7 @@
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
       "summary": "Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "post": "Arduino Nano XL Link board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/"
     },
     {
@@ -449,56 +603,6 @@
       "url": "https://iot-now.com/2026/11/10/159139-podcast-sgp-32-and-bootstrap-connectivity-preparing-iot-for-scale/"
     },
     {
-      "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
-      "source": "CNX Software",
-      "date": "2026-11-09",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Seeed Studio XIAO STM32C5 is the company’s first XIAO development board based on an STMicroelectronics MCU, namely a 144 MHz STM32C5A3CG Arm Cortex-M33 microcontroller. It features two CAN FD controllers and a 6-axis IMU with programmable heating for...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/"
-    },
-    {
-      "title": "Cavli Wireless to unveil P16QS LTE Cat 1bis module and Cortex AI coding assistant at electronica 2026",
-      "source": "IoT Now",
-      "date": "2026-11-09",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Cavli Wireless will unveil its P16QS LTE Cat 1bis module and Cortex AI firmware assistant at electronica 2026, alongside 5G RedCap and 5G NR modules. The post Cavli Wireless to unveil P16QS LTE Cat 1bis module and Cortex AI coding assistant at electronica...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Cavli Wireless to unveil P16QS LTE Cat 1bis module and Cortex AI coding assistant at electronica 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/09/159270-cavli-wireless-p16qs-lte-cat-1bis-cortex-ai-electronica-2026/"
-    },
-    {
       "title": "Globalstar announces winners of RM200M Satellite IoT Development Kit giveaway",
       "source": "IoT Now",
       "date": "2026-11-09",
@@ -522,109 +626,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Globalstar announces winners of RM200M Satellite IoT Development Kit giveaway\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/09/159187-globalstar-announces-winners-of-rm200m-satellite-iot-development-kit-giveaway/"
-    },
-    {
-      "title": "eSIM Market Outlook & Opportunities in IoT: 2026",
-      "source": "IoT Now",
-      "date": "2026-11-06",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Explore the 2026 eSIM market outlook, including SGP.32 commercialisation, RSP-capable iSIM, in-factory profile provisioning and the opportunities shaping large-scale IoT deployments. OPEN PDF IN BROWSER The post eSIM Market Outlook & Opportunities in IoT:...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "eSIM Market Outlook & Opportunities in IoT: 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/06/159256-esim-market-outlook-opportunities-in-iot-2026/"
-    },
-    {
-      "title": "MWC26 Doha exhibition showfloor sold out, as final registration call issued for MENA connectivity event",
-      "source": "IoT Now",
-      "date": "2026-11-06",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MWC26 Doha returns to the DECC from 8th to 10th November with a sold-out exhibition floor, eight summits and final registration open for attendees. The post MWC26 Doha exhibition showfloor sold out, as final registration call issued for MENA connectivity...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "MWC26 Doha exhibition showfloor sold out, as final registration call issued for MENA connectivity event\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/06/159247-mwc26-doha-showfloor-sold-out-final-registration-call/"
-    },
-    {
-      "title": "The advent of 3GPP Non-Terrestrial Networks",
-      "source": "IoT Now",
-      "date": "2026-11-06",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Explore how 3GPP NTN brings satellite connectivity into the cellular ecosystem, enabling hybrid coverage for remote, mobile and geographically dispersed IoT deployments. OPEN PDF IN BROWSER The post The advent of 3GPP Non-Terrestrial Networks appeared first...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "The advent of 3GPP Non-Terrestrial Networks\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/06/159252-the-advent-of-3gpp-non-terrestrial-networks/"
-    },
-    {
-      "title": "Beyond static forecasts: Finding hidden IoT revenue opportunities",
-      "source": "IoT Now",
-      "date": "2026-11-06",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "A market forecast can show where IoT is growing. But how useful is it to a commercial team deciding which opportunities to pursue this quarter? In the first video of … Continued The post Beyond static forecasts: Finding hidden IoT revenue opportunities...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Beyond static forecasts: Finding hidden IoT revenue opportunities\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/06/159207-beyond-static-forecasts-finding-hidden-iot-revenue-opportunities/"
     }
   ]
 }
