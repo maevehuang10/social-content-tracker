@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:30:49.724Z",
+  "generatedAt": "2026-11-12T08:13:50.789Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,92 +8,15 @@
   ],
   "topics": [
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 93,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
+        "Sales Material",
         "Short Video",
-        "LinkedIn Post",
         "Carousel"
       ],
       "platforms": [
@@ -103,16 +26,65 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-11-12"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "HIYD is a compact and thin (2.7mm) health and fitness tracker that attaches to the back of a regular wristwatch and looks very similar to the Azume One, which we wrote about last month. Developed by San Jose-based HIYD, the device adds heart rate, sleep,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/12/hiyd-2-7mm-health-tracker-attaches-to-the-back-of-regular-watches/"
+    },
+    {
+      "title": "Lumissil IS31CS9202/IS32CS9202 Cortex-M0+ MCUs integrate serial video bus (SBV), LumiBus, and capacitive touch-key controller",
+      "source": "CNX Software",
+      "date": "2026-11-12",
+      "product": "ESP32 Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Lumissil Microsystems IS31CS9202 and IS32CS9202 are 50 MHz Cortex-M0+ microcontrollers for industrial, consumer, and automotive applications with a serial video bus (SVB), a LumiBus LED controller, and a capacitive touch-key controller. Both chips come with...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Lumissil IS31CS9202/IS32CS9202 Cortex-M0+ MCUs integrate serial video bus (SBV), LumiBus, and capacitive touch-key controller\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/12/lumissil-is31cs9202-is32cs9202-cortex-m0-mcus-integrate-serial-video-bus-sbv-lumibus-and-capacitive-touch-key-controller/"
+    },
+    {
+      "title": "WeAct Logic Analyzer V2 – A $10 USB 3.0 logic analyzer board compatible with Sigrok/Pulseview (fork)",
+      "source": "CNX Software",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "WeAct Studio Logic Analyzer V2 is a low-cost, small WCH CH32H417 board designed to be used as a 16-channel USB 3.0 logic analyzer with up to 200 MHz bandwidth. The company says the board runs three different “apps”: logic analyzer, USB-serial + DAP, or custom...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "WeAct Logic Analyzer V2 – A $10 USB 3.0 logic analyzer board compatible with Sigrok/Pulseview (fork)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/12/weact-logic-analyzer-v2-a-10-usb-3-0-logic-analyzer-board-compatible-with-sigrok-pulseview/"
     },
     {
       "title": "Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation",
@@ -502,35 +474,6 @@
       "url": "https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/"
     },
     {
-      "title": "M5Stack Core Matrix ESP32-C61 IoT controller features 16×16 LED matrix, WiFi 6, and 6-axis IMU",
-      "source": "CNX Software",
-      "date": "2026-11-09",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "M5Stack’s Core Matrix is an ESP32-C61-based IoT controller with a 16×16 white LED matrix for displaying icons, animations, device status, and notifications. It supports 2.4 GHz WiFi 6 connectivity and is designed for IoT applications, sensor data monitoring,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "M5Stack Core Matrix ESP32-C61 IoT controller features 16×16 LED matrix, WiFi 6, and 6-axis IMU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/09/m5stack-core-matrix-esp32-c61-iot-controller-features-16x16-led-matrix-wifi-6-and-6-axis-imu/"
-    },
-    {
       "title": "Cavli Wireless to unveil P16QS LTE Cat 1bis module and Cortex AI coding assistant at electronica 2026",
       "source": "IoT Now",
       "date": "2026-11-09",
@@ -554,35 +497,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Cavli Wireless to unveil P16QS LTE Cat 1bis module and Cortex AI coding assistant at electronica 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/09/159270-cavli-wireless-p16qs-lte-cat-1bis-cortex-ai-electronica-2026/"
-    },
-    {
-      "title": "Black Friday Deal: Over $200 Off the VZMORE AX9 Max Mini PC! (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-11-09",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Mini PC manufacturer VZMORE has launched an early Black Friday deal for its AMD Ryzen AI 9 HX 470-powered VZMORE AX9 Max model: $229 off, bringing the regular price down to $1,270 from $1,499. The VZMORE AX9 Max mini PC ships with 32GB DDR5 and a 1TB NVMe SSD...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Black Friday Deal: Over $200 Off the VZMORE AX9 Max Mini PC! (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/09/black-friday-deal-over-200-off-the-vzmore-ax9-max-mini-pc/"
     },
     {
       "title": "Globalstar announces winners of RM200M Satellite IoT Development Kit giveaway",
@@ -610,16 +524,15 @@
       "url": "https://iot-now.com/2026/11/09/159187-globalstar-announces-winners-of-rm200m-satellite-iot-development-kit-giveaway/"
     },
     {
-      "title": "SparkFun IoT RedBoard ESP32-P4 – Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options",
-      "source": "CNX Software",
-      "date": "2026-11-09",
+      "title": "eSIM Market Outlook & Opportunities in IoT: 2026",
+      "source": "IoT Now",
+      "date": "2026-11-06",
       "product": "BLE Module",
-      "score": 80,
+      "score": 85,
       "formats": [
         "LinkedIn Post",
         "Sales Material",
-        "Short Video",
-        "Carousel"
+        "Short Video"
       ],
       "platforms": [
         "LinkedIn",
@@ -633,10 +546,85 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "SparkFun introduced two new development boards called IoT RedBoard, both based on the ESP32-P4 v3.x (ESP32-P4X) and compatible with the Arduino UNO R3 form factor. The main difference is that one features an ESP32-C5 for Wi-Fi 6, Bluetooth 5 LE, Zigbee, and...",
+      "summary": "Explore the 2026 eSIM market outlook, including SGP.32 commercialisation, RSP-capable iSIM, in-factory profile provisioning and the opportunities shaping large-scale IoT deployments. OPEN PDF IN BROWSER The post eSIM Market Outlook & Opportunities in IoT:...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "SparkFun IoT RedBoard ESP32-P4 – Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/09/sparkfun-iot-redboard-esp32-p4-arduino-uno-like-esp32-p4-v3-x-development-boards-with-wifi-6-or-poe-options/"
+      "post": "eSIM Market Outlook & Opportunities in IoT: 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/06/159256-esim-market-outlook-opportunities-in-iot-2026/"
+    },
+    {
+      "title": "MWC26 Doha exhibition showfloor sold out, as final registration call issued for MENA connectivity event",
+      "source": "IoT Now",
+      "date": "2026-11-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "MWC26 Doha returns to the DECC from 8th to 10th November with a sold-out exhibition floor, eight summits and final registration open for attendees. The post MWC26 Doha exhibition showfloor sold out, as final registration call issued for MENA connectivity...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "MWC26 Doha exhibition showfloor sold out, as final registration call issued for MENA connectivity event\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/06/159247-mwc26-doha-showfloor-sold-out-final-registration-call/"
+    },
+    {
+      "title": "The advent of 3GPP Non-Terrestrial Networks",
+      "source": "IoT Now",
+      "date": "2026-11-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Explore how 3GPP NTN brings satellite connectivity into the cellular ecosystem, enabling hybrid coverage for remote, mobile and geographically dispersed IoT deployments. OPEN PDF IN BROWSER The post The advent of 3GPP Non-Terrestrial Networks appeared first...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "The advent of 3GPP Non-Terrestrial Networks\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/06/159252-the-advent-of-3gpp-non-terrestrial-networks/"
+    },
+    {
+      "title": "Beyond static forecasts: Finding hidden IoT revenue opportunities",
+      "source": "IoT Now",
+      "date": "2026-11-06",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "A market forecast can show where IoT is growing. But how useful is it to a commercial team deciding which opportunities to pursue this quarter? In the first video of … Continued The post Beyond static forecasts: Finding hidden IoT revenue opportunities...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Beyond static forecasts: Finding hidden IoT revenue opportunities\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/06/159207-beyond-static-forecasts-finding-hidden-iot-revenue-opportunities/"
     }
   ]
 }
