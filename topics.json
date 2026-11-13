@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:52:00.261Z",
+  "generatedAt": "2026-11-13T14:28:54.205Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,35 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026",
+      "source": "CNX Software",
+      "date": "2026-11-13",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Vantron has introduced the VT-SBC-SMARC-IMX952, an 82 × 50 mm SMARC 2.1 system-on-module (SoM) built around NXP’s i.MX 952 processor with two or four Arm Cortex-A55 cores, a Mali-G310 GPU, and a 2 TOPS eIQ Neutron NPU. The module is designed for industrial...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/"
+    },
     {
       "title": "Home Assistant-compatible ESP32 4-channel PWM fan controller is designed for server racks and NAS systems",
       "source": "CNX Software",
@@ -189,7 +218,7 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "WeAct Studio Logic Analyzer V2 is a low-cost, small WCH CH32H417 board designed to be used as a 16-channel USB 3.0 logic analyzer with up to 200 MHz bandwidth. The company says the board runs three different “apps”: logic analyzer, USB-serial + DAP, or custom...",
+      "summary": "WeAct Studio Logic Analyzer V2 is a low-cost, small WCH CH32H417 board designed to be used as a 16-channel USB 3.0 logic analyzer with up to 200 MHz sample rate. The company says the board runs three different “apps”: logic analyzer, USB-serial + DAP, or...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "WeAct Logic Analyzer V2 – A $10 USB 3.0 logic analyzer board compatible with Sigrok/Pulseview (fork)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/12/weact-logic-analyzer-v2-a-10-usb-3-0-logic-analyzer-board-compatible-with-sigrok-pulseview/"
@@ -552,31 +581,6 @@
       "hook": "Some IoT projects need years of battery life, not more bandwidth.",
       "post": "Robustel and Netmore form strategic technology partnership to accelerate global LoRaWAN deployments\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/10/159293-robustel-netmore-strategic-partnership-global-lorawan-deployments/"
-    },
-    {
-      "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
-      "source": "CNX Software",
-      "date": "2026-11-10",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Andrii Shylenko’s LabWired is an MIT-licensed MCU firmware simulation core that runs compiled firmware against modeled CPUs and peripherals, captures UART and bus output, register state, and supports repeatable checks in CI. The simulator works on Arm...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/"
     },
     {
       "title": "Scaling IoT across APAC: Why one global approach falls short and what to do instead",
