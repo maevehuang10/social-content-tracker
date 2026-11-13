@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T19:50:31.142Z",
+  "generatedAt": "2026-11-13T07:52:00.261Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,66 +8,15 @@
   ],
   "topics": [
     {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
+      "title": "Home Assistant-compatible ESP32 4-channel PWM fan controller is designed for server racks and NAS systems",
+      "source": "CNX Software",
+      "date": "2026-11-13",
       "product": "Radar Sensor",
-      "score": 92,
+      "score": 97,
       "formats": [
-        "Short Video",
         "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
         "Carousel"
       ],
       "platforms": [
@@ -81,21 +30,20 @@
         "Presence Detection",
         "Smart Sensing"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "value": "Useful for turning current industry news into content about privacy-friendly sensing, elderly care, smart bathrooms, security, and presence detection.",
+      "summary": "Designed by CoolMaker Lab in China, the ESP32 4-channel PWM fan controller is an open-source, Home Assistant-compatible board for managing cooling in server racks, NAS systems, network cabinets, and other DIY enclosures. It can independently control up to...",
       "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-11-13"
+      "post": "Home Assistant-compatible ESP32 4-channel PWM fan controller is designed for server racks and NAS systems\n\nThis is a useful signal for IoT brands and product teams watching Radar Sensor opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/13/home-assistant-compatible-esp32-4-channel-pwm-fan-controller-is-designed-for-server-racks-and-nas-systems/"
     },
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored)",
+      "source": "CNX Software",
+      "date": "2026-11-13",
+      "product": "BLE Module",
+      "score": 85,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -103,16 +51,40 @@
         "Facebook"
       ],
       "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-11-13"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Revopoint’s Black Friday Sale is here, bringing major savings across its lineup of portable and industrial 3D scanners, accessories, and software. Whether you’re a 3D printing enthusiast, maker, designer, or industrial professional, this is a great...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/13/revopoint-black-friday-sale-is-here-save-up-to-50-on-3d-scanners/"
+    },
+    {
+      "title": "Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450",
+      "source": "CNX Software",
+      "date": "2026-11-13",
+      "product": "ESP32 Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "Tektronix is better known for its high-end and pricey oscilloscopes, but has now introduced the 1 Series DPO, a line of low-cost digital phosphor oscilloscopes starting at just $450, with optional AI-assisted control through the new Tek Intelligence...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/"
     },
     {
       "title": "HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding)",
@@ -582,31 +554,6 @@
       "url": "https://iot-now.com/2026/11/10/159293-robustel-netmore-strategic-partnership-global-lorawan-deployments/"
     },
     {
-      "title": "280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications",
-      "source": "CNX Software",
-      "date": "2026-11-10",
-      "product": "BLE Module",
-      "score": 89,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The STM32G5 series is a family of 280 MHz Arm Cortex-M33 mixed-signal MCUs designed for industrial power supplies, photovoltaic inverters, EV chargers, robotics, and motor control systems. It doubles the performance of the older STM32G4 series unveiled in...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/"
-    },
-    {
       "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
       "source": "CNX Software",
       "date": "2026-11-10",
@@ -630,6 +577,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/"
+    },
+    {
+      "title": "Scaling IoT across APAC: Why one global approach falls short and what to do instead",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Asia-Pacific is one of the fastest-growing regions for IoT but it is also one of the hardest to scale in. Connected vehicles, robotics, autonomous systems and physical AI are moving … Continued The post Scaling IoT across APAC: Why one global approach falls...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Scaling IoT across APAC: Why one global approach falls short and what to do instead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159303-scaling-iot-across-apac-why-one-global-approach-falls-short-and-what-to-do-instead/"
+    },
+    {
+      "title": "Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Jim Morrish and emnify’s Artur Michalczyk explore SGP.32, bootstrap connectivity and what IoT buyers should test before scaling eSIM deployments. The post Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale appeared first on IoT Now News - How...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159139-podcast-sgp-32-and-bootstrap-connectivity-preparing-iot-for-scale/"
     }
   ]
 }
