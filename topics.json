@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:45:28.853Z",
+  "generatedAt": "2026-11-16T07:54:34.632Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,92 +8,15 @@
   ],
   "topics": [
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more",
+      "source": "CNX Software",
+      "date": "2026-11-16",
+      "product": "BLE Module",
+      "score": 98,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
+        "Sales Material",
         "Short Video",
-        "LinkedIn Post",
         "Carousel"
       ],
       "platforms": [
@@ -103,16 +26,44 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-11-16"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Nabu Casa has launched the Home Assistant Connect AUX-2, an ESP32-S3-based smart home controller that combines audio streaming, RS-232 serial control, Bluetooth LE proxy, and USB expansion for Z-Wave connectivity. It is designed for older audio systems, TVs,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/16/69-home-assistant-connect-aux-2-offers-poe-audio-streaming-rs-232-control-bluetooth-proxy/"
+    },
+    {
+      "title": "AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN",
+      "source": "CNX Software",
+      "date": "2026-11-16",
+      "product": "BLE Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "AAEON BOXER-8741AI is an industrial edge AI box PC built around the NVIDIA Jetson Thor T5000 module, delivering up to 2070 FP4 TFLOPS (sparse) of AI performance and featuring 128GB LPDDR5X memory. Designed for humanoid robotics, autonomous mobile robots...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/16/aaeon-boxer-8741ai-industrial-edge-ai-box-pc-nvidia-jetson-thor-t5000-with-dual-10gbe-and-four-5gbe-lan/"
     },
     {
       "title": "Radxa Linkr review – A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support",
@@ -532,31 +483,6 @@
       "url": "https://iot-now.com/2026/11/12/159322-abb-samsung-integrated-iot-solution-commercial-buildings/"
     },
     {
-      "title": "Arduino Nano XL Link board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation",
-      "source": "CNX Software",
-      "date": "2026-11-11",
-      "product": "BLE Module",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Arduino Nano XL Link board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/"
-    },
-    {
       "title": "Quectel launches EG216Q-GL and BG950Q-GL to give IoT device makers a more cost-efficient, lower-power upgrade path",
       "source": "IoT Now",
       "date": "2026-11-11",
@@ -582,35 +508,6 @@
       "url": "https://iot-now.com/2026/11/11/159316-quectel-eg216q-gl-bg950q-gl-cost-efficient-lower-power-upgrade/"
     },
     {
-      "title": "Mikrotik KNOT Gateway HL9 – An outdoor Wi-Fi HaLow IoT gateway with GbE, WiFi 6, BLE 5.1, 4G LTE Cat 1 bis, and GNSS",
-      "source": "CNX Software",
-      "date": "2026-11-11",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MikroTik KNOT Gateway HL9 is an IP66-rated outdoor IoT gateway that combines 915 MHz Wi-Fi HaLow (802.11ah), Bluetooth 5.1, Wi-Fi 6, LTE Cat 1 bis, Gigabit Ethernet, and GNSS. The gateway supports asset tracking, remote sensor monitoring, industrial IoT, and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Mikrotik KNOT Gateway HL9 – An outdoor Wi-Fi HaLow IoT gateway with GbE, WiFi 6, BLE 5.1, 4G LTE Cat 1 bis, and GNSS\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/11/mikrotik-knot-gateway-hl9-an-outdoor-wi-fi-halow-iot-gateway-with-gbe-wifi-6-ble-5-1-4g-lte-cat-1-bis-and-gnss/"
-    },
-    {
       "title": "GSMA MWC26 Doha welcomed over 10,000 attendees, as ITU co-location puts MENA at the centre of global connectivity policy and innovation",
       "source": "IoT Now",
       "date": "2026-11-11",
@@ -634,6 +531,110 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GSMA MWC26 Doha welcomed over 10,000 attendees, as ITU co-location puts MENA at the centre of global connectivity policy and innovation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/11/159310-gsma-mwc26-doha-10000-attendees-itu-co-location/"
+    },
+    {
+      "title": "Vodafone IoT and Skylo launch commercial satellite connectivity service",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Skylo launches its NTN NB-IoT satellite service commercially for Vodafone IoT customers, letting devices switch between cellular and satellite on one SIM. The post Vodafone IoT and Skylo launch commercial satellite connectivity service appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Vodafone IoT and Skylo launch commercial satellite connectivity service\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159299-vodafone-iot-skylo-launch-commercial-satellite-connectivity-service/"
+    },
+    {
+      "title": "Robustel and Netmore form strategic technology partnership to accelerate global LoRaWAN deployments",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "LoRa Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "LoRa",
+        "LPWAN",
+        "Smart City"
+      ],
+      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
+      "summary": "Robustel and Netmore partner to bring ThingPark LRR and LoRa Basics Station support to Robustel's industrial gateways, simplifying global LoRaWAN deployments. The post Robustel and Netmore form strategic technology partnership to accelerate global LoRaWAN...",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "Robustel and Netmore form strategic technology partnership to accelerate global LoRaWAN deployments\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159293-robustel-netmore-strategic-partnership-global-lorawan-deployments/"
+    },
+    {
+      "title": "Scaling IoT across APAC: Why one global approach falls short and what to do instead",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Asia-Pacific is one of the fastest-growing regions for IoT but it is also one of the hardest to scale in. Connected vehicles, robotics, autonomous systems and physical AI are moving … Continued The post Scaling IoT across APAC: Why one global approach falls...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Scaling IoT across APAC: Why one global approach falls short and what to do instead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159303-scaling-iot-across-apac-why-one-global-approach-falls-short-and-what-to-do-instead/"
+    },
+    {
+      "title": "Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Jim Morrish and emnify’s Artur Michalczyk explore SGP.32, bootstrap connectivity and what IoT buyers should test before scaling eSIM deployments. The post Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale appeared first on IoT Now News - How...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Podcast: SGP.32 and bootstrap connectivity: Preparing IoT for scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159139-podcast-sgp-32-and-bootstrap-connectivity-preparing-iot-for-scale/"
     }
   ]
 }
