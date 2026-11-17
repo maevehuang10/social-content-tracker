@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:55:45.708Z",
+  "generatedAt": "2026-11-17T09:07:56.495Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,40 +8,64 @@
   ],
   "topics": [
     {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
+      "title": "Rockchip RK3668 switches to Cortex-A725 and Cortex-A520 cores, engineering samples planned for Q1 2027",
+      "source": "CNX Software",
+      "date": "2026-11-17",
+      "product": "BLE Module",
+      "score": 94,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Short Video"
+        "Sales Material",
+        "Carousel"
       ],
       "platforms": [
         "LinkedIn",
-        "Facebook",
-        "YouTube"
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "More details have surfaced about the Rockchip RK3668 processor. The biggest change is that the Armv9 SoC will feature eight cores (6x Cortex-A725 and 2x Cortex-A520), rather than ten cores in a 4x Cortex-A730 + 6x Cortex-A530 configuration announced at its...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Rockchip RK3668 switches to Cortex-A725 and Cortex-A520 cores, engineering samples planned for Q1 2027\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/17/rockchip-rk3668-switches-to-cortex-a725-and-cortex-a520-cores-engineering-samples-planned-for-q1-2027/"
+    },
+    {
+      "title": "750 MHz GigaDevice GD32H7 Cortex-M7 MCU family gets up to 9.5MB Flash, EtherCAT for industrial applications",
+      "source": "CNX Software",
+      "date": "2026-11-17",
+      "product": "ESP32 Module",
+      "score": 93,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
       ],
       "tags": [
         "ESP32",
         "Embedded Development",
         "Smart Device"
       ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "GigaDevice adds new industrial parts to the GD32H7 series of Cortex-M7 MCUs, running at up to 750 MHz. The new lineup includes the GD32H77R for robotic joint control, GD32H78D/77D for industrial HMI applications, GD32H78E/77E for real-time motion control, and...",
       "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-11-17"
+      "post": "750 MHz GigaDevice GD32H7 Cortex-M7 MCU family gets up to 9.5MB Flash, EtherCAT for industrial applications\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/17/750-mhz-gigadevice-gd32h7-cortex-m7-mcu-family-gets-up-to-9-5mb-flash-ethercat-for-industrial-applications/"
     },
     {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
+      "title": "Forlinx OK8275AA-C – A Qualcomm QCS8275 industrial SBC with 12GB LPDDR5, 256GB UFS storage",
+      "source": "CNX Software",
+      "date": "2026-11-17",
+      "product": "Cellular IoT Module",
+      "score": 93,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -49,70 +73,15 @@
         "Facebook"
       ],
       "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
+        "NB-IoT",
+        "Cat.1",
+        "Cellular IoT"
       ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
-        "Short Video",
-        "LinkedIn Post",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-11-17"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-11-17"
+      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
+      "summary": "Forlinx OK8275AA-C is an industrial-grade single board computer (SBC) based on the company’s FET8275AA-C SoM, powered by a Qualcomm Dragonwing QCS8275 SoC, delivering up to 40 TOPS for Edge AI workloads, and paired with 12GB LPDDR5 memory and 256GB UFS 3.1...",
+      "hook": "Wide-area IoT starts with the right connectivity choice.",
+      "post": "Forlinx OK8275AA-C – A Qualcomm QCS8275 industrial SBC with 12GB LPDDR5, 256GB UFS storage\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/17/forlinx-ok8275aa-c-a-qualcomm-qcs8275-industrial-sbc-with-12gb-lpddr5-256gb-ufs-storage/"
     },
     {
       "title": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more",
@@ -381,35 +350,6 @@
       "url": "https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/"
     },
     {
-      "title": "Home Assistant-compatible ESP32 4-channel PWM fan controller is designed for server racks and NAS systems",
-      "source": "CNX Software",
-      "date": "2026-11-13",
-      "product": "Radar Sensor",
-      "score": 97,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
-      ],
-      "value": "Useful for turning current industry news into content about privacy-friendly sensing, elderly care, smart bathrooms, security, and presence detection.",
-      "summary": "Designed by CoolMaker Lab in China, the ESP32 4-channel PWM fan controller is an open-source, Home Assistant-compatible board for managing cooling in server racks, NAS systems, network cabinets, and other DIY enclosures. It can independently control up to...",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Home Assistant-compatible ESP32 4-channel PWM fan controller is designed for server racks and NAS systems\n\nThis is a useful signal for IoT brands and product teams watching Radar Sensor opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/13/home-assistant-compatible-esp32-4-channel-pwm-fan-controller-is-designed-for-server-racks-and-nas-systems/"
-    },
-    {
       "title": "Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored)",
       "source": "CNX Software",
       "date": "2026-11-13",
@@ -458,64 +398,6 @@
       "hook": "A small module can shape the whole connected product experience.",
       "post": "Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/"
-    },
-    {
-      "title": "HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-11-12",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "HIYD is a compact and thin (2.7mm) health and fitness tracker that attaches to the back of a regular wristwatch and looks very similar to the Azume One, which we wrote about last month. Developed by San Jose-based HIYD, the device adds heart rate, sleep,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/12/hiyd-2-7mm-health-tracker-attaches-to-the-back-of-regular-watches/"
-    },
-    {
-      "title": "VZMORE iX9 Max (U9-185H) mini PC review – Part 1: Specs, unboxing, teardown, and first boot",
-      "source": "CNX Software",
-      "date": "2026-11-12",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "VZMORE sent us a review sample of the iX9 Max mini PC powered by an Intel Core Ultra 9 185H 16-core/22-thread Meteor Lake processor clocked at up to 5.1 GHz, paired with 24 GB of LPDDR5-5600 memory and a 1 TB NVMe SSD. It supports up to four simultaneous...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "VZMORE iX9 Max (U9-185H) mini PC review – Part 1: Specs, unboxing, teardown, and first boot\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/12/vzmore-ix9-max-u9-185h-mini-pc-review-part-1-specs-unboxing-teardown-and-first-boot/"
     },
     {
       "title": "Three boardroom questions about IoT revenue growth",
@@ -642,6 +524,106 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "One festival, nine stages: How we built the 2026 programme\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/12/159330-africa-tech-festival-2026-one-festival-nine-stages-programme/"
+    },
+    {
+      "title": "ABB and Samsung simplify commercial building projects with one integrated IoT solution",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "ABB and Samsung combine building automation, HVAC, displays and energy management in one IoT package for commercial buildings, via trained integrators. The post ABB and Samsung simplify commercial building projects with one integrated IoT solution appeared...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ABB and Samsung simplify commercial building projects with one integrated IoT solution\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159322-abb-samsung-integrated-iot-solution-commercial-buildings/"
+    },
+    {
+      "title": "Quectel launches EG216Q-GL and BG950Q-GL to give IoT device makers a more cost-efficient, lower-power upgrade path",
+      "source": "IoT Now",
+      "date": "2026-11-11",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Quectel launches the EG216Q-GL Cat 1bis and BG950Q-GL Cat M1/NB2 modules, giving device makers a lower-cost, lower-power upgrade on existing footprints. The post Quectel launches EG216Q-GL and BG950Q-GL to give IoT device makers a more cost-efficient,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Quectel launches EG216Q-GL and BG950Q-GL to give IoT device makers a more cost-efficient, lower-power upgrade path\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/11/159316-quectel-eg216q-gl-bg950q-gl-cost-efficient-lower-power-upgrade/"
+    },
+    {
+      "title": "GSMA MWC26 Doha welcomed over 10,000 attendees, as ITU co-location puts MENA at the centre of global connectivity policy and innovation",
+      "source": "IoT Now",
+      "date": "2026-11-11",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "MWC26 Doha welcomed over 10,000 attendees from 100 countries, as its co-location with ITU PP-26 brought policymakers and industry together in Qatar. The post GSMA MWC26 Doha welcomed over 10,000 attendees, as ITU co-location puts MENA at the centre of global...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GSMA MWC26 Doha welcomed over 10,000 attendees, as ITU co-location puts MENA at the centre of global connectivity policy and innovation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/11/159310-gsma-mwc26-doha-10000-attendees-itu-co-location/"
+    },
+    {
+      "title": "Scaling IoT across APAC: Why one global approach falls short and what to do instead",
+      "source": "IoT Now",
+      "date": "2026-11-10",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Asia-Pacific is one of the fastest-growing regions for IoT but it is also one of the hardest to scale in. Connected vehicles, robotics, autonomous systems and physical AI are moving … Continued The post Scaling IoT across APAC: Why one global approach falls...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Scaling IoT across APAC: Why one global approach falls short and what to do instead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/10/159303-scaling-iot-across-apac-why-one-global-approach-falls-short-and-what-to-do-instead/"
     }
   ]
 }
