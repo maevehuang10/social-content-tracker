@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T09:07:56.495Z",
+  "generatedAt": "2026-11-17T15:54:13.897Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -82,6 +82,60 @@
       "hook": "Wide-area IoT starts with the right connectivity choice.",
       "post": "Forlinx OK8275AA-C – A Qualcomm QCS8275 industrial SBC with 12GB LPDDR5, 256GB UFS storage\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/17/forlinx-ok8275aa-c-a-qualcomm-qcs8275-industrial-sbc-with-12gb-lpddr5-256gb-ufs-storage/"
+    },
+    {
+      "title": "Review of Seeed Studio 4.26″ Mono and 7.3″ Color e-paper Kit with OpenDisplay and Home Assistant",
+      "source": "CNX Software",
+      "date": "2026-11-17",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Seeed Studio sent us two e-paper kits preloaded with OpenDisplay open-source firmware for review: the OpenDisplay 4.26″ Mono Kit and OpenDisplay 7.3″ Color Kit, both powered by a Nordic nRF52840 low-power Bluetooth LE microcontroller. This review focuses on...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Review of Seeed Studio 4.26″ Mono and 7.3″ Color e-paper Kit with OpenDisplay and Home Assistant\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/17/review-seeed-studio-4-26-mono-and-7-3-color-e-paper-kit-with-opendisplay-and-home-assistant/"
+    },
+    {
+      "title": "Siemens combines Industrial AI and additive manufacturing for adaptive product development and production",
+      "source": "IoT Now",
+      "date": "2026-11-17",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Siemens connects agentic AI engineering with an adaptive additive manufacturing cell, creating an end-to-end Digital Thread from design to production. The post Siemens combines Industrial AI and additive manufacturing for adaptive product development and...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Siemens combines Industrial AI and additive manufacturing for adaptive product development and production\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/17/159412-siemens-industrial-ai-additive-manufacturing-adaptive-production/"
     },
     {
       "title": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more",
@@ -350,31 +404,6 @@
       "url": "https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/"
     },
     {
-      "title": "Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-11-13",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Revopoint’s Black Friday Sale is here, bringing major savings across its lineup of portable and industrial 3D scanners, accessories, and software. Whether you’re a 3D printing enthusiast, maker, designer, or industrial professional, this is a great...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/13/revopoint-black-friday-sale-is-here-save-up-to-50-on-3d-scanners/"
-    },
-    {
       "title": "Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450",
       "source": "CNX Software",
       "date": "2026-11-13",
@@ -599,31 +628,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "GSMA MWC26 Doha welcomed over 10,000 attendees, as ITU co-location puts MENA at the centre of global connectivity policy and innovation\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/11/159310-gsma-mwc26-doha-10000-attendees-itu-co-location/"
-    },
-    {
-      "title": "Scaling IoT across APAC: Why one global approach falls short and what to do instead",
-      "source": "IoT Now",
-      "date": "2026-11-10",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Asia-Pacific is one of the fastest-growing regions for IoT but it is also one of the hardest to scale in. Connected vehicles, robotics, autonomous systems and physical AI are moving … Continued The post Scaling IoT across APAC: Why one global approach falls...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Scaling IoT across APAC: Why one global approach falls short and what to do instead\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/10/159303-scaling-iot-across-apac-why-one-global-approach-falls-short-and-what-to-do-instead/"
     }
   ]
 }
