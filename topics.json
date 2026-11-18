@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:28:04.983Z",
+  "generatedAt": "2026-11-18T15:32:45.655Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -33,6 +33,32 @@
       "url": "https://www.cnx-software.com/2026/11/18/flipper-one-a-rockchip-rk3576-powered-portable-arm-linux-computer-and-networking-multi-tool/"
     },
     {
+      "title": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage",
+      "source": "IoT Now",
+      "date": "2026-11-18",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Iridium activates Iridium NTN Direct, a 3GPP standards-based NB-IoT and direct-to-device satellite service with coverage anywhere on the planet. The post Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/18/159437-iridium-activates-iridium-ntn-direct-nb-iot-d2d-global-coverage/"
+    },
+    {
       "title": "Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope",
       "source": "CNX Software",
       "date": "2026-11-18",
@@ -56,6 +82,60 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/18/web-based-breadboard-simulator-lets-you-build-circuits-fix-errors-and-monitor-designs-with-a-built-in-oscilloscope/"
+    },
+    {
+      "title": "Bluetooth 7.0 specification ratified with HDT (High Data Throughput) support",
+      "source": "CNX Software",
+      "date": "2026-11-18",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The Bluetooth SIG ratified the Bluetooth 7.0 specification on November 3, 2026, with the highlight of the new Bluetooth Core specification being optional support for HDT (High Data Throughput), delivering up to 7.5 Mbps bitrate. We first covered HDT in 2025...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Bluetooth 7.0 specification ratified with HDT (High Data Throughput) support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/18/bluetooth-7-0-specification-ratified-with-hdt-high-data-throughput-support/"
+    },
+    {
+      "title": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi",
+      "source": "IoT Now",
+      "date": "2026-11-18",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "MWC27 Barcelona confirms its first speakers, including the founder-CEOs of ElevenLabs and Kalshi, plus new spaces for automotive, aviation and health. The post MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/18/159417-mwc27-barcelona-first-wave-speakers-elevenlabs-kalshi/"
     },
     {
       "title": "Rockchip RK3668 switches to Cortex-A725 and Cortex-A520 cores, engineering samples planned for Q1 2027",
@@ -425,56 +505,6 @@
       "url": "https://www.cnx-software.com/2026/11/15/radxa-linkr-review-a-compact-ip-kvm-with-https-2fa-authentication-and-tailscale-support/"
     },
     {
-      "title": "Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)",
-      "source": "CNX Software",
-      "date": "2026-11-14",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "We’ve recently written about the P4 Launcher project that offers a desktop PC-like and/or retro-gaming experience to ESP32-P4 boards with applications stored on a microSD card and loaded into PSRAM when they run. However, I’ve recently been tipped about two...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/"
-    },
-    {
-      "title": "Three boardroom questions about IoT revenue growth",
-      "source": "IoT Now",
-      "date": "2026-11-12",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Where can enterprise IoT providers find near-term revenue growth? How can they monetise their 5G assets? And how can they expand customer accounts without starting a new go-to-market strategy every … Continued The post Three boardroom questions about IoT...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Three boardroom questions about IoT revenue growth\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/12/159217-three-boardroom-questions-about-iot-revenue-growth/"
-    },
-    {
       "title": "IoT Now’s November ‘On Trend’ asks: Can retail handle the detail?",
       "source": "IoT Now",
       "date": "2026-11-12",
@@ -599,31 +629,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "ABB and Samsung simplify commercial building projects with one integrated IoT solution\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/12/159322-abb-samsung-integrated-iot-solution-commercial-buildings/"
-    },
-    {
-      "title": "Quectel launches EG216Q-GL and BG950Q-GL to give IoT device makers a more cost-efficient, lower-power upgrade path",
-      "source": "IoT Now",
-      "date": "2026-11-11",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Quectel launches the EG216Q-GL Cat 1bis and BG950Q-GL Cat M1/NB2 modules, giving device makers a lower-cost, lower-power upgrade on existing footprints. The post Quectel launches EG216Q-GL and BG950Q-GL to give IoT device makers a more cost-efficient,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Quectel launches EG216Q-GL and BG950Q-GL to give IoT device makers a more cost-efficient, lower-power upgrade path\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/11/159316-quectel-eg216q-gl-bg950q-gl-cost-efficient-lower-power-upgrade/"
     }
   ]
 }
