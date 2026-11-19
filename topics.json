@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:41:43.351Z",
+  "generatedAt": "2026-11-19T15:39:20.242Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,32 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "Raspberry Pi SBCs get an open-source hardware I2C TPM 2.0 security module (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 98,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "ANAVI I2C TPM 2.0 is an open-source hardware I2C TPM 2.0 security module for Raspberry Pi single board computers based on the Infineon Optiga SLB 9673 TPM 2.0 chip. It’s an alternative to the earlier ANAVI TPM 2.0 module using an Optiga SLB 9672 SPI chip. The...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Raspberry Pi SBCs get an open-source hardware I2C TPM 2.0 security module (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/19/raspberry-pi-sbcs-get-an-open-source-hardware-i2c-tpm-2-0-security-module/"
+    },
     {
       "title": "SwitchBot Hub 4 Smart Home controller supports Matter 1.3, Hello Kata voice control, over 101,000 infrared devices",
       "source": "CNX Software",
@@ -37,6 +63,60 @@
       "url": "https://www.cnx-software.com/2026/11/19/switchbot-hub-4-smart-home-controller-supports-matter-1-3-hello-kata-voice-control-over-101000-infrared-devices/"
     },
     {
+      "title": "Waveshare ESP32-S31-Touch-LCD-4.3C – An ESP32-S31 4.3-inch display devkit with optional DIN rail case",
+      "source": "CNX Software",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Last month we wrote about VIEWE’s ESP32-S31 4.3-inch touch display, but there’s now another option, namely the Waveshare ESP32-S31-Touch-LCD-4.3C development kit. Both models are similar, with an ESP32-S31 module equipped with 16MB flash and 16MB PSRAM, a...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Waveshare ESP32-S31-Touch-LCD-4.3C – An ESP32-S31 4.3-inch display devkit with optional DIN rail case\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/19/waveshare-esp32-s31-touch-lcd-4-3c-an-esp32-s31-4-3-inch-display-devkit-with-optional-din-rail-case/"
+    },
+    {
+      "title": "Moso Networks, SOLiD and CTS introduce managed CBRS for DAS",
+      "source": "IoT Now",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 86,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Moso Networks, SOLiD and CTS launch managed CBRS for DAS, letting enterprises run private wireless over existing in-building DAS infrastructure. The post Moso Networks, SOLiD and CTS introduce managed CBRS for DAS appeared first on IoT Now News - How to run...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Moso Networks, SOLiD and CTS introduce managed CBRS for DAS\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/19/159455-moso-networks-solid-cts-managed-cbrs-das-private-wireless/"
+    },
+    {
       "title": "EINSTAR EZ GO: Your First AI-Powered Mobile 3D Scanner (Sponsored)",
       "source": "CNX Software",
       "date": "2026-11-19",
@@ -60,6 +140,56 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "EINSTAR EZ GO: Your First AI-Powered Mobile 3D Scanner (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/19/einstar-ez-go-your-first-ai-powered-mobile-3d-scanner/"
+    },
+    {
+      "title": "Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected",
+      "source": "IoT Now",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Every fleet has a point on the map where its assets go quiet. It might be a rural highway, a border crossing or a remote yard. OPEN PDF IN BROWSER … Continued The post Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected appeared first...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/19/159401-beyond-cellular-boundaries-how-globalstar-keeps-critical-assets-connected/"
+    },
+    {
+      "title": "Escaping the red ocean of enterprise IoT connectivity",
+      "source": "IoT Now",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Phil Todd examines the enterprise IoT commodity trap and a portfolio strategy combining connectivity scale with higher-value, industry-specific services. The post Escaping the red ocean of enterprise IoT connectivity appeared first on IoT Now News - How to...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Escaping the red ocean of enterprise IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/19/159220-escaping-the-red-ocean-of-enterprise-iot-connectivity/"
     },
     {
       "title": "Flipper One – A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding)",
@@ -347,35 +477,6 @@
       "url": "https://iot-now.com/2026/11/17/159431-solution-brief-over-the-air-assurance-from-campaign-uncertainty-to-guaranteed-outcomes/"
     },
     {
-      "title": "AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN",
-      "source": "CNX Software",
-      "date": "2026-11-16",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "AAEON BOXER-8741AI is an industrial edge AI box PC built around the NVIDIA Jetson Thor T5000 module, delivering up to 2070 FP4 TFLOPS (sparse) of AI performance and featuring 128GB LPDDR5X memory. Designed for humanoid robotics, autonomous mobile robots...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/16/aaeon-boxer-8741ai-industrial-edge-ai-box-pc-nvidia-jetson-thor-t5000-with-dual-10gbe-and-four-5gbe-lan/"
-    },
-    {
       "title": "GEEKOM A5 2027 Edition review – Part 2: A mid-range AMD Ryzen 7 7730U mini PC tested with Windows 11 Pro",
       "source": "CNX Software",
       "date": "2026-11-16",
@@ -449,35 +550,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Analyst Report: Automotive OEMs need operational visibility to turn connected vehicle data into action\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/16/159378-analyst-report-automotive-oems-need-operational-visibility-to-turn-connected-vehicle-data-into-action/"
-    },
-    {
-      "title": "Up to 35% discount on KAMRUI AMD Ryzen and Intel Core mini PCs (Sponsored)",
-      "source": "CNX Software",
-      "date": "2026-11-16",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "KAMRUI is offering up to a 35% discount on three of its AMD Ryzen 5/7 and Intel Core mini PCs. Let’s check all three. KAMRUI E3B mini PC – AMD Ryzen 5 PRO 7640HS, 24GB LPDDR5, 512 GB SSD This model features a 6-core/12-thread AMD Ryzen 5 PRO 7640HS Zen 4...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Up to 35% discount on KAMRUI AMD Ryzen and Intel Core mini PCs (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/16/up-to-35-discount-on-kamrui-amd-ryzen-and-intel-core-mini-pcs/"
     },
     {
       "title": "Thales and BR Captura share a joint perspective on SGP.32 IoT connectivity",
@@ -554,81 +626,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Is your network quietly undermining your AI?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/12/159347-is-your-network-quietly-undermining-your-ai/"
-    },
-    {
-      "title": "IoT Now Contract Win List – October 2026",
-      "source": "IoT Now",
-      "date": "2026-11-12",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The IoT Now Contract Win List for October 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – October 2026 appeared first on...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "IoT Now Contract Win List – October 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/12/159337-iot-now-contract-win-list-october-2026/"
-    },
-    {
-      "title": "One festival, nine stages: How we built the 2026 programme",
-      "source": "IoT Now",
-      "date": "2026-11-12",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Africa Tech Festival 2026 brings nine stages, six pillars and over 400 speakers to Cape Town from 17th to 19th November as one connected programme. The post One festival, nine stages: How we built the 2026 programme appeared first on IoT Now News - How to run...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "One festival, nine stages: How we built the 2026 programme\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/12/159330-africa-tech-festival-2026-one-festival-nine-stages-programme/"
-    },
-    {
-      "title": "ABB and Samsung simplify commercial building projects with one integrated IoT solution",
-      "source": "IoT Now",
-      "date": "2026-11-12",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "ABB and Samsung combine building automation, HVAC, displays and energy management in one IoT package for commercial buildings, via trained integrators. The post ABB and Samsung simplify commercial building projects with one integrated IoT solution appeared...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "ABB and Samsung simplify commercial building projects with one integrated IoT solution\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/12/159322-abb-samsung-integrated-iot-solution-commercial-buildings/"
     }
   ]
 }
