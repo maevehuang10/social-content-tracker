@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:24:05.797Z",
+  "generatedAt": "2026-11-19T08:41:43.351Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,15 @@
   ],
   "topics": [
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
+      "title": "SwitchBot Hub 4 Smart Home controller supports Matter 1.3, Hello Kata voice control, over 101,000 infrared devices",
+      "source": "CNX Software",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 93,
       "formats": [
-        "Short Video",
         "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
         "Carousel"
       ],
       "platforms": [
@@ -24,25 +26,24 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-11-19"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "SwitchBot Hub 4 is a Smart Home control hub with a color display, physical controls (buttons and knob), Hello Kata voice control, WiFi and Bluetooth connectivity, and Matter Bridge 1.3 support. It supports over 101,000 infrared appliances, including air...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "SwitchBot Hub 4 Smart Home controller supports Matter 1.3, Hello Kata voice control, over 101,000 infrared devices\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/19/switchbot-hub-4-smart-home-controller-supports-matter-1-3-hello-kata-voice-control-over-101000-infrared-devices/"
     },
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "EINSTAR EZ GO: Your First AI-Powered Mobile 3D Scanner (Sponsored)",
+      "source": "CNX Software",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 85,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
         "Sales Material"
       ],
       "platforms": [
@@ -50,69 +51,15 @@
         "Facebook"
       ],
       "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-11-19"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Start Here. Start Easy. For more than 20 years, SHINING 3D has been advancing high-precision 3D digitization, building deep technical expertise and a solid foundation in precision metrology. Through EINSTAR, this professional 3D technology has now entered a...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "EINSTAR EZ GO: Your First AI-Powered Mobile 3D Scanner (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/19/einstar-ez-go-your-first-ai-powered-mobile-3d-scanner/"
     },
     {
       "title": "Flipper One – A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding)",
@@ -400,35 +347,6 @@
       "url": "https://iot-now.com/2026/11/17/159431-solution-brief-over-the-air-assurance-from-campaign-uncertainty-to-guaranteed-outcomes/"
     },
     {
-      "title": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more",
-      "source": "CNX Software",
-      "date": "2026-11-16",
-      "product": "BLE Module",
-      "score": 98,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Nabu Casa has launched the Home Assistant Connect AUX-2, an ESP32-S3-based smart home controller that combines audio streaming, RS-232 serial control, Bluetooth LE proxy, and USB expansion for Z-Wave connectivity. It is designed for older audio systems, TVs,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/16/69-home-assistant-connect-aux-2-offers-poe-audio-streaming-rs-232-control-bluetooth-proxy/"
-    },
-    {
       "title": "AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN",
       "source": "CNX Software",
       "date": "2026-11-16",
@@ -587,31 +505,6 @@
       "url": "https://iot-now.com/2026/11/16/159389-thales-br-captura-joint-perspective-sgp32-iot-connectivity/"
     },
     {
-      "title": "Radxa Linkr review – A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support",
-      "source": "CNX Software",
-      "date": "2026-11-15",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "We had a first look at the Radxa Linkr IP KVM in the first part of the review, checking out the specifications, the hardware design, and overall features at the end of August. That was at the end of August, and I didn’t have time to test it before I went on a...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Radxa Linkr review – A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/15/radxa-linkr-review-a-compact-ip-kvm-with-https-2fa-authentication-and-tailscale-support/"
-    },
-    {
       "title": "IoT Now’s November ‘On Trend’ asks: Can retail handle the detail?",
       "source": "IoT Now",
       "date": "2026-11-12",
@@ -636,6 +529,106 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT Now’s November ‘On Trend’ asks: Can retail handle the detail?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/12/159352-iot-nows-november-on-trend-asks-can-retail-can-handle-the-detail/"
+    },
+    {
+      "title": "Is your network quietly undermining your AI?",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Here’s an uncomfortable question: when your AI makes a poor call, how sure are you that the model is to blame? OPEN PDF IN BROWSER As AI moves from retrospective … Continued The post Is your network quietly undermining your AI? appeared first on IoT Now News...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Is your network quietly undermining your AI?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159347-is-your-network-quietly-undermining-your-ai/"
+    },
+    {
+      "title": "IoT Now Contract Win List – October 2026",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The IoT Now Contract Win List for October 2026 shows the Internet of Things contracts placed worldwide and reported in the last months. Get the inside track on who’s winning what … Continued The post IoT Now Contract Win List – October 2026 appeared first on...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now Contract Win List – October 2026\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159337-iot-now-contract-win-list-october-2026/"
+    },
+    {
+      "title": "One festival, nine stages: How we built the 2026 programme",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Africa Tech Festival 2026 brings nine stages, six pillars and over 400 speakers to Cape Town from 17th to 19th November as one connected programme. The post One festival, nine stages: How we built the 2026 programme appeared first on IoT Now News - How to run...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "One festival, nine stages: How we built the 2026 programme\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159330-africa-tech-festival-2026-one-festival-nine-stages-programme/"
+    },
+    {
+      "title": "ABB and Samsung simplify commercial building projects with one integrated IoT solution",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "ABB and Samsung combine building automation, HVAC, displays and energy management in one IoT package for commercial buildings, via trained integrators. The post ABB and Samsung simplify commercial building projects with one integrated IoT solution appeared...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "ABB and Samsung simplify commercial building projects with one integrated IoT solution\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159322-abb-samsung-integrated-iot-solution-commercial-buildings/"
     }
   ]
 }
