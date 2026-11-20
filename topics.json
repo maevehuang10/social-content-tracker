@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:28:03.172Z",
+  "generatedAt": "2026-11-20T15:20:29.312Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -36,6 +36,35 @@
       "url": "https://www.cnx-software.com/2026/11/20/black-friday-and-cyber-monday-2026-international-deals-and-coupons/"
     },
     {
+      "title": "GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port",
+      "source": "CNX Software",
+      "date": "2026-11-20",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "After the Waveshare ESP32-S31-Touch-LCD-4.3C and VIEWE PLCM-UES31S043H800V480C-U, the GUITION JC1060F570C is another ESP32-S31 development kit with an integrated 7-inch touchscreen display. Some companies might reconsider the way they name their product…...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/20/guition-esp32-s31-development-kit-features-7-inch-capacitive-touch-display-ethernet-port/"
+    },
+    {
       "title": "M5Stack Chain Captain – An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx",
       "source": "CNX Software",
       "date": "2026-11-20",
@@ -59,10 +88,35 @@
         "Positioning"
       ],
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "M5Stack Chain Captain is an ESP32-S3-based multifunctional programmable controller that features a 1.4-inch color square display, a speaker and microphone for audio interaction, motion sensing, and infrared transmission and reception. The IoT controller...",
+      "summary": "M5Stack Chain Captain is an ESP32-S3-based multifunctional programmable controller that features a 1.54-inch color square display, a speaker and microphone for audio interaction, motion sensing, and infrared transmission and reception. The IoT controller...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "M5Stack Chain Captain – An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/20/m5stack-chain-captain-an-esp32-s3-multifunctional-controller-with-1-54-inch-color-display-audio-motion-sensing-ir-tx-rx/"
+    },
+    {
+      "title": "Why North American cellular IoT is ready to scale",
+      "source": "IoT Now",
+      "date": "2026-11-20",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "George Malim explains how eSIM and SGP.32 let operators change connectivity remotely as North American IoT fleets grow. The post Why North American cellular IoT is ready to scale appeared first on IoT Now News - How to run an IoT enabled business .",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Why North American cellular IoT is ready to scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/20/159445-why-north-american-cellular-iot-is-ready-to-scale/"
     },
     {
       "title": "Raspberry Pi SBCs get an open-source hardware I2C TPM 2.0 security module (Crowdfunding)",
@@ -404,31 +458,6 @@
       "url": "https://www.cnx-software.com/2026/11/17/750-mhz-gigadevice-gd32h7-cortex-m7-mcu-family-gets-up-to-9-5mb-flash-ethercat-for-industrial-applications/"
     },
     {
-      "title": "Forlinx OK8275AA-C – A Qualcomm QCS8275 industrial SBC with 12GB LPDDR5, 256GB UFS storage",
-      "source": "CNX Software",
-      "date": "2026-11-17",
-      "product": "Cellular IoT Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "NB-IoT",
-        "Cat.1",
-        "Cellular IoT"
-      ],
-      "value": "Useful for turning current industry news into content about remote monitoring, logistics, global coverage, and wide-area connected devices.",
-      "summary": "Forlinx OK8275AA-C is an industrial-grade single board computer (SBC) based on the company’s FET8275AA-C SoM, powered by a Qualcomm Dragonwing QCS8275 SoC, delivering up to 40 TOPS for Edge AI workloads, and paired with 12GB LPDDR5 memory and 256GB UFS 3.1...",
-      "hook": "Wide-area IoT starts with the right connectivity choice.",
-      "post": "Forlinx OK8275AA-C – A Qualcomm QCS8275 industrial SBC with 12GB LPDDR5, 256GB UFS storage\n\nThis is a useful signal for IoT brands and product teams watching Cellular IoT Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/17/forlinx-ok8275aa-c-a-qualcomm-qcs8275-industrial-sbc-with-12gb-lpddr5-256gb-ufs-storage/"
-    },
-    {
       "title": "Review of Seeed Studio 4.26″ Mono and 7.3″ Color e-paper Kit with OpenDisplay and Home Assistant",
       "source": "CNX Software",
       "date": "2026-11-17",
@@ -607,31 +636,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "IoT Now’s November ‘On Trend’ asks: Can retail handle the detail?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/12/159352-iot-nows-november-on-trend-asks-can-retail-can-handle-the-detail/"
-    },
-    {
-      "title": "Is your network quietly undermining your AI?",
-      "source": "IoT Now",
-      "date": "2026-11-12",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Here’s an uncomfortable question: when your AI makes a poor call, how sure are you that the model is to blame? OPEN PDF IN BROWSER As AI moves from retrospective … Continued The post Is your network quietly undermining your AI? appeared first on IoT Now News...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Is your network quietly undermining your AI?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/12/159347-is-your-network-quietly-undermining-your-ai/"
     }
   ]
 }
