@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:28:41.225Z",
+  "generatedAt": "2026-11-23T08:56:47.185Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,13 +8,65 @@
   ],
   "topics": [
     {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
+      "title": "Piccola CNC – An open-source hardware desktop milling machine with PCB auto-leveling and integrated CAM (Crowdfunding)",
+      "source": "CNX Software",
+      "date": "2026-11-23",
+      "product": "BLE Module",
+      "score": 94,
       "formats": [
-        "Short Video",
         "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "InMachines Ingrassia GmbH has launched the Piccola CNC, an open-source hardware desktop CNC milling machine designed for PCB prototyping and machining wood, plastics, and soft metals such as aluminum, brass, and copper. Built in Germany, the machine features...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Piccola CNC – An open-source hardware desktop milling machine with PCB auto-leveling and integrated CAM (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/23/piccola-cnc-open-source-desktop-milling-machine-with-pcb-auto-leveling-and-integrated-cam/"
+    },
+    {
+      "title": "AMD EPYC Embedded 9006 Series embedded processors offer up to 256 Zen 6c cores, PCIe Gen 6, and CXL 3.1",
+      "source": "CNX Software",
+      "date": "2026-11-23",
+      "product": "BLE Module",
+      "score": 84,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "AMD has introduced the EPYC Embedded 9006 Series SP7, a family of high-performance x86 SoCs built around the Zen 6 and Zen 6c architectures using a 2nm CPU process. Designed for semiconductor automated test equipment (ATE), networking appliances, firewalls,...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "AMD EPYC Embedded 9006 Series embedded processors offer up to 256 Zen 6c cores, PCIe Gen 6, and CXL 3.1\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/23/amd-epyc-embedded-9006-series-embedded-processors-offer-up-to-256-zen-6c-cores-pcie-gen-6-and-cxl-3-1/"
+    },
+    {
+      "title": "VZMORE iX9 Max Mini PC Black Friday Deal: Now Only $797 (Sponsored)",
+      "source": "CNX Software",
+      "date": "2026-11-23",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
         "Carousel"
       ],
       "platforms": [
@@ -24,95 +76,15 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-11-23"
-    },
-    {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
-      ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-11-23"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-11-23"
-    },
-    {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-11-23"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "VZMORE has a Black Friday 2026 sale for the 16-core/22-thread Intel Core Ultra 185H-powered iX9 Max mini PC, which follows a similar promotion for the AMD Ryzen AI 9 HX 470-based AX9 Max mini PC earlier this month (still ongoing). The mini PC comes with 24 GB...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "VZMORE iX9 Max Mini PC Black Friday Deal: Now Only $797 (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/23/vzmore-ix9-max-mini-pc-black-friday-deal-now-only-797-sponsored/"
     },
     {
       "title": "4-in-1 Raspberry Pi HAT combines RTL-SDR, LoRa, GPS, and RTC",
@@ -467,31 +439,6 @@
       "url": "https://iot-now.com/2026/11/19/159220-escaping-the-red-ocean-of-enterprise-iot-connectivity/"
     },
     {
-      "title": "Flipper One – A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding)",
-      "source": "CNX Software",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Flipper Devices has launched the Flipper One open-source hardware portable Arm Linux platform and networking/Edge AI multi-tool powered by a Rockchip RK3576 octa-core Arm Cortex-A72/A53 SoC. It also features a Raspberry Pi RP2350 microcontroller for low-level...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Flipper One – A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/18/flipper-one-a-rockchip-rk3576-powered-portable-arm-linux-computer-and-networking-multi-tool/"
-    },
-    {
       "title": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage",
       "source": "IoT Now",
       "date": "2026-11-18",
@@ -516,60 +463,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/18/159437-iridium-activates-iridium-ntn-direct-nb-iot-d2d-global-coverage/"
-    },
-    {
-      "title": "Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope",
-      "source": "CNX Software",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Dev Kapadia’s de:volt is a breadboard simulator that runs in your browser. You can place parts and wires on a breadboard, and the circuit runs live the whole time as you build it. The project aims to be as close as a real breadboard would be. It reports...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/18/web-based-breadboard-simulator-lets-you-build-circuits-fix-errors-and-monitor-designs-with-a-built-in-oscilloscope/"
-    },
-    {
-      "title": "Bluetooth 7.0 specification ratified with HDT (High Data Throughput) support",
-      "source": "CNX Software",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "The Bluetooth SIG ratified the Bluetooth 7.0 specification on November 3, 2026, with the highlight of the new Bluetooth Core specification being optional support for HDT (High Data Throughput), delivering up to 7.5 Mbps bitrate. We first covered HDT in 2025...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Bluetooth 7.0 specification ratified with HDT (High Data Throughput) support\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/18/bluetooth-7-0-specification-ratified-with-hdt-high-data-throughput-support/"
     },
     {
       "title": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi",
@@ -645,6 +538,107 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Solution Brief: Over-the-Air assurance – from campaign uncertainty to guaranteed outcomes\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/17/159431-solution-brief-over-the-air-assurance-from-campaign-uncertainty-to-guaranteed-outcomes/"
+    },
+    {
+      "title": "Why cellular IoT and eSIM are ready to scale across North America",
+      "source": "IoT Now",
+      "date": "2026-11-16",
+      "product": "BLE Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Your pilot worked. Now imagine rolling it out across multiple networks, with devices that could stay in the field for a decade. What happens when coverage or carrier agreements change? … Continued The post Why cellular IoT and eSIM are ready to scale across...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Why cellular IoT and eSIM are ready to scale across North America\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/16/159365-why-cellular-iot-and-esim-are-ready-to-scale-across-north-america/"
+    },
+    {
+      "title": "Analyst Report: Automotive OEMs need operational visibility to turn connected vehicle data into action",
+      "source": "IoT Now",
+      "date": "2026-11-16",
+      "product": "BLE Module",
+      "score": 84,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "The connected car market is transforming rapidly. The competitive value within it is moving quickly toward the insight, control and security that sits on top of connectivity. Ibraheem Kasujee, Senior … Continued The post Analyst Report: Automotive OEMs need...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Analyst Report: Automotive OEMs need operational visibility to turn connected vehicle data into action\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/16/159378-analyst-report-automotive-oems-need-operational-visibility-to-turn-connected-vehicle-data-into-action/"
+    },
+    {
+      "title": "Thales and BR Captura share a joint perspective on SGP.32 IoT connectivity",
+      "source": "IoT Now",
+      "date": "2026-11-16",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Thales and BR Captura explore how SGP.32 remote profile management and orchestration can reshape IoT connectivity across Brazil and Latin America. The post Thales and BR Captura share a joint perspective on SGP.32 IoT connectivity appeared first on IoT Now...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Thales and BR Captura share a joint perspective on SGP.32 IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/16/159389-thales-br-captura-joint-perspective-sgp32-iot-connectivity/"
+    },
+    {
+      "title": "IoT Now’s November ‘On Trend’ asks: Can retail handle the detail?",
+      "source": "IoT Now",
+      "date": "2026-11-12",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "IoT Now’s monthly mini-edition ‘On Trend’ focuses on the retail sector this month. The retail sector is generating more data than ever, the question is can that data be converted … Continued The post IoT Now’s November ‘On Trend’ asks: Can retail handle the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "IoT Now’s November ‘On Trend’ asks: Can retail handle the detail?\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/12/159352-iot-nows-november-on-trend-asks-can-retail-can-handle-the-detail/"
     }
   ]
 }
