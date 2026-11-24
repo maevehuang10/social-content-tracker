@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:51:16.250Z",
+  "generatedAt": "2026-11-24T17:34:21.204Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-11-25"
+    },
     {
       "title": "ST VL53LB is the smallest FlightSense ToF ranging sensor at just 4.0 × 1.8 × 1.0 mm",
       "source": "CNX Software",
@@ -83,6 +190,31 @@
       "url": "https://www.cnx-software.com/2026/11/24/tinywifidongle-arduino-library-turns-esp32-s3-and-raspberry-pi-pico-2-w-boards-into-usb-wifi-adapters/"
     },
     {
+      "title": "Beyond the Coverage Gap: Keeping Fleets Visible with Satellite IoT",
+      "source": "IoT Now",
+      "date": "2026-11-24",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "How Globalstar and Cooltrax are extending asset visibility beyond terrestrial networks What happens when a trailer, container or critical asset moves beyond reliable cellular coverage? For transport and logistics businesses, … Continued The post Beyond the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Beyond the Coverage Gap: Keeping Fleets Visible with Satellite IoT\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/24/159490-beyond-the-coverage-gap-keeping-fleets-visible-with-satellite-iot/"
+    },
+    {
       "title": "Arrow Electronics and SECO expand collaboration to accelerate industrial edge AI adoption",
       "source": "IoT Now",
       "date": "2026-11-24",
@@ -135,6 +267,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "RetroLine pairs a rotary or touch-tone landline phone to your smartphone (Crowdfunding)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/24/retroline-pairs-a-rotary-or-touch-tone-landline-phone-to-your-smartphone/"
+    },
+    {
+      "title": "Cellusys, Comfone, Mobileum, Orange Wholesale, Syniverse and Telna ranked #1 Champion roaming vendors by Kaleido Intelligence",
+      "source": "IoT Now",
+      "date": "2026-11-24",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Kaleido Intelligence names Cellusys, Comfone, Mobileum, Orange Wholesale, Syniverse and Telna as #1 Champion roaming vendors in its 2026-2027 Vendor Hub. The post Cellusys, Comfone, Mobileum, Orange Wholesale, Syniverse and Telna ranked #1 Champion roaming...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Cellusys, Comfone, Mobileum, Orange Wholesale, Syniverse and Telna ranked #1 Champion roaming vendors by Kaleido Intelligence\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/24/159484-kaleido-intelligence-champion-roaming-vendors-2026-2027/"
     },
     {
       "title": "Piccola CNC – An open-source hardware desktop milling machine with PCB auto-leveling and integrated CAM (Crowdfunding)",
@@ -479,157 +636,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Escaping the red ocean of enterprise IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/19/159220-escaping-the-red-ocean-of-enterprise-iot-connectivity/"
-    },
-    {
-      "title": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage",
-      "source": "IoT Now",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Iridium activates Iridium NTN Direct, a 3GPP standards-based NB-IoT and direct-to-device satellite service with coverage anywhere on the planet. The post Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/18/159437-iridium-activates-iridium-ntn-direct-nb-iot-d2d-global-coverage/"
-    },
-    {
-      "title": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi",
-      "source": "IoT Now",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MWC27 Barcelona confirms its first speakers, including the founder-CEOs of ElevenLabs and Kalshi, plus new spaces for automotive, aviation and health. The post MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/18/159417-mwc27-barcelona-first-wave-speakers-elevenlabs-kalshi/"
-    },
-    {
-      "title": "Siemens combines Industrial AI and additive manufacturing for adaptive product development and production",
-      "source": "IoT Now",
-      "date": "2026-11-17",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Siemens connects agentic AI engineering with an adaptive additive manufacturing cell, creating an end-to-end Digital Thread from design to production. The post Siemens combines Industrial AI and additive manufacturing for adaptive product development and...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Siemens combines Industrial AI and additive manufacturing for adaptive product development and production\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/17/159412-siemens-industrial-ai-additive-manufacturing-adaptive-production/"
-    },
-    {
-      "title": "Solution Brief: Over-the-Air assurance – from campaign uncertainty to guaranteed outcomes",
-      "source": "IoT Now",
-      "date": "2026-11-17",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Over-the-Air updates are the lifeblood of the modern connected vehicle. However, these critical campaigns are often executed in a blind spot. OPEN PDF IN BROWSER Once a global OTA campaign … Continued The post Solution Brief: Over-the-Air assurance – from...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Solution Brief: Over-the-Air assurance – from campaign uncertainty to guaranteed outcomes\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/17/159431-solution-brief-over-the-air-assurance-from-campaign-uncertainty-to-guaranteed-outcomes/"
-    },
-    {
-      "title": "Why cellular IoT and eSIM are ready to scale across North America",
-      "source": "IoT Now",
-      "date": "2026-11-16",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Your pilot worked. Now imagine rolling it out across multiple networks, with devices that could stay in the field for a decade. What happens when coverage or carrier agreements change? … Continued The post Why cellular IoT and eSIM are ready to scale across...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Why cellular IoT and eSIM are ready to scale across North America\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/16/159365-why-cellular-iot-and-esim-are-ready-to-scale-across-north-america/"
-    },
-    {
-      "title": "Thales and BR Captura share a joint perspective on SGP.32 IoT connectivity",
-      "source": "IoT Now",
-      "date": "2026-11-16",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Thales and BR Captura explore how SGP.32 remote profile management and orchestration can reshape IoT connectivity across Brazil and Latin America. The post Thales and BR Captura share a joint perspective on SGP.32 IoT connectivity appeared first on IoT Now...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Thales and BR Captura share a joint perspective on SGP.32 IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/16/159389-thales-br-captura-joint-perspective-sgp32-iot-connectivity/"
     }
   ]
 }
