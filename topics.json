@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:46:07.364Z",
+  "generatedAt": "2026-11-25T17:05:49.325Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,7 +8,168 @@
   ],
   "topics": [
     {
-      "title": "Compact Tendryl Edge AI camera packs Raspberry Pi CM5, Hailo-8 NPU, 12MP sensor, speaker and microphone",
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Graperain launches Allwinner A733 system-on-module and development board for Edge AI applications",
+      "source": "CNX Software",
+      "date": "2026-11-25",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Graperain has recently launched the GR_A733_CV1 system-on-module powered by the Allwinner A733 octa-core Cortex-A76/A55 Edge AI SoC with a 3 TOPS NPU, and paired with up to 16GB DDR5 and up to 256GB eMMC flash or UFS storage. The company also introduced the...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Graperain launches Allwinner A733 system-on-module and development board for Edge AI applications\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/25/graperain-allwinner-a733-system-on-module-and-development-board/"
+    },
+    {
+      "title": "Pinscope – A web-based remote access and vulnerability tracking solution for ESP32, Zephyr, Pico 2 W, and Linux SBCs",
+      "source": "CNX Software",
+      "date": "2026-11-25",
+      "product": "WiFi Module",
+      "score": 92,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "WiFi",
+        "Smart Home",
+        "Wireless Module"
+      ],
+      "value": "Useful for turning current industry news into content about smart home devices, gateways, control panels, and Wi-Fi connected IoT products.",
+      "summary": "Pinscope is a remote-access service for microcontroller-class devices like ESP32, ESP8266, Raspberry Pi Pico 2 W, and other MCUs running Zephyr, as well as Raspberry Pi/Linux single board computers. The web-based solution features live logs, metrics, and...",
+      "hook": "Wi-Fi modules are still evolving for real IoT deployment needs.",
+      "post": "Pinscope – A web-based remote access and vulnerability tracking solution for ESP32, Zephyr, Pico 2 W, and Linux SBCs\n\nThis is a useful signal for IoT brands and product teams watching WiFi Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/25/pinscope-a-web-based-remote-access-and-vulnerability-tracking-solution-for-esp32-zephyr-pico-2-w-and-linux-sbcs/"
+    },
+    {
+      "title": "Compact Edge AI camera packs Raspberry Pi CM5, Hailo-8 NPU, 12MP sensor, speaker and microphone",
       "source": "CNX Software",
       "date": "2026-11-25",
       "product": "BLE Module",
@@ -33,7 +194,7 @@
       "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
       "summary": "Hellbender Tendryl Camera is an edge AI camera that integrates a Raspberry Pi CM5 module, a Hailo-8 AI accelerator, and a 12MP Raspberry Pi Camera Module 3, as well as a speaker and microphone, into a compact fanless enclosure. The camera features a CM5...",
       "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Compact Tendryl Edge AI camera packs Raspberry Pi CM5, Hailo-8 NPU, 12MP sensor, speaker and microphone\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "post": "Compact Edge AI camera packs Raspberry Pi CM5, Hailo-8 NPU, 12MP sensor, speaker and microphone\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/25/compact-tendryl-edge-ai-camera-packs-raspberry-pi-cm5-hailo-8-npu-12mp-sensor-speaker-and-microphone/"
     },
     {
@@ -398,64 +559,6 @@
       "url": "https://www.cnx-software.com/2026/11/22/4-in-1-raspberry-pi-hat-combines-rtl-sdr-lora-gps-and-rtc/"
     },
     {
-      "title": "Timekettle LiveTalk review – Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations",
-      "source": "CNX Software",
-      "date": "2026-11-21",
-      "product": "BLE Module",
-      "score": 90,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "We’ve received a review sample for the Timekettle LiveTalk, a pair of open-ear earbuds that supports real-time AI translation and AI-powered conversation summaries. It supports 53 languages and 107 accents, including 25 language pairs available offline. I’ll...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Timekettle LiveTalk review – Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/21/timekettle-livetalk-review-open-ear-earbuds-with-real-time-ai-translation-of-videos-phone-calls-face-to-face-conversations/"
-    },
-    {
-      "title": "GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port",
-      "source": "CNX Software",
-      "date": "2026-11-20",
-      "product": "BLE Module",
-      "score": 88,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "After the Waveshare ESP32-S31-Touch-LCD-4.3C and VIEWE PLCM-UES31S043H800V480C-U, the GUITION JC1060F570C is another ESP32-S31 development kit with an integrated 7-inch touchscreen display. Some companies might reconsider the way they name their product…...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/20/guition-esp32-s31-development-kit-features-7-inch-capacitive-touch-display-ethernet-port/"
-    },
-    {
       "title": "Why North American cellular IoT is ready to scale",
       "source": "IoT Now",
       "date": "2026-11-20",
@@ -529,107 +632,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/19/159401-beyond-cellular-boundaries-how-globalstar-keeps-critical-assets-connected/"
-    },
-    {
-      "title": "Escaping the red ocean of enterprise IoT connectivity",
-      "source": "IoT Now",
-      "date": "2026-11-19",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Phil Todd examines the enterprise IoT commodity trap and a portfolio strategy combining connectivity scale with higher-value, industry-specific services. The post Escaping the red ocean of enterprise IoT connectivity appeared first on IoT Now News - How to...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Escaping the red ocean of enterprise IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/19/159220-escaping-the-red-ocean-of-enterprise-iot-connectivity/"
-    },
-    {
-      "title": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage",
-      "source": "IoT Now",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Carousel"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Iridium activates Iridium NTN Direct, a 3GPP standards-based NB-IoT and direct-to-device satellite service with coverage anywhere on the planet. The post Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/18/159437-iridium-activates-iridium-ntn-direct-nb-iot-d2d-global-coverage/"
-    },
-    {
-      "title": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi",
-      "source": "IoT Now",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MWC27 Barcelona confirms its first speakers, including the founder-CEOs of ElevenLabs and Kalshi, plus new spaces for automotive, aviation and health. The post MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/18/159417-mwc27-barcelona-first-wave-speakers-elevenlabs-kalshi/"
-    },
-    {
-      "title": "Solution Brief: Over-the-Air assurance – from campaign uncertainty to guaranteed outcomes",
-      "source": "IoT Now",
-      "date": "2026-11-17",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Over-the-Air updates are the lifeblood of the modern connected vehicle. However, these critical campaigns are often executed in a blind spot. OPEN PDF IN BROWSER Once a global OTA campaign … Continued The post Solution Brief: Over-the-Air assurance – from...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Solution Brief: Over-the-Air assurance – from campaign uncertainty to guaranteed outcomes\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/17/159431-solution-brief-over-the-air-assurance-from-campaign-uncertainty-to-guaranteed-outcomes/"
     }
   ]
 }
