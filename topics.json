@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:35:17.098Z",
+  "generatedAt": "2026-11-26T09:27:12.203Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -8,39 +8,15 @@
   ],
   "topics": [
     {
-      "title": "Matter and smart-home compatibility story",
-      "source": "Home Assistant",
-      "product": "WiFi Module",
-      "score": 94,
+      "title": "CamThink NeoEyes NE301 & NE302 Edge AI cameras get Wi-Fi HaLow connectivity for indoor and outdoor deployments (Sponsored)",
+      "source": "CNX Software",
+      "date": "2026-11-26",
+      "product": "BLE Module",
+      "score": 93,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "Matter",
-        "Smart Home",
-        "Interoperability"
-      ],
-      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
-      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
-      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
-      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
-      "url": "https://www.home-assistant.io/",
-      "date": "2026-11-26"
-    },
-    {
-      "title": "Radar sensing for privacy-friendly presence detection",
-      "source": "Industry Sensing",
-      "product": "Radar Sensor",
-      "score": 92,
-      "formats": [
+        "Sales Material",
         "Short Video",
-        "LinkedIn Post",
         "Carousel"
       ],
       "platforms": [
@@ -50,25 +26,53 @@
         "YouTube"
       ],
       "tags": [
-        "Radar",
-        "Presence Detection",
-        "Smart Sensing"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
-      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
-      "hook": "Not every sensing solution needs a camera.",
-      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
-      "url": "",
-      "date": "2026-11-26"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "CamThink has updated its NE301 and NE302 Edge AI cameras with long-range Wi-Fi HaLow connectivity for remote monitoring, industrial machine vision, smart warehousing, smart agriculture, smart facilities, embedded vision development, and OEM integration. Both...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "CamThink NeoEyes NE301 & NE302 Edge AI cameras get Wi-Fi HaLow connectivity for indoor and outdoor deployments (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/26/camthink-neoeyes-ne301-ne302-edge-ai-cameras-get-wi-fi-halow-connectivity-for-indoor-and-outdoor-deployments/"
     },
     {
-      "title": "LoRaWAN solution content worth tracking",
-      "source": "RAKwireless",
-      "product": "LoRa Module",
-      "score": 95,
+      "title": "Banana Pi BPI-M2C SBC features UNISOC UIS7885 SoC with 5G cellular connectivity, 8 TOPS NPU",
+      "source": "CNX Software",
+      "date": "2026-11-26",
+      "product": "BLE Module",
+      "score": 88,
       "formats": [
         "LinkedIn Post",
-        "Carousel",
+        "Sales Material",
+        "Short Video",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "I don’t think we’ve ever seen an SBC based on a UNISOC mobile chip, but the Banana Pi BPI-M2C offers exactly that, with a UIS7885 octa-core Arm Cortex-A76/A55 SoC featuring an 8 TOPS NPU and 5G cellular + GNSS connectivity. The SBC also comes with 4GB...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Banana Pi BPI-M2C SBC features UNISOC UIS7885 SoC with 5G cellular connectivity, 8 TOPS NPU\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/26/banana-pi-bpi-m2c-sbc-features-unisoc-uis7885-soc-with-5g-cellular-connectivity-8-tops-npu/"
+    },
+    {
+      "title": "Siemens advances its automation portfolio towards AI-powered, autonomous production",
+      "source": "IoT Now",
+      "date": "2026-11-26",
+      "product": "BLE Module",
+      "score": 85,
+      "formats": [
+        "LinkedIn Post",
         "Sales Material"
       ],
       "platforms": [
@@ -76,43 +80,15 @@
         "Facebook"
       ],
       "tags": [
-        "LoRa",
-        "LoRaWAN",
-        "Gateway"
+        "BLE",
+        "Bluetooth",
+        "Positioning"
       ],
-      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
-      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
-      "url": "https://www.linkedin.com/company/rakwireless/",
-      "date": "2026-11-26"
-    },
-    {
-      "title": "ESP32 developer ecosystem angle",
-      "source": "Espressif Systems",
-      "product": "ESP32 Module",
-      "score": 96,
-      "formats": [
-        "LinkedIn Post",
-        "Carousel",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "YouTube"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
-      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
-      "url": "https://www.linkedin.com/company/espressif-systems",
-      "date": "2026-11-26"
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "At SPS 2026, Siemens shows how Industrial AI, AI agents and Physical AI move its automation portfolio towards goal-based, autonomous production. The post Siemens advances its automation portfolio towards AI-powered, autonomous production appeared first on IoT...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Siemens advances its automation portfolio towards AI-powered, autonomous production\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/26/159532-siemens-automation-portfolio-ai-powered-autonomous-production/"
     },
     {
       "title": "Graperain launches Allwinner A733 system-on-module and development board for Edge AI applications",
@@ -477,31 +453,6 @@
       "url": "https://iot-now.com/2026/11/23/159465-ericsson-altair-first-eredcap-connection-5g-iot/"
     },
     {
-      "title": "AMD EPYC Embedded 9006 Series embedded processors offer up to 256 Zen 6c cores, PCIe Gen 6, and CXL 3.1",
-      "source": "CNX Software",
-      "date": "2026-11-23",
-      "product": "BLE Module",
-      "score": 84,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "AMD has introduced the EPYC Embedded 9006 Series SP7, a family of high-performance x86 SoCs built around the Zen 6 and Zen 6c architectures using a 2nm CPU process. Designed for semiconductor automated test equipment (ATE), networking appliances, firewalls,...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "AMD EPYC Embedded 9006 Series embedded processors offer up to 256 Zen 6c cores, PCIe Gen 6, and CXL 3.1\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/23/amd-epyc-embedded-9006-series-embedded-processors-offer-up-to-256-zen-6c-cores-pcie-gen-6-and-cxl-3-1/"
-    },
-    {
       "title": "VZMORE iX9 Max Mini PC Black Friday Deal: Now Only $797 (Sponsored)",
       "source": "CNX Software",
       "date": "2026-11-23",
@@ -529,34 +480,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "VZMORE iX9 Max Mini PC Black Friday Deal: Now Only $797 (Sponsored)\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
       "url": "https://www.cnx-software.com/2026/11/23/vzmore-ix9-max-mini-pc-black-friday-deal-now-only-797-sponsored/"
-    },
-    {
-      "title": "4-in-1 Raspberry Pi HAT combines RTL-SDR, LoRa, GPS, and RTC",
-      "source": "CNX Software",
-      "date": "2026-11-22",
-      "product": "LoRa Module",
-      "score": 94,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material",
-        "Short Video"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook",
-        "TikTok",
-        "YouTube"
-      ],
-      "tags": [
-        "LoRa",
-        "LPWAN",
-        "Smart City"
-      ],
-      "value": "Useful for turning current industry news into content about smart city, utility metering, asset tracking, and low-power wide-area IoT scenarios.",
-      "summary": "Guangzhou-based HackerGadgets has launched a 4-in-1 Raspberry Pi HAT that offers RTL-SDR and LoRa connectivity, GPS and Beidou/GLONASS GNSS, and a PCF85063A real-time clock (RTC). The SDR part is implemented through an RTL2832U+R860 combo supporting 100 kHz...",
-      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
-      "post": "4-in-1 Raspberry Pi HAT combines RTL-SDR, LoRa, GPS, and RTC\n\nThis is a useful signal for IoT brands and product teams watching LoRa Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/22/4-in-1-raspberry-pi-hat-combines-rtl-sdr-lora-gps-and-rtc/"
     },
     {
       "title": "Why North American cellular IoT is ready to scale",
@@ -632,6 +555,82 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/19/159401-beyond-cellular-boundaries-how-globalstar-keeps-critical-assets-connected/"
+    },
+    {
+      "title": "Escaping the red ocean of enterprise IoT connectivity",
+      "source": "IoT Now",
+      "date": "2026-11-19",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Phil Todd examines the enterprise IoT commodity trap and a portfolio strategy combining connectivity scale with higher-value, industry-specific services. The post Escaping the red ocean of enterprise IoT connectivity appeared first on IoT Now News - How to...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Escaping the red ocean of enterprise IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/19/159220-escaping-the-red-ocean-of-enterprise-iot-connectivity/"
+    },
+    {
+      "title": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage",
+      "source": "IoT Now",
+      "date": "2026-11-18",
+      "product": "BLE Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "Iridium activates Iridium NTN Direct, a 3GPP standards-based NB-IoT and direct-to-device satellite service with coverage anywhere on the planet. The post Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "Iridium activates Iridium NTN Direct, a standards-based NB-IoT and D2D service with global coverage\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/18/159437-iridium-activates-iridium-ntn-direct-nb-iot-d2d-global-coverage/"
+    },
+    {
+      "title": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi",
+      "source": "IoT Now",
+      "date": "2026-11-18",
+      "product": "BLE Module",
+      "score": 80,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "BLE",
+        "Bluetooth",
+        "Positioning"
+      ],
+      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
+      "summary": "MWC27 Barcelona confirms its first speakers, including the founder-CEOs of ElevenLabs and Kalshi, plus new spaces for automotive, aviation and health. The post MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi...",
+      "hook": "Bluetooth is moving beyond basic connectivity.",
+      "post": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
+      "url": "https://iot-now.com/2026/11/18/159417-mwc27-barcelona-first-wave-speakers-elevenlabs-kalshi/"
     }
   ]
 }
