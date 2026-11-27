@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:37:31.745Z",
+  "generatedAt": "2026-11-27T16:32:42.449Z",
   "sourceMode": "rss",
   "sources": [
     "CNX Software",
@@ -7,6 +7,113 @@
     "IoT Tech News"
   ],
   "topics": [
+    {
+      "title": "LoRaWAN solution content worth tracking",
+      "source": "RAKwireless",
+      "product": "LoRa Module",
+      "score": 95,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "LoRa",
+        "LoRaWAN",
+        "Gateway"
+      ],
+      "value": "Useful for explaining complete LoRaWAN solutions to B2B users, including modules, gateways, sensor nodes, and cloud workflows.",
+      "summary": "Track how LoRaWAN brands turn hardware into complete deployment stories.",
+      "hook": "Some IoT projects need years of battery life, not more bandwidth.",
+      "post": "A strong LoRaWAN post should not only mention module specs. It should show the full deployment chain: sensor node, gateway, cloud, and the business problem it solves.",
+      "url": "https://www.linkedin.com/company/rakwireless/",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "ESP32 developer ecosystem angle",
+      "source": "Espressif Systems",
+      "product": "ESP32 Module",
+      "score": 96,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Short Video"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "YouTube"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for explaining how ESP32 modules support smart devices, control panels, gateways, and rapid prototyping.",
+      "summary": "ESP32 ecosystem content is useful when it turns chip capability into developer workflows and visible demos.",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ESP32 content works best when it connects the module to a real device workflow: connectivity, control, UI, sensing, and deployment.",
+      "url": "https://www.linkedin.com/company/espressif-systems",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "Matter and smart-home compatibility story",
+      "source": "Home Assistant",
+      "product": "WiFi Module",
+      "score": 94,
+      "formats": [
+        "LinkedIn Post",
+        "Carousel",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "Matter",
+        "Smart Home",
+        "Interoperability"
+      ],
+      "value": "Useful for smart-home customers who care about compatibility, certification readiness, and faster product development.",
+      "summary": "Smart-home module content should explain compatibility and integration value, not only wireless specs.",
+      "hook": "Smart home buyers are no longer asking only for connectivity. They want compatibility.",
+      "post": "For smart-home devices, wireless modules become more valuable when they reduce integration risk and help products fit into existing ecosystems.",
+      "url": "https://www.home-assistant.io/",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "Radar sensing for privacy-friendly presence detection",
+      "source": "Industry Sensing",
+      "product": "Radar Sensor",
+      "score": 92,
+      "formats": [
+        "Short Video",
+        "LinkedIn Post",
+        "Carousel"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook",
+        "TikTok",
+        "YouTube"
+      ],
+      "tags": [
+        "Radar",
+        "Presence Detection",
+        "Smart Sensing"
+      ],
+      "value": "Useful for explaining camera-free sensing in elderly care, bathrooms, bedrooms, security, and automation scenarios.",
+      "summary": "Radar content is strongest when it starts from the user problem: reliable presence detection without a camera.",
+      "hook": "Not every sensing solution needs a camera.",
+      "post": "Radar sensing can be explained through practical spaces: bathroom, bedroom, entryway, or care facility. Start with the pain point, then explain why camera-free sensing matters.",
+      "url": "",
+      "date": "2026-11-28"
+    },
     {
       "title": "How to Close the Visibility and Security Gap in Physical AI",
       "source": "IoT Now",
@@ -31,6 +138,31 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "How to Close the Visibility and Security Gap in Physical AI\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/27/159542-how-to-close-the-visibility-and-security-gap-in-physical-ai/"
+    },
+    {
+      "title": "ShiMetaPi Pico-G1 – A compact AI Vision Linux SBC powered by GOKE GK7206 4K camera SoC",
+      "source": "CNX Software",
+      "date": "2026-11-27",
+      "product": "ESP32 Module",
+      "score": 88,
+      "formats": [
+        "LinkedIn Post",
+        "Sales Material"
+      ],
+      "platforms": [
+        "LinkedIn",
+        "Facebook"
+      ],
+      "tags": [
+        "ESP32",
+        "Embedded Development",
+        "Smart Device"
+      ],
+      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
+      "summary": "ShiMetaPi Pico-G1 is a compact development board with Ethernet and MIPI CSI connectors designed for AI Vision applications and powered by a GOKE GK7206 dual-core Cortex-A7 SoC with 128MB or 256MB on-chip DDR3L memory. The board also features a 16MB SPI flash...",
+      "hook": "A small module can shape the whole connected product experience.",
+      "post": "ShiMetaPi Pico-G1 – A compact AI Vision Linux SBC powered by GOKE GK7206 4K camera SoC\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
+      "url": "https://www.cnx-software.com/2026/11/27/shimetapi-pico-g1-a-compact-ai-vision-linux-sbc-powered-by-goke-gk7206-4k-camera-soc/"
     },
     {
       "title": "usb-rea generates a Linux driver for your Windows-only USB gadget",
@@ -324,31 +456,6 @@
       "url": "https://www.cnx-software.com/2026/11/24/st-vl53lb-is-the-smallest-flightsense-tof-ranging-sensor-at-just-4-0-x-1-8-x-1-0-mm/"
     },
     {
-      "title": "Forlinx FET-MX952x-C SoM features NXP i.MX 952 SoC with 2 TOPS NPU, three CAN FD interfaces",
-      "source": "CNX Software",
-      "date": "2026-11-24",
-      "product": "ESP32 Module",
-      "score": 93,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "ESP32",
-        "Embedded Development",
-        "Smart Device"
-      ],
-      "value": "Useful for turning current industry news into content about embedded control, smart devices, fast prototyping, and connected product development.",
-      "summary": "Forlinx Embedded FET-MX952x-C SoM and its matching OK-MX952x-C development kit are built around the NXP i.MX 952 Edge AI SoC. Designed for industrial and automotive applications, the processor features four Cortex-A55 cores, a Cortex-M7 real-time core, a...",
-      "hook": "A small module can shape the whole connected product experience.",
-      "post": "Forlinx FET-MX952x-C SoM features NXP i.MX 952 SoC with 2 TOPS NPU, three CAN FD interfaces\n\nThis is a useful signal for IoT brands and product teams watching ESP32 Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: CNX Software",
-      "url": "https://www.cnx-software.com/2026/11/24/forlinx-fet-mx952x-c-som-features-nxp-i-mx-952-soc-with-2-tops-npu-three-can-fd-interfaces/"
-    },
-    {
       "title": "TinyWifiDongle Arduino library turns ESP32-S3 and Raspberry Pi Pico 2 W boards into USB WiFi adapters",
       "source": "CNX Software",
       "date": "2026-11-24",
@@ -526,106 +633,6 @@
       "hook": "Bluetooth is moving beyond basic connectivity.",
       "post": "Why North American cellular IoT is ready to scale\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
       "url": "https://iot-now.com/2026/11/20/159445-why-north-american-cellular-iot-is-ready-to-scale/"
-    },
-    {
-      "title": "Moso Networks, SOLiD and CTS introduce managed CBRS for DAS",
-      "source": "IoT Now",
-      "date": "2026-11-19",
-      "product": "BLE Module",
-      "score": 86,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Moso Networks, SOLiD and CTS launch managed CBRS for DAS, letting enterprises run private wireless over existing in-building DAS infrastructure. The post Moso Networks, SOLiD and CTS introduce managed CBRS for DAS appeared first on IoT Now News - How to run...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Moso Networks, SOLiD and CTS introduce managed CBRS for DAS\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/19/159455-moso-networks-solid-cts-managed-cbrs-das-private-wireless/"
-    },
-    {
-      "title": "Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected",
-      "source": "IoT Now",
-      "date": "2026-11-19",
-      "product": "BLE Module",
-      "score": 85,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Every fleet has a point on the map where its assets go quiet. It might be a rural highway, a border crossing or a remote yard. OPEN PDF IN BROWSER … Continued The post Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected appeared first...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Beyond Cellular Boundaries: How Globalstar Keeps Critical Assets Connected\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/19/159401-beyond-cellular-boundaries-how-globalstar-keeps-critical-assets-connected/"
-    },
-    {
-      "title": "Escaping the red ocean of enterprise IoT connectivity",
-      "source": "IoT Now",
-      "date": "2026-11-19",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "Phil Todd examines the enterprise IoT commodity trap and a portfolio strategy combining connectivity scale with higher-value, industry-specific services. The post Escaping the red ocean of enterprise IoT connectivity appeared first on IoT Now News - How to...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "Escaping the red ocean of enterprise IoT connectivity\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/19/159220-escaping-the-red-ocean-of-enterprise-iot-connectivity/"
-    },
-    {
-      "title": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi",
-      "source": "IoT Now",
-      "date": "2026-11-18",
-      "product": "BLE Module",
-      "score": 80,
-      "formats": [
-        "LinkedIn Post",
-        "Sales Material"
-      ],
-      "platforms": [
-        "LinkedIn",
-        "Facebook"
-      ],
-      "tags": [
-        "BLE",
-        "Bluetooth",
-        "Positioning"
-      ],
-      "value": "Useful for turning current industry news into content about proximity, access control, indoor positioning, beacons, and compact connected devices.",
-      "summary": "MWC27 Barcelona confirms its first speakers, including the founder-CEOs of ElevenLabs and Kalshi, plus new spaces for automotive, aviation and health. The post MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi...",
-      "hook": "Bluetooth is moving beyond basic connectivity.",
-      "post": "MWC27 Barcelona reveals first wave of speakers, including founder-CEOs from ElevenLabs and Kalshi\n\nThis is a useful signal for IoT brands and product teams watching BLE Module opportunities.\n\nFor overseas social content, the story can focus on customer use cases, deployment value, and how module selection affects real product development.\n\nSource: IoT Now",
-      "url": "https://iot-now.com/2026/11/18/159417-mwc27-barcelona-first-wave-speakers-elevenlabs-kalshi/"
     }
   ]
 }
